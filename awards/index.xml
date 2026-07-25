@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Awards on Association for Constraint Programming</title><link>/awards/</link><description>Recent content in Awards on Association for Constraint Programming</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 25 Jul 2026 15:04:27 +0200</lastBuildDate><atom:link href="/awards/index.xml" rel="self" type="application/rss+xml"/><item><title>Paper Awards</title><link>/awards/paper-awards/</link><pubDate>Sat, 25 Jul 2026 15:04:27 +0200</pubDate><guid>/awards/paper-awards/</guid><description>&lt;h2 id="cp-2025">CP 2025&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Best Technical Paper:&lt;/strong> J. Christopher Beck, Ryo
+Kuroiwa, Jimmy H. M. Lee, Peter J. Stuckey, and Allen Z. Zhong. &lt;a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol340-cp2025/LIPIcs.CP.2025.5/LIPIcs.CP.2025.5.pdf">Transition Dominance in Domain-Independent Dynamic Programming&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Application Paper:&lt;/strong> Ignace Bleukx, Ryma Boumazouza, Tias Guns, Nadine Laage, and Guillaume Poveda. &lt;a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol340-cp2025/LIPIcs.CP.2025.6/LIPIcs.CP.2025.6.pdf">Modeling and Explaining an Industrial Workforce Allocation and Scheduling Problem&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Student Paper:&lt;/strong> Hannes Ihalainen, Jeremias Berg, Matti Järvisalo, and Bart Bogaerts. &lt;a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol340-cp2025/LIPIcs.CP.2025.15/LIPIcs.CP.2025.15.pdf">Symmetric Core Learning for Pseudo-Boolean Optimization by Implicit Hitting Sets&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="cp-2024">CP 2024&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Best Main Track Paper:&lt;/strong> Peng Lin, Mengchuan Zou and Shaowei Cai. &lt;a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol307-cp2024/LIPIcs.CP.2024.19/LIPIcs.CP.2024.19.pdf">An Efficient Local Search Solver for Mixed Integer Programming&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Application Track Paper:&lt;/strong> Duc Anh Le, Stephanie Roussel,
+Christophe Lecoutre and Anouck Chan. &lt;a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol307-cp2024/LIPIcs.CP.2024.18/LIPIcs.CP.2024.18.pdf">Learning Effect and Compound Activities in High Multiplicity RCPSP: Application to Satellite Production&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best ML Track Paper:&lt;/strong> Augustin Parjadis, Quentin Cappart, Bistra Dilkina,
+Aaron Ferber and Louis-Martin Rousseau. &lt;a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol307-cp2024/LIPIcs.CP.2024.22/LIPIcs.CP.2024.22.pdf">Learning Lagrangian Multipliers for the Travelling Salesman Problem&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="cp-2023">CP 2023&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Best Paper:&lt;/strong> Mathew J. McIlree and Ciaran McCreesh. &lt;a href="https://drops.dagstuhl.de/opus/volltexte/2023/19063/pdf/LIPIcs-CP-2023-26.pdf">Proof Logging for Smart Extensional Constraints&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Application Track Paper:&lt;/strong> Matthias Klapperstueck, Frits De Nijs, Ilankaikone Senthooran,
+Jack Lee-Kopij, Maria Garcia De La Banda and Michael Wybrow. &lt;a href="https://drops.dagstuhl.de/opus/volltexte/2023/19058/pdf/LIPIcs-CP-2023-21.pdf">Exploring Hydrogen
+Supply/Demand Networks: Modeller and Domain Expert views&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="cp-2022">CP 2022&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Best Paper:&lt;/strong> Isaac Rudich, Quentin Cappart and Louis-Martin Rousseau. &lt;a href="https://drops.dagstuhl.de/opus/volltexte/2022/16664/pdf/LIPIcs-CP-2022-35.pdf">Peel-and-Bound: Generating Stronger Relaxed Bounds with Multivalued Decision Diagrams&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Student Paper:&lt;/strong> Jimmy H. M. Lee and Allen Z. Zhong. &lt;a href="https://drops.dagstuhl.de/opus/volltexte/2022/16660/pdf/LIPIcs-CP-2022-31.pdf">Exploiting Functional Constraints in Generating Dominance Breaking Nogoods for Constraint Optimization&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="cp-2021">CP 2021&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Best Paper:&lt;/strong> Chu-Min Li, Zhenxing Xu, Jordi Coll, Felip Manya, Djamal Habet, and Kun He. &lt;a href="https://drops.dagstuhl.de/opus/volltexte/2021/15329/pdf/LIPIcs-CP-2021-38.pdf">Combining Clause Learning and Branch and Bound for MaxSAT.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="cp-2020">CP 2020&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Best Technical Track Paper:&lt;/strong> Tomáš Peitl and Stefan Szeider. &lt;a href="https://link.springer.com/chapter/10.1007/978-3-030-58475-7_30">Finding the Hardest Formulas for Resolution.&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Application Track Paper:&lt;/strong> Rodothea Myrsini Tsoupidi, Roberto Castañeda Lozano, and Benoit Baudry. &lt;a href="https://link.springer.com/chapter/10.1007/978-3-030-58475-7_46">Constraint-Based Software Diversification for Efficient Mitigation of Code-Reuse Attacks.&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best CP/ML Track Paper:&lt;/strong> Jinqiang Yu, Alexey Ignatiev, Peter Stuckey, and Pierre Le Bodic. &lt;a href="https://link.springer.com/chapter/10.1007/978-3-030-58475-7_55">Computing Optimal Decision Sets with SAT.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="cp-2019">CP 2019&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Best Paper:&lt;/strong> Alex Mattenet, Ian Davidson, Siegfried Nijssen, and Pierre Schaus. &lt;a href="https://link.springer.com/chapter/10.1007%2F978-3-030-30048-7_38">Generic Constraint-based Block Modeling using Constraint Programming.&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Student Paper:&lt;/strong> Rocsildes Canoy and Tias Guns. &lt;a href="https://doi.org/10.1007/978-3-030-30048-7_4">Vehicle Routing by Learning from Historical Solutions.&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Distinguished Student Paper:&lt;/strong> Mohd Hafiz Hasan and Pascal van Hentenryck. &lt;a href="https://link.springer.com/article/10.1007%2Fs10601-020-09310-5">The Flexible and Real-Time Commute Trip Sharing Problems.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="cp-2018">CP 2018&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Best Paper:&lt;/strong> Emmanuel Hebrard and George Katsirelos. &lt;a href="https://link.springer.com/chapter/10.1007%2F978-3-319-98334-9_12">Clause Learning and New Bounds for Graph Coloring.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="cp-2017">CP 2017&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Best Paper:&lt;/strong> Grigori German, Olivier Briant, Hadrien Cambazard, and Vincent Jost. &lt;a href="https://doi.org/10.1007/978-3-319-66158-2_8">Arc Consistency via Linear Programming.&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Distinguished Paper:&lt;/strong> Fahiem Bacchus, Antti Hyttinen, Matti Järvisalo, and Paul Saikko. &lt;a href="https://doi.org/10.1007/978-3-319-66158-2_41">Reduced Cost Fixing in MaxSAT.&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Student Paper:&lt;/strong> Adrian Goldwaser and Andreas Schutt. &lt;a href="https://doi.org/10.1007/978-3-319-66158-2_22">Optimal Torpedo Scheduling.&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Distinguished Student Paper:&lt;/strong> Guillaume Derval, Jean-Charles Regin, and Pierre Schaus. &lt;a href="https://doi.org/10.1007/s10601-017-9278-x">Improved Filtering for the Bin-Packing with Cardinality Constraint.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="cp-2016">CP 2016&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Best Paper:&lt;/strong> Krishnamurthy Dvijotham, Michael Chertkov, Pascal van Hentenryck, Marc Vuffray and Sidhant Misra. &lt;a href="https://link.springer.com/article/10.1007/s10601-016-9253-y">Graphical Models for Optimal Power Flow.&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Distinguished Paper:&lt;/strong> David Manlove, Iain McBride, and James Trimble. &lt;a href="https://link.springer.com/article/10.1007/s10601-016-9249-7">Almost-Stable Matchings in the Hospitals/Residents Problem with Couples.&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Student Paper:&lt;/strong> Clément Carbonnel. &lt;a href="https://doi.org/10.1007/978-3-319-44953-1_9">The Dichotomy for Conservative Constraint Satisfaction Is Polynomially Decidable.&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Distinguished Student Paper:&lt;/strong> Kyle E.C. Booth, Goldie Nejat, and J. Christopher Beck. &lt;a href="https://doi.org/10.1007/978-3-319-44953-1_34">A Constraint Programming Approach to Multi-Robot Task Allocation and Scheduling in Retirement Homes.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="cp-2015">CP 2015&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Best Technical Track Paper:&lt;/strong> John N. Hooker. &lt;a href="https://link.springer.com/article/10.1007/s10601-015-9201-2">Projection, Consistency, and George Boole.&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Application Track Paper:&lt;/strong> Philip Kilby and Tommaso Urli. &lt;a href="https://link.springer.com/article/10.1007/s10601-015-9203-0">Fleet Design Optimisation from Historical Data using Constraint Programming and Large Neighbourhood Search.&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Student Paper:&lt;/strong> Alexander Ivrii, Sharad Malik, Kuldeep S. Meel, and Moshe Vardi. &lt;a href="https://link.springer.com/article/10.1007/s10601-015-9204-z">On Computing
+Minimal Independent Support and Its Applications to Sampling and Counting.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="cp-2014">CP 2014&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Best Technical Track Paper:&lt;/strong> Martin Cooper, Achref El Mouelhi, Cyril Terrioux, and Bruno Zanuttini. &lt;a href="https://link.springer.com/chapter/10.1007%2F978-3-319-10428-7_5">On Broken Triangles.&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Application Track Paper:&lt;/strong> Morten Mossige, Arnaud Gotlieb, and Hein Meling. &lt;a href="https://doi.org/10.1007/978-3-319-10428-7_6">Using CP in Automatic Test Generation for ABB Robotics’ Paint Control System.&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Student Paper:&lt;/strong> Umut Oztok and Adnan Darwiche. &lt;a href="https://doi.org/10.1007/978-3-319-10428-7_7">On Compiling CNF into Decision-DNNF.&lt;/a>
+&lt;ul>
+&lt;li>&lt;strong>Runner-Up:&lt;/strong> Thi-Van-Anh Nguyen and Arnaud Lallouet. &lt;a href="https://doi.org/10.1007/978-3-319-10428-7_8">A Complete Solver for Constraint Games.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="cp-2013">CP 2013&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Best Technical Track Paper:&lt;/strong> Thierry Moisan, Jonathan Gaudreault, and Claude-Guy Quimper. &lt;a href="https://doi.org/10.1007/978-3-642-40627-0_6">Parallel Discrepancy-Based Search.&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Application Track Paper:&lt;/strong> Hadrien Cambazard, Deepak Mehta, Barry O’Sullivan, and Helmut Simonis. &lt;a href="https://doi.org/10.1007/978-3-642-40627-0_7">Bin Packing with Linear Usage Costs – An Application to Energy Management in Data Centres.&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Student Paper:&lt;/strong> Jean-Guillaume Fages and Tanguy Lapègue. &lt;a href="https://doi.org/10.1007/978-3-642-40627-0_8">Filtering AtMostNValue with Diﬀerence Constraints: Application to the Shift Minimisation Personnel Task Scheduling Problem.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="cp-2012">CP 2012&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Best Main Track Paper:&lt;/strong> Geoﬀrey Chu and Peter Stuckey. &lt;a href="https://link.springer.com/chapter/10.1007%2F978-3-642-33558-7_4">A Generic Method
+for Identifying and Exploiting Dominance Relations.&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Application Track Paper:&lt;/strong> Gilles Simonin, Christian Artigues, Emmanuel Hebrard, and Pierre Lopez. &lt;a href="https://doi.org/10.1007/978-3-642-33558-7_5">Scheduling Scientiﬁc Experiments on the Rosetta/Philae Mission.&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Honorable Mentions:&lt;/strong>
+&lt;ul>
+&lt;li>Mohamed Siala, Emmanuel Hebrard, and Marie-José Huguet. &lt;a href="https://doi.org/10.1007/978-3-642-33558-7_7">An Optimal Arc Consistency Algorithm for a Chain of Atmost Constraints with Cardinality.&lt;/a>&lt;/li>
+&lt;li>Hannes Uppman. &lt;a href="https://doi.org/10.1007/978-3-642-33558-7_6">Max-Sur-CSP on Two Elements.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="cp-2011">CP 2011&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Best Research Track Paper:&lt;/strong> Georg Gottlob. &lt;a href="https://doi.org/10.1007/978-3-642-23786-7_26">On Minimal Constraint Networks.&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Application Track Paper:&lt;/strong> Venkatesh Ramamoorthy, Marius Silaghi, Toshihiro Matsui, Katsutoshi Hirayama, and
+Makoto Yokoo. &lt;a href="https://doi.org/10.1007/978-3-642-23786-7_7">The Design of Cryptographic Substitution Boxes Using CSPs.&lt;/a>
+&lt;ul>
+&lt;li>&lt;strong>Runner-Up:&lt;/strong> Andreas Schutt, Peter J. Stuckey, and Andrew R. Verden. &lt;a href="https://doi.org/10.1007/978-3-642-23786-7_8">Optimal Carpet Cutting.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Best Student Paper:&lt;/strong> Marie Pelleau, Charlotte Truchet, and Frédéric Benhamou. &lt;a href="https://doi.org/10.1007/978-3-642-23786-7_53">Octagonal Domains for Continuous Constraints.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="cp-2010">CP 2010&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Best Research Track Paper:&lt;/strong> Ross Willard. &lt;a href="https://doi.org/10.1007/978-3-642-15396-9_4">Testing Expressibility Is Hard.&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Application Track Paper:&lt;/strong> Sigal Asaf, Haggai Eran, Yossi Richter, Daniel P. Connors, Donna L. Gresh, Julio Ortega, and Michael J. Mcinnis. &lt;a href="https://doi.org/10.1007/978-3-642-15396-9_5">Applying Constraint Programming to Identiﬁcation and Assignment of Service Professionals.&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Student Paper:&lt;/strong> Stefano Ermon, Carla Gomes, and Bart Selman. &lt;a href="https://doi.org/10.1007/978-3-642-15396-9_6">Computing the Density of States of Boolean Formulas.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="cp-2009">CP 2009&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Best Research Track Paper:&lt;/strong> Petr Vilı́m. &lt;a href="https://doi.org/10.1007/978-3-642-04244-7_62">Edge Finding Filtering Algorithm for Discrete Cumulative Resources in
+O(kn log n).&lt;/a>&lt;br>
+&lt;strong>Runners-Up:&lt;/strong>
+&lt;ul>
+&lt;li>Konstantin Korovin, Nestan Tsiskaridze, and Andrei Voronkov. &lt;a href="https://doi.org/10.1007/978-3-642-04244-7_41">Conﬂict Resolution.&lt;/a>&lt;/li>
+&lt;li>Christophe Lecoutre and Olivier Roussel. &lt;a href="https://doi.org/10.1007/978-3-642-04244-7_44">Failed Value Consistencies for Constraint Satisfaction.&lt;/a>&lt;/li>
+&lt;li>Knot Pipatsrisawat and Adnan Darwiche. &lt;a href="https://doi.org/10.1007/978-3-642-04244-7_51">On the Power of Clause-Learning SAT Solvers with Restarts.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Best Application Track Paper:&lt;/strong> Helmut Simonis. &lt;a href="https://doi.org/10.1007/978-3-642-04244-7_11">A Hybrid Constraint Model for the Routing and Wavelength Assignment Problem.&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Student Paper:&lt;/strong> Knot Pipatsrisawat and Adnan Darwiche. &lt;a href="https://doi.org/10.1007/978-3-642-04244-7_51">On the Power of Clause-Learning SAT Solvers with Restarts.&lt;/a>
+&lt;ul>
+&lt;li>&lt;strong>Runner-Up:&lt;/strong> Geoﬀrey Chu, Peter Stuckey, and Maria Garcia de la Banda. &lt;a href="https://doi.org/10.1007/978-3-642-04244-7_22">Using Relaxations in Maximum Density Still Life.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="cp-2008">CP 2008&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Best Research Track Paper:&lt;/strong> Alexandre Goldsztejn and Laurent Granvilliers. &lt;a href="https://doi.org/10.1007/978-3-540-85958-1_13">A New Framework for Sharp and Eﬃcient Resolution of NCSP with Manifolds of Solutions.&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Application Track Paper:&lt;/strong> Arnaldo Moura, Cid de Souza, André Cirè, and Tony Lopes. &lt;a href="https://doi.org/10.1007/978-3-540-85958-1_3">Planning and Scheduling the Operation of a Very Large Oil Pipeline Network.&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Student Paper:&lt;/strong> Jean-Marie Normand, Alexandre Goldsztejn, Marc Christia, and Frédéric Benhamou. &lt;a href="https://doi.org/10.1007/978-3-540-85958-1_14">A Branch and Bound Algorithm for Numerical MAX-CSP.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="cp-2007">CP 2007&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Best Paper:&lt;/strong> Alessandro Zanarini and Gilles Pesant. &lt;a href="https://doi.org/10.1007/978-3-540-74970-7_52">Solution Counting Algorithms for Constraint-Centered Search Heuristics.&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Student Paper:&lt;/strong> Olga Ohrimenko, Peter J. Stuckey, and Michael Codish. &lt;a href="https://doi.org/10.1007/978-3-540-74970-7_39">Propagation = Lazy Clause Generation.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="cp-2006">CP 2006&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Best Paper:&lt;/strong> Willem-Jan van Hoeve, Gilles Pesant, Louis-Martin Rousseau, and Ashish Sabharwal. &lt;a href="https://link.springer.com/chapter/10.1007%2F11889205_44">Revisiting the Sequence Constraint.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="cp-2005">CP 2005&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Best Papers&lt;/strong>:
+&lt;ul>
+&lt;li>David Cohen, Peter Jeavons, Christopher Jefferson, Karen E. Petrie, and Barbara M. Smith. &lt;a href="https://doi.org/10.1007/11564751_5">Symmetry Definitions for Constraint Satisfaction Problems.&lt;/a>&lt;/li>
+&lt;li>Roie Zivan and Amnon Meisels. &lt;a href="https://link.springer.com/chapter/10.1007%2F11564751_6">Dynamic Ordering for Asynchronous Backtracking on DisCSPs.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="cp-2004">CP 2004&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Distinguished Papers&lt;/strong>:
+&lt;ul>
+&lt;li>Yong Gao and Joseph Culberson. &lt;a href="https://doi.org/10.1007/978-3-540-30201-8_5">Consistency and Random Constraint Satisfaction Models with a High Constraint Tightness.&lt;/a>&lt;/li>
+&lt;li>Carla P. Gomes, Cèsar Fernández, Bart Selman, and Christian Bessiere. &lt;a href="https://doi.org/10.1007/978-3-540-30201-8_6">Statistical Regimes Across Constrainedness Regions.&lt;/a>&lt;/li>
+&lt;li>Pascal van Hentenryck, Laurent Michel, and Liyuan Liu. &lt;a href="https://doi.org/10.1007/978-3-540-30201-8_7">Constraint-Based Combinators for Local Search.&lt;/a>&lt;/li>
+&lt;li>Petr Vilím, Roman Barták, and Ondřej Čepek. &lt;a href="https://doi.org/10.1007/978-3-540-30201-8_8">Unary Resource Constraint with Optional Activities.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="cp-2003">CP 2003&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Best Paper:&lt;/strong> Pascal van Hentenryck and Laurent Michel. &lt;a href="https://doi.org/10.1007/978-3-540-45193-8_5">Control Abstractions by Local Search.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="cp-2001">CP 2001&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Best Technical Program Papers:&lt;/strong>
+&lt;ul>
+&lt;li>Andrew Eremin and Mark Wallace. &lt;a href="https://doi.org/10.1007/3-540-45578-7_1">Hybrid Benders Decomposition Algorithms in Constraint Logic Programming.&lt;/a>&lt;/li>
+&lt;li>Erlendur S. Thorsteinsson. &lt;a href="https://doi.org/10.1007/3-540-45578-7_2">Branch-and-Check: A Hybrid Framework Integrating Mixed Integer Programming and Constraint Logic Programming&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Best Innovative Applications Program Paper:&lt;/strong> Peter van Beek and Kent Wilken. &lt;a href="https://doi.org/10.1007/3-540-45578-7_52">Fast Optimal Instruction Scheduling for Single-Issue Processors with Arbitrary Latencies&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>CP 2001 was the first conference to have paper awards.&lt;/p></description></item><item><title>Doctoral Research Award</title><link>/awards/doctoral-research-award/</link><pubDate>Sat, 25 Jul 2026 15:04:21 +0200</pubDate><guid>/awards/doctoral-research-award/</guid><description>&lt;p>The ACP Doctoral Research Award is awarded every year to a promising young researcher working in the area of constraint programming and who defended their thesis between January and December of the previous two years.&lt;/p>
+&lt;p>The award, in the form of a certificate, is presented at the CP conference, where the winning researcher will be invited to give a talk about their PhD thesis. The award includes a cash prize of 500 euros, plus free registration for the conference.&lt;/p></description></item><item><title>Distinguished Service Award</title><link>/awards/distinguished-service-award/</link><pubDate>Sat, 25 Jul 2026 15:04:20 +0200</pubDate><guid>/awards/distinguished-service-award/</guid><description>&lt;p>The purpose of this award is to celebrate those CP community members who have made exceptional contributions to support the CP community. Areas of support could include, but are not limited to: association service, service as an editor, conference organisation, representation of CP in other organizations, etc., resulting in positive effects on the research field.&lt;/p>
+&lt;p>The 2026 call closed on 10 May.&lt;/p>
+&lt;p>Previous recipients of this award are:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Year&lt;/th>
+&lt;th>Recipient&lt;/th>
+&lt;th>Affiliation&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>2026&lt;/td>
+&lt;td>&lt;a href="https://scholar.google.com/citations?user=y_pAyuQAAAAJ">J. Christopher Beck&lt;/a>&lt;/td>
+&lt;td>University of Toronto, Canada&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2024&lt;/td>
+&lt;td>&lt;a href="https://scholar.google.be/citations?user=mkm8ZlQAAAAJ">Maria Garcia de la Banda&lt;/a>&lt;/td>
+&lt;td>Monash University, Australia&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2022&lt;/td>
+&lt;td>&lt;a href="https://scholar.google.com/citations?user=RHIj4boAAAAJ">Helmut Simonis&lt;/a>&lt;/td>
+&lt;td>Insight Centre for Data Analytics, Cork, Ireland&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020&lt;/td>
+&lt;td>&lt;a href="https://scholar.google.com.sg/citations?hl=en&amp;amp;user=27PyeisAAAAJ">Christian Schulte&lt;/a>&lt;/td>
+&lt;td>KTH Royal Institute of Technology, Sweden&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2018&lt;/td>
+&lt;td>&lt;a href="https://scholar.google.com/citations?user=bQBpCnEAAAAJ">Michela Milano&lt;/a>&lt;/td>
+&lt;td>University of Bologna, Italy&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2016&lt;/td>
+&lt;td>&lt;a href="https://scholar.google.com/citations?user=DCh0wtEAAAAJ">Thomas Schiex&lt;/a>&lt;/td>
+&lt;td>INRA, Toulouse, France&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2014&lt;/td>
+&lt;td>&lt;a href="https://scholar.google.com/citations?user=EtMwv6YAAAAJ">Barry O&amp;rsquo;Sullivan&lt;/a>&lt;/td>
+&lt;td>University College Cork, Ireland&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2012&lt;/td>
+&lt;td>&lt;a href="https://scholar.google.com/citations?user=a8gYKGkAAAAJ">Eugene C. Freuder&lt;/a>&lt;/td>
+&lt;td>University College Cork, Ireland&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2010&lt;/td>
+&lt;td>&lt;a href="https://scholar.google.com/citations?user=Zp41vKYAAAAJ">Francesca Rossi&lt;/a>&lt;/td>
+&lt;td>University of Padova, Italy&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Early Career Researcher Award</title><link>/awards/early-career-research-award/</link><pubDate>Sat, 25 Jul 2026 15:04:20 +0200</pubDate><guid>/awards/early-career-research-award/</guid><description>&lt;p>The ACP Early Career Researcher Award is awarded every year to a researcher who has completed their PhD at least 2 years and at most 8 years before the year of the competition, with a scientific track record showing great promise in the area of Constraint Programming.&lt;/p>
+&lt;p>The award was established in 2021 after a proposal by Prof. Eugene Freuder to the ACP. Prof. Freuder has provided seed funding for the award by the donation of the monetary portion of his 2020 IJCAI Research Excellence Award to the ACP.&lt;/p></description></item><item><title>Research Excellence Award</title><link>/awards/research-excellence-award/</link><pubDate>Sat, 25 Jul 2026 15:04:20 +0200</pubDate><guid>/awards/research-excellence-award/</guid><description>&lt;p>Ten years after the first CP conference, the CP research area was mature enough to begin to identify and honour the most influential people in the field. In 2015, the Executive Committee of the Association for Constraint Programming has decided to establish an annual &amp;ldquo;ACP award for Research Excellence in constraint programming&amp;rdquo;, whose purpose is to celebrate those CP researchers who have made exceptional and very influential research contributions to CP with their work.&lt;/p></description></item></channel></rss>
