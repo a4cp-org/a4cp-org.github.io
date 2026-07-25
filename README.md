@@ -2,11 +2,51 @@
 
 Welcome to the static GitHub-hosted repository for the **Association for Constraint Programming (ACP)** website ([a4cp.org](https://www.a4cp.org)). This website is built using **Hugo** (a fast Static Site Generator) and the **PaperMod** theme.
 
-## Why a Static Site?
-Transitioning from the previous Drupal CMS to a static site hosted on GitHub provides several key benefits:
-- **Zero Maintenance**: No database or CMS plugins to manage, ensuring long-term stability and security.
-- **Fast Performance**: Light static HTML pages serve near-instantaneously worldwide.
-- **Open Community Contributions**: Any community member or researcher can propose content updates directly through GitHub Pull Requests.
+---
+
+## Website Structure & Content Table of Contents
+
+All site content is stored as Markdown files inside the [`content/`](content) directory. Below is an overview of the content layout and structure:
+
+```
+content/
+├── _index.md                        # Home Page (Welcome hero, ACP mission, quick links)
+├── about/                           # About the ACP
+│   ├── index.md                     # Overview & Executive Committee overview
+│   ├── statutes/                    # ACP Statutes (English & French)
+│   ├── bylaws/                      # ACP Bylaws
+│   ├── committee/                   # Executive Committee members & election results
+│   ├── committee/decisions/         # Executive Committee quarterly reports & meeting minutes
+│   ├── general-assembly-archive/    # Minutes & reports from annual General Assemblies
+│   └── acp-logo/                    # ACP official logo assets & guidelines
+├── events/                          # Events & Activities
+│   ├── index.md                     # Events summary
+│   ├── cp-conference-series/        # Annual CP Conference series (posters, locations, proceedings)
+│   ├── summer-schools/              # ACP Summer Schools archive & upcoming bids
+│   ├── competitions/                # Solver & Model competitions (MiniZinc, CP Solver competitions)
+│   └── outreach/                    # Community outreach initiatives
+├── awards/                          # ACP Awards & Honors
+│   ├── index.md                     # Awards overview
+│   ├── research-excellence-award/   # Research Excellence Award recipients
+│   ├── distinguished-service-award/ # Distinguished Service Award recipients
+│   ├── early-career-research-award/ # Early Career Research Award recipients
+│   ├── doctoral-research-award/    # Doctoral Research Award recipients
+│   └── paper-awards/                # Best Paper Award recipients at CP conferences
+├── news/                            # News & Announcements
+│   ├── index.md                     # News section overview
+│   ├── career-news/                 # Open positions, PhD/Postdoc opportunities
+│   └── newsletters/                 # Historical ACP Quarterly Newsletters archive
+├── cp/                              # Constraint Programming Resources
+│   ├── success-stories/             # High-impact industrial & scientific CP application stories
+│   ├── publication-venues/          # Primary CP journals, conferences, and publishing guidelines
+│   └── application/papers/          # Selected CP application papers listing
+├── theses/                          # PhD Thesis Archive
+│   └── index.md                     # Repository of PhD dissertations in Constraint Programming
+├── sponsorships-donations/          # Sponsorships & Financial Support
+│   └── index.md                     # Guidelines for conference & summer school sponsorships
+└── contact/                         # Contact Information
+    └── index.md                     # Officers, email addresses, and secretary contact
+```
 
 ---
 
@@ -14,14 +54,20 @@ Transitioning from the previous Drupal CMS to a static site hosted on GitHub pro
 
 **Anyone can contribute content updates to the ACP website!** You don't need programming expertise—all site pages, announcements, news items, and policies are written in standard **Markdown** (`.md` files) inside the [`content/`](content) directory.
 
+### Guidelines for Editing Content
+
+- **Page Titles & Frontmatter**: Ensure every `.md` file starts with YAML frontmatter containing `title`, `date`, and `draft: false`.
+- **Relative Links Only**: Always use relative URLs (e.g. `/events/cp-conference-series/` or `/about/bylaws/`). Never hardcode absolute `https://www.a4cp.org` URLs for internal pages.
+- **Images & Attachments**: Store static images and downloadable PDF documents in [`static/`](static) and reference them with relative static paths (e.g., `/posters/2024.png` or `/sites/default/files/agm2025.pdf`).
+
 ### Step-by-Step Guide to Proposing a Change
 
 1. **Fork the Repository**: 
    Click the **Fork** button at the top right of this repository to create your copy.
 2. **Navigate to Content**:
-   Open the `content/` folder in your fork. Directories match the site sections (e.g., `about/`, `events/`, `news/`, `awards/`, `policies/`, `theses/`).
+   Open the `content/` folder in your fork. Find the relevant folder using the [Website Structure](#website-structure--content-table-of-contents) above.
 3. **Edit or Add Markdown**:
-   - To update an existing page, open its `index.md` file (for example `content/about/index.md`) and click the **pencil icon ✏️** on GitHub.
+   - To update an existing page, open its `index.md` file and click the **pencil icon ✏️** on GitHub.
    - To add news or an article, create a `.md` file with Hugo frontmatter:
      ```yaml
      ---
@@ -35,22 +81,6 @@ Transitioning from the previous Drupal CMS to a static site hosted on GitHub pro
 
 ---
 
-## Site Maintenance & Crawler Utilities
-
-This repository contains a dedicated Python crawler script ([crawler.py](crawler.py)) to sync and migrate pages and media assets from the legacy site structure into clean Hugo Markdown files:
-
-```bash
-# Set up Python virtual environment and run the crawler
-python3 -m venv venv
-./venv/bin/pip install requests beautifulsoup4 markdownify
-./venv/bin/python crawler.py
-```
-
-- **Markdown Output**: Content is structured cleanly in `content/<section>/index.md`.
-- **Static Assets & Posters**: Images, conference posters, and documents are downloaded into `static/`.
-
----
-
 ## Local Development (For Maintainers & Contributors)
 
 To run and preview the website locally on your computer:
@@ -58,8 +88,8 @@ To run and preview the website locally on your computer:
 1. Install [Hugo](https://gohugo.io/installation/) (Extended edition).
 2. Clone this repository and initialize theme submodules:
    ```bash
-   git clone https://github.com/a4cp/website.git
-   cd website
+   git clone git@github.com:a4cp-org/a4cp-org.github.io.git
+   cd a4cp-org.github.io
    git submodule update --init --recursive
    ```
 3. Start the local server:
