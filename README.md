@@ -97,3 +97,18 @@ To run and preview the website locally on your computer:
    hugo server -D
    ```
 4. Open **`http://localhost:1313`** in your web browser.
+
+---
+
+## Automated Deployment (GitHub Actions & GitHub Pages)
+
+This repository includes a GitHub Actions workflow located in [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml) that automatically builds and deploys the HTML static site on every `git push` to `master`:
+
+1. **Automatic Hugo Build**: Runs Hugo extended to generate minified HTML, CSS, and JS static files.
+2. **GitHub Pages Publishing**: Uses the official `actions/deploy-pages` action to deploy the site artifact to GitHub Pages.
+
+> **Note for Repository Administrators**:
+> To enable automatic publishing on GitHub:
+> 1. Go to **Settings** -> **Pages** in the GitHub repository.
+> 2. Under **Build and deployment** -> **Source**, select **GitHub Actions**.
+
