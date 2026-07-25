@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Constraints Journal on Association for Constraint Programming</title><link>/constraints-journal/</link><description>Recent content in Constraints Journal on Association for Constraint Programming</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 25 Jul 2026 15:04:48 +0200</lastBuildDate><atom:link href="/constraints-journal/index.xml" rel="self" type="application/rss+xml"/><item><title>Constraints - Volume 29, Issue 3-4</title><link>/constraints-journal/cj-vol29-34/</link><pubDate>Sat, 25 Jul 2026 15:04:48 +0200</pubDate><guid>/constraints-journal/cj-vol29-34/</guid><description>&lt;p>&lt;img loading="lazy" src="../sites/default/files/Screenshot%202025-02-19%20163259_0.jpg">&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Constraints Journal on Association for Constraint Programming</title><link>/constraints-journal/</link><description>Recent content in Constraints Journal on Association for Constraint Programming</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 25 Jul 2026 15:04:48 +0200</lastBuildDate><atom:link href="/constraints-journal/index.xml" rel="self" type="application/rss+xml"/><item><title>Constraints - Volume 29, Issue 3-4</title><link>/constraints-journal/cj-vol29-34/</link><pubDate>Sat, 25 Jul 2026 15:04:48 +0200</pubDate><guid>/constraints-journal/cj-vol29-34/</guid><description>&lt;p>![](/sites/default/files/Screenshot 2025-02-19 163259_0.jpg)&lt;br>
 December 2024&lt;/p>
 &lt;p>&lt;strong>&lt;a href="https://rdcu.be/d1gXD">Learning and fine-tuning a generic value-selection heuristic inside a constraint programming solver&lt;/a>&lt;/strong>&lt;br>
 Tom Marty, Léo Boisvert, Tristan François, Pierre Tessier, Louis Gautier, Louis-Martin Rousseau &amp;amp; Quentin Cappart&lt;br>
@@ -8,10 +8,7 @@ John M. Neuberger, Nándor Sieben &amp;amp; James W. Swift&lt;br>
 &lt;a href="https://youtu.be/qBDNbsg9SBU">video&lt;/a>&lt;/p>
 &lt;p>&lt;strong>&lt;a href="https://rdcu.be/ebSNj">Computing aperiodic tiling rhythmic canons via SAT models&lt;/a>&lt;/strong>&lt;br>
 Gennaro Auricchio, Luca Ferrarini, Stefano Gualandi, Greta Lanzarotto &amp;amp; Ludovico Pernazza&lt;br>
-video in progress&lt;/p>
-&lt;p>&lt;strong>&lt;a href="https://rdcu.be/d1A9I">Ner4Opt: named entity recognition for optimization modelling from natural language&lt;/a>&lt;/strong> &lt;br>
-Serdar Kadıoğlu, Parag Pravin Dakle, Karthik Uppuluri, Regina Politi, Preethi Raghavan, SaiKrishna Rallabandi &amp;amp; Ravisutha Srinivasamurthy&lt;br>
-&lt;a href="https://www.youtube.com/watch?v=mWDapm_CNxQ">video&lt;/a>&lt;/p></description></item><item><title>Constraints - Online First Articles</title><link>/constraints-journal/cj-vol-in-prog/</link><pubDate>Sat, 25 Jul 2026 15:04:47 +0200</pubDate><guid>/constraints-journal/cj-vol-in-prog/</guid><description>&lt;p>&lt;img loading="lazy" src="../sites/default/files/Screenshot%202025-02-19%20163259_0.jpg">&lt;/p>
+video in progress&lt;/p></description></item><item><title>Constraints - Online First Articles</title><link>/constraints-journal/cj-vol-in-prog/</link><pubDate>Sat, 25 Jul 2026 15:04:47 +0200</pubDate><guid>/constraints-journal/cj-vol-in-prog/</guid><description>&lt;p>![](/sites/default/files/Screenshot 2025-02-19 163259_0.jpg)&lt;/p>
 &lt;p>&lt;strong>&lt;a href="https://rdcu.be/e4eJA">Preimage attacks on round-reduced MD5, SHA-1, and SHA-256 using parameterized SAT solver&lt;/a>&lt;/strong>&lt;br>
 Oleg Zaikin&lt;br>
 &lt;a href="https://youtu.be/WZTDA0KQ8U4">video&lt;/a>&lt;/p>
@@ -20,7 +17,7 @@ Daiwen Zhang, Amy E.M. Cohn &amp;amp; Marina A. Epelman&lt;br>
 video in progress&lt;/p>
 &lt;p>&lt;strong>&lt;a href="https://link.springer.com/article/10.1007/s10601-026-09399-0">Optimizing multiple-control Toffoli quantum circuit design with constraint programming&lt;/a>&lt;/strong>&lt;br>
 Jihye Jung, Kevin Dalmeijer and Pascal Van Hentenryck&lt;br>
-video in progress&lt;/p></description></item><item><title>Constraints - Volume 30, Issue 1-4</title><link>/constraints-journal/vol30-14/</link><pubDate>Sat, 25 Jul 2026 15:04:47 +0200</pubDate><guid>/constraints-journal/vol30-14/</guid><description>&lt;p>&lt;img loading="lazy" src="../sites/default/files/Screenshot%202025-02-19%20163259_0.jpg">&lt;br>
+video in progress&lt;/p></description></item><item><title>Constraints - Volume 30, Issue 1-4</title><link>/constraints-journal/vol30-14/</link><pubDate>Sat, 25 Jul 2026 15:04:47 +0200</pubDate><guid>/constraints-journal/vol30-14/</guid><description>&lt;p>![](/sites/default/files/Screenshot 2025-02-19 163259_0.jpg)&lt;br>
 December 2025&lt;/p>
 &lt;p>&lt;strong>&lt;a href="https://rdcu.be/e345I">Solving logic-based benders decomposition master problems with constraint programming and domainindependent dynamic programming&lt;/a>&lt;/strong>&lt;br>
 Jiachen Zhang &amp;amp; Christopher Beck&lt;br>
@@ -33,7 +30,7 @@ Sebastian Velten &amp;amp; Christopher Hamkins&lt;br>
 &lt;a href="https://youtu.be/hoMq8dnvvVg">video&lt;/a>&lt;/p>
 &lt;p>&lt;strong>&lt;a href="https://link.springer.com/article/10.1007/s10601-025-09380-3?utm_source=springer_etoc&amp;amp;utm_medium=email&amp;amp;utm_campaign=CONR_10601_AWA1_GL_DTEC_054CI_TOC-140226&amp;amp;utm_content=etoc_springer_20260214">MiniZinc with objects&lt;/a>&lt;/strong> &lt;br>
 Guido Tack, Richard Comploi-Taupe, Andreas Falkner &amp;amp; Gottfried Schenner&lt;br>
-video in progress&lt;/p></description></item><item><title>Constraints Journal Thirtieth Anniversary Special Issue</title><link>/constraints-journal/con-anv/</link><pubDate>Sat, 25 Jul 2026 15:04:47 +0200</pubDate><guid>/constraints-journal/con-anv/</guid><description>&lt;p>&lt;img loading="lazy" src="../sites/default/files/Screenshot%202025-02-19%20163259_0.jpg">&lt;br>
+video in progress&lt;/p></description></item><item><title>Constraints Journal Thirtieth Anniversary Special Issue</title><link>/constraints-journal/con-anv/</link><pubDate>Sat, 25 Jul 2026 15:04:47 +0200</pubDate><guid>/constraints-journal/con-anv/</guid><description>&lt;p>![](/sites/default/files/Screenshot 2025-02-19 163259_0.jpg)&lt;br>
 This issue includes “Commentaries” on some of the most highly-cited papers published in the journal.&lt;/p>
 &lt;p>We are posting Commentaries as they become available. The issue is not yet complete.&lt;/p>
 &lt;p>&lt;strong>&lt;a href="https://rdcu.be/ftchJ">Revisited: solving hard qualitative temporal reasoning problems&lt;/a>&lt;/strong>&lt;br>
@@ -44,7 +41,7 @@ Stefano Bistarelli and Hélène Fargier and Francesca Rossi and Thomas Schiex&lt
 video in progress&lt;/p>
 &lt;p>&lt;strong>&lt;a href="https://rdcu.be/ftcmU">Utilizing simple tabular reduction wisely&lt;/a>&lt;/strong>&lt;br>
 Christophe Lecoutre&lt;br>
-video in progress&lt;/p></description></item><item><title>Constraints Journal</title><link>/constraints-journal/cj2/</link><pubDate>Sat, 25 Jul 2026 15:03:34 +0200</pubDate><guid>/constraints-journal/cj2/</guid><description>&lt;p>&lt;img loading="lazy" src="../sites/default/files/Screenshot%202025-02-19%20163259_0.jpg">&lt;/p>
+video in progress&lt;/p></description></item><item><title>Constraints Journal</title><link>/constraints-journal/cj2/</link><pubDate>Sat, 25 Jul 2026 15:03:34 +0200</pubDate><guid>/constraints-journal/cj2/</guid><description>&lt;p>![](/sites/default/files/Screenshot 2025-02-19 163259_0.jpg)&lt;/p>
 &lt;p>&lt;em>Constraints&lt;/em>, published by Springer, is the journal for our community. Through the generosity of Springer’s
 SharedIt program, we will also be providing access to the journal issues at this site,
 starting with Volume 29, Issues 3,4. In addition we will be providing here short
