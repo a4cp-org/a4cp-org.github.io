@@ -42,6 +42,9 @@ content/
 │   └── application/papers/          # Selected CP application papers listing
 ├── theses/                          # PhD Thesis Archive
 │   └── index.md                     # Repository of PhD dissertations in Constraint Programming
+├── old_nodes/                       # Archived legacy Drupal nodes & articles
+│   ├── index.md                     # Legacy nodes archive index
+│   └── <node_id>/index.md           # Individual legacy Drupal articles & node pages
 ├── sponsorships-donations/          # Sponsorships & Financial Support
 │   └── index.md                     # Guidelines for conference & summer school sponsorships
 └── contact/                         # Contact Information

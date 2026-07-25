@@ -17,43 +17,43 @@ AscDesc
 Items per page
 510204060- All -
 
-[On the foundations of constraint logic programming](/index.php/node/1457):Peter J. Stuckey
+[On the foundations of constraint logic programming](/old_nodes/1457):Peter J. Stuckey
 
 Thu, 12/24/1987 - 12:00
 
-[Asynchronously solving problems with privacy requirements](/index.php/node/1299):Marius-Calin Silaghi
+[Asynchronously solving problems with privacy requirements](/old_nodes/1299):Marius-Calin Silaghi
 
 Sun, 01/06/2002 - 12:00
 
-[Asynchronously solving problems with privacy requirements](/index.php/node/984):Marius-Calin Silaghi
+[Asynchronously solving problems with privacy requirements](/old_nodes/984):Marius-Calin Silaghi
 
 Fri, 08/02/2002 - 12:00
 
-[Reliable Constraint Reasoning with Uncertain Data](/index.php/node/991):Neil Yorke-Smith
+[Reliable Constraint Reasoning with Uncertain Data](/old_nodes/991):Neil Yorke-Smith
 
 Tue, 06/01/2004 - 12:00
 
-[Efficient Propagators for Global Constraints](/index.php/node/972):Claude-Guy Quimper
+[Efficient Propagators for Global Constraints](/old_nodes/972):Claude-Guy Quimper
 
 Sat, 10/21/2006 - 12:00
 
-[Robust Solutions for Constraint Satisfaction and Optimisation under Uncertainty](/index.php/node/1038):Emmanuel Hebrard
+[Robust Solutions for Constraint Satisfaction and Optimisation under Uncertainty](/old_nodes/1038):Emmanuel Hebrard
 
 Fri, 04/20/2007 - 12:00
 
-[Representations in Constraint Programming](/index.php/node/985):Christopher Jefferson
+[Representations in Constraint Programming](/old_nodes/985):Christopher Jefferson
 
 Sat, 06/30/2007 - 12:00
 
-[Set Constraints for Local Search](/index.php/node/975):Magnus Ågren (now Magnus Rattfeldt)
+[Set Constraints for Local Search](/old_nodes/975):Magnus Ågren (now Magnus Rattfeldt)
 
 Fri, 01/18/2008 - 12:00
 
-[Constraint Programming for Optimization Under Uncertainty in Stochastic Inventory Control](/index.php/node/1183):Roberto Rossi
+[Constraint Programming for Optimization Under Uncertainty in Stochastic Inventory Control](/old_nodes/1183):Roberto Rossi
 
 Thu, 12/11/2008 - 12:00
 
-[Constraint Propagation – Models, Techniques, Implementation](/index.php/node/968):Guido Tack
+[Constraint Propagation – Models, Techniques, Implementation](/old_nodes/968):Guido Tack
 
 Thu, 01/29/2009 - 12:00
 

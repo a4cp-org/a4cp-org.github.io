@@ -1010,5 +1010,5 @@ well known for its successful participation in many robotic competitions
 Additional information:
 
 * <http://www.ua.pt/Default.aspx?lg=en>
-* <http://wiki.ieeta.pt/wiki/index.php/Transverse_Activity_on_Intelligent_Robotics>
+* <http://wiki.ieeta.pt/wiki/Transverse_Activity_on_Intelligent_Robotics>
 * [http://en.wikipedia.org/wiki/Aveiro,\_Portugal]( http://en.wikipedia.org/wiki/Aveiro,_Portugal)

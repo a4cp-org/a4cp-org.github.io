@@ -543,7 +543,7 @@ For more information, contact us!
 
 Please see
 
-* [http://carlit.toulouse.inra.fr/wikiz/index.php/Cat%C3%A9gorie:PositionsE...](http://carlit.toulouse.inra.fr/wikiz/index.php/Cat%C3%A9gorie:PositionsEnglish "http://carlit.toulouse.inra.fr/wikiz/index.php/Cat%C3%A9gorie:PositionsEnglish")
+* [http://carlit.toulouse.inra.fr/wikiz/Cat%C3%A9gorie:PositionsE...](http://carlit.toulouse.inra.fr/wikiz/Cat%C3%A9gorie:PositionsEnglish "http://carlit.toulouse.inra.fr/wikiz/Cat%C3%A9gorie:PositionsEnglish")
 * [http://www.inra.fr/drh/cr2011/profil-cr2.php?NumProfil=CR2-2011-9-MIA-2&...](http://www.inra.fr/drh/cr2011/profil-cr2.php?NumProfil=CR2-2011-9-MIA-2&langue=EN "http://www.inra.fr/drh/cr2011/profil-cr2.php?NumProfil=CR2-2011-9-MIA-2&langue=EN")
 
 #### [Open position] Ass't Prof / Research Assoc [scope includes CP]

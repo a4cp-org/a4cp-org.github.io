@@ -78,7 +78,7 @@ I noticed that the audience this year was very young, this is also a good sign f
 
 ## Papers with impact, by Mark Wallace
 
-In our newest addition to this series of articles, [Mark Wallace reflects on his first visit to Australia](/node/1043).
+In our newest addition to this series of articles, [Mark Wallace reflects on his first visit to Australia](/old_nodes/1043).
 
 If you've missed an earlier article from this series, you can now find all of them at </papers-with-impact>.
 
@@ -107,4 +107,4 @@ to, please express your interest by sending email to [n.narodytska@gmail.com](ma
 
 ## CSPLib sprint at CP 2015
 
-On the Saturday after the CP 2015 conference (<http://booleconferences.ucc.ie/cp2015>), there will be a Sprint event to make improvements to the CSPlib problem library (<http://csplib.org>). This event is an informal gathering of interested researchers and practitioners. The aim is to add new, interesting problems, add new solutions to existing problem instances, and work on improving references and links in the library. This is the perfect way to end the trip to Cork for the CP conference and serve as an excellent starting point to contributing to a valuable resource for the CP community. [More information can be found here.](/node/1049)
+On the Saturday after the CP 2015 conference (<http://booleconferences.ucc.ie/cp2015>), there will be a Sprint event to make improvements to the CSPlib problem library (<http://csplib.org>). This event is an informal gathering of interested researchers and practitioners. The aim is to add new, interesting problems, add new solutions to existing problem instances, and work on improving references and links in the library. This is the perfect way to end the trip to Cork for the CP conference and serve as an excellent starting point to contributing to a valuable resource for the CP community. [More information can be found here.](/old_nodes/1049)

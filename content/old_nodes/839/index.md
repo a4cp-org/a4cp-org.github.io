@@ -714,9 +714,9 @@ Details [here](materials/amai.txt)
 
 ## [MICAI-2009](http://www.cimat.mx/Eventos/micai09/), 8th Mexican International Conference on Artificial Intelligence, November 9 to 13, Guanajuato, Gto., México. Submission deadline: May 16th (abstract), May 23th (full paper)
 
-## [ASAI 2009](http://www.38jaiio.org.ar/index.php/asai09), X Argentine Symposium on Artificial Intelligence. 24th - 25th August 2009 - Mar del Plata, Argentina. Deadline for submissions of papers: April 27, 2009.
+## [ASAI 2009](http://www.38jaiio.org.ar/asai09), X Argentine Symposium on Artificial Intelligence. 24th - 25th August 2009 - Mar del Plata, Argentina. Deadline for submissions of papers: April 27, 2009.
 
-## [SIO 2009](http://www.38jaiio.org.ar/index.php/sio2009), SIMPOSIO ARGENTINO DE INVESTIGACION OPERATIVA 2009. Deadline for submissions of papers: April 27, 2009. 24th - 28th August 2009 - Mar del Plata, Argentina.
+## [SIO 2009](http://www.38jaiio.org.ar/sio2009), SIMPOSIO ARGENTINO DE INVESTIGACION OPERATIVA 2009. Deadline for submissions of papers: April 27, 2009. 24th - 28th August 2009 - Mar del Plata, Argentina.
 
 ## 
 

@@ -394,7 +394,7 @@ Louvain, Belgium) and Christine Solnon (Université Lyon 1, France).
 The call for proposals to organize the 2012 International Conference  
 on Automated Planning & Scheduling (ICAPS) is out at:  
   
-<http://icaps-conference.org/index.php/Main/CFP-ICAPS12>  
+<http://icaps-conference.org/Main/CFP-ICAPS12>  
   
 Please contact Sylvie Thiebaux ([sylvie.thiebaux@anu.edu.au](mailto:sylvie.thiebaux@anu.edu.au)) right away if  
 you are considering hosting ICAPS.  

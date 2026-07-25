@@ -54,14 +54,14 @@ Co-location with related summer schools, such as those organised by SAT or ICAPS
 
 ## News
 
-[2026 Quarterly Report 2](/-101)
+[2026 Quarterly Report 2](/old_nodes/101)
 
-[2026 Election](/-100)
+[2026 Election](/old_nodes/100)
 
-[2026 Quarterly Report 1](/-99)
+[2026 Quarterly Report 1](/old_nodes/99)
 
-[2025 Quarterly Report 4](/-98)
+[2025 Quarterly Report 4](/old_nodes/98)
 
-[2025 Quarterly Report 3](/-97)
+[2025 Quarterly Report 3](/old_nodes/97)
 
 [SubscribeSubscribe to Welcome to the ACP](/rss.xml)
