@@ -100,15 +100,32 @@ To run and preview the website locally on your computer:
 
 ---
 
-## Automated Deployment (GitHub Actions & GitHub Pages)
+## Automated Deployment (GitHub Actions & `gh-pages` Branch)
 
-This repository includes a GitHub Actions workflow located in [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml) that automatically builds and deploys the HTML static site on every `git push` to `master`:
+This repository includes an automated GitHub Actions workflow located in [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml) that builds the static site and updates the orphan **`gh-pages`** branch upon every commit to `master`:
 
-1. **Automatic Hugo Build**: Runs Hugo extended to generate minified HTML, CSS, and JS static files.
-2. **GitHub Pages Publishing**: Uses the official `actions/deploy-pages` action to deploy the site artifact to GitHub Pages.
+1. **Automatic Hugo Compilation**: On every push to `master`, GitHub Actions compiles all Markdown content and assets into static HTML/CSS inside `./public`.
+2. **Orphan `gh-pages` Branch Publishing**: The action automatically commits and pushes the compiled static HTML to the dedicated orphan **`gh-pages`** branch.
+3. **GitHub Pages Configuration**:
+   - Go to **Settings** -> **Pages** in the repository.
+   - Under **Source**, select **Deploy from a branch**.
+   - Choose Branch: **`gh-pages`** / Folder: **`/ (root)`**.
 
-> **Note for Repository Administrators**:
-> To enable automatic publishing on GitHub:
-> 1. Go to **Settings** -> **Pages** in the GitHub repository.
-> 2. Under **Build and deployment** -> **Source**, select **GitHub Actions**.
+---
+
+## Branch Protection (Prevent Direct Pushes to `gh-pages`)
+
+To prevent contributors or maintainers from accidentally pushing code directly to the compiled `gh-pages` branch, enable GitHub Branch Protection Rules:
+
+1. Navigate to **Settings** -> **Branches** in the GitHub repository.
+2. Click **Add branch protection rule** (or **Add rule**).
+3. Under **Branch name pattern**, enter: `gh-pages`.
+4. Enable the following settings:
+   - Check **Restrict who can push to matching branches** (or **Lock branch** / read-only for users).
+   - Check **Require a pull request before merging** (if applicable).
+   - Ensure GitHub Actions workflow bot permissions (`github-token` / `contents: write`) remain enabled so CI runs can publish output automatically.
+5. Click **Save changes**.
+
+With branch protection configured, human users are blocked from pushing to `gh-pages` directly, ensuring all compiled output comes exclusively from the GitHub Actions CI pipeline.
+
 
