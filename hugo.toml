@@ -63,13 +63,18 @@ theme = 'PaperMod'
     weight = 7
 
   [[menu.main]]
+    name = "Constraints Journal"
+    url = "/constraints-journal"
+    weight = 8
+
+  [[menu.main]]
     name = "Sponsorships"
     url = "/sponsorships-donations"
-    weight = 8
+    weight = 9
 
   [[menu.main]]
     name = "Contact"
     url = "/contact"
-    weight = 9
+    weight = 10
 
 
