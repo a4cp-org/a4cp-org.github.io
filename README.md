@@ -117,15 +117,16 @@ This repository includes an automated GitHub Actions workflow located in [`.gith
 
 To prevent contributors or maintainers from accidentally pushing code directly to the compiled `gh-pages` branch, enable GitHub Branch Protection Rules:
 
-1. Navigate to **Settings** -> **Branches** in the GitHub repository.
-2. Click **Add branch protection rule** (or **Add rule**).
-3. Under **Branch name pattern**, enter: `gh-pages`.
-4. Enable the following settings:
-   - Check **Restrict who can push to matching branches** (or **Lock branch** / read-only for users).
-   - Check **Require a pull request before merging** (if applicable).
-   - Ensure GitHub Actions workflow bot permissions (`github-token` / `contents: write`) remain enabled so CI runs can publish output automatically.
-5. Click **Save changes**.
+1. Go to **Settings** -> **Rules** -> **Rulesets** (or **Settings** -> **Branches**).
+2. Click **New ruleset** -> **New branch ruleset** (or **Add branch protection rule**).
+3. Set the **Ruleset name** / **Branch name pattern** to: `gh-pages`.
+4. Under **Rules**, check **Block pushes** (or **Restrict pushes**). This prevents any human user from running `git push origin gh-pages`.
+5. Under **Bypass list** (if using Rulesets), add **Repository admin** or **GitHub Actions** so that the workflow is permitted to publish updates.
+6. Click **Save changes**.
 
-With branch protection configured, human users are blocked from pushing to `gh-pages` directly, ensuring all compiled output comes exclusively from the GitHub Actions CI pipeline.
+Once this rule is active:
+- Direct human commands (`git push origin gh-pages`) will be rejected with an error.
+- The automated GitHub Actions workflow will continue to compile and update `gh-pages` automatically whenever changes are pushed to `master`.
+
 
 
