@@ -1,0 +1,748 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if lte IE 7]> <html class="ie7 oldie no-js" xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"> <![endif]-->
+<!--[if IE 8]> <html class="ie8 oldie no-js" xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"> <!--<![endif]-->
+
+<head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        <meta property="og:description" content="Le département informatique est l&#39;un des 8 départements de la Faculté des Sciences et Technologie (FST) de l&#39;Université Claude Bernard Lyon 1" />
+        <meta property="og:title" content="Département Informatique" />
+        <meta property="og:site_name" content="Département Informatique" />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="https://fst-informatique.univ-lyon1.fr/accueil" />
+        <meta property="og:image" content="https://fst-informatique.univ-lyon1.fr/uas/FSTINFO/LOGO/20260720_logo_DptInfo.svg" />
+		<meta name="twitter:card" content="Le département informatique est l&#39;un des 8 départements de la Faculté des Sciences et Technologie (FST) de l&#39;Université Claude Bernard Lyon 1"/>
+		<meta name="twitter:site" content="Département Informatique"/>
+		<meta name="twitter:url" content="https://fst-informatique.univ-lyon1.fr/accueil"/>
+		<meta name="twitter:title" content="Accueil" />
+		<meta name="twitter:description" content="Le département informatique est l&#39;un des 8 départements de la Faculté des Sciences et Technologie (FST) de l&#39;Université Claude Bernard Lyon 1" />        
+        
+        
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Département Informatique</title>
+
+
+
+    <link rel="canonical" href="https://fst-informatique.univ-lyon1.fr" />
+
+
+<link rel="shortcut icon" type="image/x-icon" href="https://fst-informatique.univ-lyon1.fr/images/DPTINFON/favicon.ico" />
+<link rel="icon" type="image/png" href="https://fst-informatique.univ-lyon1.fr/images/DPTINFON/favicon.png" />
+
+
+
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<meta name="DC.Title" content="Département Informatique" />
+<meta name="DC.Subject" lang="fr-FR" content="département informatique info master licence information image réseaux faculté science technologie université claude bernard Lyon 1 formation recherche UCBL UFR" />
+<meta name="DC.Description" lang="fr-FR" content="Le département informatique est l&#39;un des 8 départements de la Faculté des Sciences et Technologie (FST) de l&#39;Université Claude Bernard Lyon 1" />
+
+
+
+<meta name="DC.Rights" content="Copyright &copy; Département Informatique" />
+
+<meta name="description" content="Le département informatique est l&#39;un des 8 départements de la Faculté des Sciences et Technologie (FST) de l&#39;Université Claude Bernard Lyon 1" />
+<meta name="Date-Creation-yyyymmdd" content="20120716 08:50:20.0" />
+<meta name="Date-Revision-yyyymmdd" content="20260608 15:06:05.0" />
+<meta name="copyright" content="Copyright &copy; Département Informatique" />
+<meta name="category" content="Internet" />
+<meta name="robots" content="index, follow,nocache" />
+<meta name="distribution" content="global" />
+<meta name="identifier-url" content="https://fst-informatique.univ-lyon1.fr/" />
+<meta name="resource-type" content="document" />
+<meta name="expires" content="-1" />
+
+<meta name="google-site-verification" content="" />
+
+<meta content="#57585a" name="theme-color" />
+<meta content="#57585a" name="msapplication-navbuton-color" />
+<meta content="#57585a" name="apple-mobile-web-app-status-bar-style" />
+
+
+
+<!-- FONT -->
+<link rel="stylesheet" type="text/css" media="screen" href="/static/css/fontUCBLWWW.7095427494.css"/>
+<!--[if lte IE 7]><!-->
+	<link rel="stylesheet" type="text/css" media="screen" href="/static/css/cssieSeptWww.b8cacd6c95.css"/>
+	<script src="/static/js/jsieSeptWww-cb62ede69395bc883e73.js"></script>
+<!--<![endif]-->
+<!--[if lte IE 8]>
+	<link rel="stylesheet" type="text/css" media="screen" href="/static/css/cssieHuitWww.b0407f0d39.css"/>
+	<script>'header|footer|main|article|section|audio|video|source'.replace(/\w+/g,function(t){document.createElement(t)})</script>
+	<script src="/static/js/jsieHuit.js"></script>
+<![endif]-->
+<!--[if gt IE 8]><!-->
+	<link rel="stylesheet" type="text/css" media="screen" href="/static/css/cssSocleNewH.90acfc3af3.css"/>
+<!--<![endif]-->
+<script>
+	var html = document.getElementsByTagName('html')[0];
+	html.className = html.className.replace('no-js', 'js');
+	// document.getElementsByTagName("html")[0].className = document.getElementsByTagName("html")[0].className.replace("no-js", "js");	
+</script>
+<!--  KOSMOS -->
+<link rel="stylesheet" type="text/css" media="screen" href="/static/css/styles.e5342c38ab.css"/>
+<script src="/adminsite/scripts/libs/jquery-1.11.0.js"></script>
+<script src="/extensions/lieu/resources/scripts/libs/leaflet.js"></script>
+<script src="/extensions/lieu/resources/scripts/libs/leaflet-providers.js"></script><script src="/static/js/scripts_fr_FR-2ad26fdca94e982c80f3.js"></script>
+
+<!--  LIB UL1 -->
+<link rel="stylesheet" type="text/css" media="screen" href="/static/css/stylesLib.5e60aedfc6.css"/>
+<!-- BARRE DE NAVIGATION -->
+<link rel="stylesheet" type="text/css" media="screen" href="/static/css/screenstylesBNUCBL.ccdcf326a2.css"/>
+<link rel="stylesheet" type="text/css" media="screen" href="/static/css/cssCommunNewH.7c312f408f.css"/>
+
+<link rel="stylesheet" type="text/css" media="screen" href="/static/css/cssDPTINFON.26b9267078.css"/>
+
+<link rel="stylesheet" type="text/css" media="screen" href="/static/css/cssMQNewH.be2b7e37bc.css"/>
+
+
+<link rel="stylesheet" type="text/css" media="screen" href="/uas/FSTINFO/CSS/INFO23072026.css"/>
+
+<script src="/static/js/JUCBL-40d8d540c45b525533fe.js"></script>
+<link rel="stylesheet" type="text/css" media="screen" href="/static/css/jQueryCSS.edd2eb7005.css"/>
+<link rel="stylesheet" type="text/css" media="screen" href="/static/css/overlayCSSLibUCBL.1d3ece3ca0.css"/>
+
+<meta name="viewport" content="width=device-width" />
+
+
+
+
+
+<style type="text/css" media="screen">
+
+/*  remplacer par variable bandeau (de site) usine à sites */
+.visuel-rubrique  {
+    
+        background-image : url(https://fst-informatique.univ-lyon1.fr/medias/photo/20170412bandeaufstinfo_1496043092562-jpg);
+    
+}
+
+
+    @media screen and (min-width: 50em) {.ligne_1 > .colonne_1 {
+                width : 100%;
+            }.ligne_2 > .colonne_1 {
+                width : 25%;
+            }.ligne_2 > .colonne_3 {
+                width : 25%;
+            }.ligne_2 > .colonne_4 {
+                width : 25%;
+            }.ligne_3 > .colonne_1 {
+                width : 70%;
+            }.ligne_3 > .colonne_2 {
+                width : 30%;
+            }.ligne_5 > .colonne_1 {
+                width : 100%;
+            }
+    }.ie7 .ligne_1 > .colonne_1,
+        .ie8 .ligne_1 > .colonne_1 {
+            width : 100%;
+        }.ie7 .ligne_2 > .colonne_1,
+        .ie8 .ligne_2 > .colonne_1 {
+            width : 25%;
+        }.ie7 .ligne_2 > .colonne_3,
+        .ie8 .ligne_2 > .colonne_3 {
+            width : 25%;
+        }.ie7 .ligne_2 > .colonne_4,
+        .ie8 .ligne_2 > .colonne_4 {
+            width : 25%;
+        }.ie7 .ligne_3 > .colonne_1,
+        .ie8 .ligne_3 > .colonne_1 {
+            width : 70%;
+        }.ie7 .ligne_3 > .colonne_2,
+        .ie8 .ligne_3 > .colonne_2 {
+            width : 30%;
+        }.ie7 .ligne_5 > .colonne_1,
+        .ie8 .ligne_5 > .colonne_1 {
+            width : 100%;
+        }
+
+</style>
+<link rel="start" title="Accueil" href="https://fst-informatique.univ-lyon1.fr/" />
+
+ 
+ <link rel="alternate" type="application/rss+xml" title="Fil RSS des dix dernières actualités" href="https://fst-informatique.univ-lyon1.fr/adminsite/webservices/export_rss.jsp?NOMBRE=10&amp;CODE_RUBRIQUE=FSTINFO&amp;LANGUE=0" />
+<link rel="search" type="application/opensearchdescription+xml" title="Département Informatique" href="https://fst-informatique.univ-lyon1.fr/adminsite/webservices/export_opensearch.jsp?CODE_RUBRIQUE=FSTINFO&amp;LANGUE=0&amp;RF=M2R-0&amp;TITLE=D%C3%A9partement+Informatique" />
+
+
+
+	<!-- Matomo -->
+	<script>
+	  var _paq = window._paq = window._paq || [];
+	  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+	  _paq.push(['trackPageView']);
+	  _paq.push(['enableLinkTracking']);
+	  (function() {
+	    var u="https://analytics.univ-lyon1.fr/";
+	    _paq.push(['setTrackerUrl', u+'matomo.php']);
+	    _paq.push(['setSiteId', '24']);
+	    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+	    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+	  })();
+	</script>
+	<!-- End Matomo Code -->
+
+
+</head>
+
+<body id="body"  class="fiche pagelibre accueil fiche fiche_21420883 pagelibre accueil pageAccueilSite  multi_langage  bandeau Rub1  Rub2 Niv_2 FSTINFO-FR "  itemtype="http://schema.org/WebPage" itemscope><meta itemprop="http://schema.org/lastReviewed" content="2026-06-08">
+<ul id="acces_direct_accessibilite">
+  <li><a href="#contenu_sans_nav_sans_encadres" rel="nofollow" title="Accès direct au contenu" accesskey="2">Accès direct au contenu</a></li>
+  <li><a href="#encadres" rel="nofollow" title="Accès direct aux informations complémenaires du contenu" accesskey="3">Accès direct aux informations complémenaires du contenu</a></li>
+  <li><a href="#nav" rel="nofollow" title="Accès direct au menu principal" accesskey="4">Accès direct au menu principal</a></li>
+  <li><a href="#default-MOTS_CLEFS" rel="nofollow" title="Accès direct au moteur de recherche" accesskey="5">Accès direct au moteur de recherche</a></li>
+  <li><a href="#fil-ariane" rel="nofollow" title="Accès direct au fil d'ariane" accesskey="6">Accès direct au fil d'ariane</a></li>
+  <li><a href="#container-plan-site" rel="nofollow" title="Accès direct au plan du site" accesskey="7">Accès direct au plan du site</a></li>
+  <li><a href="#UFR" rel="nofollow" title="Accès direct aux autres sites web de l'Université" accesskey="8">Accès direct aux autres sites web de l'Université</a></li>
+  <li><a href="#TOOLS" rel="nofollow" title="Accès direct aux outils de l'Université" accesskey="9">Accès direct aux outils de l'Université</a></li>
+  <li><a href="#" class="contr" rel="nofollow" title="Activer le mode contrasté" accesskey="10">Activer le mode contrasté</a></li>
+  <li><a href="#" class="dys" rel="nofollow" title="Activer la police Open-Dyslexic pour faciliter la lecture des dyslexiques " accesskey="11">Activer la police Open-Dyslexic pour faciliter la lecture des dyslexiques </a></li>
+  <li><a href="#" class="reader" rel="nofollow" title="Activer le mode lecture zen pour afficher uniquement le contenu" accesskey="12">Activer le mode lecture zen pour afficher uniquement le contenu</a></li>
+</ul>
+
+<header itemscope itemtype="http://schema.org/WPHeader">
+    <meta itemprop="name" content="Département Informatique"/>
+    <meta itemprop="description" content="Le département informatique est l&#39;un des 8 départements de la Faculté des Sciences et Technologie (FST) de l&#39;Université Claude Bernard Lyon 1"/>
+    <meta itemprop="image" content="https://fst-informatique.univ-lyon1.fr/uas/FSTINFO/LOGO/20260720_logo_DptInfo.svg" />
+    <meta itemprop="name" content=":Accueil" />
+
+
+
+<div id="profils_preferences">
+	<div id="profils_preferences_deco_www">
+			<ul id="dropdown"><!-- UFR - Ecoles - Instituts --><li class="UEI_title" id="UFR"><a href="#" class="likelink white" title="Liste des Facultés - Ecoles - Instituts" >Facultés - Ecoles - Instituts <i class="fa fa-chevron-down fa-0x8"></i></a>
+
+
+
+
+
+
+
+
+
+<div class="details"><ul><li class="UEI_SECTEURS"><b>SANTÉ</b><ul class="UEI_DETAILS"><li><i class="fa fa-chevron-right"></i><a href="https://lyon-est.univ-lyon1.fr" title="Acc&egrave;s &agrave;  Faculté de Médecine Lyon Est ">Faculté de Médecine Lyon Est</a></li><li><i class="fa fa-chevron-right"></i><a href="https://lyon-sud.univ-lyon1.fr" title="Acc&egrave;s &agrave;  Faculté de Médecine et de Maïeutique Lyon Sud - Charles Mérieux ">Faculté de Médecine et de Maïeutique Lyon Sud - Charles Mérieux</a></li><li><i class="fa fa-chevron-right"></i><a href="https://odontologie.univ-lyon1.fr" title="Acc&egrave;s &agrave;  Faculté d'Odontologie ">Faculté d'Odontologie</a></li><li><i class="fa fa-chevron-right"></i><a href="https://istr.univ-lyon1.fr" title="Acc&egrave;s &agrave;  Institut des Sciences et Techniques de Réadaptation ">Institut des Sciences et Techniques de Réadaptation</a></li><li><i class="fa fa-chevron-right"></i><a href="https://ispb.univ-lyon1.fr" title="Acc&egrave;s &agrave;  Institut des Sciences Pharmaceutiques et Biologiques ">Institut des Sciences Pharmaceutiques et Biologiques</a></li></ul></li><li class="UEI_SECTEURS"><b>SCIENCES ET TECHNOLOGIES</b><ul class="UEI_DETAILS"><li><i class="fa fa-chevron-right"></i><a href="https://inspe.univ-lyon1.fr" title="Acc&egrave;s &agrave;  Institut national supérieur du professorat et de l'éducation ">Institut national supérieur du professorat et de l'éducation</a></li><li><i class="fa fa-chevron-right"></i><a href="https://iut.univ-lyon1.fr" title="Acc&egrave;s &agrave;  Institut Universitaire de Technologie Lyon 1 ">Institut Universitaire de Technologie Lyon 1</a></li><li><i class="fa fa-chevron-right"></i><a href="https://isfa.univ-lyon1.fr" title="Acc&egrave;s &agrave;  Institut de Science Financière et d'Assurances ">Institut de Science Financière et d'Assurances</a></li><li><i class="fa fa-chevron-right"></i><a href="https://observatoire.univ-lyon1.fr" title="Acc&egrave;s &agrave;  Observatoire de Lyon ">Observatoire de Lyon</a></li><li><i class="fa fa-chevron-right"></i><a href="https://polytech.univ-lyon1.fr" title="Acc&egrave;s &agrave;  Polytech Lyon ">Polytech Lyon</a></li><li><i class="fa fa-chevron-right"></i><a href="https://ufr-staps.univ-lyon1.fr" title="Acc&egrave;s &agrave;  UFR STAPS (Sciences et Techniques des Activités Physiques et Sportives) ">UFR STAPS (Sciences et Techniques des Activités Physiques et Sportives)</a></li><li><i class="fa fa-chevron-right"></i><a href="https://ufr-fs.univ-lyon1.fr" title="Acc&egrave;s &agrave;  UFR FS (Chimie, Mathématique, Physique) ">UFR FS (Chimie, Mathématique, Physique)</a></li><li><i class="fa fa-chevron-right"></i><a href="https://ufr-biosciences.univ-lyon1.fr" title="Acc&egrave;s &agrave;  UFR Biosciences (Biologie, Biochimie) ">UFR Biosciences (Biologie, Biochimie)</a></li><li><i class="fa fa-chevron-right"></i><a href="https://fst-gep.univ-lyon1.fr/" title="Acc&egrave;s &agrave;  GEP (Génie Electrique des Procédés - Département composante) ">GEP (Génie Electrique des Procédés - Département composante)</a></li><li><i class="fa fa-chevron-right"></i><a href="https://fst-informatique.univ-lyon1.fr" title="Acc&egrave;s &agrave;  Informatique (Département Composante) ">Informatique (Département Composante)</a></li><li><i class="fa fa-chevron-right"></i><a href="https://fst-meca.univ-lyon1.fr/" title="Acc&egrave;s &agrave;  Mécanique (Département Composante) ">Mécanique (Département Composante)</a></li></ul></li><li class="UEI_close"><button class="likelink" title="fermer" ><i class="fa fa-times"></i>Fermer</button></li></ul></div>
+</li><li class="AR_title" id="TOOLS"><a href="#" title="Liste des Ressources & outils" class="likelink white" >Ressources & outils<i class="fa fa-chevron-down fa-0x8"></i></a>
+
+
+
+
+
+
+
+
+
+<div class="details"><ul><li class="AR_SECTEURS"><b>RESSOURCES</b><ul class="UEI_DETAILS"><li><i class="fa fa-chevron-right"></i><a href="https://lyceens.univ-lyon1.fr" title="Acc&egrave;s &agrave; Espace Lycéens " >Espace Lycéens</a></li><li><i class="fa fa-chevron-right"></i><a href="https://etu.univ-lyon1.fr" title="Acc&egrave;s &agrave; Portail étudiant " >Portail étudiant</a></li><li><i class="fa fa-chevron-right"></i><a href="https://portaildoc.univ-lyon1.fr/" title="Acc&egrave;s &agrave; Bibliothèque " >Bibliothèque</a></li><li><i class="fa fa-chevron-right"></i><a href="https://soie.univ-lyon1.fr" title="Acc&egrave;s &agrave; Orientation et insertion " >Orientation et insertion</a></li><li><i class="fa fa-chevron-right"></i><a href="https://sciencespourtous.univ-lyon1.fr" title="Acc&egrave;s &agrave; Sciences pour Tous " >Sciences pour Tous</a></li><li><i class="fa fa-chevron-right"></i><a href="https://www.univ-lyon1.fr/podcast" title="Acc&egrave;s &agrave; Podcast Sciences en Récits " >Podcast Sciences en Récits</a></li><li><i class="fa fa-chevron-right"></i><a href="http://offre-de-formations.univ-lyon1.fr/" title="Acc&egrave;s &agrave; Offre de formations " >Offre de formations</a></li></ul></li><li class="AR_SECTEURS"><b>CONTACTS</b><ul class="UEI_DETAILS"><li><i class="fa fa-chevron-right"></i><a href="https://www.univ-lyon1.fr/annuaire" title="Acc&egrave;s &agrave; Annuaire " >Annuaire</a></li><li><i class="fa fa-chevron-right"></i><a href="https://www.univ-lyon1.fr/directions-et-services" title="Acc&egrave;s &agrave; Directions et services " >Directions et services</a></li><li><i class="fa fa-chevron-right"></i><a href="https://www.univ-lyon1.fr/entites-de-recherche" title="Acc&egrave;s &agrave; Entités de recherche " >Entités de recherche</a></li><li><i class="fa fa-chevron-right"></i><a href="https://www.univ-lyon1.fr/plan-et-acces" title="Acc&egrave;s &agrave; Plan et accès " >Plan et accès</a></li></ul></li><li class="AR_SECTEURS"><b>OUTILS</b><ul class="UEI_DETAILS"><li><i class="fa fa-chevron-right"></i><a href="https://intranet.univ-lyon1.fr" title="Acc&egrave;s &agrave; Intranet des personnels " >Intranet des personnels</a></li><li><i class="fa fa-chevron-right"></i><a href="https://moodle.univ-lyon1.fr/" title="Acc&egrave;s &agrave; Moodle " >Moodle</a></li><li><i class="fa fa-chevron-right"></i><a href="https://edt.univ-lyon1.fr" title="Acc&egrave;s &agrave; Portail - Emploi du temps " >Portail - Emploi du temps</a></li><li><i class="fa fa-chevron-right"></i><a href="https://mail.univ-lyon1.fr/" title="Acc&egrave;s &agrave; Messagerie " >Messagerie</a></li><li><i class="fa fa-chevron-right"></i><a href="https://www.univ-lyon1.fr/stage-et-emploi" title="Acc&egrave;s &agrave; Stage et emploi " >Stage et emploi</a></li></ul></li><li class="AR_close"><button class="likelink" title="fermer" ><i class="fa fa-times"></i>Fermer</button></li></ul></div>
+</li><li id="connexion">
+		<p><a id="se_connecter" href="/identification/">Se connecter</a></p>
+</li><!-- #connexion --><li id="logo_lyon1"><a href="https://www.univ-lyon1.fr/?utm_source=banniere&utm_campaign=R%C3%A9seau%20KSUP" title="Acc&egrave;s au site web de l'Universit&eacute; Lyon 1"><img src="/images/logos/LYON1_home.png" alt="Universit&eacute; Lyon 1"  /></a></li></ul>	
+	</div> <!-- #pprofils_preferences_deco_www -->
+</div> <!-- #profils_preferences -->
+
+
+<div class="container-visuel-rubrique">
+	<div class="visuel-rubrique">
+		<div id="bandeau_menu">
+			<div id="entete" role="banner">
+				
+					<a href="https://fst-informatique.univ-lyon1.fr"  class="banniere__logo" title="Retour à la page d'accueil" accesskey="1">
+				        <img src="https://fst-informatique.univ-lyon1.fr/uas/FSTINFO/LOGO/20260720_logo_DptInfo.svg" alt="logo Département Informatique" id="logo_site" title="Retour à la page d'accueil" />
+				    </a>
+			    
+			</div><!-- #entete-->
+		</div><!-- #bandeau_menu--> 		
+	</div><!-- .visuel-rubrique -->
+</div><!-- .container-visuel-rubrique-->
+
+
+
+
+   <div id="containerMenu">
+	   <div id="menu" role="navigation" aria-expanded="false">
+		  	
+
+
+
+
+
+<nav id="nav" role="navigation"><div id="cssmenu"><ul ><li class="mobile"><a href="#"><span>Menu <i class="fa fa-bars"></i></span></a></li><!---->
+				
+				
+				<li class="has-sub  Visuel1342528970171"><a href="https://fst-informatique.univ-lyon1.fr/departement" class="type_rubrique_0001" aria-expanded="false">Département</a><ul id="Visuel1342528970171" class="niv1">
+					<li class="niv1 first"><a href="https://fst-informatique.univ-lyon1.fr/departement"  class="type_rubrique_0001">Découvrir le département <i class="fa fa-caret-right"></i></a></li>
+					<li class="niv1 closeMenu"><button class="likelinkMenu"><i class="fa fa-times"></i>Fermer</button></li>	
+					<!----><li class="niv2"><a href="https://fst-informatique.univ-lyon1.fr/departement/organisation-et-contacts" class="type_rubrique_0001"><i class="fa fa-caret-right"></i> Organisation et contacts</a></li><!----><li class="niv2"><a href="https://fst-informatique.univ-lyon1.fr/departement/scolarite" class="type_rubrique_0001"><i class="fa fa-caret-right"></i> Scolarité</a></li><!----><li class="niv2"><a href="https://fst-informatique.univ-lyon1.fr/departement/acces-et-plans" class="type_rubrique_0001"><i class="fa fa-caret-right"></i> Accès et plans</a></li><!----><li class="niv2"><a href="https://fst-informatique.univ-lyon1.fr/departement/actualites" class="type_rubrique_0001"><i class="fa fa-caret-right"></i> Actualités</a></li><!---->		</ul></li><!---->
+				
+				
+				<li class="has-sub  Visuel1342528997525"><a href="https://fst-informatique.univ-lyon1.fr/formation" class="type_rubrique_0001" aria-expanded="false">Formation</a><ul id="Visuel1342528997525" class="niv1">
+					<li class="niv1 first"><a href="https://fst-informatique.univ-lyon1.fr/formation"  class="type_rubrique_0001">L'ensemble de l'offre de formation <i class="fa fa-caret-right"></i></a></li>
+					<li class="niv1 closeMenu"><button class="likelinkMenu"><i class="fa fa-times"></i>Fermer</button></li>	
+					<!----><li class="niv2"><a href="https://fst-informatique.univ-lyon1.fr/formation/licences" class="type_rubrique_0001"><i class="fa fa-caret-right"></i> Licence</a></li><!----><li class="niv2"><a href="https://fst-informatique.univ-lyon1.fr/formation/masters" class="type_rubrique_0001"><i class="fa fa-caret-right"></i> Master</a></li><!----><li class="niv2"><a href="https://fst-informatique.univ-lyon1.fr/formation/formation-continue" class="type_rubrique_0001"><i class="fa fa-caret-right"></i> Formation continue</a></li><!----><li class="niv2"><a href="https://fst-informatique.univ-lyon1.fr/formation/international" class="type_rubrique_0001"><i class="fa fa-caret-right"></i> International</a></li><!----><li class="niv2"><a href="https://fst-informatique.univ-lyon1.fr/formation/plates-formes" class="type_rubrique_0001"><i class="fa fa-caret-right"></i> Plates-formes</a></li><!----><li class="niv2"><a href="https://fst-informatique.univ-lyon1.fr/formation/cellule-concours" class="type_rubrique_0001"><i class="fa fa-caret-right"></i> Concours</a></li><!----><li class="niv2"><a href="https://fst-informatique.univ-lyon1.fr/formation/candidatures" class="type_rubrique_0001"><i class="fa fa-caret-right"></i> Candidatures</a></li><!----><li class="niv2"><a href="http://master-info.univ-lyon1.fr/CERTIFICATION/" class="type_rubrique_0004"><i class="fa fa-caret-right"></i> Certifications</a></li><!---->		</ul></li><!---->
+				
+				
+				<li class="has-sub  Visuel1347468002452"><a href="https://fst-informatique.univ-lyon1.fr/relations-entreprises" class="type_rubrique_0001" aria-expanded="false">Relations entreprises</a><ul id="Visuel1347468002452" class="niv1">
+					<li class="niv1 first"><a href="https://fst-informatique.univ-lyon1.fr/relations-entreprises"  class="type_rubrique_0001">Contacts des relations entreprises <i class="fa fa-caret-right"></i></a></li>
+					<li class="niv1 closeMenu"><button class="likelinkMenu"><i class="fa fa-times"></i>Fermer</button></li>	
+					<!----><li class="niv2"><a href="https://fst-informatique.univ-lyon1.fr/relations-entreprises/rencontres-etudiants-entreprises" class="type_rubrique_0001"><i class="fa fa-caret-right"></i> Rencontres Etudiants-Entreprises</a></li><!----><li class="niv2"><a href="https://fst-informatique.univ-lyon1.fr/relations-entreprises/taxe-dapprentissage" class="type_rubrique_0001"><i class="fa fa-caret-right"></i> Taxe apprentissage</a></li><!---->		</ul></li><!---->
+				
+				
+				<li class="not-yet  Visuel1358361281820"><a href="https://fst-informatique.univ-lyon1.fr/laboratoires" class="type_rubrique_0001" aria-expanded="false">Laboratoires</a></li><!---->
+				
+				
+				<li class="not-yet  Visuel1358361873256"><a href="https://fst-informatique.univ-lyon1.fr/intranet" class="type_rubrique_0001" aria-expanded="false">Intranet</a></li><!----></ul></div></nav><!-- #menu_principal -->
+		  	
+		  	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+<div id="menu_langues">
+	<dl id="sample_langues" class="dropdown">
+		<dt class="focus">
+			<a title="français"><img src="/images/drapeaux/fr.gif" class="picto-flag" alt="fr" /> fr<i class="fa fa-chevron-down"></i></a>
+	    </dt>
+		<dd>
+			<ul >
+<li class="versions-en"  lang="en"></li>
+			</ul>
+		</dd>
+	</dl><!-- #sample_langues -->
+</div><!-- #menu_langues -->
+
+			
+
+
+
+
+
+
+
+
+
+<div id="sb-search" role="search" class="sb-search open-popup-link">
+        <meta itemprop="url" content="https://fst-informatique.univ-lyon1.fr/"/>
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+	<span class="sb-icon-search"></span>
+	<div id="recherche-simple" class="mfp-hide simple--62">
+		<form action="/search" method="get" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" class="search-form search-form--default">
+		    <meta itemprop="target" content="/search?beanKey=&l=0&q={q}"/>
+		    <input type="hidden" name="beanKey" value="" />
+		    
+
+
+		      	 
+			  
+			    <input type="hidden" name="l" value="0"/>
+			  	 
+
+
+		    <input type="hidden" name="RH" value="FSTINFO"/>
+		    
+		    <input itemprop="query-input" class="sb-search-input" name="q" type="search" id="default-MOTS_CLEFS" value="" placeholder="Mot-clé" aria-label="Recherche par mots-clés"/>
+		    <button class="sb-search-button submit" value="Rechercher" aria-label="Lancer la recherche">Rechercher</button>
+		</form>
+	</div>
+</div><!-- #recherche-simple .plier-deplier -->
+
+			
+		    <div class="separateur"></div>
+		</div><!-- #menu -->
+	</div> <!-- #containerMenus -->	   	
+
+</header>
+
+
+
+
+<main id="page" >
+
+
+	<div id="page_deco">	
+		<div id="contenu-encadres">
+			<div id="contenu_sans_nav_sans_encadres" class="contenu" role="main">
+
+
+
+
+
+
+<div class="ligne_1"><div class="colonne_1">
+                <div class="colonne_deco"><div class="paragraphe--0"><div class="paragraphe__contenu--0 toolbox">
+                                <br>
+
+                            </div><!-- .paragraphe__contenu--0 .toolbox -->
+                        </div><!-- paragraphe--0 --><div class="paragraphe--3">
+                                <h2 class="paragraphe__titre--3">Bienvenue au d&#233;partement composante informatique </h2><div class="paragraphe__contenu--3 toolbox">
+                                
+Le département accueille environ 800 étudiants, répartis dans 11 formations qui s'appuient sur 4 laboratoires de recherche et une cinquantaine d'enseignants-chercheurs, assurant ainsi le développement de la recherche et de la formation en informatique de l'Université Claude Bernard Lyon 1. <a href="https://fst-informatique.univ-lyon1.fr/departement" class="lien_interne">(En savoir +</a>)<br>
+&nbsp;
+<hr><br>
+<strong><a class="lien_interne" href="https://fst-informatique.univ-lyon1.fr/medias/fichier/capacites-salles-ens-nautibus-ade-20201124_1606223638740-xlsx?ID_FICHE=263028" title="Capacités d'accueil des salles d'enseignement du bâtiment Nautibus dans le cadre du protocole sanitaire - 14 Ko, XLSX">Capacités d'accueil des salles d'enseignement du bâtiment Nautibus dans le cadre du protocole sanitaire</a></strong><br>
+<br>
+<br>
+<br>
+&nbsp;
+                            </div><!-- .paragraphe__contenu--3 .toolbox -->
+                        </div><!-- paragraphe--3 --></div><!-- colonne_deco -->
+            </div><!-- .colonne_1 --></div><!-- .ligne_1 --><div class="ligne_2"><div class="colonne_1">
+                <div class="colonne_deco"></div><!-- colonne_deco -->
+            </div><!-- .colonne_1 --><div class="colonne_3">
+                <div class="colonne_deco"><div class="paragraphe--0"><div class="paragraphe__contenu--0 toolbox">
+                                <span class="UL1button"><span class="crochet">[</span><a href="https://fst-informatique.univ-lyon1.fr/relations-entreprises/taxe-dapprentissage" class="type_rubrique_0001 lien_interne">Versement de la taxe d'apprentissage</a><span class="crochet">]</span></span>
+                            </div><!-- .paragraphe__contenu--0 .toolbox -->
+                        </div><!-- paragraphe--0 --></div><!-- colonne_deco -->
+            </div><!-- .colonne_3 --><div class="colonne_4">
+                <div class="colonne_deco"></div><!-- colonne_deco -->
+            </div><!-- .colonne_4 --></div><!-- .ligne_2 --><div class="ligne_3"><div class="colonne_1">
+                <div class="colonne_deco"><div class="paragraphe--2">
+                                <h2 class="paragraphe__titre--2">Actualit&#233;s &#224; la une</h2><div class="paragraphe__contenu--2 toolbox">
+                                
+<ul class="liste-objets liste-actualites liste-actualites-style-0001">    <li class="avec_vignette style_actu_0001"><div class="vignette_deco">    <a href="https://fst-informatique.univ-lyon1.fr/departement/actualites/graduate-initiative-energie-et-industrie-du-futur" class="lien_interne"><img class="vignette" src="https://fst-informatique.univ-lyon1.fr/medias/photo/v_gi-eif_1783928062680" alt=""></a></div><div class="vignette_deco2">    <strong><a href="https://fst-informatique.univ-lyon1.fr/departement/actualites/graduate-initiative-energie-et-industrie-du-futur" class="lien_interne">Graduate Initiative Energie et Industrie du Futur </a></strong>    <p class="resume">Journées 2026 de la GI-EIF    <a href="https://fst-informatique.univ-lyon1.fr/departement/actualites/graduate-initiative-energie-et-industrie-du-futur" class="lirelasuite lien_interne" title="Lire la suite de Graduate Initiative Energie et Industrie du Futur ">        Lire la suite</a></p><!-- .resume --></div> <!-- .vignette_deco2 --></li>    <li class="avec_vignette style_actu_0001"><div class="vignette_deco">    <a href="https://fst-informatique.univ-lyon1.fr/departement/actualites/groupe-de-travail-animation-et-simulation-2026" class="lien_interne"><img class="vignette" src="https://fst-informatique.univ-lyon1.fr/medias/photo/v_gtas-2026_1783927763381" alt=""></a></div><div class="vignette_deco2">    <strong><a href="https://fst-informatique.univ-lyon1.fr/departement/actualites/groupe-de-travail-animation-et-simulation-2026" class="lien_interne">Groupe de Travail Animation et Simulation 2026</a></strong>    <p class="resume">Journée du GTAS 2026    <a href="https://fst-informatique.univ-lyon1.fr/departement/actualites/groupe-de-travail-animation-et-simulation-2026" class="lirelasuite lien_interne" title="Lire la suite de Groupe de Travail Animation et Simulation 2026">        Lire la suite</a></p><!-- .resume --></div> <!-- .vignette_deco2 --></li>    <li class="avec_vignette style_actu_0001"><div class="vignette_deco">    <a href="https://fst-informatique.univ-lyon1.fr/departement/actualites/felicitations-a-olivier-therond-nouveau-vice-president-etudiant-de-lyon-1" class="lien_interne"><img class="vignette" src="https://fst-informatique.univ-lyon1.fr/medias/photo/v_oliviertherond_1783327395991" alt=""></a></div><div class="vignette_deco2">    <strong><a href="https://fst-informatique.univ-lyon1.fr/departement/actualites/felicitations-a-olivier-therond-nouveau-vice-president-etudiant-de-lyon-1" class="lien_interne">Félicitations à Olivier THÉROND, nouveau Vice-Président Étudiant de Lyon 1</a></strong>    <p class="resume">Félicitations à Olivier THÉROND, nouveau Vice-Président Étudiant de Lyon 1    <a href="https://fst-informatique.univ-lyon1.fr/departement/actualites/felicitations-a-olivier-therond-nouveau-vice-president-etudiant-de-lyon-1" class="lirelasuite lien_interne" title="Lire la suite de Félicitations à Olivier THÉROND, nouveau Vice-Président Étudiant de Lyon 1">        Lire la suite</a></p><!-- .resume --></div> <!-- .vignette_deco2 --></li>    </ul>
+<p style="text-align: right;"><a href="https://fst-informatique.univ-lyon1.fr/departement/actualites" class="type_rubrique_0001 lien_interne">toutes les actualités</a><br>
+<a href="http://feeds.feedburner.com/FSTlyon1info" class="lien_externe">flux RSS des actualités </a><a href="http://feeds.feedburner.com/FSTlyon1info" class="lien_externe">                <img alt="" src="https://fst-informatique.univ-lyon1.fr/medias/photo/feed-24_1360690443451-png?ID_FICHE=263028" loading="lazy" style="margin: 0px 5px; width:16px!important; height:16px!important;">    </a></p>
+                            </div><!-- .paragraphe__contenu--2 .toolbox -->
+                        </div><!-- paragraphe--2 --></div><!-- colonne_deco -->
+            </div><!-- .colonne_1 --><div class="colonne_2">
+                <div class="colonne_deco"><div class="paragraphe--2">
+                                <h2 class="paragraphe__titre--2">Focus</h2><div class="paragraphe__contenu--2 toolbox">
+                                <ul class="objets articles"><li>                <a href="https://fst-informatique.univ-lyon1.fr/departement/actualites/une-nuit-de-linfo-reussie-avec-lassociation-des-informaticiens-lyonnais" lang="fr" hreflang="fr" dir="ltr" class="lien_interne">Une Nuit de l'Info réussie avec l'Association des inforMaticiens Lyonnais</a>            </li></ul><br>
+<br>
+
+                            </div><!-- .paragraphe__contenu--2 .toolbox -->
+                        </div><!-- paragraphe--2 --><div class="paragraphe--2">
+                                <h2 class="paragraphe__titre--2">Agenda</h2><div class="paragraphe__contenu--2 toolbox">
+                                
+<br>
+<br>
+<br>
+&nbsp;
+                            </div><!-- .paragraphe__contenu--2 .toolbox -->
+                        </div><!-- paragraphe--2 --></div><!-- colonne_deco -->
+            </div><!-- .colonne_2 --></div><!-- .ligne_3 --><div class="ligne_5"><div class="colonne_1">
+                <div class="colonne_deco"><div class="paragraphe--3">
+                                <h2 class="paragraphe__titre--3">Le master informatique en vid&#233;o</h2><div class="paragraphe__contenu--3 toolbox">
+                                
+&nbsp;
+<center><iframe allowfullscreen frameborder="0" height="380" referrerpolicy="strict-origin-when-cross-origin" width="675" type="opt-in" data-name="youtube" data-src="https://www.youtube.com/embed/o4z9LUJ8VPM"></iframe><br>
+<i>Réalisation Xavier Falandry - service iCAP</i></center>
+                            </div><!-- .paragraphe__contenu--3 .toolbox -->
+                        </div><!-- paragraphe--3 --></div><!-- colonne_deco -->
+            </div><!-- .colonne_1 --></div><!-- .ligne_5 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div> <!-- .contenu -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><!-- #contenu-encadres -->
+
+			
+			
+				</div><!-- #page_deco -->
+				<div class="separateur"></div>
+
+
+			</main> <!-- #page -->
+
+
+
+
+		
+			<div id="container-plan-site">
+				<div id="container-container-plan-site">
+					
+
+
+
+
+
+
+<div class="plan-site"><ul class="plan-site__1">
+				<li>
+					<span class="plan-site__rubrique"><a href="https://fst-informatique.univ-lyon1.fr/departement" class="0001" >Département</a>	</span> <ul class="plan-site__2"><li><span class="plan-site__rubrique"><a href="https://fst-informatique.univ-lyon1.fr/departement/organisation-et-contacts" class="0001">Organisation et contacts</a></span></li><li><span class="plan-site__rubrique"><a href="https://fst-informatique.univ-lyon1.fr/departement/scolarite" class="0001">Scolarité</a></span></li><li><span class="plan-site__rubrique"><a href="https://fst-informatique.univ-lyon1.fr/departement/acces-et-plans" class="0001">Accès et plans</a></span></li><li><span class="plan-site__rubrique"><a href="https://fst-informatique.univ-lyon1.fr/departement/actualites" class="0001">Actualités</a></span></li></ul></li>
+				<li>
+					<span class="plan-site__rubrique"><a href="https://fst-informatique.univ-lyon1.fr/formation" class="0001" >Formation</a>	</span> <ul class="plan-site__2"><li><span class="plan-site__rubrique"><a href="https://fst-informatique.univ-lyon1.fr/formation/licences" class="0001">Licences</a></span></li><li><span class="plan-site__rubrique"><a href="https://fst-informatique.univ-lyon1.fr/formation/masters" class="0001">Masters</a></span></li><li><span class="plan-site__rubrique"><a href="https://fst-informatique.univ-lyon1.fr/formation/formation-continue" class="0001">Formation continue</a></span></li><li><span class="plan-site__rubrique"><a href="https://fst-informatique.univ-lyon1.fr/formation/international" class="0001">International</a></span></li><li><span class="plan-site__rubrique"><a href="https://fst-informatique.univ-lyon1.fr/formation/plates-formes" class="0001">Plates-formes</a></span></li><li><span class="plan-site__rubrique"><a href="https://fst-informatique.univ-lyon1.fr/formation/cellule-concours" class="0001">Cellule concours</a></span></li><li><span class="plan-site__rubrique"><a href="https://fst-informatique.univ-lyon1.fr/formation/candidatures" class="0001">Candidatures</a></span></li><li><span class="plan-site__rubrique"><a href="http://master-info.univ-lyon1.fr/CERTIFICATION/" class="0004">Certifications</a></span></li></ul></li>
+				<li>
+					<span class="plan-site__rubrique"><a href="https://fst-informatique.univ-lyon1.fr/relations-entreprises" class="0001" >Relations entreprises</a>	</span> <ul class="plan-site__2"><li><span class="plan-site__rubrique"><a href="https://fst-informatique.univ-lyon1.fr/relations-entreprises/rencontres-etudiants-entreprises" class="0001">Rencontres Etudiants-Entreprises</a></span></li><li><span class="plan-site__rubrique"><a href="https://fst-informatique.univ-lyon1.fr/relations-entreprises/taxe-dapprentissage" class="0001">Taxe d'apprentissage</a></span></li></ul></li>
+				<li>
+					<span class="plan-site__rubrique"><a href="https://fst-informatique.univ-lyon1.fr/laboratoires" class="0001" >Laboratoires</a>	</span> </li>
+				<li>
+					<span class="plan-site__rubrique"><a href="https://fst-informatique.univ-lyon1.fr/intranet" class="0001" >Intranet</a>	</span> </li>
+		
+
+
+
+
+
+
+
+
+
+
+		</ul></div><!-- .plan-site  -->
+					<div class="separateur"></div>
+				</div>
+			</div> <!-- #container_plan_site -->
+			
+
+			<div id="container-plan-site">
+
+			<footer id="container_PC_nav"  itemscope itemtype="http://schema.org/WPFooter">
+				<div id="PC_nav"  role="contentinfo" itemscope itemtype="http://schema.org/WPFooter">
+					  
+
+
+
+
+		<ul id="PC_DETAILS_1401956622368" class="PC_DETAILS"  itemscope itemtype="http://schema.org/ItemList"><li itemscope itemtype="http://schema.org/ListItem"><a href="https://fst-informatique.univ-lyon1.fr/contact"><span itemprop="name">Contact</span></a>
+                    <meta itemprop="url" content="https://fst-informatique.univ-lyon1.fr/contact"/>
+                    <meta itemprop="position" content="0"/>
+                </li><li itemscope itemtype="http://schema.org/ListItem"><a href="https://fst-informatique.univ-lyon1.fr/acces-et-plans"><span itemprop="name">Accès et plans</span></a>
+                    <meta itemprop="url" content="https://fst-informatique.univ-lyon1.fr/acces-et-plans"/>
+                    <meta itemprop="position" content="1"/>
+                </li><li itemscope itemtype="http://schema.org/ListItem"><a href="https://fst-informatique.univ-lyon1.fr/mentions-legales"><span itemprop="name">Mentions légales</span></a>
+                    <meta itemprop="url" content="https://fst-informatique.univ-lyon1.fr/mentions-legales"/>
+                    <meta itemprop="position" content="2"/>
+                </li><li itemscope itemtype="http://schema.org/ListItem"><a href="https://fst-informatique.univ-lyon1.fr/accessibilite-non-conforme"><span itemprop="name">Accessibilité : non conforme</span></a>
+                    <meta itemprop="url" content="https://fst-informatique.univ-lyon1.fr/accessibilite-non-conforme"/>
+                    <meta itemprop="position" content="3"/>
+                </li></ul><!-- #menu_pied_page -->
+
+
+					  
+
+
+
+
+			<ul class="PC_DETAILS" id="PC_DETAILS_1401955736820">
+            
+                <li class="reseaux-sociaux__item"> <i class="fa fa-facebook-square fa-2x fa-brands"></i>
+                    <a href="https://www.facebook.com/UnivLyon1" class="reseaux-sociaux__type-rubrique_0004" title="Facebook">Facebook</a>
+                </li>
+            
+                <li class="reseaux-sociaux__item"><i class="fa fa-twitter-square fa-2x fa-brands"></i>
+                    <a href="https://twitter.com/UnivLyon1" class="reseaux-sociaux__type-rubrique_0004" title="Twitter">Twitter</a>
+                </li>
+            
+                <li class="reseaux-sociaux__item"><i class="fa fa-youtube-square fa-2x fa-brands"></i>
+                    <a href="https://www.youtube.com/UnivLyon1" class="reseaux-sociaux__type-rubrique_0004" title="Youtube">Youtube</a>
+                </li>
+            
+                <li class="reseaux-sociaux__item"><i class="fa fa-instagram fa-2x fa-brands"></i>
+                    <a href="https://www.instagram.com/univlyon1/" class="reseaux-sociaux__type-rubrique_0004" title="Instagram">Instagram</a>
+                </li>
+            
+                <li class="reseaux-sociaux__item"><i class="fa fa-rss-square fa-2x"></i>
+                    <a href="https://www.univ-lyon1.fr/rss" class="reseaux-sociaux__type-rubrique_0001" title="RSS">RSS</a>
+                </li>
+            
+            </ul>
+
+				</div><!-- #pied_page -->
+			</footer> <!-- #pied_deco -->
+
+
+            
+            
+			</div>
+            
+            
+        <a class="url-fiche" href="https://fst-informatique.univ-lyon1.fr/accueil">https://fst-informatique.univ-lyon1.fr/accueil</a>
+
+        
+        
+	    <link rel="stylesheet" type="text/css" media="print" href="/static/css/styles-print.d70f47d64b.css"/>
+
+        
+        <script src="/adminsite/scripts/libs/jquery-ui-1.10.4.custom.js"></script>
+<script src="/adminsite/scripts/libs/validate/jquery.validate-1.13.1.js"></script>
+<script src="/adminsite/scripts/iFrames.js"></script>
+<script src="/adminsite/scripts/libs/mediaElement/mediaelement.js"></script><script src="/static/js/scriptsFo_fr_FR-44f198c537b6ed4c758a.js"></script>
+        <script src="/extensions/eprivacy/resources/scripts/eprivacy.js"></script>
+    
+
+		<!--  LIB UL1 -->
+		<script src="/common/scripts/flexslider/jquery.flexslider.js"></script><script src="/static/js/scriptsLib-d5454cfbb3476ed7992b.js"></script>
+		<!-- BARRE DE NAVIGATION -->
+		<script src="/static/js/scriptsBNUCBL-648f0af0db6d46087285.js"></script>
+		
+		<p id="container-reader"><a class="reader" title="Lire ce contenu en plein écran" href="#">MODE LECTURE&nbsp;<i class="fa fa-eye" aria-hidden="true"></i></a></p>
+		<script src="/common/scripts/ResizeImage/ResizeImage.js"></script>
+<script src="/common/scripts/gmap/libs/jquery.cookie.js"></script>
+<script src="/common/scripts/modernizr.custom.09845.js"></script>
+<script src="/common/scripts/MagnificPopup/jquery.magnific-popup.js"></script>
+<script src="/common/scripts/bxslider/jquery.bxslider.4.2.12.js"></script>
+<script src="/common/scripts/flexloader/jquery.flexloader.js"></script>
+<script src="/common/scripts/tinysort/tinysort.js"></script>
+<script src="/common/scripts/owlcarousel/owl.carousel.js"></script>
+<script src="/common/scripts/jquery-ui/jquery-ui.min.js"></script><script src="/static/js/jsStartNewH-1fd44e5c375150e9acdc.js"></script>
+		<a href="#body" class="scrollup" title="Haut de la page" style="display: none;">Haut de la page</a>
+        
+        
+
+         
+<!-- BARRE ACCESSIBILITE -->
+<script src="/static/js/scriptsConfortPlus-d53c737355ffc0079af1.js"></script>		
+<script type="text/javascript">
+accessibilitytoolbar_custom = {
+		
+		// ID of the target container which will include the link. If not null, activate the display in link mode. The link will be added as the last element of the target container.
+		idLinkModeContainer : "confortplus-container",
+		
+		// OPTIONAL
+		// CSS class applied on the link to unify its appearance with the site.
+		cssLinkModeClassName : "link_orangeplus_ucbl1",
+
+		// OPTIONAL
+		// When the service is displayed as a link in the page, a skip link is automatically added at the top of the page. If you already have a group of skip links, you can specify the target container where the skip link will be added. The link will be added as the last element of the target container.
+		idSkipLinkIdLinkMode : "acces_direct_accessibilite",
+
+		// OPTIONAL
+		// CSS class applied on the skip link
+		cssSkipLinkClassName : "link_orangeplus_ucbl3"
+};
+</script>
+
+
+        
+        
+       
+			<noscript>
+			  <div id="noscript"><p>Le javascript est d&eacute;sactiv&eacute; sur votre navigateur web et le site de l'universit&eacute; Claude Bernard Lyon 1 risque de ne pas fonctionner correctement.</p><p>Pour une navigation optimale, merci d'activer le javascript dans les param&egrave;tres de votre navigateur web.</p></div>
+			</noscript>
+		
+    </body>
+</html>
+

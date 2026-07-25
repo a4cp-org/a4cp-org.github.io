@@ -1,0 +1,16 @@
+# Python environment and crawler scripts
+venv/
+crawler.py
+*.pyc
+__pycache__/
+
+# Hugo build outputs and locks
+public/
+resources/
+.hugo_build.lock
+
+# OS metadata & IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

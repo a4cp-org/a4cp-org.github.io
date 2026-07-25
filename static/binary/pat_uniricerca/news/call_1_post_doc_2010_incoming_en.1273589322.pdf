@@ -1,0 +1,1036 @@
+<!doctype html><html lang="it"><head> 
+ <link rel="preconnect" href="https://static.opencityitalia.it"><link rel="preload" as="style" href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/stylesheets/blue.css"/><link rel="preload" href="https://static.opencityitalia.it/fonts/Titillium_Web/titillium-web-v10-latin-ext_latin-300.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="https://static.opencityitalia.it/fonts/Titillium_Web/titillium-web-v10-latin-ext_latin-700.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="https://static.opencityitalia.it/fonts/Roboto_Mono/roboto-mono-v13-latin-ext_latin-700.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="https://static.opencityitalia.it/fonts/Roboto_Mono/roboto-mono-v13-latin-ext_latin-regular.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="https://static.opencityitalia.it/fonts/Titillium_Web/titillium-web-v10-latin-ext_latin-600.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="https://static.opencityitalia.it/fonts/Titillium_Web/titillium-web-v10-latin-ext_latin-300italic.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="https://static.opencityitalia.it/fonts/FontAwesome/fontawesome-webfont.woff2?v=4.7.0" as="font" type="font/woff2" crossorigin> <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta http-equiv="Content-Language" content="it"> <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> <meta name="viewport" content="width=device-width,initial-scale=1"> <link rel="manifest" href="/manifest.json" crossorigin = "use-credentials"> <meta name="theme-color" content="#06c"> 
+ <title>Ricerca e innovazione - Provincia autonoma di Trento</title> 
+ <meta name="Content-Type" content="text/html; charset=utf-8" /> <meta name="Content-language" content="it" /> 
+ <meta property="og:site_name" content="Provincia autonoma di Trento" /> <meta property="og:url" content="https://www.provincia.tn.it/Argomenti/Ricerca-e-innovazione" /> <meta property="og:type" content="article" /> <meta property="article:published_time" content="2020-09-25T23:00:22+02:00" /> <meta property="article:modified_time" content="2026-07-06T16:34:39+02:00" /> <meta property="article:author" content="Provincia autonoma di Trento" /> <meta property="og:description" content=" Il sistema provinciale della ricerca e dell’innovazione rappresenta un motore fondamentale per la crescita del territorio, basato su una sinergia virtuosa tra governo provinciale, organismi di ricerca e imprese. Questo modello trova il suo fondamento normativo nella Legge Provinciale 2 agosto 2005, n. 14 (Legge sulla ricerca), che disciplina gli interventi per il sostegno della ricerca e dell'innovazione, promuovendo l'eccellenza scientifica e la competitività del sistema territoriale. In questo contesto, il Programma Pluriennale della Ricerca (PPR) costituisce lo strumento strategico di pianificazione che definisce gli obiettivi di medio-lungo periodo, le aree d'intervento prioritario e i criteri di valutazione dei risultati. Approvato dalla Giunta provinciale previo parere del Comitato provinciale per la ricerca e l'innovazione, il PPR orienta le risorse verso la valorizzazione dei talenti e il rafforzamento del legame tra mondo scientifico e sistema economico.Il sistema è rappresentato da enti di eccellenza come l’Università di Trento, la Fondazione Bruno Kessler (FBK) e la Fondazione Edmund Mach (FEM). Accanto a essi opera una rete capillare di centri di ricerca pubblici e privati e poli scientifico-tecnologici, supportati da strutture dedicate al trasferimento tecnologico e incubatori d’impresa - Fondazione Hub Innovazione Trentino (HIT) e Trentino Sviluppo - che trasformano la conoscenza in sviluppo economico.Il raccordo tra la produzione di conoscenza e il tessuto produttivo è ulteriormente rafforzato dalla Legge Provinciale 16 giugno 2023, n. 6, che definisce il quadro degli interventi a sostegno del sistema economico trentino, al fine di stimolare gli investimenti privati in R&amp;amp;S.In linea con questa visione, la Strategia di Specializzazione Intelligente (S3) 2021-2027 della Provincia orienta oggi il sistema provinciale verso quattro aree tematiche prioritarie: Sostenibilità, montagna e risorse energetiche; ICT &amp;amp; Trasformazione digitale; Industria intelligente; Salute, alimentazione e stili di vita. Il perseguimento di tali obiettivi poggia stabilmente sulle due direttrici trasversali della sostenibilità e della digitalizzazione, assunte come base per garantire un'innovazione che sia, al contempo, volano di sviluppo economico e strumento di tutela per il territorio." /> <meta property="article:tag" content="Scienze e tecnologia" /> <meta property="og:title" content="Ricerca e innovazione" /> <meta property="twitter:title" content="Ricerca e innovazione" /> <meta property="og:image" content="https://s3-eu-west-1.amazonaws.com/static.opencity.opencontent.it/var/cidpat/storage/images/media/images/ricerca-innovazione/5856358-1-ita-IT/Ricerca-innovazione_large.jpg" /> <meta property="og:email" content="uff.informazioni@provincia.tn.it" /> <meta property="og:phone_number" content="+39 800903606" /> <meta property="og:fax_number" content="+39 0461495111" /> <meta property="og:image:type" content="image/jpeg" /> <meta property="og:image:width" content="360" /> <meta property="og:image:height" content="108" /> <meta property="og:locale" content="it" /> <meta property="twitter:card" content="summary" /> <meta property="twitter:description" content=" Il sistema provinciale della ricerca e dell’innovazione rappresenta un motore fondamentale per la crescita del territorio, basato su una sinergia virtuosa tra governo provinciale, organismi di ricerca e imprese. Questo modello trova il suo fondamento normativo nella Legge Provinciale 2 agosto 2005, n. 14 (Legge sulla ricerca), che disciplina gli interventi per il sostegno della ricerca e dell'innovazione, promuovendo l'eccellenza scientifica e la competitività del sistema territoriale. In questo contesto, il Programma Pluriennale della Ricerca (PPR) costituisce lo strumento strategico di pianificazione che definisce gli obiettivi di medio-lungo periodo, le aree d'intervento prioritario e i criteri di valutazione dei risultati. Approvato dalla Giunta provinciale previo parere del Comitato provinciale per la ricerca e l'innovazione, il PPR orienta le risorse verso la valorizzazione dei talenti e il rafforzamento del legame tra mondo scientifico e sistema economico.Il sistema è rappresentato da enti di eccellenza come l’Università di Trento, la Fondazione Bruno Kessler (FBK) e la Fondazione Edmund Mach (FEM). Accanto a essi opera una rete capillare di centri di ricerca pubblici e privati e poli scientifico-tecnologici, supportati da strutture dedicate al trasferimento tecnologico e incubatori d’impresa - Fondazione Hub Innovazione Trentino (HIT) e Trentino Sviluppo - che trasformano la conoscenza in sviluppo economico.Il raccordo tra la produzione di conoscenza e il tessuto produttivo è ulteriormente rafforzato dalla Legge Provinciale 16 giugno 2023, n. 6, che definisce il quadro degli interventi a sostegno del sistema economico trentino, al fine di stimolare gli investimenti privati in R&amp;amp;S.In linea con questa visione, la Strategia di Specializzazione Intelligente (S3) 2021-2027 della Provincia orienta oggi il sistema provinciale verso quattro aree tematiche prioritarie: Sostenibilità, montagna e risorse energetiche; ICT &amp;amp; Trasformazione digitale; Industria intelligente; Salute, alimentazione e stili di vita. Il perseguimento di tali obiettivi poggia stabilmente sulle due direttrici trasversali della sostenibilità e della digitalizzazione, assunte come base per garantire un'innovazione che sia, al contempo, volano di sviluppo economico e strumento di tutela per il territorio." /> <meta property="twitter:image" content="https://s3-eu-west-1.amazonaws.com/static.opencity.opencontent.it/var/cidpat/storage/images/media/images/ricerca-innovazione/5856358-1-ita-IT/Ricerca-innovazione_large.jpg" /> <meta property="twitter:url" content="https://www.provincia.tn.it/Argomenti/Ricerca-e-innovazione" /> 
+ <meta name="author" content="OpenContent Scarl" /> <meta name="copyright" content="Provincia autonoma di Trento" /> <meta name="description" content="Provincia autonoma di Trento - sito istituzionale" /> 
+ <link rel="canonical" href="https://www.provincia.tn.it/Argomenti/Ricerca-e-innovazione" /> <link rel="Home" href="/" title="Provincia autonoma di Trento pagina iniziale" /><link rel="Index" href="/" /><link rel="Search" href="/content/advancedsearch" title="Cerca Provincia autonoma di Trento" /> <link rel="alternate" hreflang="it" href="https://www.provincia.tn.it/Argomenti/Ricerca-e-innovazione" /> <link rel="alternate" hreflang="x-default" href="https://www.provincia.tn.it/Argomenti/Ricerca-e-innovazione" /> 
+ <link rel="alternate" hreflang="en" href="https://www.provincia.tn.it/en/Topics/Research-and-Innovation" /> 
+ <link rel="alternate" hreflang="de" href="https://www.provincia.tn.it/de/Themen/Forschung-und-Innovation" /> 
+ <link rel="alternate" hreflang="fr" href="https://www.provincia.tn.it/fr/Themes/Recherche-et-innovation" /> 
+ <link rel="alternate" hreflang="es" href="https://www.provincia.tn.it/es/Temas/Investigacion-e-innovacion" /> 
+ <link rel="alternate" hreflang="pt" href="https://www.provincia.tn.it/po/Topicos/Pesquisa-e-inovacao" /> 
+ <link rel="icon" href="/favicon" type="image/x-icon" /> <link rel="apple-touch-icon"
+ sizes="180x180"
+ href="https://flyimg.opencityitalia.it/upload/rf_1,o_auto,w_180,h_180/https%3A%2F%2Fwww.provincia.tn.it%2Fcontent%2Fdownload%2F231%2F4375%2Ffile%2Fapple-touch-icon.png%3Fv%3D1546" /><meta name="apple-mobile-web-app-title" content="Provincia autonoma di Trento" /><link rel="manifest" href="/manifest.json" crossorigin="use-credentials" /> 
+ <link rel="stylesheet" href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/stylesheets/blue.css" media="all"/><link rel="stylesheet" href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2/stylesheets/cookieconsent.css" media="all"/> 
+ <link rel="preload" as="script" href="/var/cidpat/cache/public/javascript/968d931013f65763c385f1bd83842777.js"/> <script type="text/javascript" src="/var/cidpat/cache/public/javascript/968d931013f65763c385f1bd83842777.js" charset="utf-8"></script> <script type="text/javascript"> //<![CDATA[
+ var CurrentLanguage = "ita-IT";
+ var CurrentUserIsLoggedIn = false;
+ var CurrentUserId = 10;
+ var UiContext = "navigation";
+ var UriPrefix = "/";
+ var PathArray = [559,74,2];
+ var ModuleResultUri = "/Argomenti/Ricerca-e-innovazione";
+ var LanguageUrlAliasList = [{locale:"ita-IT",uri:"https://www.provincia.tn.it/Argomenti/Ricerca-e-innovazione"},{locale:"eng-GB",uri:"https://www.provincia.tn.it/en/Topics/Research-and-Innovation"},{locale:"ger-DE",uri:"https://www.provincia.tn.it/de/Themen/Forschung-und-Innovation"},{locale:"fre-FR",uri:"https://www.provincia.tn.it/fr/Themes/Recherche-et-innovation"},{locale:"esl-ES",uri:"https://www.provincia.tn.it/es/Temas/Investigacion-e-innovacion"},{locale:"por-BR",uri:"https://www.provincia.tn.it/po/Topicos/Pesquisa-e-inovacao"}];
+ $.opendataTools.settings('endpoint',{ 'geo': '/opendata/api/geo/search/',
+ 'search': '/opendata/api/content/search/',
+ 'class': '/opendata/api/classes/',
+ 'tags_tree': '/opendata/api/tags_tree/',
+ 'fullcalendar': '/opendata/api/fullcalendar/search/'
+ });
+ $.opendataTools.settings('language', "ita-IT");
+ var MomentDateFormat = "DD/MM/YYYY";
+ var MomentDateTimeFormat = "DD/MM/YYYY HH:mm";
+ moment.locale("it");
+ if ('serviceWorker' in navigator) {if (!navigator.serviceWorker.controller) {navigator.serviceWorker.register('/service-worker.js', {scope: '/'}).then(function (registration) {}, function (err) {console.warn('Failed to register Service Worker:\n', err);});}}
+ window.OC_BASE_URL = 'https://servizidigitali.provincia.tn.it/lang';window.OC_PRIVACY_URL = 'https://www.provincia.tn.it/Informative/Note-legali-e-crediti';window.OC_AUTH_URL = 'https://servizidigitali.provincia.tn.it/lang/login';window.OC_SPID_BUTTON = true;window.OC_CHECKOUT_URL = 'https://api.stanzadelcittadino.it/pagopa/checkout'; //]]></script> </head><body><aside class="skiplink"> <a class="visually-hidden-focusable" href="#main-container">Vai al contenuto principale</a> <a class="visually-hidden-focusable" href="#main-navigation">Vai al menù di navigazione principale</a> <a class="visually-hidden-focusable" href="#footer">Vai al footer</a></aside> <header class="it-header-wrapper it-header-sticky" data-bs-toggle="sticky" data-bs-position-type="fixed" data-bs-sticky-class-name="is-sticky" data-bs-target="#header-nav-wrapper" style="z-index: 6"> <div id="toolbar" style="z-index: 2000;position: relative;"></div> <div class="it-header-slim-wrapper"> <div class="container"> <div class="row"> <div class="col-12"> <div class="it-header-slim-wrapper-content"> <a class="d-none d-lg-block navbar-brand"
+ target="_blank"
+ rel="noopener"
+ href="https://www.governo.it"> Governo Italiano
+ </a> <div class="nav-mobile"> <nav> <a class="it-opener d-lg-none"
+ data-bs-toggle="collapse"
+ href="#service-menu"
+ role="button"
+ aria-expanded="false"
+ aria-controls="service-menu"> <span>Links</span> <svg class="icon" aria-label="Expand menu"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-expand"></use></svg> </a> <div class="link-list-wrapper collapse" id="service-menu"> <ul class="link-list"> <li class="list-item d-block d-md-none"> <a href="https://www.governo.it"> Governo Italiano</a> </li> <li class="list-item text-nowrap"> 
+ <a href="https://trasparenza.provincia.tn.it/"
+ data-element="03200d87491c2c974932f285497c1af6" > 
+ Amministrazione trasparente 
+ </a> </li> </ul> </div> </nav> </div> 
+ <div class="it-header-slim-right-zone" role="navigation"> <div class="nav-item dropdown"> <button type="button"
+ class="nav-link dropdown-toggle"
+ data-bs-toggle="dropdown"
+ aria-expanded="false"
+ aria-controls="languages"
+ aria-haspopup="true"> <span class="visually-hidden">Lingua corrente:</span> <span>ITA</span> <svg class="icon" aria-label="Expand menu"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-expand"></use></svg> </button> <div class="dropdown-menu"> <div class="row"> <div class="col-12"> <div class="link-list-wrapper"> <ul class="link-list"> <li> <a href="#"
+ class="dropdown-item list-item"> <span lang="it"> ITA
+ <span class="visually-hidden">selezionata</span> </span> </a> </li> <li> <a href="https://www.provincia.tn.it/en/"
+ data-switch_locale="eng-GB" class="dropdown-item list-item"> <span lang="it"> ENG
+ </span> </a> </li> <li> <a href="https://www.provincia.tn.it/de/"
+ data-switch_locale="ger-DE" class="dropdown-item list-item"> <span lang="it"> GER
+ </span> </a> </li> <li> <a href="https://www.provincia.tn.it/fr/"
+ data-switch_locale="fre-FR" class="dropdown-item list-item"> <span lang="it"> FRA
+ </span> </a> </li> <li> <a href="https://www.provincia.tn.it/es/"
+ data-switch_locale="esl-ES" class="dropdown-item list-item"> <span lang="it"> ESP
+ </span> </a> </li> <li> <a href="https://www.provincia.tn.it/po/"
+ data-switch_locale="por-BR" class="dropdown-item list-item"> <span lang="it"> POR
+ </span> </a> </li> </ul> </div> </div> </div> </div> </div> 
+ <span data-element="current-user-profile"></span> </div> </div> </div> </div> </div></div><script id="tpl-user-access" type="text/x-jsrender"><div class="it-user-wrapper nav-item dropdown"> <a aria-expanded="false" class="btn btn-primary btn-icon btn-full" data-bs-toggle="dropdown" href="#" data-focus-mouse="false"> <span class="rounded-icon"> <img src="{{:prefix}}/bootstrapitalia/avatar/{{:id}}" class="border rounded-circle icon-white" alt="{{:name}}"> </span> <span class="d-none d-lg-block">{{:name}}</span> <svg class="icon icon-white d-none d-lg-block"> <use xlink:href="{{:spritePath}}#it-expand"></use> </svg> </a> <div class="dropdown-menu"> <div class="row"> <div class="col-12"> <div class="link-list-wrapper"> <ul class="link-list"> <li><a class="dropdown-item list-item" href="{{:prefix}}/user/edit/"><span>Profilo utente</span></a></li> {{if has_access_to_dashboard}}
+ <li><a class="dropdown-item list-item" href="{{:prefix}}/content/dashboard/"><span>Pannello strumenti</span></a></li> {{/if}}
+ <li><span class="divider"></span></li> <li> <a class="list-item left-icon" href="{{:prefix}}/user/logout"> <svg class="icon icon-primary icon-sm left"> <use xlink:href="{{:spritePath}}#it-external-link"> </use> </svg> <span class="fw-bold">Logout</span> </a> </li> </ul> </div> </div> </div> </div></div></script><script id="tpl-user-profile" type="text/x-jsrender"><div class="it-user-wrapper nav-item dropdown"> <a aria-expanded="false" class="btn btn-primary btn-icon btn-full" data-bs-toggle="dropdown" href="#" data-focus-mouse="false"> <span class="rounded-icon d-lg-none"> <svg class="icon icon-primary" role="presentation"> <use xlink:href="{{:spritePath}}#it-user"></use> </svg> </span> <span class="d-none d-lg-block text-uppercase">{{:nome}} {{:cognome}}</span> <svg class="icon icon-white d-none d-lg-block"> <use xlink:href="{{:spritePath}}#it-expand"></use> </svg> </a> <div class="dropdown-menu"> <div class="row"> <div class="col-12"> <div class="link-list-wrapper"> {{if role == 'user'}}
+ <ul class="link-list"> <li> <a class="list-item left-icon text-nowrap" href="{{:baseUrl}}/user/profile"> <svg class="icon icon-sm icon-primary left "> <use xlink:href="{{:spritePath}}#it-user"></use> </svg> <span class="text-nowrap">Profilo</span> </a> </li> <li> <a class="list-item left-icon text-nowrap" href="{{:baseUrl}}/user/"> <svg class="icon icon-sm icon-primary left"> <use xlink:href="{{:spritePath}}#it-pa"></use> </svg> <span>Scrivania</span> </a> </li> <li> <a class="list-item left-icon text-nowrap" href="{{:baseUrl}}/pratiche/"> <svg class="icon icon-sm icon-primary left"> <use xlink:href="{{:spritePath}}#it-files"></use> </svg> <span>Pratiche</span> </a> </li> <li> <a class="list-item left-icon text-nowrap" href="{{:baseUrl}}/documenti/"> <svg class="icon icon-sm icon-primary left"> <use xlink:href="{{:spritePath}}#it-folder"></use> </svg> <span>Documenti</span> </a> </li> <li> <a class="list-item left-icon text-nowrap" href="{{:baseUrl}}/user/payments/"> <svg class="icon icon-sm icon-primary left"> <use xlink:href="{{:spritePath}}#it-card"></use> </svg> <span>Pagamenti</span> </a> </li> <li><span class="divider"></span></li> <li> <a class="list-item left-icon text-nowrap" href="{{:baseUrl}}/logout"> <svg class="icon icon-sm icon-primary left"> <use xlink:href="{{:spritePath}}#it-link"></use> </svg> <span>Logout</span> </a> </li> </ul> {{else}}
+ <ul class="link-list"> <li> <a class="list-item left-icon text-nowrap" href="{{:baseUrl}}/operatori/profile"> <svg class="icon icon-sm icon-primary left "> <use xlink:href="{{:spritePath}}#it-user"></use> </svg> <span class="text-nowrap">Profilo</span> </a> </li> <li> <a class="list-item left-icon text-nowrap" href="{{:baseUrl}}/operatori/"> <svg class="icon icon-sm icon-primary left"> <use xlink:href="{{:spritePath}}#it-software"></use> </svg> <span>Dashboard</span> </a> </li> <li><span class="divider"></span></li> <li> <a class="list-item left-icon text-nowrap" href="{{:baseUrl}}/operatori/logout"> <svg class="icon icon-sm icon-primary left"> <use xlink:href="{{:spritePath}}#it-link"></use> </svg> <span>Logout</span> </a> </li> </ul> {{/if}}
+ </div> </div> </div> </div></div></script><script> var baseUrl = "https://servizidigitali.provincia.tn.it/lang";
+ var tokenUrl = "https://servizidigitali.provincia.tn.it/lang/api/session-auth?with-cookie=1";
+ var profileUrl = "https://servizidigitali.provincia.tn.it/lang/api/users";
+ $(document).ready(function () {
+ let userAccessContainer = $('[data-element="personal-area-login"]');
+ if (typeof LanguageUrlAliasList !== 'undefined') {
+ $('[data-switch_locale]').each(function () {
+ var self = $(this);
+ var locale = self.data('switch_locale');
+ $.each(LanguageUrlAliasList, function () {
+ if (this.locale === locale) {
+ self.attr('href', this.uri);
+ }
+ })
+ });
+ }
+ var trimmedPrefix = UriPrefix.replace(/~+$/g, "");
+ if (trimmedPrefix === '/') trimmedPrefix = '';
+ var injectUserInfo = function (data) {
+ if (data.error_text || !data.content) {
+ console.log(data.error_text);
+ userAccessContainer.removeAttr('style');
+ } else {
+ var response = data.content;
+ response.id = CurrentUserId;
+ response.prefix = trimmedPrefix;
+ response.spritePath = "/extension/openpa_bootstrapitalia/design/standard/images/svg/sprite.svg";
+ var renderData = $($.templates('#tpl-user-access').render(response));
+ userAccessContainer.replaceWith(renderData)
+ }
+ };
+ var injectProfileInfo = function (data) {
+ console.log(data);
+ data.prefix = trimmedPrefix;
+ data.spritePath = "/extension/openpa_bootstrapitalia/design/standard/images/svg/sprite.svg";
+ data.baseUrl = baseUrl;
+ var renderData = $($.templates('#tpl-user-profile').render(data));
+ userAccessContainer.replaceWith(renderData)
+ }
+ var getProfile = function (token, cb, context) {
+ function parseJwt(token) {
+ var base64Url = token.split('.')[1];
+ var base64 = base64Url.replace(/-/g, '+').replace(/_/g, '/');
+ var jsonPayload = decodeURIComponent(window.atob(base64).split('').map(function (c) {
+ return '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2);
+ }).join(''));
+ return JSON.parse(jsonPayload);
+ }
+ var tokenData = parseJwt(token);
+ jQuery.ajax({
+ url: profileUrl + '/' + tokenData.id,
+ dataType: 'json',
+ headers: {
+ Authorization: 'Bearer ' + token
+ },
+ success: function (data) {
+ if ($.isFunction(cb)) {
+ cb.call(context, data);
+ }
+ },
+ error: function (){
+ userAccessContainer.removeAttr('style');
+ }
+ });
+ }
+ if (CurrentUserIsLoggedIn) {
+ if (userAccessContainer.length === 0){
+ userAccessContainer = $('[data-element="current-user-profile"]');
+ }
+ $.ez('openpaajax::userInfo', null, function (data) {
+ injectUserInfo(data);
+ });
+ } else if (profileUrl) {
+ jQuery.ajax({
+ url: tokenUrl,
+ dataType: 'json',
+ xhrFields: {withCredentials: true},
+ success: function (data) {
+ if (data.token && profileUrl) {
+ getProfile(data.token, injectProfileInfo);
+ }
+ },
+ error: function (){
+ userAccessContainer.removeAttr('style');
+ }
+ });
+ } else {
+ userAccessContainer.removeAttr('style');
+ }
+ });
+ </script> 
+ <div class="it-nav-wrapper"> <div class="it-header-center-wrapper"> <div class="container"> <div class="row"> <div class="col-12"> <div class="it-header-center-content-wrapper"> <div class="it-brand-wrapper"><a href="/"
+ title="Vai alla homepage"
+ > <img class="icon"
+ alt="Logo "
+ src="https://flyimg.opencityitalia.it/upload/rf_1,o_auto,w_2500,h_2500/https%3A%2F%2Fwww.provincia.tn.it%2Flogo"
+ style="width: auto !important;" /> <div class="it-brand-text"> <div class="it-brand-title">Provincia autonoma di Trento</div> </div></a></div> <div class="it-right-zone"> <div class="it-socials d-none d-lg-flex"> <span>Seguici su</span> <ul> <li> <a href="https://www.facebook.com/provincia.autonoma.trento" target="_blank" rel="noopener noreferrer"> <svg class="icon icon-sm align-top" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-facebook"></use></svg> <span class="visually-hidden">Facebook</span> </a> </li> <li> <a href="https://twitter.com/ProvinciaTrento" target="_blank" rel="noopener noreferrer"> <svg class="icon icon-sm align-top" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-twitter"></use></svg> <span class="visually-hidden">Twitter</span> </a> </li> <li> <a href="https://www.linkedin.com/company/provincia-autonoma-di-trento" target="_blank" rel="noopener noreferrer"> <svg class="icon icon-sm align-top" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-linkedin"></use></svg> <span class="visually-hidden">Linkedin</span> </a> </li> <li> <a href="https://www.instagram.com/provinciatrento" target="_blank" rel="noopener noreferrer"> <svg class="icon icon-sm align-top" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-instagram"></use></svg> <span class="visually-hidden">Instagram</span> </a> </li> <li> <a href="https://www.youtube.com/user/PATrento" target="_blank" rel="noopener noreferrer"> <svg class="icon icon-sm align-top" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-youtube"></use></svg> <span class="visually-hidden">YouTube</span> </a> </li> <li> <a href="https://www.ufficiostampa.provincia.tn.it/Modulo-WhatsPAT" target="_blank" rel="noopener noreferrer"> <svg class="icon icon-sm align-top" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-whatsapp"></use></svg> <span class="visually-hidden">Whatsapp</span> </a> </li> <li> <a href="https://t.me/Provincia_autonoma_di_Trento" target="_blank" rel="noopener noreferrer"> <svg class="icon icon-sm align-top" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-telegram"></use></svg> <span class="visually-hidden">Telegram</span> </a> </li> </ul></div> <div class="it-search-wrapper"> <span class="d-none d-md-block">Cerca</span> <a class="search-link rounded-icon"
+ href="/content/search"
+ data-bs-toggle="modal"
+ data-bs-target="#search-modal"> <svg class="icon" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-search"></use></svg> <span class="visually-hidden">Cerca</span> </a> </div> </div> </div> </div> </div> </div> </div> 
+ <div id="header-nav-wrapper" class="it-header-navbar-wrapper "> <div class="container"> <div class="row"> <div class="col-12"> <nav class="navbar navbar-expand-lg has-megamenu" aria-label="Menù principale" id="main-navigation"> <button class="custom-navbar-toggler"
+ type="button"
+ aria-controls="main-menu"
+ aria-expanded="false"
+ aria-label="Attiva/disattiva la navigazione"
+ data-bs-target="#main-menu"
+ data-bs-toggle="navbarcollapsible"> <svg class="icon" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-burger"></use></svg> </button> <div class="navbar-collapsable" id="main-menu"> <div class="overlay" style="display: none;"></div> <div class="close-div"> <button class="btn close-menu" type="button"> <span class="visually-hidden">nascondi la navigazione</span> <svg class="icon" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-close-big"></use></svg> </button> </div> <div class="menu-wrapper"> <a href="/" title="Vai alla homepage" class="logo-hamburger"> <img class="icon bg-primary p-1 rounded"
+ alt="Provincia autonoma di Trento"
+ src="https://flyimg.opencityitalia.it/upload/rf_1,o_auto,w_2500,h_2500/https%3A%2F%2Fwww.provincia.tn.it%2Flogo"
+ style="width: auto !important; height:50px;"/> <div class="it-brand-text"> <div class="it-brand-title">Provincia autonoma di Trento</div> </div></a> <ul class="navbar-nav" data-element="main-navigation"> <li class="nav-item dropdown megamenu"> <a
+ class="nav-link dropdown-toggle px-lg-2 px-xl-3"
+ href="#"
+ id="mainMenu69"
+ role="button"
+ data-element="management"
+ data-node="69"
+ data-bs-toggle="dropdown"
+ aria-expanded="false"> <span>Amministrazione</span> <svg class="icon icon-xs ms-1" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-expand"></use></svg> </a> <div
+ class="dropdown-menu shadow-lg "
+ role="region"
+ aria-labelledby="mainMenu69"> <div class="megamenu pb-5 pt-3 py-lg-0"> <div class="row"> <div class="col-12"> <div class="it-heading-link-wrapper"> <a
+ class="it-heading-link"
+ data-node="69"
+ data-element="management"
+ href="/Amministrazione"
+ > <svg class="icon icon-sm me-2 mb-1" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-arrow-right-triangle"></use></svg> <span>Esplora la sezione Amministrazione</span> </a> </div> <div class="row"> <div class="col-12 col-lg-4"> <div class="link-list-wrapper"> <ul class="link-list"> <li> <a
+ class="list-item dropdown-item"
+ data-node="243"
+ href="/Amministrazione/Autonomia"> <svg class="icon icon-sm me-2" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-arrow-right-triangle"></use></svg> <span>Autonomia</span> </a> </li> <li> <a
+ class="list-item dropdown-item"
+ data-node="83"
+ href="/Amministrazione/Organi-politici"> <svg class="icon icon-sm me-2" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-arrow-right-triangle"></use></svg> <span>Organi politici</span> </a> </li> <li> <a
+ class="list-item dropdown-item"
+ data-node="81"
+ href="/Amministrazione/Strutture-organizzative"> <svg class="icon icon-sm me-2" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-arrow-right-triangle"></use></svg> <span>Strutture organizzative</span> </a> </li> <li> <a
+ class="list-item dropdown-item"
+ data-node="80"
+ href="/Amministrazione/Personale"> <svg class="icon icon-sm me-2" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-arrow-right-triangle"></use></svg> <span>Personale</span> </a> </li> <li> <a
+ class="list-item dropdown-item"
+ data-node="244"
+ href="/Amministrazione/Lavora-con-noi"> <svg class="icon icon-sm me-2" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-arrow-right-triangle"></use></svg> <span>Lavora con noi</span> </a> </li> </ul> </div> </div> <div class="col-12 col-lg-4"> <div class="link-list-wrapper"> <ul class="link-list"> <li> <a
+ class="list-item dropdown-item"
+ data-node="82"
+ href="/Amministrazione/Enti-societa-e-fondazioni"> <svg class="icon icon-sm me-2" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-arrow-right-triangle"></use></svg> <span>Enti, società e fondazioni</span> </a> </li> <li> <a
+ class="list-item dropdown-item"
+ data-node="245"
+ href="/Amministrazione/Comuni-e-Comunita-di-valle"> <svg class="icon icon-sm me-2" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-arrow-right-triangle"></use></svg> <span>Comuni e Comunità di valle</span> </a> </li> <li> <a
+ class="list-item dropdown-item"
+ data-node="246"
+ href="/Amministrazione/Organismi-e-strumenti-di-garanzia"> <svg class="icon icon-sm me-2" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-arrow-right-triangle"></use></svg> <span>Organismi e strumenti di garanzia</span> </a> </li> <li> <a
+ class="list-item dropdown-item"
+ data-node="248"
+ href="/Amministrazione/Programmazione"> <svg class="icon icon-sm me-2" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-arrow-right-triangle"></use></svg> <span>Programmazione</span> </a> </li> <li> <a
+ class="list-item dropdown-item"
+ data-node="249"
+ href="/Amministrazione/Progetti"> <svg class="icon icon-sm me-2" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-arrow-right-triangle"></use></svg> <span>Progetti</span> </a> </li> </ul> </div> </div> <div class="col-12 col-lg-4"> <div class="link-list-wrapper"> <ul class="link-list"> <li> <a
+ class="list-item dropdown-item"
+ data-node="250"
+ href="/Amministrazione/Appalti-e-contratti"> <svg class="icon icon-sm me-2" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-arrow-right-triangle"></use></svg> <span>Appalti e contratti</span> </a> </li> <li> <a
+ class="list-item dropdown-item"
+ data-node="251"
+ href="/Amministrazione/Leggi-e-provvedimenti"> <svg class="icon icon-sm me-2" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-arrow-right-triangle"></use></svg> <span>Leggi e provvedimenti</span> </a> </li> <li> <a
+ class="list-item dropdown-item"
+ data-node="77"
+ href="/Amministrazione/Documenti"> <svg class="icon icon-sm me-2" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-arrow-right-triangle"></use></svg> <span>Documenti</span> </a> </li> </ul> </div> </div> </div> </div> </div> </div> </div> </li> <li class="nav-item"> <a class="main-nav-link nav-link text-truncate"
+ href="/Servizi"
+ id="mainMenu71"
+ data-element="all-services"
+ data-node="71"
+ > <span>Servizi</span> </a> </li> <li class="nav-item dropdown"> <a
+ class="nav-link dropdown-toggle px-lg-2 px-xl-3"
+ href="#"
+ id="mainMenu72"
+ role="button"
+ data-element="news"
+ data-node="72"
+ data-bs-toggle="dropdown"
+ aria-expanded="false"> <span>News</span> <svg class="icon icon-xs ms-1" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-expand"></use></svg> </a> <div
+ class="dropdown-menu "
+ role="region"
+ aria-labelledby="mainMenu72"> <div class="link-list-wrapper"> <ul class="link-list"> <li class="px-2"> <a class="dropdown-item list-item border-bottom mb-2 ps-0 pe-2 py-2"
+ data-node="72"
+ href="/News"> <svg class="icon icon-sm me-2 mb-1" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-arrow-right-triangle"></use></svg> <span style="font-size:1.125rem;font-weight:600">News</span> </a> </li> <li> <a class="dropdown-item list-item"
+ data-node="92"
+ href="/News/Avvisi"> <span>Avvisi</span> </a> </li> <li> <a class="dropdown-item list-item"
+ data-node="94"
+ href="/News/Comunicati-stampa"> <span>Comunicati stampa</span> </a> </li> <li> <a class="dropdown-item list-item"
+ data-node="95"
+ href="/News/Eventi"> <span>Eventi</span> </a> </li> <li> <a class="dropdown-item list-item"
+ data-node="26887"
+ href="https://www.ufficiostampa.provincia.tn.it/La-Provincia-informa-WebTV"> <span>Web TV </span> </a> </li> <li> <a class="dropdown-item list-item"
+ data-node="26754"
+ href="https://www.ufficiostampa.provincia.tn.it/Trentino-Podcast"> <span>Podcast </span> </a> </li> </ul> </div> </div> </li> <li class="nav-item"> <a class="main-nav-link nav-link text-truncate"
+ href="/Dati-e-statistiche"
+ id="mainMenu252"
+ data-element="e9358f72d7526f5c162c6e69cc2cb9e6"
+ data-node="252"
+ > <span>Dati e statistiche</span> </a> </li> </ul> <ul class="navbar-nav navbar-secondary" aria-label="Menù secondario"> <li class="nav-item"> <a class="nav-link text-truncate " href="/Argomenti/Focus"> <span>Focus</span> </a> </li> <li class="nav-item"> <a class="nav-link text-truncate" href="/Argomenti" data-element="all-topics"> <span class="fw-bold">Tutti gli argomenti</span> </a> </li> </ul> <div class="it-socials "> <span>Seguici su</span> <ul> <li> <a href="https://www.facebook.com/provincia.autonoma.trento" target="_blank" rel="noopener noreferrer"> <svg class="icon icon-sm align-top" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-facebook"></use></svg> <span class="visually-hidden">Facebook</span> </a> </li> <li> <a href="https://twitter.com/ProvinciaTrento" target="_blank" rel="noopener noreferrer"> <svg class="icon icon-sm align-top" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-twitter"></use></svg> <span class="visually-hidden">Twitter</span> </a> </li> <li> <a href="https://www.linkedin.com/company/provincia-autonoma-di-trento" target="_blank" rel="noopener noreferrer"> <svg class="icon icon-sm align-top" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-linkedin"></use></svg> <span class="visually-hidden">Linkedin</span> </a> </li> <li> <a href="https://www.instagram.com/provinciatrento" target="_blank" rel="noopener noreferrer"> <svg class="icon icon-sm align-top" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-instagram"></use></svg> <span class="visually-hidden">Instagram</span> </a> </li> <li> <a href="https://www.youtube.com/user/PATrento" target="_blank" rel="noopener noreferrer"> <svg class="icon icon-sm align-top" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-youtube"></use></svg> <span class="visually-hidden">YouTube</span> </a> </li> <li> <a href="https://www.ufficiostampa.provincia.tn.it/Modulo-WhatsPAT" target="_blank" rel="noopener noreferrer"> <svg class="icon icon-sm align-top" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-whatsapp"></use></svg> <span class="visually-hidden">Whatsapp</span> </a> </li> </ul><ul> <li> <a href="https://t.me/Provincia_autonoma_di_Trento" target="_blank" rel="noopener noreferrer"> <svg class="icon icon-sm align-top" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-telegram"></use></svg> <span class="visually-hidden">Telegram</span> </a> </li> </ul></div> </div> </div> </nav> </div> </div> </div></div><script>$(document).ready(function() {
+ $('#main-menu a').each(function (e) {
+ var node = $(this).data('node');
+ if (node) {
+ var href = $(this).attr('href');
+ if (UiContext === 'browse') {
+ href = '/content/browse/' + node;
+ }
+ $(this).attr('href', href);
+ var self = $(this);
+ $.each(PathArray, function (i, v) {
+ if (v === node) {
+ self.addClass('active').parents('li').addClass('active');
+ if (i === 0) {
+ self.addClass('active').parents('li').addClass('active');
+ }
+ }
+ });
+ }
+ });
+});</script> </div></header> <main> 
+ <div class="it-hero-wrapper it-wrapped-container" id="main-container"> <div class="img-responsive-wrapper"> <div class="img-responsive"> <div class="img-wrapper"> 
+ <img loading="eager" src="https://flyimg.opencityitalia.it/upload/rf_1,o_auto,w_2500,h_2500/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Fstatic.opencity.opencontent.it%2Fvar%2Fcidpat%2Fstorage%2Fimages%2Fmedia%2Fimages%2Fricerca-innovazione%2F5856358-1-ita-IT%2FRicerca-innovazione_reference.jpg"class=" img-fluid" style="border: 0px ;" alt="" title="" /> 
+ </div> </div> </div> 
+ <div class="container"> <div class="row"> <div class="col-12"> <div class="it-hero-card drop-shadow it-hero-bottom-overlapping rounded px-sm-3 px-lg-5 py-4 py-lg-5"> <div class="row justify-content-center"> <div class="col-12"> <div class="cmp-breadcrumbs mt-0" role="navigation"> <nav class="breadcrumb-container" aria-label="breadcrumb"> <ol class="breadcrumb p-0" data-element="breadcrumb"> <li class="breadcrumb-item"> <a href="/">Homepage</a> <span class="separator">/</span> </li> <li class="breadcrumb-item"> <a href="/Argomenti">Argomenti</a> <span class="separator">/</span> </li> <li class="breadcrumb-item active" aria-current="page"> Ricerca e innovazione
+ </li> </ol> </nav> </div> </div> </div> <div class="row sport-wrapper justify-content-between mt-lg-2"> <div class="col-12"> <h1 class="mb-3">Ricerca e innovazione</h1> <div class="u-main-black text-secondary mb-5"> <p>Il<strong>&nbsp;<a href="https://www.provincia.tn.it/Media/Test-vari/Test-Beatrice/Ricerca-e-innovazione/Il-Sistema-trentino-della-ricerca-e-dell-innovazione" title="Vai alla pagina sistema provinciale della r..." style="word-break: break-word;display:inline">sistema provinciale della ricerca e dell’innovazione</a></strong>&nbsp;rappresenta un motore fondamentale per la crescita del territorio, basato su una sinergia virtuosa tra governo provinciale, organismi di ricerca e imprese. Questo modello trova il suo fondamento normativo nella&nbsp;<a href="https://www.consiglio.provincia.tn.it/leggi-e-archivi/codice-provinciale/Pages/legge.aspx?uid=12567" title="Vai alla pagina Legge Provinciale 2 agosto..." target="_blank" rel="noopener noreferrer" style="word-break: break-word;display:inline">Legge Provinciale 2 agosto 2005, n. 14<svg class="icon icon-primary icon-sm ms-1" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-external-link"></use></svg></a>&nbsp;(Legge sulla ricerca), che disciplina gli interventi per il sostegno della ricerca e dell'innovazione, promuovendo l'eccellenza scientifica e la competitività del sistema territoriale.&nbsp;</p><p>In questo contesto, il&nbsp;<strong><a href="https://www.provincia.tn.it/Amministrazione/Documenti/Il-Programma-Pluriennale-della-Ricerca-PPR-della-XVI-Legislatura" title="Vai alla pagina Programma Pluriennale della..." style="word-break: break-word;display:inline">Programma Pluriennale della Ricerca (PPR)</a></strong>&nbsp;costituisce lo strumento strategico di pianificazione che definisce gli obiettivi di medio-lungo periodo, le aree d'intervento prioritario e i criteri di valutazione dei risultati. Approvato dalla Giunta provinciale previo parere del <a href="https://www.provincia.tn.it/Amministrazione/Organi-politici/Comitato-Ricerca-Innovazione-CRI" title="Vai alla pagina Comitato provinciale per la..." style="word-break: break-word;display:inline">Comitato provinciale per la ricerca e l'innovazione</a>, il PPR orienta le risorse verso la valorizzazione dei talenti e il rafforzamento del legame tra mondo scientifico e sistema economico.</p><p>Il sistema è rappresentato da enti di eccellenza come l’Università di Trento, la Fondazione Bruno Kessler (FBK) e la Fondazione Edmund Mach (FEM). Accanto a essi opera una rete capillare di centri di ricerca pubblici e privati e poli scientifico-tecnologici, supportati da strutture dedicate al trasferimento tecnologico e incubatori d’impresa - Fondazione Hub Innovazione Trentino (HIT) e Trentino Sviluppo - che trasformano la conoscenza in sviluppo economico.<br />Il raccordo tra la produzione di conoscenza e il tessuto produttivo è ulteriormente rafforzato dalla&nbsp;<a href="https://www.provincia.tn.it/Servizi/Aiuti-per-progetti-di-ricerca-e-sviluppo-L.p.-6-2023" title="Vai alla pagina Legge Provinciale 16 giugno..." target="_blank" rel="noopener noreferrer" style="word-break: break-word;display:inline">Legge Provinciale 16 giugno 2023, n. 6<svg class="icon icon-primary icon-sm ms-1" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-external-link"></use></svg></a>, che definisce il quadro degli interventi a sostegno del sistema economico trentino, al fine di stimolare&nbsp;gli<a href="https://www.provincia.tn.it/Argomenti/Ricerca-e-innovazione/Ricerca-industriale" title="Vai alla pagina &nbsp;investimenti privati..." style="word-break: break-word;display:inline"><strong>&nbsp;investimenti privati in R&amp;S</strong></a>.</p><p>In linea con questa visione, la&nbsp;<strong><a href="https://www.provincia.tn.it/Argomenti/Focus/Strategia-di-Specializzazione-Intelligente-S3" title="Vai alla pagina Strategia di Specializzazio..." style="word-break: break-word;display:inline">Strategia di Specializzazione Intelligente (S3)&nbsp;2021-2027</a></strong>&nbsp;della Provincia&nbsp;orienta oggi il sistema provinciale verso quattro aree tematiche prioritarie: Sostenibilità, montagna e risorse energetiche;&nbsp;ICT &amp; Trasformazione digitale; Industria intelligente; Salute, alimentazione e stili di vita. Il perseguimento di tali obiettivi poggia stabilmente sulle due direttrici trasversali della sostenibilità e della digitalizzazione, assunte come base per garantire un'innovazione che sia, al contempo, volano di sviluppo economico e strumento di tutela per il territorio.</p> 
+ </div> </div> </div> </div> </div> </div> </div></div> <div style="min-height: 80px"> 
+ <section class="page-topic " id="section-0"> <div class="bg-grey-card pt-40 pt-sm-100 pt-md-100 pb-50"> <div class="container"> <div class="it-header-block-title text-left mt-1 container"> <div class="counterupheader mb-3"> <h3 class="block-title ">Ricerca e innovazione in numeri</h3> </div></div><div class=""> <div class="container"> <div class="row ez-hero "> <div class="col-sm-12 col-md-4 col-lg-4"><div class="card-wrapper card-space pb-5"><div class="card card-bg no-after"><div class="card-body text-center"> <h1 class="mt-2 primary-color"><i class="fa fa-check-square"></i></h1><h2><div class="counter mt-4 mb-4">403.69 mln €</div></h2><h5 class="card-title mb-3">Spesa in R&S<br></h5>(Istat 2023)</h5> 
+ <div style="text-align: left;"><a href=https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0900ENT,1.0/DCSP_RS/DCSP_RS_EXPEND/IT1,6_20_DF_DCSP_RS_7,1.0
+ target="_blank">Leggi di più</a></div> </div></div></div></div> <div class="col-sm-12 col-md-4 col-lg-4"><div class="card-wrapper card-space pb-5"><div class="card card-bg no-after"><div class="card-body text-center"> <h1 class="mt-2 primary-color"><i class="fa fa-check-square"></i></h1><h2><div class="counter mt-4 mb-4">5.164 unità</div></h2><h5 class="card-title mb-3">Addetti in R&S<br></h5>(Istat 2023)</h5> 
+ <div style="text-align: left;"><a href=https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0900ENT,1.0/DCSP_RS/DCSP_RS_PERSON/IT1,6_20_DF_DCSP_RS_13,1.0
+ target="_blank">Leggi di più</a></div> </div></div></div></div><div class="col-sm-12 col-md-4 col-lg-4"><div class="card-wrapper card-space pb-5"><div class="card card-bg no-after"><div class="card-body text-center"> <h1 class="mt-2 primary-color"><i class="fa fa-check-square"></i></h1><h2><div class="counter mt-4 mb-4">1,46% </div></h2><h5 class="card-title mb-3">Incidenza spesa in R&S sul PIL<br></h5>(ISPAT 2022)</h5> <div style="text-align: left;"><a href=https://statweb.provincia.tn.it/annuario/?idg=8.1
+ target="_blank">Leggi di più</a></div> </div></div></div></div></div></div> </div> </div> </section> 
+ <section class="page-topic " id="section-in_evidenza"> <div class="py-5"> <div class="container"> 
+ <div class="row row-title pb-3"> <div class="col-12"> <h2 class="mb-2 block-title title-xxlarge">In evidenza</h2> </div> </div> <div class="row mx-lg-n3"> <div class="col-md-6 col-lg-4 mb-4"> 
+ <div data-object_id="81893"
+ class="card-wrapper border border-light rounded shadow-sm bg-white "> <div class="card no-after rounded"> <div class="img-responsive-wrapper"> <div class="img-responsive img-responsive-panoramic"> <figure class="img-wrapper"> 
+ <img loading="eager" src="https://flyimg.opencityitalia.it/upload/rf_1,o_auto,w_800,h_800/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Fstatic.opencity.opencontent.it%2Fvar%2Fcidpat%2Fstorage%2Fimages%2Fmedia%2Fimages%2Fbanner-premio-ricerca-2026%2F6039745-1-ita-IT%2Fbanner-premio-ricerca-2026_reference.jpg"class=" img-fluid" style="border: 0px ;" alt="Premio Trentino per la Ricerca per giovani ricercatrici e ricercatori - 2026" title="Premio Trentino per la Ricerca per giovani ricercatrici e ricercatori - 2026" /> 
+ </figure> </div> </div> <div class="card-body"> <div class="category-top"> <a class="category text-decoration-none" href="/Servizi"> Servizi </a> 
+ </div> <h3 class="card-title"><a data-element="service-link" class="text-decoration-none" href="https://www.provincia.tn.it/Servizi/Premio-Trentino-per-la-Ricerca-per-giovani-ricercatrici-e-ricercatori-2026">Premio Trentino per la Ricerca per giovani ricercatrici e ricercatori - 2026</a></h3> <div class="d-none d-md-block"><div><p class="card-text text-secondary"> Il Bando Premio Trentino per la Ricerca – Giovani ricercatrici e ricercatori per l’innovazione è volto a riconoscere e valorizzare la qualità e valenza scientifica dell’attività di ricerca</p></div></div> 
+ </div> </div></div> </div> <div class="col-md-6 col-lg-4 mb-4"> 
+ <div data-object_id="81745"
+ class="card-wrapper border border-light rounded shadow-sm bg-white "> <div class="card no-after rounded"> <div class="img-responsive-wrapper"> <div class="img-responsive img-responsive-panoramic"> <figure class="img-wrapper"> 
+ <img loading="eager" src="https://flyimg.opencityitalia.it/upload/rf_1,o_auto,w_800,h_800/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Fstatic.opencity.opencontent.it%2Fvar%2Fcidpat%2Fstorage%2Fimages%2Fmedia%2Fimages%2Fnella-foto-achille-spinelli3%2F5174759-1-ita-IT%2FNella-foto-Achille-Spinelli_reference.jpg"class=" img-fluid" style="border: 0px ;" alt="La Giunta provinciale approva il bando 2026 del Premio Trentino per la ricerca" title="La Giunta provinciale approva il bando 2026 del Premio Trentino per la ricerca" /> 
+ </figure> </div> </div> <div class="card-body"> <div class="category-top"> <a class="category text-decoration-none" href="/News/Comunicati-stampa"> Comunicati stampa </a> 
+ </div> <h3 class="card-title"><a data-element="ef0c031e9d5fc054e170966ce57b6905" class="text-decoration-none" href="http://www.ufficiostampa.provincia.tn.it/Comunicati/La-Giunta-provinciale-approva-il-bando-2026-del-Premio-Trentino-per-la-ricerca">La Giunta provinciale approva il bando 2026 del Premio Trentino per la ricerca</a></h3> <div class="d-none d-md-block"><div><p class="card-text text-secondary"><p>Iniziativa dedicata ai giovani ricercatori. Spinelli: &quot;Confermiamo la volontà di investire sui talenti&quot;</p></p></div><p class="card-text text-secondary info-date my-3 text-sans-serif"><span class="d-block text-nowrap text-sans-serif">Data di pubblicazione:</span><strong class="text-nowrap">Lunedì, 25 Maggio 2026</strong></p></div> 
+ </div> </div></div> </div> <div class="col-md-6 col-lg-4 mb-4"> 
+ <div data-object_id="81033"
+ class="card-wrapper border border-light rounded shadow-sm bg-white "> <div class="card no-after rounded"> <div class="img-responsive-wrapper"> <div class="img-responsive img-responsive-panoramic"> <figure class="img-wrapper"> 
+ <img loading="eager" src="https://flyimg.opencityitalia.it/upload/rf_1,o_auto,w_800,h_800/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Fstatic.opencity.opencontent.it%2Fvar%2Fcidpat%2Fstorage%2Fimages%2Fmedia%2Fimages%2Fdalla-ricerca-all-innovazione-puntata-1%2F6012829-1-ita-IT%2FDalla-ricerca-all-innovazione-puntata-1_reference.jpg"class=" img-fluid" style="border: 0px ;" alt="Un viaggio tra persone, progetti e collaborazioni verso l’innovazione. " title="Un viaggio tra persone, progetti e collaborazioni verso l’innovazione. " /> 
+ </figure> </div> </div> <div class="card-body"> <div class="category-top"> <a class="category text-decoration-none" href="/Amministrazione/Documenti"> Documenti </a> 
+ </div> <h3 class="card-title"><a data-element="bd5bde63b58d9d07526f0bd611b2a0b1" class="text-decoration-none" href="https://www.trentinoinnovation.eu/hit-stories/">Un viaggio tra persone, progetti e collaborazioni verso l’innovazione. </a></h3> <div class="d-none d-md-block"></div> 
+ </div> </div></div> </div> <div class="col-md-6 col-lg-4 mb-4"> 
+ <div data-object_id="76872"
+ class="card-wrapper border border-light rounded shadow-sm bg-white "> <div class="card no-after rounded"> <div class="img-responsive-wrapper"> <div class="img-responsive img-responsive-panoramic"> <figure class="img-wrapper"> 
+ <img loading="lazy" src="https://flyimg.opencityitalia.it/upload/rf_1,o_auto,w_800,h_800/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Fstatic.opencity.opencontent.it%2Fvar%2Fcidpat%2Fstorage%2Fimages%2Fmedia%2Fimages%2Fimmagine-di-frimufilms-su-freepik%2F5815235-1-ita-IT%2FImmagine-di-frimufilms-su-Freepik_reference.jpg"class=" img-fluid" style="border: 0px ;" alt="Programma FESR, 3 milioni di euro per sviluppare infrastrutture di prova e sperimentazione" title="Programma FESR, 3 milioni di euro per sviluppare infrastrutture di prova e sperimentazione" /> 
+ </figure> </div> </div> <div class="card-body"> <div class="category-top"> <a class="category text-decoration-none" href="/News/Comunicati-stampa"> Comunicati stampa </a> 
+ </div> <h3 class="card-title"><a data-element="09c7adcf6d6ed2c4e1ef7546269d7c1f" class="text-decoration-none" href="http://www.ufficiostampa.provincia.tn.it/Comunicati/Programma-FESR-3-milioni-di-euro-per-sviluppare-infrastrutture-di-prova-e-sperimentazione">Programma FESR, 3 milioni di euro per sviluppare infrastrutture di prova e sperimentazione</a></h3> <div class="d-none d-md-block"><div><p class="card-text text-secondary"><p>Approvato l’avviso 1/2026. Destinatarie micro, piccole e medie e grandi imprese, anche di nuova costituzione</p></p></div><p class="card-text text-secondary info-date my-3 text-sans-serif"><span class="d-block text-nowrap text-sans-serif">Data di pubblicazione:</span><strong class="text-nowrap">Venerdì, 06 Febbraio 2026</strong></p></div> 
+ </div> </div></div> </div> <div class="col-md-6 col-lg-4 mb-4"> 
+ <div data-object_id="77394"
+ class="card-wrapper border border-light rounded shadow-sm bg-white "> <div class="card no-after rounded"> <div class="img-responsive-wrapper"> <div class="img-responsive img-responsive-panoramic"> <figure class="img-wrapper"> 
+ <img loading="lazy" src="https://flyimg.opencityitalia.it/upload/rf_1,o_auto,w_800,h_800/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Fstatic.opencity.opencontent.it%2Fvar%2Fcidpat%2Fstorage%2Fimages%2Fmedia%2Fimages%2Ffesr-1-20264%2F5888684-1-ita-IT%2FFESR-1-2026_reference.png"class=" img-fluid" style="border: 0px ;" alt="Aiuti per infrastrutture di prova e sperimentazione - Avviso FESR n. 1/2026" title="Aiuti per infrastrutture di prova e sperimentazione - Avviso FESR n. 1/2026" /> 
+ </figure> </div> </div> <div class="card-body"> <div class="category-top"> <a class="category text-decoration-none" href="/Servizi"> Servizi </a> 
+ </div> <h3 class="card-title"><a data-element="service-link" class="text-decoration-none" href="https://www.provincia.tn.it/Servizi/Aiuti-per-infrastrutture-di-prova-e-sperimentazione-Avviso-FESR-n.-1-2026">Aiuti per infrastrutture di prova e sperimentazione - Avviso FESR n. 1/2026</a></h3> <div class="d-none d-md-block"><div><p class="card-text text-secondary">Avviso volto a sostenere, nell’ambito del Programma FESR 2021-2027, la realizzazione sul territorio trentino di infrastrutture private di prova e sperimentazione</p></div><div><div class="card-text text-secondary"> <div class="mb-3"> 
+ <img loading="lazy" src="https://flyimg.opencityitalia.it/upload/rf_1,o_auto,w_2500,h_2500/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Fstatic.opencity.opencontent.it%2Fvar%2Fcidpat%2Fstorage%2Fimages%2Fmedia%2Fimages%2Fbanner-orizz.-a-colori3%2F5835803-2-ita-IT%2FBanner-orizz.-a-colori_reference.png"class=" img-fluid" style="max-height: 200px;border: 0px ;" alt="" title="" /> 
+ </div></div></div></div> 
+ </div> </div></div> </div> </div> 
+ </div> </div> </section> 
+ <section class="page-topic " id="section-2"> 
+ </section> 
+ <section class="page-topic " id="section-il_sistema_trentino_della_ricerca_e_dell_innovazione"> <div class="section section-muted"> 
+ <div class="container"></div> 
+ <div class="block-evidence"> <div class="container position-relative overflow-hidden"> <div class="row position-relative"> <div class="col-12 col-lg-6"> <div class="py-4 px-2"> <h3 class="h4 mt-0 mb-2"> <a href="https://www.provincia.tn.it/News/Approfondimenti/Il-Sistema-trentino-della-ricerca-e-dell-innovazione" class="text-decoration-none font-weight-bold"> Il Sistema trentino della ricerca e dell'innovazione
+ </a> </h3> <div class="lead evidence-text bg-grey-card rounded w-100"> <p>Un modello d’eccellenza basato sulla sinergia tra governo provinciale, università, fondazioni, enti del territorio e imprese, che trasforma la conoscenza in sviluppo economico.</p> <div class="row mt-5 mb-4"><div class="col"><small class="d-block text-nowrap font-sans-serif">Data di pubblicazione:</small><p class="fw-semibold font-monospace text-nowrap">17/02/2026</p></div></div> </div> </div> </div> <div class="col col-lg-6"> <img
+ src="https://flyimg.opencityitalia.it/upload/rf_1,o_auto,w_2500,h_2500/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Fstatic.opencity.opencontent.it%2Fvar%2Fcidpat%2Fstorage%2Fimages%2Fmedia%2Fimages%2Flogo-trentino-research-s%2F5888148-4-ita-IT%2FLogo-trentino-research-s_reference.png"
+ style="object-fit: cover;"
+ class="h-100 w-100"
+ role="presentation"
+ loading="lazy" /> </div> </div> </div> </div> 
+ </div> </section> 
+ <section class="page-topic " id="section-temi"> <div class="py-5"> <div class="container"> 
+ <div class="row row-title pb-3"> <div class="col-12"> <h2 class="block-title">Temi</h2> </div> </div> 
+ <div class="card-wrapper card-teaser-wrapper card-teaser-wrapper-equal card-teaser-block-3 "> <div data-object_id="24884"
+ class="opencity-banner-color card card-teaser rounded mt-0 p-3 bg-primary "> <div class="card-body"> <h3 class="card-title text-white font-sans-serif mb-1"> <a data-element="0b5baaa0917d47daca62688a20a293da" class="text-white" href="https://www.provincia.tn.it/Amministrazione/Documenti/Il-Programma-Pluriennale-della-Ricerca-PPR-della-XVII-Legislatura"> Il Programma Pluriennale della Ricerca (PPR) della XVII Legislatura </a> </h3> <p class="card-text text-sans-serif text-white">Il Programma Pluriennale della Ricerca (PPR) è l' atto approvato dalla Giunta provinciale, sentito il parere del Comitato provinciale per la ricerca e...</p> 
+ </div></div> <div data-object_id="645"
+ class="opencity-banner-color card card-teaser rounded mt-0 p-3 bg-primary "> <div class="avatar size-lg me-3"> 
+ <img loading="lazy" src="https://flyimg.opencityitalia.it/upload/rf_1,o_auto,w_400,h_400/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Fstatic.opencity.opencontent.it%2Fvar%2Fcidpat%2Fstorage%2Fimages%2Fmedia%2Fimages%2Fpattern-s3%2F5985655-1-ita-IT%2FPattern-S3_reference.jpg"class=" img-fluid" style="border: 0px ;" alt="" title="" /> 
+ </div> <div class="card-body"> <h3 class="card-title text-white font-sans-serif mb-1"> <a data-element="topic-element" class="text-white" href="https://www.provincia.tn.it/Argomenti/Focus/Strategia-di-Specializzazione-Intelligente-S3"> Strategia di Specializzazione Intelligente (S3) </a> </h3> <p class="card-text text-sans-serif text-white">Per migliorare e rafforzare l’efficacia delle politiche pubbliche a favore della ricerca e l’innovazione, l’Unione Europea ha adottato lo strumento...</p> 
+ </div></div> <div data-object_id="678"
+ class="opencity-banner-color card card-teaser rounded mt-0 p-3 bg-primary "> <div class="avatar size-lg me-3"> 
+ <img loading="lazy" src="https://flyimg.opencityitalia.it/upload/rf_1,o_auto,w_400,h_400/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Fstatic.opencity.opencontent.it%2Fvar%2Fcidpat%2Fstorage%2Fimages%2Fmedia%2Fimages%2Fbanner-industriale%2F10325-2-ita-IT%2Fbanner-industriale_reference.jpg"class=" img-fluid" style="border: 0px ;" alt="" title="" /> 
+ </div> <div class="card-body"> <h3 class="card-title text-white font-sans-serif mb-1"> <a data-element="topic-element" class="text-white" href="https://www.provincia.tn.it/Argomenti/Ricerca-e-innovazione/Ricerca-industriale"> Ricerca industriale </a> </h3> <p class="card-text text-sans-serif text-white">Il Sistema trentino della ricerca e dell'innovazione si evolve per rispondere alle sfide globali, ponendo al centro la capacità di trasformare...</p> 
+ </div></div> </div> 
+ </div> </div> </section> 
+ <section class="page-topic " id="section-comunicati_stampa"> <div class="section section-muted py-5"> <div class="container"> <div class="hide" data-view="card"
+ data-block_subtree_query="sort [published=>desc,raw[meta_main_node_id_si]=>desc] and raw[submeta_topics___main_node_id____si] in [559] and subtree [94] and raw[meta_depth_si] range [4,*]"
+ data-subtree_filter="raw[meta_path_si]"
+ data-limit="3"
+ data-items_per_row="3"
+ data-icon="it-horn"><div class="row row-title g-0"><div class="col "><div class="d-md-flex justify-content-between border-bottom"><h2 class="mb-3 block-title" style="border:none !important;padding-bottom: 0 !important;">Comunicati stampa</h2><div class="filters-wrapper mt-0 mb-3 ms-3 text-end hide"><button type="button" title="Tutto" class="btn btn-secondary btn-sm mb-1 me-1 py-1 px-2" data-block_subtree_filter>Tutto</button></div></div></div></div><div class="py-4 results"></div><div class="row mt-4"> <div class="col-12 col-lg-3 offset-lg-9"> <button type="button"
+ href="/News/Comunicati-stampa"
+ onclick="location.href = '/News/Comunicati-stampa';"
+ data-element="news-category-link" class="btn btn-primary text-button w-100"> <span> Vedi tutti
+ </span> </button> </div></div></div><style>.category-placeholder{
+ width:150px;
+ height: 16px;
+ }
+ .title-placeholder{
+ width:300px;
+ height: 50px;
+ }
+ .text-placeholder{
+ width:350px;
+ height: 130px;
+ }
+ .link-placeholder{
+ width:180px;
+ height: 16px;
+ }
+ .category-placeholder, .title-placeholder, .text-placeholder, .link-placeholder {
+ border-radius: 3px;
+ display: inline-block;
+ background: #ebeef0;
+ animation: hintloading 1s ease-in-out 0s infinite reverse;
+ -webkit-animation: hintloading 1s ease-in-out 0s infinite reverse;
+ }
+ @keyframes hintloading
+ {
+ 0% {
+ opacity: 0.5;
+ }
+ 50% {
+ opacity: 1;
+ }
+ 100% {
+ opacity: 0.5;
+ }
+ }
+ @-webkit-keyframes hintloading
+ {
+ 0% {
+ opacity: 0.5;
+ }
+ 50% {
+ opacity: 1;
+ }
+ 100% {
+ opacity: 0.5;
+ }
+ }</style><script id="tpl-results" type="text/x-jsrender"> <div class="row mx-lg-n3{{if !autoColumn && itemsPerRow != 'auto'}} row-cols-1 row-cols-md-2 g-4 row-cols-lg-{{:itemsPerRow}}{{/if}}"{{if itemsPerRow == 'auto'}} data-bs-toggle="masonry"{{/if}}>{{if autoColumn}}<div class="card-wrapper card-teaser-wrapper card-teaser-wrapper-equal card-teaser-block-{{:itemsPerRow}}">{{/if}}
+ {{for searchHits ~contentIcon=icon ~itemsPerRow=itemsPerRow ~autoColumn=autoColumn}}
+ {{if !~autoColumn}}<div class="{{if ~itemsPerRow == 'auto'}}col-sm-6 col-lg-4 mb-4 card-wrapper card-teaser-wrapper card-teaser-masonry-wrapper{{/if}}">{{/if}}
+ {{if ~i18n(extradata, 'view')}}
+ {{:~i18n(extradata, 'view')}}
+ {{else}}<a href="{{if ~i18n(extradata,'urlAlias')}}{{:~i18n(extradata,'urlAlias')}}{{else}}{{:baseUrl}}openpa/object/{{:metadata.id}}{{/if}}" class="card card-teaser rounded shadow" style="text-decoration:none !important"><div class="card-body">{{if ~contentIcon && subtree}}<div class="category-top"><svg class="icon"><use xlink:href="/extension/openpa_bootstrapitalia/design/standard/images/svg/sprite.svg#{{:~contentIcon}}"></use></svg><span class="category" href="{{:subtree.url}}">{{:subtree.text}}</span></div>{{/if}}<h5 class="card-title">{{:~i18n(metadata.name)}}</h5></div></a>{{/if}}
+ {{if !~autoColumn}}</div>{{/if}}
+ {{/for}}
+ {{if autoColumn}}</div>{{/if}}</div>{{if pageCount > 1}}<div class="row mt-4"> <div class="col"> <nav class="pagination-wrapper justify-content-center" aria-label="Navigazione"> <ul class="pagination"> {{if prevPageQuery}}
+ <li class="page-item"> <a class="page-link prevPage" data-page="{{>prevPage}}" href="#"> <svg class="icon icon-primary" role="presentation" focusable="false"> <use xlink:href="/extension/openpa_bootstrapitalia/design/standard/images/svg/sprite.svg#it-chevron-left"></use> </svg> <span class="sr-only">Pagina precedente</span> </a> </li> {{/if}} 
+ {{for pages ~current=currentPage}} <li class="page-item"><a href="#" class="page-link page" data-page_number="{{:page}}" data-page="{{:query}}"{{if ~current == query}} data-current aria-current="page"{{/if}}>{{:page}}</a></li>{{/for}} 
+ {{if nextPageQuery }} 
+ <li class="page-item"> <a class="page-link nextPage" data-page="{{>nextPage}}" href="#"> <span class="sr-only">Pagina successiva</span> <svg class="icon icon-primary" role="presentation" focusable="false"> <use xlink:href="/extension/openpa_bootstrapitalia/design/standard/images/svg/sprite.svg#it-chevron-right"></use> </svg> </a> </li> {{/if}}
+ </ul> </nav> </div></div>{{/if}}</script> </div> </div> </section> 
+ <section class="page-topic " id="section-servizi_e_bandi"> 
+ <div class="py-5 position-relative remote-gui-wrapper" > <div class="container"> <div class="row row-title pb-3"> <div class="col-12"> <h2 class="block-title">Servizi e bandi</h2> </div> </div> <div class="row" id="remote-gui-a4df8c914fe4e74c9c994cc609a6b31c"> <div class="col-12 col-lg-4 ps-lg-5"> <ul class="nav d-block nav-pills text-start d-none d-flex align-items-start flex-xxl-row"> <li class="nav-item pr-1 pe-1 text-center mb-1"> <a data-toggle="tab" data-bs-toggle="tab"
+ class="nav-link active rounded view-selector text-uppercase"
+ href="#remote-gui-a4df8c914fe4e74c9c994cc609a6b31c-list"> <i aria-hidden="true" class="fa fa-list"></i> Lista
+ </a> </li> </ul> <div class="px-0 my-4 mb-5"> <label class="h6 ms-0 ps-0" for="facet-a4df8c914fe4e74c9c994cc609a6b31c-0">Stato servizio</label> <select id="facet-a4df8c914fe4e74c9c994cc609a6b31c-0"
+ data-placeholder="Seleziona"
+ data-facets_select="facet-0"
+ class="d-none" multiple></select> </div> 
+ </div> 
+ <section
+ class="order-lg-first col-12 col-lg-8 pt-lg-2 pb-lg-2 mb-5 mb-lg-0"> <div class="form-group mb-2 mb-lg-4 search-form"> <div class="input-group"> <span class="input-group-text h-auto"><svg class="icon icon-sm" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-search"></use></svg></span> <label for="search-input-a4df8c914fe4e74c9c994cc609a6b31c" class="visually-hidden">Ricerca libera</label> <input type="text" class="form-control" id="search-input-a4df8c914fe4e74c9c994cc609a6b31c" data-search="q"
+ placeholder="Ricerca libera" name="search-input-a4df8c914fe4e74c9c994cc609a6b31c"> <div class="input-group-append"> <button class="btn btn-primary" type="button"
+ id="button-3">Cerca</button> </div> </div> </div> <div class="items tab-content"> <section id="remote-gui-a4df8c914fe4e74c9c994cc609a6b31c-list" class="tab-pane active pt-0 pl-0 ps-0"></section> </div> </section> </div> 
+ </div></div><script> $(document).ready(function () { moment.locale($.opendataTools.settings('locale'));
+ $.views.helpers($.extend({}, $.opendataTools.helpers, { 'remoteUrl': function (remoteUrl, id) { return remoteUrl + '/openpa/object/' + id;
+ },
+ 'mainImage': function (remoteUrl, id, css) { return '<img alt="" src="' + remoteUrl + '/image/view/' + id + '" class="' + css + '" loading="lazy" />';
+ },
+ }));
+ $("#remote-gui-a4df8c914fe4e74c9c994cc609a6b31c").remoteContentsGui({ 'queryBuilder': "browser",
+ 'remoteUrl': "",
+ 'localAccessPrefix': "/",
+ 'spinnerTpl': '#tpl-remote-gui-spinner',
+ 'listTpl': '#tpl-remote-gui-list',
+ 'popupTpl': '#tpl-remote-gui-item',
+ 'itemsPerRow': '2',
+ 'limitPagination': 4,
+ 'query': "topics.id = [569] subtree [71] classes [public_service,link] sort [modified=> desc]",
+ 'hideIfEmpty': false,
+ 'customTpl': "#tpl-remote-gui-item-inner-a4df8c914fe4e74c9c994cc609a6b31c",
+ 'useCustomTpl': false,
+ 'view': 'card',
+ 'locale': 'it',
+ 'i18n': { calendarToday: 'Oggi',
+ calendarMoreEvents: 'vedi tutti',
+ placeholder: 'Seleziona un elemento',
+ noResults: 'Nessun risultato trovato',
+ assistiveHint: 'Quando sono disponibili risultati di completamento automatico, utilizza le frecce su e giù per esaminarli e premi Invio per selezionare. Gli utenti di dispositivi touch possono esplorare toccando o scorrendo con gesti.',
+ selectedOptionDescription: 'Premio Invio o Spazio per rimuovere la selezione',
+ } ,'facets':['has_service_status'] });
+ });</script><script> $.opendataTools.settings('language', "ita-IT");
+ $.opendataTools.settings('locale', "it");</script><script id="tpl-remote-gui-spinner" type="text/x-jsrender"><div class="col-xs-12 spinner{{if paginationStyle == 'reload'}} text-center py-5{{/if}}"> <i aria-hidden="true" class="fa fa-circle-o-notch fa-spin fa-fw {{if paginationStyle == 'reload'}}fa-3x py-5{{else}}fa-2x{{/if}}"></i> <span class="sr-only">{'Loading...'|i18n('editorialstuff/dashboard')}</span></div></script><script id="tpl-remote-gui-list" type="text/x-jsrender">{{if totalCount == 0}}
+ <div class="row"> <div class="col text-center py-4" role="status"> <i aria-hidden="true" class="fa fa-times"></i> Nessun contenuto
+ </div> </div>{{else paginationStyle === 'append' || view === 'latest_messages_item'}}
+ {{if currentPage == 0 && totalCount > searchHits.length}}
+ <div class="row"> <p class="mb-4 results-count" role="status"><strong>{{:totalCount}}</strong> {{if totalCount > 1}}contenuti trovati{{else}}contenuto trovato{{/if}}</p> </div> {{/if}}
+ {{for searchHits}}
+ {{include tmpl="#tpl-remote-gui-item"/}}
+ {{/for}}
+ {{if nextPageQuery}}<button type="button" data-page="{{>nextPage}}" class="nextPage btn btn-outline-primary pt-15 pb-15 pl-90 pr-90 mb-30 mt-3 mb-lg-50 full-mb text-button" data-element="load-other-cards"> <span class="">Carica altri risultati</span></button>{{else}}<p class="text-paragraph-regular-medium mt-4 mb-0">Nessun altro risultato</p>{{/if}}
+ {{else}}
+ {{if totalCount > searchHits.length}}
+ <div class="row"> <p class="mb-4 results-count" role="status"><strong>{{:totalCount}}</strong> {{if totalCount > 1}}contenuti trovati{{else}}contenuto trovato{{/if}}</p> </div> {{/if}}
+ <div class="row mx-lg-n3{{if !autoColumn && itemsPerRow != 'auto'}} row-cols-1 row-cols-md-2 row-cols-lg-{{:itemsPerRow}}{{/if}}"{{if itemsPerRow == 'auto'}} data-bs-toggle="masonry"{{/if}}> {{if autoColumn}}<div class="card-wrapper card-teaser-wrapper card-teaser-wrapper-equal card-teaser-block-{{:itemsPerRow}}">{{/if}}
+ {{for searchHits ~contentIcon=icon ~itemsPerRow=itemsPerRow ~autoColumn=autoColumn}}
+ {{if !~autoColumn}}<div class="{{if ~itemsPerRow == 'auto'}}col-sm-6 col-lg-4 mb-4 card-wrapper card-teaser-wrapper card-teaser-masonry-wrapper{{else}}px-3 pb-3{{/if}}">{{/if}}
+ {{if ~i18n(extradata, 'view') && !useCustomTpl}}
+ {{:~i18n(extradata, 'view')}}
+ {{else}}
+ <div class="card card-teaser rounded shadow" style="text-decoration:none !important"> {{include tmpl="#tpl-remote-gui-item"/}}
+ </div> {{/if}}
+ {{if !~autoColumn}}</div>{{/if}}
+ {{/for}}
+ {{if autoColumn}}</div>{{/if}}
+ </div> {{if pageCount > 1}}
+ <div class="row mt-lg-4 remote-pagination"> <div class="col"> <nav class="pagination-wrapper justify-content-center" aria-label="Navigazione"> <ul class="pagination"> <li class="page-item {{if !prevPageQuery}}disabled{{/if}}"> <a class="page-link prevPage" {{if prevPageQuery}}data-page="{{>prevPage}}" href="#"{{/if}} > <svg class="icon icon-primary" aria-hidden="true" focusable="false"> <use xlink:href="/extension/openpa_bootstrapitalia/design/standard/images/svg/sprite.svg#it-chevron-left"></use> </svg> <span class="sr-only">Precedente</span> </a> </li> {{for pages ~current=currentPage}}
+ <li class="page-item"> <a
+ href="#"
+ class="page-link page"
+ data-page_number="{{:page}}"
+ data-page="{{:query}}"{{if ~current == query}}
+ data-current
+ aria-current="page"{{/if}}
+ >{{:page}}</a></li> {{/for}}
+ <li class="page-item {{if !nextPageQuery}}disabled{{/if}}"> <a class="page-link nextPage" {{if nextPageQuery}}data-page="{{>nextPage}}" href="#"{{/if}}> <span class="sr-only">Successivo</span> <svg class="icon icon-primary" aria-hidden="true" focusable="false"> <use xlink:href="/extension/openpa_bootstrapitalia/design/standard/images/svg/sprite.svg#it-chevron-right"></use> </svg> </a> </li> </ul> </nav> </div> </div> {{/if}}
+ {{/if}}</script><script id="tpl-remote-gui-item" type="text/x-jsrender"> {{if ~i18n(extradata, 'view') && !useCustomTpl}}
+ {{:~i18n(extradata, 'view')}}
+ {{else}}
+ {{include tmpl=customTpl /}}
+ {{/if}}</script><script id="tpl-remote-gui-item-inner-a4df8c914fe4e74c9c994cc609a6b31c" type="text/x-jsrender"> 
+ <div class="d-flex w-100"> <div class="card-body p-0"> <h5 class="card-title"> {{:~i18n(metadata.name)}}
+ </h5> <div style="padding-bottom: 34px;"> {{for fields ~current=data}}
+ {{if ~i18n(~current, #data)}}<div class="card-text">{{:~i18n(~current, #data)}}</div>{{/if}}
+ {{/for}}
+ </div> <a class="read-more" href="{{:~remoteUrl(remoteUrl, metadata.id)}}"> <span class="text">Leggi di più</span> <svg class="icon"><use xlink:href="/extension/openpa_bootstrapitalia/design/standard/images/svg/sprite.svg#it-arrow-right" aria-label="Leggi di più"></use></svg> </a> </div> </div> </script><style> .ec-event-title,
+ .ec-event-time {
+ font-size: 0.8rem;
+ line-height: 1.3em;
+ font-weight: 600 !important;
+ }
+ .ec-popup .ec-events {
+ overflow: visible !important;
+ }
+ .ec-day-grid .ec-day-foot a {
+ text-decoration: underline !important;
+ }
+ .ec-event {
+ padding-left: 8px !important;
+ padding-right: 8px !important;
+ }
+ .ec-popup {
+ min-width: 300px !important;
+ max-height: 500px !important;
+ overflow: auto !important;
+ }</style> 
+ </section> 
+ <section class="page-topic " id="section-progetti_di_ricerca"> <div class="section section-muted"> 
+ <div class="py-5 position-relative remote-gui-wrapper" > <div class="container"> <div class="row row-title pb-3"> <div class="col-12"> <h2 class="block-title">Progetti di ricerca</h2> </div> </div> <div class="row" id="remote-gui-365605465ced05260990ea26dae4eb74"> <div class="col-12 col-lg-4 ps-lg-5"> <ul class="nav d-block nav-pills text-start d-none d-flex align-items-start flex-xxl-row"> <li class="nav-item pr-1 pe-1 text-center mb-1"> <a data-toggle="tab" data-bs-toggle="tab"
+ class="nav-link active rounded view-selector text-uppercase"
+ href="#remote-gui-365605465ced05260990ea26dae4eb74-list"> <i aria-hidden="true" class="fa fa-list"></i> Lista
+ </a> </li> </ul> <div class="px-0 my-4 mb-5"> <label class="h6 ms-0 ps-0" for="facet-365605465ced05260990ea26dae4eb74-0">Stato di avanzamento</label> <select id="facet-365605465ced05260990ea26dae4eb74-0"
+ data-placeholder="Seleziona"
+ data-facets_select="facet-0"
+ class="d-none" multiple></select> </div> 
+ </div> 
+ <section
+ class="order-lg-first col-12 col-lg-8 pt-lg-2 pb-lg-2 mb-5 mb-lg-0"> <div class="form-group mb-2 mb-lg-4 search-form"> <div class="input-group"> <span class="input-group-text h-auto"><svg class="icon icon-sm" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-search"></use></svg></span> <label for="search-input-365605465ced05260990ea26dae4eb74" class="visually-hidden">Cerca per parola chiave</label> <input type="text" class="form-control" id="search-input-365605465ced05260990ea26dae4eb74" data-search="q"
+ placeholder="Cerca per parola chiave" name="search-input-365605465ced05260990ea26dae4eb74"> <div class="input-group-append"> <button class="btn btn-primary" type="button"
+ id="button-3">Cerca</button> </div> </div> </div> <div class="items tab-content"> <section id="remote-gui-365605465ced05260990ea26dae4eb74-list" class="tab-pane active pt-0 pl-0 ps-0"></section> </div> </section> </div> 
+ </div></div><script> $(document).ready(function () { moment.locale($.opendataTools.settings('locale'));
+ $.views.helpers($.extend({}, $.opendataTools.helpers, { 'remoteUrl': function (remoteUrl, id) { return remoteUrl + '/openpa/object/' + id;
+ },
+ 'mainImage': function (remoteUrl, id, css) { return '<img alt="" src="' + remoteUrl + '/image/view/' + id + '" class="' + css + '" loading="lazy" />';
+ },
+ }));
+ $("#remote-gui-365605465ced05260990ea26dae4eb74").remoteContentsGui({ 'queryBuilder': "browser",
+ 'remoteUrl': "",
+ 'localAccessPrefix': "/",
+ 'spinnerTpl': '#tpl-remote-gui-spinner',
+ 'listTpl': '#tpl-remote-gui-list',
+ 'popupTpl': '#tpl-remote-gui-item',
+ 'itemsPerRow': '2',
+ 'limitPagination': 6,
+ 'query': "topics.id = [569] classes [public_project] sort [modified=> desc]",
+ 'hideIfEmpty': false,
+ 'customTpl': "#tpl-remote-gui-item-inner-365605465ced05260990ea26dae4eb74",
+ 'useCustomTpl': false,
+ 'view': 'card_teaser',
+ 'locale': 'it',
+ 'i18n': { calendarToday: 'Oggi',
+ calendarMoreEvents: 'vedi tutti',
+ placeholder: 'Seleziona un elemento',
+ noResults: 'Nessun risultato trovato',
+ assistiveHint: 'Quando sono disponibili risultati di completamento automatico, utilizza le frecce su e giù per esaminarli e premi Invio per selezionare. Gli utenti di dispositivi touch possono esplorare toccando o scorrendo con gesti.',
+ selectedOptionDescription: 'Premio Invio o Spazio per rimuovere la selezione',
+ } ,'facets':['has_status'] });
+ });</script><script id="tpl-remote-gui-item" type="text/x-jsrender"> {{if ~i18n(extradata, 'view') && !useCustomTpl}}
+ {{:~i18n(extradata, 'view')}}
+ {{else}}
+ {{include tmpl=customTpl /}}
+ {{/if}}</script><script id="tpl-remote-gui-item-inner-365605465ced05260990ea26dae4eb74" type="text/x-jsrender"> 
+ <div class="d-flex w-100"> <div class="card-body p-0"> <h5 class="card-title"> {{:~i18n(metadata.name)}}
+ </h5> <div style="padding-bottom: 34px;"> {{for fields ~current=data}}
+ {{if ~i18n(~current, #data)}}<div class="card-text">{{:~i18n(~current, #data)}}</div>{{/if}}
+ {{/for}}
+ </div> <a class="read-more" href="{{:~remoteUrl(remoteUrl, metadata.id)}}"> <span class="text">Leggi di più</span> <svg class="icon"><use xlink:href="/extension/openpa_bootstrapitalia/design/standard/images/svg/sprite.svg#it-arrow-right" aria-label="Leggi di più"></use></svg> </a> </div> </div> </script><style> .ec-event-title,
+ .ec-event-time {
+ font-size: 0.8rem;
+ line-height: 1.3em;
+ font-weight: 600 !important;
+ }
+ .ec-popup .ec-events {
+ overflow: visible !important;
+ }
+ .ec-day-grid .ec-day-foot a {
+ text-decoration: underline !important;
+ }
+ .ec-event {
+ padding-left: 8px !important;
+ padding-right: 8px !important;
+ }
+ .ec-popup {
+ min-width: 300px !important;
+ max-height: 500px !important;
+ overflow: auto !important;
+ }</style> </div> </section> 
+ <section class="page-topic " id="section-siti_web_del_sistema_provinciale"> <div class="py-5"> <div class="container"> 
+ <div class="row row-title pb-3"> <div class="col-12"> <h2 class="block-title">Siti web del sistema provinciale</h2> </div> </div> 
+ <div class="card-wrapper card-teaser-wrapper card-teaser-wrapper-equal card-teaser-block-2 "> <div data-object_id="25780"
+ class="opencity-banner-color card card-teaser rounded mt-0 p-3 bg-primary "> <div class="avatar size-lg me-3"> 
+ <img loading="lazy" src="https://flyimg.opencityitalia.it/upload/rf_1,o_auto,w_400,h_400/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Fstatic.opencity.opencontent.it%2Fvar%2Fcidpat%2Fstorage%2Fimages%2Fmedia%2Fimages%2F4073401%2F498010-3-ita-IT%2F4073401_reference.png"class=" img-fluid" style="border: 0px ;" alt="" title="" /> 
+ </div> <div class="card-body"> <h3 class="card-title text-white font-sans-serif mb-1"> <a data-element="2efed043d5a6d5b034d5e7ce7a00eb92" class="text-white" href="https://dati.trentino.it/"> Open data in Trentino </a> </h3> <p class="card-text text-sans-serif text-white"> Catalogo federato dei dati aperti del sistema pubblico trentino, nodo provinciale della rete dei cataloghi open data nazionali ed europeo.</p> 
+ </div></div> <div data-object_id="25623"
+ class="opencity-banner-color card card-teaser rounded mt-0 p-3 bg-primary "> <div class="avatar size-lg me-3"> 
+ <img loading="lazy" src="https://flyimg.opencityitalia.it/upload/rf_1,o_auto,w_400,h_400/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Fstatic.opencity.opencontent.it%2Fvar%2Fcidpat%2Fstorage%2Fimages%2Fmedia%2Fimages%2Ftrentno-research-habitat%2F5829539-1-ita-IT%2FTrentno-Research-Habitat_reference.png"class=" img-fluid" style="border: 0px ;" alt="" title="" /> 
+ </div> <div class="card-body"> <h3 class="card-title text-white font-sans-serif mb-1"> <a data-element="c577cd8026a7e278a94d3c6781e5ccc8" class="text-white" href="https://forumperlaricerca.provincia.tn.it/"> Forum per la ricerca </a> </h3> <p class="card-text text-sans-serif text-white">Il Forum per la ricerca, denominato “Trentino Research Habitat” è stato istituito dalla Provincia autonoma di Trento nell’aprile 2019 e si è...</p> 
+ </div></div> </div> 
+ </div> </div> </section> 
+ <section class="page-topic " id="section-strutture_di_riferimento"> <div class="section section-muted py-5"> <div class="container"> 
+ <div class="row row-title pb-3"> <div class="col-12"> <h2 class="block-title">Strutture di riferimento</h2> </div> </div> <div class="row mx-lg-n3"> <div class="col-md-6 col-lg-6 mb-4"> 
+ <div data-object_id="16831"
+ class="card-wrapper border border-light rounded shadow-sm bg-white "> <div class="card no-after rounded"> 
+ <div class="card-body"> <div class="category-top"> <a class="category text-decoration-none" href="/Amministrazione/Strutture-organizzative"> Strutture organizzative </a> 
+ </div> <h3 class="card-title"><a data-element="structureD323" class="text-decoration-none" href="https://www.provincia.tn.it/Amministrazione/Strutture-organizzative/Dipartimento-sviluppo-economico-ricerca-e-lavoro">Dipartimento sviluppo economico, ricerca e lavoro</a></h3> <div class="d-none d-md-block"></div> 
+ </div> </div></div> </div> <div class="col-md-6 col-lg-6 mb-4"> 
+ <div data-object_id="17241"
+ class="card-wrapper border border-light rounded shadow-sm bg-white "> <div class="card no-after rounded"> 
+ <div class="card-body"> <div class="category-top"> <a class="category text-decoration-none" href="/Amministrazione/Strutture-organizzative"> Strutture organizzative </a> 
+ </div> <h3 class="card-title"><a data-element="structureS181" class="text-decoration-none" href="https://www.provincia.tn.it/Amministrazione/Strutture-organizzative/Servizio-industria-ricerca-e-minerario">Servizio industria, ricerca e minerario</a></h3> <div class="d-none d-md-block"></div> 
+ </div> </div></div> </div> </div> 
+ </div> </div> </section> 
+ </div> 
+ </main> <div class="modal fade search-modal" id="search-modal" tabindex="-1" role="dialog" aria-hidden="true"> <div class="modal-dialog modal-lg" role="document"> <div class="modal-content perfect-scrollbar"> <div class="modal-body"> <form action="/content/search" method="get"> <div class="container"> <div class="row variable-gutters"> <div class="col"> <div class="modal-title"> <button class="search-link d-md-none"
+ type="button" data-bs-toggle="modal"
+ data-bs-target="#search-modal"
+ aria-label="Chiudi"> <svg class="icon icon-md" role="presentation" focusable="false"> <use href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-arrow-left"></use> </svg> </button> <h2>Cerca</h2> <button class="search-link d-none d-md-block"
+ type="button"
+ data-bs-toggle="modal"
+ data-bs-target="#search-modal"
+ aria-label="Chiudi"> <svg class="icon icon-md" role="presentation" focusable="false"> <use href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-close-big"></use> </svg> </button> </div> <div class="form-group autocomplete-wrapper"> <label for="main-search-input" class="sr-only">Cerca nel sito</label> <input type="search" class="autocomplete ps-5 w-100" placeholder="Cerca nel sito"
+ id="main-search-input"
+ name="SearchText"
+ data-bs-autocomplete="[]"> <span class="autocomplete-icon" role="presentation" focusable="false"> <svg class="icon" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-search"></use></svg> </span> <button type="submit" class="btn btn-primary"> <span class="">Cerca</span> </button> </div> </div> </div> </div> </form> </div> </div> </div></div><div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls" style="display: none;"> <div class="slides"></div> <h3 class="title"><span class="sr-only">gallery</span></h3> <a class="prev" href="#" aria-label="Precedente">‹</a> <a class="next" href="#" aria-label="Successivo">›</a> <a class="close" href="#" aria-label="Chiudi">×</a> <a class="play-pause" href="#" aria-label="play/pause"></a> <ol class="indicator"></ol></div> <script> $(document).on('shown.bs.modal', '.modal', function() {
+ $('#main-search-input').focus();
+ });
+ </script> <div class="bg-primary"> <div class="container"> <div class="row d-flex justify-content-center"> <div class="col-12 col-lg-6 p-lg-0 px-4 satisfy-placeholder" data-load_deferred="1" data-satisfy="1b2e195d-a769-4754-a45f-8ea4b28a1065"> <div class="cmp-rating mt-lg-80 mb-lg-80 p-0 bg-white" data-element="feedback"></div> </div> </div> </div> </div> 
+ <script> $(document).ready(function () {
+ var scriptSource = "https://static.opencityitalia.it/widgets/satisfy/version/1.7.0/js/satisfy.js";
+ let isInViewport = function(el) {
+ var elementTop = el.offset().top;
+ var elementBottom = elementTop + el.outerHeight();
+ var viewportTop = $(window).scrollTop();
+ var viewportBottom = viewportTop + $(window).height();
+ return elementBottom > viewportTop && elementTop < viewportBottom;
+ };
+ let satisfyIsLoaded = false;
+ let loadWidget = function(){
+ if (!satisfyIsLoaded) {
+ let needLoadWidget = false;
+ $('[data-satisfy]').each(function () {
+ let deferredLoad = $(this).data('load_deferred') === 1;
+ if (isInViewport($(this)) || !deferredLoad) {
+ //console.log('Start satisfy at entrypoint ' + $(this).data('satisfy'));
+ $(this).html('<app-widget data-entrypoints="' + $(this).data('satisfy') + '"></app-widget>');
+ needLoadWidget = true;
+ }
+ });
+ if (needLoadWidget) {
+ $.getScript(scriptSource, function () {
+ //console.log('Satisfy widget is loaded');
+ });
+ satisfyIsLoaded = true;
+ }
+ }
+ }
+ $(window).on('resize scroll', function () {
+ loadWidget();
+ });
+ loadWidget();
+ });
+ </script> <div class="bg-grey-card shadow-contacts"> <div class="container"> <div class="row d-flex justify-content-center p-contacts"> <div class="col-12 col-lg-6"> <div class="cmp-contacts"> <div class="card w-100"> <div class="card-body"> <h2 class="title-medium-2-semi-bold">Contatta la Provincia</h2> <ul class="contact-list p-0"> <li> <a class="list-item" href="/come-navigare-il-sito" data-element="faq"> <svg class="icon icon-primary icon-sm" aria-label="Leggi le domande frequenti"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-help-circle"></use></svg><span>Leggi le domande frequenti</span> </a> </li> <li> <a class="list-item" href="tel:+39800903606" data-element=""> <svg class="icon icon-primary icon-sm" aria-label="Chiama il Punto informativo 800903606"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-hearing"></use></svg><span>Chiama il Punto informativo 800903606</span> </a> </li> <li> <a class="list-item" href="tel:+390461495111" data-element=""> <svg class="icon icon-primary icon-sm" aria-label="Chiama il Centralino 0461.495111"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-hearing"></use></svg><span>Chiama il Centralino 0461.495111</span> </a> </li> <li> <a class="list-item" href="/Media/Classificazioni/Punti-di-contatto/Contatti-di-Punto-informativo-della-Provincia-autonoma-di-Trento" data-element=""> <svg class="icon icon-primary icon-sm" aria-label="Scrivi al Punto informativo"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-mail"></use></svg><span>Scrivi al Punto informativo</span> </a> </li> </ul> </div> </div> </div> </div> </div> </div></div><footer class="it-footer" id="footer"> <div class="it-footer-main"> <div class="container"> <div class="row"> <div class="col-12 footer-items-wrapper logo-wrapper" style="flex-wrap: wrap;"> <img
+ style="max-width: 100%; max-height: 56px; object-fit: contain; object-position: 0 0; vertical-align: middle;"
+ alt="NextGenerationEU"
+ src="https://flyimg.opencityitalia.it/upload/rf_1,o_auto,w_2500,h_2500/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Fstatic.opencity.opencontent.it%2Fvar%2Fcidpat%2Fstorage%2Fimages%2Fmedia%2Fimages%2Floghi3%2Fnextgenerationeu%2F1616607-1-ita-IT%2FNextGenerationEU_header_logo.png"
+ loading="lazy" /> <img
+ style="max-width: 100%; max-height: 56px; object-fit: contain; object-position: 0 0; vertical-align: middle;"
+ alt="Repubblica italiana"
+ src="https://flyimg.opencityitalia.it/upload/rf_1,o_auto,w_2500,h_2500/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Fstatic.opencity.opencontent.it%2Fvar%2Fcidpat%2Fstorage%2Fimages%2Fmedia%2Fimages%2Floghi3%2Frepubblica-italiana%2F1617024-1-ita-IT%2FRepubblica-italiana_header_logo.png"
+ loading="lazy" /> 
+ <div class="it-brand-wrapper"><a href="/"
+ title="Vai alla homepage"
+ > <img class="icon"
+ alt="Logo footer "
+ src="https://flyimg.opencityitalia.it/upload/rf_1,o_auto,w_2500,h_2500/https%3A%2F%2Fwww.provincia.tn.it%2Flogo"
+ style="width: auto !important;" /> <div class="it-brand-text"> <h2>Provincia autonoma di Trento</h2> </div></a></div> </div></div> <div class="row"> <div class="col-md-3 footer-items-wrapper"> <h3 class="footer-heading-title"> <a href="/Amministrazione" title="Vai alla pagina: Amministrazione">Amministrazione</a></h3><ul class="footer-list"> <li><a href="/Amministrazione/Autonomia" title="Vai alla pagina: Autonomia">Autonomia</a></li> <li><a href="/Amministrazione/Organi-politici" title="Vai alla pagina: Organi politici">Organi politici</a></li> <li><a href="/Amministrazione/Strutture-organizzative" title="Vai alla pagina: Strutture organizzative">Strutture organizzative</a></li> <li><a href="/Amministrazione/Personale" title="Vai alla pagina: Personale">Personale</a></li> <li><a href="/Amministrazione/Lavora-con-noi" title="Vai alla pagina: Lavora con noi">Lavora con noi</a></li> <li> <a href="/Amministrazione"><em>Vedi tutto</em></a> </li> </ul> </div> <div class="col-md-3 footer-items-wrapper"> <h3 class="footer-heading-title"> <a href="/Servizi" title="Vai alla pagina: Servizi">Servizi</a></h3> </div> <div class="col-md-3 footer-items-wrapper"> <h3 class="footer-heading-title"> <a href="/News" title="Vai alla pagina: News">News</a></h3><ul class="footer-list"> <li><a href="/News/Avvisi" title="Vai alla pagina: Avvisi">Avvisi</a></li> <li><a href="/News/Comunicati-stampa" title="Vai alla pagina: Comunicati stampa">Comunicati stampa</a></li> <li><a href="/News/Eventi" title="Vai alla pagina: Eventi">Eventi</a></li> <li><a href="https://www.ufficiostampa.provincia.tn.it/La-Provincia-informa-WebTV" title="Vai alla pagina: Web TV ">Web TV </a></li> <li><a href="https://www.ufficiostampa.provincia.tn.it/Trentino-Podcast" title="Vai alla pagina: Podcast ">Podcast </a></li> </ul> </div> <div class="col-md-3 footer-items-wrapper"> <h3 class="footer-heading-title"> <a href="/Dati-e-statistiche" title="Vai alla pagina: Dati e statistiche">Dati e statistiche</a></h3> </div> </div> <div class="row"> <div class="col-md-3 mt-md-4 footer-items-wrapper"> <h3 class="footer-heading-title">Contatti</h3> <ul class="contact-list p-0 footer-info"> <li style="display: flex;align-items: center;"> <svg class="icon icon-sm icon-white" aria-label="Address"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-pa"></use></svg> <small class="ms-2" style="word-wrap: anywhere;user-select: all;">Piazza Dante, 15 - 38122 Trento</small> </li> <li> <a style="display: flex;align-items: center;" class="text-decoration-none" href="tel:+39800903606"> <svg class="icon icon-sm icon-white" aria-label="Phone"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-telephone"></use></svg> <small class="ms-2" style="word-wrap: anywhere;user-select: all;">+39 800903606</small> </a> </li> <li> <a style="display: flex;align-items: center;" class="text-decoration-none" href="tel:+390461495111"> <svg class="icon icon-sm icon-white" aria-label="Fax"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-file"></use></svg> <small class="ms-2" style="word-wrap: anywhere;user-select: all;">+39 0461495111</small> </a> </li> <li> <a style="display: flex;align-items: center;" class="text-decoration-none" href="mailto:uff.informazioni@provincia.tn.it"> <svg class="icon icon-sm icon-white" aria-label="Email"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-mail"></use></svg> <small class="ms-2" style="word-wrap: anywhere;user-select: all;">uff.informazioni@provincia.tn.it</small> </a> </li> <li style="display: flex;align-items: center;"> <svg class="icon icon-sm icon-white" aria-label="P.IVA"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-card"></use></svg> <small class="ms-2" style="word-wrap: anywhere;user-select: all;">P.IVA 00337460224</small> </li> <li style="display: flex;align-items: center;"> <svg class="icon icon-sm icon-white" aria-label="Codice fiscale"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-card"></use></svg> <small class="ms-2" style="word-wrap: anywhere;user-select: all;">C.F. 00337460224</small> </li> </ul> </div> <div class="col-md-3 mt-md-4 footer-items-wrapper"> <h3 class="footer-heading-title">Informative</h3> <ul class="footer-list"> <li> <a href="https://www.provincia.tn.it/Informative/Informativa-Privacy"
+ data-element="c2b8c6d1daec0986bcfc806e7b179e25" > 
+ Informativa Privacy
+ </a></li> <li> <a href="https://www.provincia.tn.it/Informative/Informativa-Cookies"
+ data-element="informativa_cookie" > 
+ Informativa Cookies
+ </a></li> <li> <a href="https://form.agid.gov.it/view/6e15cc50-97c1-11f0-ad4f-23f855abe65f"
+ data-element="accessibility-link" > 
+ Dichiarazione di accessibilità 
+ </a></li> <li> <a href="https://www.provincia.tn.it/Informative/Note-legali-e-crediti"
+ data-element="83c7315f6a2fd9cee569e4cf5e73139d" > 
+ Note legali e crediti
+ </a></li> <li> <a href="https://www.provincia.tn.it/Informative/Social-media-policy"
+ data-element="0695ee7abd300d81c7829b019d08ccbf" > 
+ Social media policy
+ </a></li> </ul> </div> <div class="col-md-3 mt-md-4 footer-items-wrapper"> <h3 class="footer-heading-title">Amministrazione aperta</h3> <ul class="footer-list"> <li> <a href="https://trasparenza.provincia.tn.it/"
+ data-element="03200d87491c2c974932f285497c1af6" > 
+ Amministrazione trasparente 
+ </a></li> <li> <a href="https://dati.trentino.it/"
+ data-element="301380bb2291fb8fc8428b58cebab13b" > 
+ Dati aperti 
+ </a></li> <li> <a href="https://albotelematico.provincia.tn.it/"
+ data-element="4fd8d464d7c67d52a0d977d45f1af38c" > 
+ Albo telematico 
+ </a></li> <li> <a href="https://www.provincia.tn.it/Argomenti/Pubblica-Amministrazione/Partecipazione"
+ data-element="topic-element" > 
+ Partecipazione
+ </a></li> <li> <a href="https://whistleblowing.provincia.tn.it/"
+ data-element="d60f68f959fb49b34097fd0c79c05508" > 
+ Whistleblowing: segnalazione illeciti 
+ </a></li> <li> <a href="https://www.provincia.tn.it/Scrivi-alla-redazione"
+ data-element="f05cf2e0557d42e2a0a53ea45fb741a0" > 
+ Scrivi alla redazione
+ </a></li> </ul> </div> <div class="col-md-3 mt-md-4 footer-items-wrapper"> <h3 class="footer-heading-title">Seguici su</h3> <ul class="list-inline text-start social"> <li class="list-inline-item mb-3"> <a href="https://www.facebook.com/provincia.autonoma.trento"
+ class="p-1 text-white"
+ target="_blank"
+ rel="noopener noreferrer"> <svg class="icon icon-sm icon-white align-top" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-facebook"></use></svg> <span class="visually-hidden">Facebook</span> </a> </li> <li class="list-inline-item mb-3"> <a href="https://twitter.com/ProvinciaTrento"
+ class="p-1 text-white"
+ target="_blank"
+ rel="noopener noreferrer"> <svg class="icon icon-sm icon-white align-top" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-twitter"></use></svg> <span class="visually-hidden">Twitter</span> </a> </li> <li class="list-inline-item mb-3"> <a href="https://www.linkedin.com/company/provincia-autonoma-di-trento"
+ class="p-1 text-white"
+ target="_blank"
+ rel="noopener noreferrer"> <svg class="icon icon-sm icon-white align-top" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-linkedin"></use></svg> <span class="visually-hidden">Linkedin</span> </a> </li> <li class="list-inline-item mb-3"> <a href="https://www.instagram.com/provinciatrento"
+ class="p-1 text-white"
+ target="_blank"
+ rel="noopener noreferrer"> <svg class="icon icon-sm icon-white align-top" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-instagram"></use></svg> <span class="visually-hidden">Instagram</span> </a> </li> <li class="list-inline-item mb-3"> <a href="https://www.youtube.com/user/PATrento"
+ class="p-1 text-white"
+ target="_blank"
+ rel="noopener noreferrer"> <svg class="icon icon-sm icon-white align-top" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-youtube"></use></svg> <span class="visually-hidden">YouTube</span> </a> </li> <li class="list-inline-item mb-3"> <a href="https://www.ufficiostampa.provincia.tn.it/Modulo-WhatsPAT"
+ class="p-1 text-white"
+ target="_blank"
+ rel="noopener noreferrer"> <svg class="icon icon-sm icon-white align-top" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-whatsapp"></use></svg> <span class="visually-hidden">Whatsapp</span> </a> </li> <li class="list-inline-item mb-3"> <a href="https://t.me/Provincia_autonoma_di_Trento"
+ class="p-1 text-white"
+ target="_blank"
+ rel="noopener noreferrer"> <svg class="icon icon-sm icon-white align-top" role="presentation" focusable="false"><use xlink:href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-telegram"></use></svg> <span class="visually-hidden">Telegram</span> </a> </li> </ul> </div> </div> <div class="row"> <div class="col-12 footer-items-wrapper"> <ul class="footer-bottom d-flex flex-column flex-md-row gap-2 gap-md-5"> <li><a role="button" href="#" data-cc="show-preferencesModal"> Personalizza i cookie
+ </a></li> 
+ <li><a href="/content/view/sitemap/2">Mappa sito</a></li> <li><a href=https://www.provincia.tn.it/Informative/Intranet-area-dipendenti-PAT>Intranet - area dipendenti PAT</a></li> 
+ </ul> </div> </div> </div> </div></footer><div class="container text-secondary x-small mt-1 mb-1"> <div class="row"> <div class="col-12 text-end"> <a href="https://developers.italia.it/it/software/opencity-labs-sito-istituzionale-cms-ff4ed2" title="Opencity Italia - Sito web comunale">Sito web</a> e <a href="https://developers.italia.it/it/software/opencontent-stanza-del-cittadino-core-410a6e" title="OpenCity Italia - La Stanza del Cittadino">servizi digitali</a> <a href="https://link.opencitylabs.it/footer-credits?utm_source=cidpat&amp;utm_medium=footer" title="OpenCity Italia - Servizi pubblici digitali per la tua città">OpenCity Italia</a> <svg id="product-version"
+ data-bs-toggle="tooltip"
+ data-bs-html="false"
+ class="icon icon-xs"
+ aria-label="dev--3.3.3"
+ title="dev--3.3.3"> <use href="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/images/svg/sprites.svg#it-info-circle"></use> </svg> &middot; <a data-login-bottom-button href="/user/login">Accesso redattori sito</a> 
+ <script> $(document).ready(function(){
+ new bootstrap.Tooltip(document.getElementById('product-version'));
+ var trimmedPrefix = UriPrefix.replace(/~+$/g,"");
+ if(trimmedPrefix === '/') trimmedPrefix = '';
+ var login = $('[data-login-bottom-button]');
+ if(CurrentUserIsLoggedIn) {
+ login.attr('href', trimmedPrefix+'/user/logout');
+ login.html('Logout');
+ }else{
+ login.attr('href', trimmedPrefix+'/accesso_redazione?r='+(PathArray[0] || ''));
+ login.html('Accesso redattori sito');
+ }
+ });
+ </script> 
+ </div> </div></div> <script src="/extension/openpa_bootstrapitalia/design/bootstrapitalia2110/javascript/bootstrap-italia.bundle.min.js"></script><script>window.__PUBLIC_PATH__ = "https://static.opencityitalia.it/fonts";bootstrap.loadFonts()</script><script type="text/javascript" src="/var/cidpat/cache/public/javascript/7694711a67f5f415135acb718f66a0af.js" charset="utf-8"></script><link rel="stylesheet" type="text/css" href="/var/cidpat/cache/public/stylesheets/cbd5d3cbc124faceacd1ca576c881656_all.css" /> 
+ <script type="text/javascript"> var _paq = window._paq || [];
+ _paq.push(['trackPageView']);
+ _paq.push(['enableLinkTracking']);
+ (function() { var u="https://ingestion.webanalytics.italia.it/";
+ _paq.push(['setTrackerUrl', u+'matomo.php']);
+ _paq.push(['setSiteId', 'P6vqE5GqQO']);
+ var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+ g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+ })();
+ </script> <!-- End Matomo Code --><script defer
+ data-domain="opencityitalia.it"
+ event-logged_in="false"
+ event-domain="https://www.provincia.tn.it"
+ event-tenant="cidpat"
+ event-type="topic" event-service="" src="https://plausible.io/js/script.pageview-props.outbound-links.file-downloads.tagged-events.js"></script> <script src="/extension/openpa_bootstrapitalia/design/bootstrapitalia2/javascript/cookieconsent.umd.js"></script><script> var NeedCookieConsent = true;
+ var CookieConsentSettings = {"modalMainTextMoreLink":false,"learnMore":"Leggi la cookie policy","barMainTitle":"Preferenze sui cookie","barMainText":"Questo sito fa uso di cookie tecnici essenziali al corretto funzionamento delle pagine web, di cookie di analisi e misurazione e di cookie di terze parti. Selezionando \"Accetta tutti i cookie\" si acconsente all'utilizzo di tutti i cookie. Selezionando \"Accetta i cookie necessari\" o chiudendo il banner verranno utilizzati solo i cookie tecnici: cos\u00ec facendo alcune funzionalit\u00e0 ed alcuni contenuti potrebbero non essere disponibili. La preferenza pu\u00f2 essere modificata in qualsiasi momento dall'Informativa cookie.","barBtnAcceptAll":"Accetta tutti i cookie","barBtnAcceptNecessary":"Accetta i cookie necessari","barBtnRefuseAll":"Rifiuta tutti i cookie","modalMainText":"I cookie sono piccoli file di testo che i siti web visitati inviano al device dell'utente, dove vengono memorizzati per raccogliere informazioni attraverso il browser, per essere poi ritrasmessi agli stessi siti nelle visite successive. \nSono utilizzati essenzialmente per misurare e migliorare la qualit\u00e0 dei siti attraverso l'analisi del comportamento dei visitatori.","modalMainTitle":"Informazioni e preferenze sui cookie","barLinkSetting":"Personalizza i cookie","modalBtnAcceptAll":"Accetta tutti i cookie e chiudi","modalBtnAcceptNecessary":"Accetta i cookie necessari e chiudi","modalBtnRefuseAll":"Rifiuta tutti i cookie e chiudi","modalBtnSave":"Salva le impostazioni selezionate","modalAffectedSolutions":"Strumenti:","on":"S\u00ec","off":"No","services":"Servizio | Servizi","close":"Chiudi","necessary":{"name":"Cookie tecnici essenziali","badge":"Sempre attivi","description":"Sono necessari al corretto funzionamento del sito. Consentono la navigazione delle pagine e la memorizzazione delle sessioni di un utente (per mantenerle attive durante la navigazione). Senza questi cookie non potrebbero essere erogati i servizi e le funzionalit\u00e0 per cui gli utenti accedono al sito."},"analytics":{"name":"Cookie di analisi e misurazione","description":"I cookie di analisi e misurazione sono utilizzati per raccogliere informazioni sul numero degli utenti e su come questi visitano il sito ed elaborare quindi statistiche generali sul servizio web e sul suo utilizzo. I dati sono raccolti in forma anonima e non consentono l'identificazione dell'utente."},"multimedia":{"name":"Cookie di terze parti","description":"I cookie di terze parti vengono utilizzati per analizzare le caratteristiche della navigazione dell\u2019utente, per fornirgli servizi di visualizzazione di contenuti o di condivisione degli stessi e per creare profili in base al suo comportamento sul sito. Questo sito incorpora contenuti multimediali tramite provider di terze parti (ad esempio YouTube o Facebok) utilizzando le specifiche oEmbed o widget di integrazione. Ciascun provider di contenuti potrebbe rilasciare cookie tecnici, analitici e di profilazione in base alle proprie impostazioni. Se questa impostazione \u00e8 disabilitata i contenuti multimediali non saranno automaticamente incorporati nel sito e sar\u00e0 invece esposto un link per poterli visualizzare direttamente alla fonte."}}
+ var showIframes = function(){
+ bootstrap.cookies?.rememberChoice('multimedia', true)
+ const initializeAllVideos = function (){
+ const videoEls = document.querySelectorAll("[data-video-url]");
+ videoEls.forEach(videoEl => {
+ const video = bootstrap.VideoPlayer.getOrCreateInstance(videoEl);
+ const videoUrl = videoEl.getAttribute("data-video-url");
+ video.setYouTubeVideo(videoUrl);
+ })
+ const overlayEls = document.querySelectorAll(".acceptoverlayable");
+ overlayEls.forEach(overlayEl => {
+ overlayEl.classList.remove("show");
+ overlayEl.querySelector(".acceptoverlay").setAttribute('aria-hidden', true);
+ })
+ }
+ initializeAllVideos();
+ var iframesTags = document.querySelectorAll('iframe[data-coookieconsent="multimedia"]');
+ for (var iframesTag of iframesTags) {
+ iframesTag.setAttribute('src', iframesTag.getAttribute('data-src'));
+ var dimmableParent = iframesTag.closest('.dimmable');
+ if (dimmableParent) {
+ var dimmers = dimmableParent.querySelectorAll('.dimmer.fade');
+ dimmers.forEach(function (dimmer) {
+ dimmer.classList.toggle('hide');
+ dimmer.classList.toggle('show');
+ });
+ }
+ }
+ var customTags = document.querySelectorAll('[data-coookieconsent="custom"]');
+ for (var customTag of customTags) {
+ customTag.setAttribute('src', customTag.getAttribute('data-src'));
+ }
+ }
+ var hideIframes = function(){
+ console.log('hideIframes')
+ bootstrap.cookies?.rememberChoice('multimedia', false)
+ var iframesTags = document.querySelectorAll('iframe[data-coookieconsent="multimedia"]');
+ for (var iframesTag of iframesTags) {
+ iframesTag.setAttribute('src', iframesTag.getAttribute('data-preview'));
+ var dimmableParent = iframesTag.closest('.dimmable');
+ if (dimmableParent) {
+ var dimmers = dimmableParent.querySelectorAll('.dimmer');
+ dimmers.forEach(function (dimmer) {
+ dimmer.classList.toggle('hide');
+ dimmer.classList.toggle('show');
+ });
+ }
+ }
+ var customTags = document.querySelectorAll('[data-coookieconsent="custom"]');
+ for (var customTag of customTags) {
+ customTag.setAttribute('data-src', customTag.getAttribute('src'));
+ }
+ }
+ CookieConsent.run({
+ guiOptions: {
+ consentModal: {
+ layout: 'box wide',
+ position: 'bottom center',
+ equalWeightButtons: true,
+ flipButtons: false
+ },
+ preferencesModal: {
+ layout: 'box',
+ equalWeightButtons: true,
+ flipButtons: false
+ }
+ },
+ categories: {
+ necessary: {
+ readOnly: true // this category cannot be disabled
+ },
+ analytics: {},
+ marketing: {
+ services: {
+ multimedia: {
+ onAccept: () => showIframes(),
+ onReject: () => hideIframes()
+ }
+ }
+ }
+ },
+ language: {
+ default: 'it',
+ translations: {
+ it: {
+ consentModal: {
+ title: CookieConsentSettings.barMainTitle,
+ description: CookieConsentSettings.barMainText,
+ closeIconLabel: CookieConsentSettings.close,
+ acceptAllBtn: CookieConsentSettings.barBtnAcceptAll,
+ acceptNecessaryBtn: CookieConsentSettings.barBtnAcceptNecessary,
+ showPreferencesBtn: CookieConsentSettings.barLinkSetting,
+ footer: CookieConsentSettings.modalMainTextMoreLink 
+ ? `<a href="${CookieConsentSettings.modalMainTextMoreLink}">Cookie Policy</a>`
+ : null
+ },
+ preferencesModal: {
+ title: CookieConsentSettings.modalMainTitle,
+ closeIconLabel: CookieConsentSettings.close,
+ acceptAllBtn: CookieConsentSettings.modalBtnAcceptAll,
+ acceptNecessaryBtn: CookieConsentSettings.modalBtnAcceptNecessary,
+ savePreferencesBtn: CookieConsentSettings.modalBtnSave,
+ serviceCounterLabel: CookieConsentSettings.services,
+ sections: [
+ {
+ description: CookieConsentSettings.modalMainText,
+ },
+ {
+ title: `${CookieConsentSettings.necessary.name} <span class=\"pm__badge\">${CookieConsentSettings.necessary.badge}</span>`,
+ description: `
+ <p>${CookieConsentSettings.necessary.description}</p> <strong style="display:block;margin-top:12px;">${CookieConsentSettings.analytics.name}</strong> <p>${CookieConsentSettings.analytics.description}</p>`,
+ linkedCategory: "necessary"
+ },
+ {
+ title: CookieConsentSettings.multimedia.name,
+ description: CookieConsentSettings.multimedia.description,
+ linkedCategory: "marketing"
+ },
+ ]
+ }
+ }
+ }
+ }
+ });</script> <style> #cc-main {
+ --cc-font-family: 'Titillium Web', sans-serif;
+ --cc-bg: #435a70;
+ --cc-primary-color: white;
+ --cc-secondary-color: white;
+ --cc-rev-color: black;
+ --cc-rev-hover-color: #4b4b4b;
+ --cc-rev-bg: #e5e5e5;
+ --cc-rev-border: #cdcfd0;
+ --cc-btn-border-radius: var(--bs-btn-border-radius, 4px);
+ --cc-btn-primary-bg: transparent;
+ --cc-btn-primary-color: var(--cc-primary-color);
+ --cc-btn-primary-border-color: var(--cc-primary-color);
+ --cc-btn-primary-hover-bg: transparent;
+ --cc-btn-primary-hover-color: hsl(0,0%,90%);
+ --cc-btn-primary-hover-border-color: hsl(0,0%,90%);
+ --cc-btn-secondary-bg: transparent;
+ --cc-btn-secondary-color: var(--cc-primary-color);
+ --cc-btn-secondary-border-color: var(--cc-primary-color);
+ --cc-btn-secondary-hover-bg: transparent;
+ --cc-btn-secondary-hover-color: hsl(0,0%,90%);
+ --cc-btn-secondary-hover-border-color: hsl(0,0%,90%);
+ --cc-cookie-category-block-color: var(--cc-rev-border);
+ --cc-cookie-category-block-bg: var(--cc-primary-color);
+ --cc-cookie-category-block-border: var(--cc-rev-border);
+ --cc-cookie-category-block-hover-bg: var(--cc-primary-color);
+ --cc-cookie-category-block-hover-border: var(--cc-rev-border);
+ --cc-cookie-category-expanded-block-hover-bg: var(--cc-primary-color);
+ --cc-cookie-category-expanded-block-bg: var(--cc-primary-color);
+ --cc-toggle-readonly-bg: #2f3132;
+ --cc-overlay-bg: rgba(0, 0, 0, 0.9)!important;
+ --cc-toggle-on-knob-bg: var(--cc-primary-color);
+ --cc-toggle-readonly-knob-bg: var( --cc-cookie-category-block-bg);
+ --cc-separator-border-color: transparent;
+ --cc-modal-border-radius: 0;
+ --cc-footer-color: var(--cc-primary-color);
+ --cc-footer-border-color: transparent;
+ --cc-footer-bg: var(--cc-bg);
+ --cc-link-color: var(--cc-rev-color);
+ }
+ #cc-main,
+ #cc-main .cm__btn,
+ #cc-main .cm__desc,
+ #cc-main .pm__btn,
+ #cc-main .pm__section-title {
+ font-size: inherit;
+ }
+ #cc-main .cm--box.cm--wide {
+ max-width: 50rem;
+ }
+ #cc-main .pm--box {
+ max-width: 52rem;
+ }
+ #cc-main .cm__btn--close,
+ #cc-main .cm__btn--close:hover,
+ #cc-main .cm__btn--close:active,
+ #cc-main .pm__close-btn,
+ #cc-main .pm__close-btn:hover,
+ #cc-main .pm__close-btn:active {
+ border-color: transparent;
+ }
+ #cc-main .pm__service-title,
+ #cc-main .pm__section--toggle {
+ border-radius: 0;
+ }
+ #cc-main .pm__badge,
+ #cc-main .pm__service-title {
+ color: var(--cc-rev-color);
+ }
+ #cc-main .pm__section,
+ #cc-main .pm__section:not(:first-child):hover {
+ background: none;
+ border-color: var(--cc-cookie-category-block-hover-border)
+ }
+ #cc-main .pm,
+ #cc-main .pm__section-desc-wrapper {
+ background-color: var(--cc-rev-bg);
+ color: var(--cc-rev-color);
+ }
+ #cc-main .pm__section--expandable .pm__section-desc-wrapper {
+ background-color: var(--cc-primary-color);
+ }
+ #cc-main .pm__section--toggle {
+ background: none;
+ }
+ #cc-main .cm,
+ #cc-main .pm {
+ border: 1px solid var(--cc-separator-border-color);
+ }
+ #cc-main .cm:before {
+ content: " ";
+ position: absolute;
+ top: 0;
+ right: 0;
+ left: 0;
+ height: 5px;
+ z-index: 1;
+ background-color: var(--cc-bg);
+ }
+ #cc-main .pm__title {
+ font-size: 1.6rem;
+ }
+ #cc-main .pm__btn {
+ color: var(--cc-rev-color);
+ border-color: var(--cc-rev-color);
+ }
+ #cc-main .pm__btn:hover {
+ color: var(--cc-rev-hover-color);
+ border-color: var(--cc-rev-hover-color);
+ }
+ #cc-main .pm__close-btn {
+ margin-top: -12px;
+ margin-right: -20px;
+ }
+ #cc-main .pm__close-btn svg,
+ #cc-main .pm__close-btn:hover svg {
+ stroke: var(--cc-rev-color)
+ }
+ #cc-main .cc__link:hover {
+ color: var(--cc-link-color)
+ }
+ </style></body></html>

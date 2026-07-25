@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <meta http-equiv="X-Content-Type-Options" content="nosniff">
+  <title>IMT Atlantique est une grande école d'ingénieurs généralistes reconnue internationalement pour sa recherche.</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" media="all" href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" />
+  <style type="text/css">
+	body{
+		margin: 2%;
+		font-family: Tahoma;
+		font-size: 0.95em;
+	}
+	.logo{
+		float: left;
+		width: 30%;
+		text-align:center;
+	}
+	h1{
+		line-height: 1.5em;
+		font-family:Lato,serif;
+		padding-top: 2%;
+	}
+	h2{
+		font-family:Lato,serif;
+		margin-top: 3%;
+		clear: left;
+	}
+	.bouton{
+		text-align:center;
+		margin-top: 3%;
+	}
+	.bouton a{
+		padding: 1% 4%;
+		text-decoration:none !important;
+		border: solid 4px #0C2340;
+		color: #0C2340;
+		font-size: 1.5em;
+	}
+	.bouton a:hover{
+		background-color: #C2C8CF;
+		color: #0C2340;
+	}
+	@media (max-width:900px){
+		.logo{ float: none; width: 100%; text-align:center; }
+		h1{ font-size: 1.4em; line-height: 1.4em;}
+		h2{ font-size:1.2em;}
+	}
+  </style>
+</head>
+<body>
+	<div class="logo"><img src="https://www.imt-atlantique.fr/sites/default/files/imt-atlantique.png" alt="IMT Atlantique" /></div>
+	<h1>IMT Atlantique est une grande école d'ingénieurs généralistes reconnue internationalement pour sa recherche</h1>
+	<h2>À propos d'IMT Atlantique</h2>
+	<p>
+	IMT Atlantique est une grande école d'ingénieurs généralistes, reconnue internationalement pour sa recherche. Elle appartient à l'Institut Mines-Télécom et dépend du ministère en charge de l'industrie et du numérique.
+	<br />Disposant de 3 campus, à Brest, Nantes et Rennes, d'un incubateur présent sur les 3 campus, IMT Atlantique a pour ambition de conjuguer le numérique, l'énergie et l'environnement pour transformer la société et l'industrie par la formation, la recherche et l'innovation et d'être, à l'international, l'établissement d'enseignement supérieur et de recherche français de référence dans ce domaine.
+	</p>
+	<p>IMT Atlantique propose depuis septembre 2018	une nouvelle formation d'ingénieurs généralistes. Les étudiants sont recrutés sur le concours Mines-Ponts. L'École délivre par ailleurs	trois diplômes d'ingénieur par la voie de l'apprentissage, des diplômes	de masters,	mastères spécialisés et	doctorats.	
+	<br />Les formations d'IMT Atlantique s'appuient sur une recherche de pointe, au sein de 6 unités mixtes de recherche (avec le CNRS, l'INRIA, l'INSERM, des universités ou écoles d'ingénieur), dont elle est tutelle&nbsp;: GEPEA, IRISA, LATIM, LABSTICC, LS2N et SUBATECH. L'école s'appuie sur son excellence en recherche dans ses domaines phares (énergie et numérique, cybersécurité, environnement et numérique, industrie du futur, nucléaire, santé et numérique, risques et interactions) et en couplant les domaines scientifiques pour répondre aux défis de demain&nbsp;: transition numérique, transition environnementale, transition industrielle, transition énergétique, santé du futur et recherche fondamentale, en	s'appuyant sur 2 instituts Carnot Télécom &amp; Société	Numérique	
+et Carnot MINES.
+	</p>
+	<p class="bouton"><a href="https://www.imt-atlantique.fr"><strong>www.imt-atlantique.fr</strong></a></p>
+</body>
+</html>
