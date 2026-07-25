@@ -7,7 +7,7 @@ draft: false
 | Resource | Location | Location |
 | --- | --- | --- |
 | CP Conference Index in DBLP | [web](http://www.informatik.uni-trier.de/~ley/db/conf/cp/) |
-| Constraints Journal | [web - our page](/cj2) | [web - Springer page](https://www.springer.com/journal/10601) |
+| Constraints Journal | [web - our page](/constraints-journal/cj2) | [web - Springer page](https://www.springer.com/journal/10601) |
 | CSP Lib | [web](http://www.csplib.org) |
 | Google Constraints Discussion Group | [web](https://groups.google.com/g/constraints) |
 | ACP YouTube Channel | [web](https://www.youtube.com/channel/UCKiP5edRx7G10LI6YvYeIQQ) |

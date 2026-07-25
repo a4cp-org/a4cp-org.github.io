@@ -42,6 +42,13 @@ content/
 │   └── application/papers/          # Selected CP application papers listing
 ├── theses/                          # PhD Thesis Archive
 │   └── index.md                     # Repository of PhD dissertations in Constraint Programming
+├── constraints-journal/             # Constraints Journal Archives
+│   ├── index.md                     # Constraints Journal section index
+│   ├── cj2/                         # Volume 29+ open access articles & videos
+│   ├── cj-vol29-34/                 # Volume 29, Issues 3-4
+│   ├── cj-vol-in-prog/              # Journal volume in progress archive
+│   ├── vol30-14/                    # Volume 30, Issue 1-4 archive
+│   └── con-anv/                     # Constraints Journal 20th Anniversary Special
 ├── old_nodes/                       # Archived legacy Drupal nodes & articles
 │   ├── index.md                     # Legacy nodes archive index
 │   └── <node_id>/index.md           # Individual legacy Drupal articles & node pages

@@ -13,7 +13,7 @@ draft: false
 
 * The [Constraints journal](https://www.springer.com/journal/10601) provides a common forum for the many disciplines interested in constraint programming and constraint satisfaction and optimization, and the many application domains in which constraint technology is employed.
 
-  + See our own [Constraints journal](/cj2) page.
+  + See our own [Constraints journal](/constraints-journal/cj2) page.
 
 ## Artificial Intelligence venues
 

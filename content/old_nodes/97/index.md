@@ -61,7 +61,7 @@ This award honours papers that are exceptional in both their significance and im
 
 This award celebrates outstanding papers published at least 15 calendar years ago in the Constraints journal, and are exceptional in their significance and impact on the field of Constraint Programming.
 
-Through the generosity of Springer’s SharedIt program, we are providing access to the journal issues at the ACP site </cj2>, starting with Volume 29, Issues 3,4. In addition we are providing short introductory videos for the papers, provided by the authors.
+Through the generosity of Springer’s SharedIt program, we are providing access to the journal issues at the ACP site [Constraints Journal](/constraints-journal/cj2), starting with Volume 29, Issues 3,4. In addition we are providing short introductory videos for the papers, provided by the authors.
 
 Further information about the journal, earlier issues, a search facility, submission information, etc., is included in the Springer website for the journal, which can be found at <https://link.springer.com/journal/10601>.
 
