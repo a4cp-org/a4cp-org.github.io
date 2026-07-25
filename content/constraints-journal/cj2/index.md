@@ -4,7 +4,7 @@ date: 2026-07-25T15:03:34+0200
 draft: false
 ---
 
-![](/sites/default/files/Screenshot 2025-02-19 163259_0.jpg)
+![](/sites/default/files/Screenshot%202025-02-19%20163259_0.jpg)
 
 *Constraints*, published by Springer, is the journal for our community. Through the generosity of Springer’s
 SharedIt program, we will also be providing access to the journal issues at this site,

@@ -4,7 +4,7 @@ date: 2026-07-25T15:04:47+0200
 draft: false
 ---
 
-![](/sites/default/files/Screenshot 2025-02-19 163259_0.jpg)  
+![](/sites/default/files/Screenshot%202025-02-19%20163259_0.jpg)  
 This issue includes “Commentaries” on some of the most highly-cited papers published in the journal.
 
 We are posting Commentaries as they become available. The issue is not yet complete.
