@@ -1,5 +1,5 @@
 baseURL = '/'
-relativeURLs = true
+relativeURLs = false
 languageCode = 'en-us'
 title = 'Association for Constraint Programming'
 theme = 'PaperMod'
