@@ -1149,262 +1149,7 @@ The Rosetta/Philae mission was launched in 2004 and it took more than ten years 
 &lt;p>For questions concerning the web site, please send email to &lt;a href="mailto:webmaster@a4cp.org">webmaster@a4cp.org&lt;/a>.&lt;/p></description></item><item><title>Log in</title><link>/user/login/</link><pubDate>Sat, 25 Jul 2026 15:04:27 +0200</pubDate><guid>/user/login/</guid><description>&lt;p>Username&lt;/p>
 &lt;p>Enter your Association for Constraint Programming username.&lt;/p>
 &lt;p>Password&lt;/p>
-&lt;p>Enter the password that accompanies your username.&lt;/p></description></item><item><title>Paper Awards</title><link>/awards/paper-awards/</link><pubDate>Sat, 25 Jul 2026 15:04:27 +0200</pubDate><guid>/awards/paper-awards/</guid><description>&lt;h2 id="cp-2025">CP 2025&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Best Technical Paper:&lt;/strong> J. Christopher Beck, Ryo
-Kuroiwa, Jimmy H. M. Lee, Peter J. Stuckey, and Allen Z. Zhong. &lt;a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol340-cp2025/LIPIcs.CP.2025.5/LIPIcs.CP.2025.5.pdf">Transition Dominance in Domain-Independent Dynamic Programming&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best Application Paper:&lt;/strong> Ignace Bleukx, Ryma Boumazouza, Tias Guns, Nadine Laage, and Guillaume Poveda. &lt;a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol340-cp2025/LIPIcs.CP.2025.6/LIPIcs.CP.2025.6.pdf">Modeling and Explaining an Industrial Workforce Allocation and Scheduling Problem&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best Student Paper:&lt;/strong> Hannes Ihalainen, Jeremias Berg, Matti Järvisalo, and Bart Bogaerts. &lt;a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol340-cp2025/LIPIcs.CP.2025.15/LIPIcs.CP.2025.15.pdf">Symmetric Core Learning for Pseudo-Boolean Optimization by Implicit Hitting Sets&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="cp-2024">CP 2024&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Best Main Track Paper:&lt;/strong> Peng Lin, Mengchuan Zou and Shaowei Cai. &lt;a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol307-cp2024/LIPIcs.CP.2024.19/LIPIcs.CP.2024.19.pdf">An Efficient Local Search Solver for Mixed Integer Programming&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best Application Track Paper:&lt;/strong> Duc Anh Le, Stephanie Roussel,
-Christophe Lecoutre and Anouck Chan. &lt;a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol307-cp2024/LIPIcs.CP.2024.18/LIPIcs.CP.2024.18.pdf">Learning Effect and Compound Activities in High Multiplicity RCPSP: Application to Satellite Production&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best ML Track Paper:&lt;/strong> Augustin Parjadis, Quentin Cappart, Bistra Dilkina,
-Aaron Ferber and Louis-Martin Rousseau. &lt;a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol307-cp2024/LIPIcs.CP.2024.22/LIPIcs.CP.2024.22.pdf">Learning Lagrangian Multipliers for the Travelling Salesman Problem&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="cp-2023">CP 2023&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Best Paper:&lt;/strong> Mathew J. McIlree and Ciaran McCreesh. &lt;a href="https://drops.dagstuhl.de/opus/volltexte/2023/19063/pdf/LIPIcs-CP-2023-26.pdf">Proof Logging for Smart Extensional Constraints&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best Application Track Paper:&lt;/strong> Matthias Klapperstueck, Frits De Nijs, Ilankaikone Senthooran,
-Jack Lee-Kopij, Maria Garcia De La Banda and Michael Wybrow. &lt;a href="https://drops.dagstuhl.de/opus/volltexte/2023/19058/pdf/LIPIcs-CP-2023-21.pdf">Exploring Hydrogen
-Supply/Demand Networks: Modeller and Domain Expert views&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="cp-2022">CP 2022&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Best Paper:&lt;/strong> Isaac Rudich, Quentin Cappart and Louis-Martin Rousseau. &lt;a href="https://drops.dagstuhl.de/opus/volltexte/2022/16664/pdf/LIPIcs-CP-2022-35.pdf">Peel-and-Bound: Generating Stronger Relaxed Bounds with Multivalued Decision Diagrams&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best Student Paper:&lt;/strong> Jimmy H. M. Lee and Allen Z. Zhong. &lt;a href="https://drops.dagstuhl.de/opus/volltexte/2022/16660/pdf/LIPIcs-CP-2022-31.pdf">Exploiting Functional Constraints in Generating Dominance Breaking Nogoods for Constraint Optimization&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="cp-2021">CP 2021&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Best Paper:&lt;/strong> Chu-Min Li, Zhenxing Xu, Jordi Coll, Felip Manya, Djamal Habet, and Kun He. &lt;a href="https://drops.dagstuhl.de/opus/volltexte/2021/15329/pdf/LIPIcs-CP-2021-38.pdf">Combining Clause Learning and Branch and Bound for MaxSAT.&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="cp-2020">CP 2020&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Best Technical Track Paper:&lt;/strong> Tomáš Peitl and Stefan Szeider. &lt;a href="https://link.springer.com/chapter/10.1007/978-3-030-58475-7_30">Finding the Hardest Formulas for Resolution.&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best Application Track Paper:&lt;/strong> Rodothea Myrsini Tsoupidi, Roberto Castañeda Lozano, and Benoit Baudry. &lt;a href="https://link.springer.com/chapter/10.1007/978-3-030-58475-7_46">Constraint-Based Software Diversification for Efficient Mitigation of Code-Reuse Attacks.&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best CP/ML Track Paper:&lt;/strong> Jinqiang Yu, Alexey Ignatiev, Peter Stuckey, and Pierre Le Bodic. &lt;a href="https://link.springer.com/chapter/10.1007/978-3-030-58475-7_55">Computing Optimal Decision Sets with SAT.&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="cp-2019">CP 2019&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Best Paper:&lt;/strong> Alex Mattenet, Ian Davidson, Siegfried Nijssen, and Pierre Schaus. &lt;a href="https://link.springer.com/chapter/10.1007%2F978-3-030-30048-7_38">Generic Constraint-based Block Modeling using Constraint Programming.&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best Student Paper:&lt;/strong> Rocsildes Canoy and Tias Guns. &lt;a href="https://doi.org/10.1007/978-3-030-30048-7_4">Vehicle Routing by Learning from Historical Solutions.&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Distinguished Student Paper:&lt;/strong> Mohd Hafiz Hasan and Pascal van Hentenryck. &lt;a href="https://link.springer.com/article/10.1007%2Fs10601-020-09310-5">The Flexible and Real-Time Commute Trip Sharing Problems.&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="cp-2018">CP 2018&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Best Paper:&lt;/strong> Emmanuel Hebrard and George Katsirelos. &lt;a href="https://link.springer.com/chapter/10.1007%2F978-3-319-98334-9_12">Clause Learning and New Bounds for Graph Coloring.&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="cp-2017">CP 2017&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Best Paper:&lt;/strong> Grigori German, Olivier Briant, Hadrien Cambazard, and Vincent Jost. &lt;a href="https://doi.org/10.1007/978-3-319-66158-2_8">Arc Consistency via Linear Programming.&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Distinguished Paper:&lt;/strong> Fahiem Bacchus, Antti Hyttinen, Matti Järvisalo, and Paul Saikko. &lt;a href="https://doi.org/10.1007/978-3-319-66158-2_41">Reduced Cost Fixing in MaxSAT.&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best Student Paper:&lt;/strong> Adrian Goldwaser and Andreas Schutt. &lt;a href="https://doi.org/10.1007/978-3-319-66158-2_22">Optimal Torpedo Scheduling.&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Distinguished Student Paper:&lt;/strong> Guillaume Derval, Jean-Charles Regin, and Pierre Schaus. &lt;a href="https://doi.org/10.1007/s10601-017-9278-x">Improved Filtering for the Bin-Packing with Cardinality Constraint.&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="cp-2016">CP 2016&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Best Paper:&lt;/strong> Krishnamurthy Dvijotham, Michael Chertkov, Pascal van Hentenryck, Marc Vuffray and Sidhant Misra. &lt;a href="https://link.springer.com/article/10.1007/s10601-016-9253-y">Graphical Models for Optimal Power Flow.&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Distinguished Paper:&lt;/strong> David Manlove, Iain McBride, and James Trimble. &lt;a href="https://link.springer.com/article/10.1007/s10601-016-9249-7">Almost-Stable Matchings in the Hospitals/Residents Problem with Couples.&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best Student Paper:&lt;/strong> Clément Carbonnel. &lt;a href="https://doi.org/10.1007/978-3-319-44953-1_9">The Dichotomy for Conservative Constraint Satisfaction Is Polynomially Decidable.&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Distinguished Student Paper:&lt;/strong> Kyle E.C. Booth, Goldie Nejat, and J. Christopher Beck. &lt;a href="https://doi.org/10.1007/978-3-319-44953-1_34">A Constraint Programming Approach to Multi-Robot Task Allocation and Scheduling in Retirement Homes.&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="cp-2015">CP 2015&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Best Technical Track Paper:&lt;/strong> John N. Hooker. &lt;a href="https://link.springer.com/article/10.1007/s10601-015-9201-2">Projection, Consistency, and George Boole.&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best Application Track Paper:&lt;/strong> Philip Kilby and Tommaso Urli. &lt;a href="https://link.springer.com/article/10.1007/s10601-015-9203-0">Fleet Design Optimisation from Historical Data using Constraint Programming and Large Neighbourhood Search.&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best Student Paper:&lt;/strong> Alexander Ivrii, Sharad Malik, Kuldeep S. Meel, and Moshe Vardi. &lt;a href="https://link.springer.com/article/10.1007/s10601-015-9204-z">On Computing
-Minimal Independent Support and Its Applications to Sampling and Counting.&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="cp-2014">CP 2014&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Best Technical Track Paper:&lt;/strong> Martin Cooper, Achref El Mouelhi, Cyril Terrioux, and Bruno Zanuttini. &lt;a href="https://link.springer.com/chapter/10.1007%2F978-3-319-10428-7_5">On Broken Triangles.&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best Application Track Paper:&lt;/strong> Morten Mossige, Arnaud Gotlieb, and Hein Meling. &lt;a href="https://doi.org/10.1007/978-3-319-10428-7_6">Using CP in Automatic Test Generation for ABB Robotics’ Paint Control System.&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best Student Paper:&lt;/strong> Umut Oztok and Adnan Darwiche. &lt;a href="https://doi.org/10.1007/978-3-319-10428-7_7">On Compiling CNF into Decision-DNNF.&lt;/a>
-&lt;ul>
-&lt;li>&lt;strong>Runner-Up:&lt;/strong> Thi-Van-Anh Nguyen and Arnaud Lallouet. &lt;a href="https://doi.org/10.1007/978-3-319-10428-7_8">A Complete Solver for Constraint Games.&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="cp-2013">CP 2013&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Best Technical Track Paper:&lt;/strong> Thierry Moisan, Jonathan Gaudreault, and Claude-Guy Quimper. &lt;a href="https://doi.org/10.1007/978-3-642-40627-0_6">Parallel Discrepancy-Based Search.&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best Application Track Paper:&lt;/strong> Hadrien Cambazard, Deepak Mehta, Barry O’Sullivan, and Helmut Simonis. &lt;a href="https://doi.org/10.1007/978-3-642-40627-0_7">Bin Packing with Linear Usage Costs – An Application to Energy Management in Data Centres.&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best Student Paper:&lt;/strong> Jean-Guillaume Fages and Tanguy Lapègue. &lt;a href="https://doi.org/10.1007/978-3-642-40627-0_8">Filtering AtMostNValue with Diﬀerence Constraints: Application to the Shift Minimisation Personnel Task Scheduling Problem.&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="cp-2012">CP 2012&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Best Main Track Paper:&lt;/strong> Geoﬀrey Chu and Peter Stuckey. &lt;a href="https://link.springer.com/chapter/10.1007%2F978-3-642-33558-7_4">A Generic Method
-for Identifying and Exploiting Dominance Relations.&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best Application Track Paper:&lt;/strong> Gilles Simonin, Christian Artigues, Emmanuel Hebrard, and Pierre Lopez. &lt;a href="https://doi.org/10.1007/978-3-642-33558-7_5">Scheduling Scientiﬁc Experiments on the Rosetta/Philae Mission.&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Honorable Mentions:&lt;/strong>
-&lt;ul>
-&lt;li>Mohamed Siala, Emmanuel Hebrard, and Marie-José Huguet. &lt;a href="https://doi.org/10.1007/978-3-642-33558-7_7">An Optimal Arc Consistency Algorithm for a Chain of Atmost Constraints with Cardinality.&lt;/a>&lt;/li>
-&lt;li>Hannes Uppman. &lt;a href="https://doi.org/10.1007/978-3-642-33558-7_6">Max-Sur-CSP on Two Elements.&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="cp-2011">CP 2011&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Best Research Track Paper:&lt;/strong> Georg Gottlob. &lt;a href="https://doi.org/10.1007/978-3-642-23786-7_26">On Minimal Constraint Networks.&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best Application Track Paper:&lt;/strong> Venkatesh Ramamoorthy, Marius Silaghi, Toshihiro Matsui, Katsutoshi Hirayama, and
-Makoto Yokoo. &lt;a href="https://doi.org/10.1007/978-3-642-23786-7_7">The Design of Cryptographic Substitution Boxes Using CSPs.&lt;/a>
-&lt;ul>
-&lt;li>&lt;strong>Runner-Up:&lt;/strong> Andreas Schutt, Peter J. Stuckey, and Andrew R. Verden. &lt;a href="https://doi.org/10.1007/978-3-642-23786-7_8">Optimal Carpet Cutting.&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;strong>Best Student Paper:&lt;/strong> Marie Pelleau, Charlotte Truchet, and Frédéric Benhamou. &lt;a href="https://doi.org/10.1007/978-3-642-23786-7_53">Octagonal Domains for Continuous Constraints.&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="cp-2010">CP 2010&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Best Research Track Paper:&lt;/strong> Ross Willard. &lt;a href="https://doi.org/10.1007/978-3-642-15396-9_4">Testing Expressibility Is Hard.&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best Application Track Paper:&lt;/strong> Sigal Asaf, Haggai Eran, Yossi Richter, Daniel P. Connors, Donna L. Gresh, Julio Ortega, and Michael J. Mcinnis. &lt;a href="https://doi.org/10.1007/978-3-642-15396-9_5">Applying Constraint Programming to Identiﬁcation and Assignment of Service Professionals.&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best Student Paper:&lt;/strong> Stefano Ermon, Carla Gomes, and Bart Selman. &lt;a href="https://doi.org/10.1007/978-3-642-15396-9_6">Computing the Density of States of Boolean Formulas.&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="cp-2009">CP 2009&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Best Research Track Paper:&lt;/strong> Petr Vilı́m. &lt;a href="https://doi.org/10.1007/978-3-642-04244-7_62">Edge Finding Filtering Algorithm for Discrete Cumulative Resources in
-O(kn log n).&lt;/a>&lt;br>
-&lt;strong>Runners-Up:&lt;/strong>
-&lt;ul>
-&lt;li>Konstantin Korovin, Nestan Tsiskaridze, and Andrei Voronkov. &lt;a href="https://doi.org/10.1007/978-3-642-04244-7_41">Conﬂict Resolution.&lt;/a>&lt;/li>
-&lt;li>Christophe Lecoutre and Olivier Roussel. &lt;a href="https://doi.org/10.1007/978-3-642-04244-7_44">Failed Value Consistencies for Constraint Satisfaction.&lt;/a>&lt;/li>
-&lt;li>Knot Pipatsrisawat and Adnan Darwiche. &lt;a href="https://doi.org/10.1007/978-3-642-04244-7_51">On the Power of Clause-Learning SAT Solvers with Restarts.&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;strong>Best Application Track Paper:&lt;/strong> Helmut Simonis. &lt;a href="https://doi.org/10.1007/978-3-642-04244-7_11">A Hybrid Constraint Model for the Routing and Wavelength Assignment Problem.&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best Student Paper:&lt;/strong> Knot Pipatsrisawat and Adnan Darwiche. &lt;a href="https://doi.org/10.1007/978-3-642-04244-7_51">On the Power of Clause-Learning SAT Solvers with Restarts.&lt;/a>
-&lt;ul>
-&lt;li>&lt;strong>Runner-Up:&lt;/strong> Geoﬀrey Chu, Peter Stuckey, and Maria Garcia de la Banda. &lt;a href="https://doi.org/10.1007/978-3-642-04244-7_22">Using Relaxations in Maximum Density Still Life.&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="cp-2008">CP 2008&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Best Research Track Paper:&lt;/strong> Alexandre Goldsztejn and Laurent Granvilliers. &lt;a href="https://doi.org/10.1007/978-3-540-85958-1_13">A New Framework for Sharp and Eﬃcient Resolution of NCSP with Manifolds of Solutions.&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best Application Track Paper:&lt;/strong> Arnaldo Moura, Cid de Souza, André Cirè, and Tony Lopes. &lt;a href="https://doi.org/10.1007/978-3-540-85958-1_3">Planning and Scheduling the Operation of a Very Large Oil Pipeline Network.&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best Student Paper:&lt;/strong> Jean-Marie Normand, Alexandre Goldsztejn, Marc Christia, and Frédéric Benhamou. &lt;a href="https://doi.org/10.1007/978-3-540-85958-1_14">A Branch and Bound Algorithm for Numerical MAX-CSP.&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="cp-2007">CP 2007&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Best Paper:&lt;/strong> Alessandro Zanarini and Gilles Pesant. &lt;a href="https://doi.org/10.1007/978-3-540-74970-7_52">Solution Counting Algorithms for Constraint-Centered Search Heuristics.&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best Student Paper:&lt;/strong> Olga Ohrimenko, Peter J. Stuckey, and Michael Codish. &lt;a href="https://doi.org/10.1007/978-3-540-74970-7_39">Propagation = Lazy Clause Generation.&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="cp-2006">CP 2006&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Best Paper:&lt;/strong> Willem-Jan van Hoeve, Gilles Pesant, Louis-Martin Rousseau, and Ashish Sabharwal. &lt;a href="https://link.springer.com/chapter/10.1007%2F11889205_44">Revisiting the Sequence Constraint.&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="cp-2005">CP 2005&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Best Papers&lt;/strong>:
-&lt;ul>
-&lt;li>David Cohen, Peter Jeavons, Christopher Jefferson, Karen E. Petrie, and Barbara M. Smith. &lt;a href="https://doi.org/10.1007/11564751_5">Symmetry Definitions for Constraint Satisfaction Problems.&lt;/a>&lt;/li>
-&lt;li>Roie Zivan and Amnon Meisels. &lt;a href="https://link.springer.com/chapter/10.1007%2F11564751_6">Dynamic Ordering for Asynchronous Backtracking on DisCSPs.&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="cp-2004">CP 2004&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Distinguished Papers&lt;/strong>:
-&lt;ul>
-&lt;li>Yong Gao and Joseph Culberson. &lt;a href="https://doi.org/10.1007/978-3-540-30201-8_5">Consistency and Random Constraint Satisfaction Models with a High Constraint Tightness.&lt;/a>&lt;/li>
-&lt;li>Carla P. Gomes, Cèsar Fernández, Bart Selman, and Christian Bessiere. &lt;a href="https://doi.org/10.1007/978-3-540-30201-8_6">Statistical Regimes Across Constrainedness Regions.&lt;/a>&lt;/li>
-&lt;li>Pascal van Hentenryck, Laurent Michel, and Liyuan Liu. &lt;a href="https://doi.org/10.1007/978-3-540-30201-8_7">Constraint-Based Combinators for Local Search.&lt;/a>&lt;/li>
-&lt;li>Petr Vilím, Roman Barták, and Ondřej Čepek. &lt;a href="https://doi.org/10.1007/978-3-540-30201-8_8">Unary Resource Constraint with Optional Activities.&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="cp-2003">CP 2003&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Best Paper:&lt;/strong> Pascal van Hentenryck and Laurent Michel. &lt;a href="https://doi.org/10.1007/978-3-540-45193-8_5">Control Abstractions by Local Search.&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="cp-2001">CP 2001&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Best Technical Program Papers:&lt;/strong>
-&lt;ul>
-&lt;li>Andrew Eremin and Mark Wallace. &lt;a href="https://doi.org/10.1007/3-540-45578-7_1">Hybrid Benders Decomposition Algorithms in Constraint Logic Programming.&lt;/a>&lt;/li>
-&lt;li>Erlendur S. Thorsteinsson. &lt;a href="https://doi.org/10.1007/3-540-45578-7_2">Branch-and-Check: A Hybrid Framework Integrating Mixed Integer Programming and Constraint Logic Programming&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;strong>Best Innovative Applications Program Paper:&lt;/strong> Peter van Beek and Kent Wilken. &lt;a href="https://doi.org/10.1007/3-540-45578-7_52">Fast Optimal Instruction Scheduling for Single-Issue Processors with Arbitrary Latencies&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>CP 2001 was the first conference to have paper awards.&lt;/p></description></item><item><title>Doctoral Research Award</title><link>/awards/doctoral-research-award/</link><pubDate>Sat, 25 Jul 2026 15:04:21 +0200</pubDate><guid>/awards/doctoral-research-award/</guid><description>&lt;p>The ACP Doctoral Research Award is awarded every year to a promising young researcher working in the area of constraint programming and who defended their thesis between January and December of the previous two years.&lt;/p>
-&lt;p>The award, in the form of a certificate, is presented at the CP conference, where the winning researcher will be invited to give a talk about their PhD thesis. The award includes a cash prize of 500 euros, plus free registration for the conference.&lt;/p></description></item><item><title>Distinguished Service Award</title><link>/awards/distinguished-service-award/</link><pubDate>Sat, 25 Jul 2026 15:04:20 +0200</pubDate><guid>/awards/distinguished-service-award/</guid><description>&lt;p>The purpose of this award is to celebrate those CP community members who have made exceptional contributions to support the CP community. Areas of support could include, but are not limited to: association service, service as an editor, conference organisation, representation of CP in other organizations, etc., resulting in positive effects on the research field.&lt;/p>
-&lt;p>The 2026 call closed on 10 May.&lt;/p>
-&lt;p>Previous recipients of this award are:&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Year&lt;/th>
-&lt;th>Recipient&lt;/th>
-&lt;th>Affiliation&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>2026&lt;/td>
-&lt;td>&lt;a href="https://scholar.google.com/citations?user=y_pAyuQAAAAJ">J. Christopher Beck&lt;/a>&lt;/td>
-&lt;td>University of Toronto, Canada&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>2024&lt;/td>
-&lt;td>&lt;a href="https://scholar.google.be/citations?user=mkm8ZlQAAAAJ">Maria Garcia de la Banda&lt;/a>&lt;/td>
-&lt;td>Monash University, Australia&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>2022&lt;/td>
-&lt;td>&lt;a href="https://scholar.google.com/citations?user=RHIj4boAAAAJ">Helmut Simonis&lt;/a>&lt;/td>
-&lt;td>Insight Centre for Data Analytics, Cork, Ireland&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>2020&lt;/td>
-&lt;td>&lt;a href="https://scholar.google.com.sg/citations?hl=en&amp;amp;user=27PyeisAAAAJ">Christian Schulte&lt;/a>&lt;/td>
-&lt;td>KTH Royal Institute of Technology, Sweden&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>2018&lt;/td>
-&lt;td>&lt;a href="https://scholar.google.com/citations?user=bQBpCnEAAAAJ">Michela Milano&lt;/a>&lt;/td>
-&lt;td>University of Bologna, Italy&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>2016&lt;/td>
-&lt;td>&lt;a href="https://scholar.google.com/citations?user=DCh0wtEAAAAJ">Thomas Schiex&lt;/a>&lt;/td>
-&lt;td>INRA, Toulouse, France&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>2014&lt;/td>
-&lt;td>&lt;a href="https://scholar.google.com/citations?user=EtMwv6YAAAAJ">Barry O&amp;rsquo;Sullivan&lt;/a>&lt;/td>
-&lt;td>University College Cork, Ireland&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>2012&lt;/td>
-&lt;td>&lt;a href="https://scholar.google.com/citations?user=a8gYKGkAAAAJ">Eugene C. Freuder&lt;/a>&lt;/td>
-&lt;td>University College Cork, Ireland&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>2010&lt;/td>
-&lt;td>&lt;a href="https://scholar.google.com/citations?user=Zp41vKYAAAAJ">Francesca Rossi&lt;/a>&lt;/td>
-&lt;td>University of Padova, Italy&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table></description></item><item><title>Early Career Researcher Award</title><link>/awards/early-career-research-award/</link><pubDate>Sat, 25 Jul 2026 15:04:20 +0200</pubDate><guid>/awards/early-career-research-award/</guid><description>&lt;p>The ACP Early Career Researcher Award is awarded every year to a researcher who has completed their PhD at least 2 years and at most 8 years before the year of the competition, with a scientific track record showing great promise in the area of Constraint Programming.&lt;/p>
-&lt;p>The award was established in 2021 after a proposal by Prof. Eugene Freuder to the ACP. Prof. Freuder has provided seed funding for the award by the donation of the monetary portion of his 2020 IJCAI Research Excellence Award to the ACP.&lt;/p></description></item><item><title>Research Excellence Award</title><link>/awards/research-excellence-award/</link><pubDate>Sat, 25 Jul 2026 15:04:20 +0200</pubDate><guid>/awards/research-excellence-award/</guid><description>&lt;p>Ten years after the first CP conference, the CP research area was mature enough to begin to identify and honour the most influential people in the field. In 2015, the Executive Committee of the Association for Constraint Programming has decided to establish an annual &amp;ldquo;ACP award for Research Excellence in constraint programming&amp;rdquo;, whose purpose is to celebrate those CP researchers who have made exceptional and very influential research contributions to CP with their work.&lt;/p></description></item><item><title>ACP Summer Schools</title><link>/events/summer-schools/</link><pubDate>Sat, 25 Jul 2026 15:04:19 +0200</pubDate><guid>/events/summer-schools/</guid><description>&lt;p>Constraint Programming (CP) is a programming paradigm which provide useful tools to model and efficiently solve constrained optimisation problems, such as complex resource planning, scheduling, configuration and design problems.&lt;/p>
-&lt;p>The Association of Constraint Programming is seeking to augment and complement University teaching of CP, and to disseminate a core body of CP knowledge supporting the recognition of CP as a mature and relevant technology for use in industry.&lt;/p>
-&lt;p>To help the CP community in these respects, the ACP Executive Committee has decided to start a series of CP summer schools, to be held annually. The subject of each summer school will alternate between general and specific: one year the school will cover most of the CP areas while in the following year the school will focus on one subject of research within CP.&lt;/p></description></item><item><title>Call for Outreach Initiatives</title><link>/events/outreach/</link><pubDate>Sat, 25 Jul 2026 15:04:19 +0200</pubDate><guid>/events/outreach/</guid><description>&lt;p>The Association for Constraint Programming (ACP) supports initiatives in favor of outreach to other scientific communities and industries. Constraint Programming (CP) offers powerful techniques in combinatorial optimization, and has successfully been applied to various domains, including logistics, scheduling, bioinformatics, cryptography, computer music, and verification. Yet, the use of CP techniques in combination with technologies from other disciplines, or on a wider range of applications, has not reached its potential. The ACP supports the promotion of CP and is willing to develop its impact in scientific or industrial communities, where CP technologies could be better or more widely used.&lt;/p></description></item><item><title>Competitions</title><link>/events/competitions/</link><pubDate>Sat, 25 Jul 2026 15:04:19 +0200</pubDate><guid>/events/competitions/</guid><description>&lt;p>There are regular competitions in which constraint solvers are compared against each other on unseen benchmarks.&lt;/p>
-&lt;h2 id="the-minizinc-challenge">The MiniZinc Challenge&lt;/h2>
-&lt;p>The &lt;a href="https://www.minizinc.org/challenge.html">MiniZinc Challenge&lt;/a> is an annual competition of constraint programming solvers on a variety of benchmarks. It has been held every year since 2008, with the winners being announced at the annual CP conference.&lt;/p>
-&lt;h2 id="the-xcsp3-competition">The XCSP3 Competition&lt;/h2>
-&lt;p>The international &lt;a href="https://xcsp.org/competition">XCSP3 competitions&lt;/a> are organized to assess the performances of constraint solvers on Constraint Satisfaction Problems and Constraint Optimisation Problems. It was ran from 2017 - 2019 and might relaunch in the future.&lt;/p></description></item><item><title>CP Conference Series</title><link>/events/cp-conference-series/</link><pubDate>Sat, 25 Jul 2026 15:04:18 +0200</pubDate><guid>/events/cp-conference-series/</guid><description>&lt;h3 id="next-cp-conference">Next CP conference&lt;/h3>
-&lt;h4 id="cp2025">&lt;a href="http://cp2025.a4cp.org/">CP2025&lt;/a>&lt;/h4>
-&lt;p>The 31th International Conference on Principles and Practice of Constraint Programming, 12 - 15 August 2025, Glasgow, Scotland.&lt;/p>
-&lt;h3 id="past-cp-conferences">Past CP conferences&lt;/h3>
-&lt;p>&lt;img loading="lazy" src="./posters/2024.png">&lt;/p>
-&lt;h4 id="cp2024">&lt;a href="http://cp2024.a4cp.org/">CP2024&lt;/a>&lt;/h4>
-&lt;p>The 30th International Conference on Principles and Practice of Constraint Programming, September 2 - 6 2024, Girona, Spain.&lt;/p>
-&lt;p>&lt;img loading="lazy" src="./posters/2023.png">&lt;/p>
-&lt;h4 id="cp2023">&lt;a href="http://cp2023.a4cp.org/">CP2023&lt;/a>&lt;/h4>
-&lt;p>The 29th International Conference on Principles and Practice of Constraint Programming (CP 2023), August 27 - 31, 2023, Toronto, Canada. Proceedings: &lt;a href="https://drops.dagstuhl.de/opus/portals/lipics/index.php?semnr=16301">LIPIcs Vol. 280&lt;/a>&lt;/p></description></item><item><title>Career news</title><link>/news/career-news/</link><pubDate>Sat, 25 Jul 2026 15:03:48 +0200</pubDate><guid>/news/career-news/</guid><description>&lt;ul>
+&lt;p>Enter the password that accompanies your username.&lt;/p></description></item><item><title>Career news</title><link>/news/career-news/</link><pubDate>Sat, 25 Jul 2026 15:03:48 +0200</pubDate><guid>/news/career-news/</guid><description>&lt;ul>
 &lt;li>&lt;a href="./old_nodes/1409">PhD Position in Montréal, Canada and Nantes, France&lt;/a>&lt;/li>
 &lt;li>&lt;a href="./old_nodes/1346">Two funded PhD positions on Epistemic AI (constraint programming or reinforcement learning) at TU Delft - deadline 28 February&lt;/a>&lt;/li>
 &lt;li>&lt;a href="./old_nodes/1311">Full professorship in Theoretical Computer Science at the University of Copenhagen&lt;/a>&lt;/li>
@@ -1638,22 +1383,269 @@ Number of Votes: 755&lt;/p></description></item><item><title>2004 Election Resul
 &lt;li>Past President: David Bergman (2021)&lt;/li>
 &lt;li>Roland Yap (2025)&lt;/li>
 &lt;/ul>
-&lt;p>The following ACP EC members will leave the ACP EC at the end of 2026 after having served their respective terms:&lt;/p></description></item><item><title>CP Conference Organisation Policy</title><link>/old_nodes/90/</link><pubDate>Sat, 25 Jul 2026 15:03:16 +0200</pubDate><guid>/old_nodes/90/</guid><description>&lt;h2 id="1-bidding-for-the-conference-organisation">1. Bidding for the Conference Organisation&lt;/h2>
-&lt;p>The ACP Executive Committee (EC) holds the annual International Conference on Principles and Practice of Constraint Programming (CP). If you are interested in organising a future CP conference, then you need to make a proposal to the Conference Coordinator of the EC (&lt;a href="mailto:helene.verhaeghe@uclouvain.be">helene.verhaeghe@uclouvain.be&lt;/a>). A proposal consists of volunteering to be Conference Chairs (CC) of the conference and to be responsible for the budget and local arrangements in the proposed city.&lt;/p></description></item><item><title>Diversity, Equity and Inclusion Policy</title><link>/old_nodes/62/</link><pubDate>Sat, 25 Jul 2026 15:03:16 +0200</pubDate><guid>/old_nodes/62/</guid><description>&lt;p>The ACP shares the policy of the &lt;a href="https://www.aaai.org">Association for the Advancement of Artificial Intelligence&lt;/a> (AAAI) on diversity, equity, and inclusion. We believe that ACP’s greatest strengths come from the people who make up our community. The ACP is committed to fostering an inclusive community with opportunities for all participants without regard to age, religion, race, ethnicity, gender identity, sexual orientation, national origin, or disability. We strive to remove barriers and obstacles that limit participation, and we work to uncover biases that create unfair practices. Every ACP member is encouraged to engage in civil discourse when opinions and points of view differ. We value and respect one another, and we will hold one another accountable when we falter. Differences are welcomed and celebrated. Join us.&lt;/p></description></item><item><title>Legal Information</title><link>/old_nodes/1381/</link><pubDate>Sat, 25 Jul 2026 15:03:16 +0200</pubDate><guid>/old_nodes/1381/</guid><description>&lt;p>The ACP is legally a French organisation, hence the official status are in French. We of course also provide a faithful translation in English of the statutes, as well as the bylaws.&lt;/p>
+&lt;p>The following ACP EC members will leave the ACP EC at the end of 2026 after having served their respective terms:&lt;/p></description></item><item><title>ACP Summer Schools</title><link>/events/summer-schools/</link><pubDate>Sat, 25 Jul 2026 15:03:17 +0200</pubDate><guid>/events/summer-schools/</guid><description>&lt;p>Constraint Programming (CP) is a programming paradigm which provide useful tools to model and efficiently solve constrained optimisation problems, such as complex resource planning, scheduling, configuration and design problems. The Association of Constraint Programming is seeking to augment and complement University teaching of CP, and to disseminate a core body of CP knowledge supporting the recognition of CP as a mature and relevant technology for use in industry.&lt;/p>
+&lt;p>To help the CP community in these respects, the ACP Executive Committee has decided to start a series of CP summer schools, to be held annually. The subject of each summer school will alternate between general and specific: one year the school will cover most of the CP areas while in the following year the school will focus on one subject of research within CP.&lt;/p></description></item><item><title>Call for Outreach Initiatives</title><link>/events/outreach/</link><pubDate>Sat, 25 Jul 2026 15:03:17 +0200</pubDate><guid>/events/outreach/</guid><description>&lt;p>The Association for Constraint Programming (ACP) supports initiatives in favor of outreach to other scientific communities and industries. Constraint Programming (CP) offers powerful techniques in combinatorial optimization, and has successfully been applied to various domains, including logistics, scheduling, bioinformatics, cryptography, computer music, and verification. Yet, the use of CP techniques in combination with technologies from other disciplines, or on a wider range of applications, has not reached its potential.&lt;/p>
+&lt;p>The ACP supports the promotion of CP and is willing to develop its impact in scientific or industrial communities, where CP technologies could be better or more widely used. The ACP will fund initiatives to build bridges with either new areas of industrial applications, or other scientific communities. The funding will be a total of &lt;strong>up to 5000 euros each year&lt;/strong>, where each initiative can be supported with at most 1000 euros. There is no deadline for submissions; the call for submissions is permanently open.&lt;/p></description></item><item><title>Competitions</title><link>/events/competitions/</link><pubDate>Sat, 25 Jul 2026 15:03:17 +0200</pubDate><guid>/events/competitions/</guid><description>&lt;p>There are regular competitions in which constraint solvers are compared against each other on unseen benchmarks.&lt;/p>
+&lt;h2 id="the-minizinc-challenge">The MiniZinc Challenge&lt;/h2>
+&lt;p>The &lt;a href="https://www.minizinc.org/challenge.html">MiniZinc Challenge&lt;/a> is an annual competition of constraint programming solvers on a variety of benchmarks. It has been held every year since 2008, with the winners being announced at the annual CP conference.&lt;/p>
+&lt;h2 id="the-xcsp3-competition">The XCSP3 Competition&lt;/h2>
+&lt;p>The international &lt;a href="https://xcsp.org/competition">XCSP3 competitions&lt;/a> are organized to assess the performances of constraint solvers on Constraint Satisfaction Problems and Constraint Optimisation Problems. It was ran from 2017 - 2019 and might relaunch in the future.&lt;/p></description></item><item><title>CP Conference Series</title><link>/events/cp-conference-series/</link><pubDate>Sat, 25 Jul 2026 15:03:17 +0200</pubDate><guid>/events/cp-conference-series/</guid><description>&lt;h2 id="next-cp-conference">Next CP conference&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>CP2026&lt;/strong>: The 32nd International Conference on Principles and Practice of Constraint Programming, July 20-23 2026, Lisbon, Portugal (during FLoC 2026). &lt;a href="https://cp2026.a4cp.org/">website&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="past-cp-conferences">Past CP conferences&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>CP2025&lt;/strong>: The 31th International Conference on Principles and Practice of Constraint Programming, 12 - 15 August 2025, Glasgow, Scotland. &lt;a href="http://cp2025.a4cp.org/">CP2025&lt;/a>&lt;/li>
+&lt;li>&lt;strong>CP2024&lt;/strong>: The 30th International Conference on Principles and Practice of Constraint Programming, September 2 - 6 2024, Girona, Spain. &lt;a href="http://cp2024.a4cp.org/">CP2024&lt;/a>&lt;/li>
+&lt;li>&lt;strong>CP2023&lt;/strong>: The 29th International Conference on Principles and Practice of Constraint Programming (CP 2023), August 27 - 31, 2023, Toronto, Canada. Proceedings: &lt;a href="https://drops.dagstuhl.de/opus/portals/lipics/index.php?semnr=16301">LIPIcs Vol. 280&lt;/a>&lt;/li>
+&lt;li>&lt;strong>CP2022&lt;/strong>: Twenty-Eighth International Conference on Principles and Practice of Constraint Programming, July 31st to August 8th 2022, Haifa, Israel. &lt;a href="https://www.dagstuhl.de/dagpub/978-3-95977-240-2">Leibniz International Proceedings in Informatics (LIPIcs), Volume 235, CP 2022, Complete Volume&lt;/a>.&lt;/li>
+&lt;li>&lt;strong>CP2021&lt;/strong>: Twenty-Seventh International Conference on Principles and Practice of Constraint Programming, October 25th to October 29th 2021, Montpellier, France. &lt;a href="https://drops.dagstuhl.de/opus/portals/lipics/index.php?semnr=16213">Leibniz International Proceedings in Informatics (LIPIcs), Volume 210, CP 2021, Complete Volume&lt;/a>.&lt;/li>
+&lt;li>&lt;strong>CP2020&lt;/strong>: Twenty-Sixth International Conference on Principles and Practice of Constraint Programming, September 7th to September 11th 2020, Louvain-la-Neuve, Belgium. &lt;a href="https://link.springer.com/book/10.1007/978-3-030-58475-7">Springer Lecture Notes in Computer Science 12333&lt;/a>.&lt;/li>
+&lt;li>&lt;strong>CP2019&lt;/strong>: Twenty-Fifth International Conference on Principles and Practice of Constraint Programming, September 30th to October 4th 2019, Stamford, CT, USA. &lt;a href="https://link.springer.com/book/10.1007/978-3-030-30048-7">Springer Lecture Notes in Computer Science 11802&lt;/a>.&lt;/li>
+&lt;li>&lt;strong>CP2018&lt;/strong>: Twenty-Fourth International Conference on Principles and Practice of Constraint Programming, August 27th to August 31st 2018, Lille, France, &lt;a href="https://doi.org/10.1007/978-3-319-98334-9">Springer Lecture Notes in Computer Science 11008&lt;/a>.&lt;/li>
+&lt;li>&lt;strong>CP2017&lt;/strong>: Twenty-Third International Conference on Principles and Practice of Constraint Programming, August 28th to September 1st 2017, Melbourne, Australia. Co-located with &lt;a href="http://ijcai-17.org">IJCAI 2017&lt;/a>. &lt;a href="https://doi.org/10.1007/978-3-319-66158-2">Springer Lecture Notes in Computer Science 10416&lt;/a>&lt;/li>
+&lt;li>&lt;strong>CP2016&lt;/strong>: Twenty-Second International Conference on Principles and Practice of Constraint Programming, September 5th-9th, 2016, Toulouse, France, &lt;a href="https://doi.org/10.1007/978-3-319-44953-1">Springer Lecture Notes in Computer Science 9892&lt;/a>.&lt;/li>
+&lt;li>&lt;strong>CP2015&lt;/strong>: Twenty-First International Conference on Principles and Practice of Constraint Programming, August 31st-September 4th, 2015, Cork, Ireland, &lt;a href="https://doi.org/10.1007/978-3-319-23219-5">Springer Lecture Notes in Computer Science 9255&lt;/a>&lt;/li>
+&lt;li>&lt;strong>CP2014&lt;/strong>: Twentieth International Conference on Principles and Practice of Constraint Programming, September 8th-12th, 2014, Lyon, France, &lt;a href="http://dx.doi.org/10.1007/978-3-319-10428-7">Springer Lecture Notes in Computer Science 8656&lt;/a>&lt;/li>
+&lt;li>&lt;strong>CP2013&lt;/strong>: Nineteenth International Conference on Principles and Practice of Constraint Programming, September 16th-20th, Uppsala, Sweden, &lt;a href="http://dx.doi.org/10.1007/978-3-642-40627-0">Springer Lecture Notes in Computer Science 8124&lt;/a>&lt;/li>
+&lt;li>&lt;strong>CP2012&lt;/strong>: Eighteenth International Conference on Principles and Practice of Constraint Programming, October 8-12, Quebec City, Canada, &lt;a href="http://dx.doi.org/10.1007/978-3-642-33558-7">Springer Lecture Notes in Computer Science 7514&lt;/a>&lt;/li>
+&lt;li>&lt;strong>CP2011&lt;/strong>: Seventeenth International Conference on Principles and Practice of Constraint Programming, September 12-16, Perugia, Italy, &lt;a href="http://dx.doi.org/10.1007/978-3-642-23786-7">Springer Lecture Notes in Computer Science 6876&lt;/a>&lt;/li>
+&lt;li>&lt;strong>CP2010&lt;/strong>: Sixteenth International Conference on Principles and Practice of Constraint Programming, September 6-10, St Andrews, Scotland, &lt;a href="http://dx.doi.org/10.1007/978-3-642-15396-9">Springer Lecture Notes in Computer Science 6308&lt;/a>&lt;/li>
+&lt;li>&lt;strong>CP2009&lt;/strong>: Fifteenth International Conference on Principles and Practice of Constraint Programming, September 20-24, Lisbon, Portugal, &lt;a href="http://dx.doi.org/10.1007/978-3-642-04244-7">Springer Lecture Notes in Computer Science 5732&lt;/a>&lt;/li>
+&lt;li>&lt;strong>CP2008&lt;/strong>: Fourteenth International Conference on Principles and Practice of Constraint Programming, September 14-18, Sydney, Australia, &lt;a href="http://dx.doi.org/10.1007/978-3-540-85958-1">Springer Lecture Notes in Computer Science 5202&lt;/a>&lt;/li>
+&lt;li>&lt;strong>CP2007&lt;/strong>: Thirteenth International Conference on Principles and Practice of Constraint Programming, September 23-27, Providence, RI, USA, &lt;a href="http://dx.doi.org/10.1007/978-3-540-74970-7">Springer Lecture Notes in Computer Science 4741&lt;/a>&lt;/li>
+&lt;li>&lt;strong>CP2006&lt;/strong>: Twelfth International Conference on Principles and Practice of Constraint Programming, September 25-29, Nantes, France, &lt;a href="http://dx.doi.org/10.1007/11889205">Springer Lecture Notes in Computer Science 4204&lt;/a>&lt;/li>
+&lt;li>&lt;strong>CP2005&lt;/strong>: Eleventh International Conference on Principles and Practice of Constraint Programming, October 1 - 5, 2005, Sitges (Barcelona), Spain, &lt;a href="http://dx.doi.org/10.1007/11564751">Springer Lecture Notes in Computer Science 3709&lt;/a>&lt;/li>
+&lt;li>&lt;strong>CP2004&lt;/strong>: Tenth International Conference on Principles and Practice of Constraint Programming, September 27 - October 1, 2004, Toronto, Canada, &lt;a href="http://dx.doi.org/10.1007/b100482">Springer Lecture Notes in Computer Science 3258&lt;/a>&lt;/li>
+&lt;li>&lt;strong>CP2003&lt;/strong>: Ninth International Conference on Principles and Practice of Constraint Programming, September 29 - October 3, 2003, Kinsale, Ireland, &lt;a href="http://dx.doi.org/10.1007/b13743">Springer Lecture Notes in Computer Science 2833&lt;/a>&lt;/li>
+&lt;li>&lt;strong>CP2002&lt;/strong>: Eighth International Conference on Principles and Practice of Constraint Programming, September 7 - 13, 2002, Cornell University, &lt;a href="http://dx.doi.org/10.1007/3-540-46135-3">Springer Lecture Notes in Computer Science 2470&lt;/a>&lt;/li>
+&lt;li>&lt;strong>CP2001&lt;/strong>: Seventh International Conference on Principles and Practice of Constraint Programming, November 26 - December 1, 2001, Paphos, Cyprus, &lt;a href="http://dx.doi.org/10.1007/3-540-45578-7">Springer Lecture Notes in Computer Science 2239&lt;/a>&lt;/li>
+&lt;li>&lt;strong>CP2000&lt;/strong>: Sixth International Conference on Principles and Practice of Constraint Programming, September 18-22, 2000, Singapore, &lt;a href="http://dx.doi.org/10.1007/3-540-45349-0">Springer Lecture Notes in Computer Science 1894&lt;/a>&lt;/li>
+&lt;li>&lt;strong>CP99&lt;/strong>: Fifth International Conference on Principles and Practice of Constraint Programming, October 11-15, 1999, Alexandria, Virginia, USA, &lt;a href="http://dx.doi.org/10.1007/b72297">Springer Lecture Notes in Computer Science 1713&lt;/a>&lt;/li>
+&lt;li>&lt;strong>CP98&lt;/strong>: Fourth International Conference on Principles and Practice of Constraint Programming, October 26-30, 1998, Pisa, Italy, &lt;a href="http://dx.doi.org/10.1007/3-540-49481-2">Springer Lecture Notes in Computer Science 1520&lt;/a>&lt;/li>
+&lt;li>&lt;strong>CP97&lt;/strong>: Third International Conference on Principles and Practice of Constraint Programming, October 29 - November 1, 1997, Schloss Hagenberg, Austria, &lt;a href="http://dx.doi.org/10.1007/BFb0017424">Springer Lecture Notes in Computer Science 1330&lt;/a>&lt;/li>
+&lt;li>&lt;strong>CP96&lt;/strong>: Second International Conference on Principles and Practice of Constraint Programming, August 19-22, 1996, Cambridge, Massachusetts, USA, &lt;a href="http://dx.doi.org/10.1007/3-540-61551-2">Springer Lecture Notes in Computer Science 1118&lt;/a>&lt;/li>
+&lt;li>&lt;strong>CP'95&lt;/strong>: First International Conference on Principles and Practice of Constraint Programming, September 19-22, 1995, Cassis, France, &lt;a href="http://dx.doi.org/10.1007/3-540-60299-2">Springer Lecture Notes in Computer Science 976&lt;/a>&lt;/li>
+&lt;li>&lt;strong>PPCP'94&lt;/strong>: Second Workshop on Principles and Practice of Constraint Programming, May 2-4, 1994, Rosario, Orcas Island, Washington, USA, &lt;a href="http://dx.doi.org/10.1007/3-540-58601-6">Springer Lecture Notes in Computer Science 874&lt;/a>&lt;/li>
+&lt;li>&lt;strong>PPCP'93&lt;/strong>: First Workshop on Principles and Practice of Constraint Programming, April 28-30, 1993, Newport, Rhode Island, USA&lt;/li>
+&lt;/ul>
+&lt;p>The collection of CP conference posters up to 2011 has been compiled by &lt;a href="http://www.dmi.unipg.it/~bista/">Stefano Bistarelli&lt;/a>.&lt;/p></description></item><item><title>Anti-Harassment Policy</title><link>/events/anti-harassment-policy/</link><pubDate>Sat, 25 Jul 2026 15:03:16 +0200</pubDate><guid>/events/anti-harassment-policy/</guid><description>&lt;p>The open exchange of ideas is central to the mission of the Association for Constraint Programming (ACP). This requires an environment that embraces diversity and provides a safe, welcoming environment for all. As a result, in 2018 the ACP adopted the following anti-harassment policy (based on the one adopted by the ACM also in 2018) to be observed during all ACP activities, including:&lt;/p>
+&lt;ul>
+&lt;li>Conferences, symposia, workshops, and events sponsored, co-sponsored, or in cooperation with the ACP;&lt;/li>
+&lt;li>ACP member meetings;&lt;/li>
+&lt;li>Exchanges among committees or other bodies associated with ACP activities;&lt;/li>
+&lt;li>Publications and communications sent through communication channels associated with ACP, including social media.&lt;/li>
+&lt;/ul>
+&lt;h2 id="expected-behaviour">Expected Behaviour&lt;/h2>
+&lt;p>We expect all participants in ACP activities to abide by this policy in all venues, including ancillary events and unofficial social gatherings:&lt;/p></description></item><item><title>CP Conference Organisation Policy</title><link>/old_nodes/90/</link><pubDate>Sat, 25 Jul 2026 15:03:16 +0200</pubDate><guid>/old_nodes/90/</guid><description>&lt;h2 id="1-bidding-for-the-conference-organisation">1. Bidding for the Conference Organisation&lt;/h2>
+&lt;p>The ACP Executive Committee (EC) holds the annual International Conference on Principles and Practice of Constraint Programming (CP). If you are interested in organising a future CP conference, then you need to make a proposal to the Conference Coordinator of the EC (&lt;a href="mailto:helene.verhaeghe@uclouvain.be">helene.verhaeghe@uclouvain.be&lt;/a>). A proposal consists of volunteering to be Conference Chairs (CC) of the conference and to be responsible for the budget and local arrangements in the proposed city.&lt;/p></description></item><item><title>Distinguished Service Award</title><link>/awards/distinguished-service-award/</link><pubDate>Sat, 25 Jul 2026 15:03:16 +0200</pubDate><guid>/awards/distinguished-service-award/</guid><description>&lt;p>The purpose of this award is to celebrate those CP community members who have made exceptional contributions to support the CP community. Areas of support could include, but are not limited to: association service, service as an editor, conference organisation, representation of CP in other organizations, etc., resulting in positive effects on the research field.&lt;/p>
+&lt;p>The 2026 call closed on 10 May.&lt;/p>
+&lt;p>Previous recipients of this award are:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Year&lt;/th>
+&lt;th>Recipient&lt;/th>
+&lt;th>Affiliation&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>2026&lt;/td>
+&lt;td>&lt;a href="https://scholar.google.com/citations?user=y_pAyuQAAAAJ">J. Christopher Beck&lt;/a>&lt;/td>
+&lt;td>University of Toronto, Canada&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2024&lt;/td>
+&lt;td>&lt;a href="https://scholar.google.be/citations?user=mkm8ZlQAAAAJ">Maria Garcia de la Banda&lt;/a>&lt;/td>
+&lt;td>Monash University, Australia&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2022&lt;/td>
+&lt;td>&lt;a href="https://scholar.google.com/citations?user=RHIj4boAAAAJ">Helmut Simonis&lt;/a>&lt;/td>
+&lt;td>Insight Centre for Data Analytics, Cork, Ireland&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2020&lt;/td>
+&lt;td>&lt;a href="https://scholar.google.com.sg/citations?hl=en&amp;amp;user=27PyeisAAAAJ">Christian Schulte&lt;/a>&lt;/td>
+&lt;td>KTH Royal Institute of Technology, Sweden&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2018&lt;/td>
+&lt;td>&lt;a href="https://scholar.google.com/citations?user=bQBpCnEAAAAJ">Michela Milano&lt;/a>&lt;/td>
+&lt;td>University of Bologna, Italy&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2016&lt;/td>
+&lt;td>&lt;a href="https://scholar.google.com/citations?user=DCh0wtEAAAAJ">Thomas Schiex&lt;/a>&lt;/td>
+&lt;td>INRA, Toulouse, France&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2014&lt;/td>
+&lt;td>&lt;a href="https://scholar.google.com/citations?user=EtMwv6YAAAAJ">Barry O&amp;rsquo;Sullivan&lt;/a>&lt;/td>
+&lt;td>University College Cork, Ireland&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2012&lt;/td>
+&lt;td>&lt;a href="https://scholar.google.com/citations?user=a8gYKGkAAAAJ">Eugene C. Freuder&lt;/a>&lt;/td>
+&lt;td>University College Cork, Ireland&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2010&lt;/td>
+&lt;td>&lt;a href="https://scholar.google.com/citations?user=Zp41vKYAAAAJ">Francesca Rossi&lt;/a>&lt;/td>
+&lt;td>University of Padova, Italy&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Diversity, Equity and Inclusion Policy</title><link>/old_nodes/62/</link><pubDate>Sat, 25 Jul 2026 15:03:16 +0200</pubDate><guid>/old_nodes/62/</guid><description>&lt;p>The ACP shares the policy of the &lt;a href="https://www.aaai.org">Association for the Advancement of Artificial Intelligence&lt;/a> (AAAI) on diversity, equity, and inclusion. We believe that ACP’s greatest strengths come from the people who make up our community. The ACP is committed to fostering an inclusive community with opportunities for all participants without regard to age, religion, race, ethnicity, gender identity, sexual orientation, national origin, or disability. We strive to remove barriers and obstacles that limit participation, and we work to uncover biases that create unfair practices. Every ACP member is encouraged to engage in civil discourse when opinions and points of view differ. We value and respect one another, and we will hold one another accountable when we falter. Differences are welcomed and celebrated. Join us.&lt;/p></description></item><item><title>Doctoral Research Award</title><link>/awards/doctoral-research-award/</link><pubDate>Sat, 25 Jul 2026 15:03:16 +0200</pubDate><guid>/awards/doctoral-research-award/</guid><description>&lt;p>The ACP Doctoral Research Award is awarded every year to a promising young researcher working in the area of constraint programming and who defended their thesis between January and December of the previous two years. The award, in the form of a certificate, is presented at the CP conference, where the winning researcher will be invited to give a talk about their PhD thesis. The award includes a cash prize of 500 euros, plus free registration for the conference.&lt;/p></description></item><item><title>Early Career Researcher Award</title><link>/awards/early-career-research-award/</link><pubDate>Sat, 25 Jul 2026 15:03:16 +0200</pubDate><guid>/awards/early-career-research-award/</guid><description>&lt;p>The ACP Early Career Researcher Award is awarded every year to a researcher who has completed their PhD at least 2 years and at most 8 years before the year of the competition, with a scientific track record showing great promise in the area of Constraint Programming.&lt;/p>
+&lt;p>The award was established in 2021 after a proposal by Prof. Eugene Freuder to the ACP. Prof. Freuder has provided seed funding for the award by the donation of the monetary portion of his 2020 IJCAI Research Excellence Award to the ACP.&lt;/p></description></item><item><title>Legal Information</title><link>/old_nodes/1381/</link><pubDate>Sat, 25 Jul 2026 15:03:16 +0200</pubDate><guid>/old_nodes/1381/</guid><description>&lt;p>The ACP is legally a French organisation, hence the official status are in French. We of course also provide a faithful translation in English of the statutes, as well as the bylaws.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="./about/statutes">Official Statutes&lt;/a> (in French)&lt;/li>
 &lt;li>&lt;a href="./about/statutes_en">English Statutes&lt;/a>&lt;/li>
 &lt;li>&lt;a href="./about/bylaws">Bylaws&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>About the ACP</title><link>/about/</link><pubDate>Sat, 25 Jul 2026 15:03:15 +0200</pubDate><guid>/about/</guid><description>&lt;p>The Association for Constraint Programming aims at promoting constraint programming in every aspect of the scientific world, by encouraging its theoretical and practical developments, its teaching in academic institutions, its adoption in the industrial world, and its use in the application fields.&lt;/p>
-&lt;p>The ACP is a non-profit association, which uses the profit of the organized events to support future events or activities. To become a member of the ACP, submit an application for membership by selecting &lt;em>Join the ACP&lt;/em> from the menu.&lt;/p></description></item><item><title>Anti-Harassment Policy</title><link>/events/anti-harassment-policy/</link><pubDate>Sat, 25 Jul 2026 15:03:15 +0200</pubDate><guid>/events/anti-harassment-policy/</guid><description>&lt;p>The open exchange of ideas is central to the mission of the Association for Constraint Programming (ACP). This requires an environment that embraces diversity and provides a safe, welcoming environment for all.&lt;/p>
-&lt;p>As a result, in 2018 the ACP adopted the following anti-harassment policy (based on the one adopted by the ACM also in 2018) to be observed during &lt;strong>all ACP activities&lt;/strong>, including:&lt;/p>
+&lt;/ul></description></item><item><title>Paper Awards</title><link>/awards/paper-awards/</link><pubDate>Sat, 25 Jul 2026 15:03:16 +0200</pubDate><guid>/awards/paper-awards/</guid><description>&lt;h3 id="cp-2025">CP 2025&lt;/h3>
 &lt;ul>
-&lt;li>Conferences, symposia, workshops, and events sponsored, co-sponsored, or in cooperation with the ACP;&lt;/li>
-&lt;li>ACP member meetings;&lt;/li>
-&lt;li>Exchanges among committees or other bodies associated with ACP activities &lt;strong>publications and communications sent through communication channels associated with ACP&lt;/strong>, including social media.&lt;/li>
+&lt;li>&lt;strong>Best Technical Paper&lt;/strong>: J. Christopher Beck, Ryo Kuroiwa, Jimmy H. M. Lee, Peter J. Stuckey, and Allen Z. Zhong. &lt;a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol340-cp2025/LIPIcs.CP.2025.5/LIPIcs.CP.2025.5.pdf">Transition Dominance in Domain-Independent Dynamic Programming&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Application Paper&lt;/strong>: Ignace Bleukx, Ryma Boumazouza, Tias Guns, Nadine Laage, and Guillaume Poveda. &lt;a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol340-cp2025/LIPIcs.CP.2025.6/LIPIcs.CP.2025.6.pdf">Modeling and Explaining an Industrial Workforce Allocation and Scheduling Problem&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Student Paper&lt;/strong>: Hannes Ihalainen, Jeremias Berg, Matti Järvisalo, and Bart Bogaerts. &lt;a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol340-cp2025/LIPIcs.CP.2025.15/LIPIcs.CP.2025.15.pdf">Symmetric Core Learning for Pseudo-Boolean Optimization by Implicit Hitting Sets&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h3 id="expected-behaviour">Expected Behaviour&lt;/h3>
-&lt;p>We expect all participants in ACP activities to abide by this policy in all venues, including ancillary events and unofficial social gatherings:&lt;/p></description></item><item><title>Policies</title><link>/policies/</link><pubDate>Sat, 25 Jul 2026 15:03:15 +0200</pubDate><guid>/policies/</guid><description>&lt;h2 id="cp-conference-organisation-policy">CP Conference Organisation Policy&lt;/h2>
+&lt;h3 id="cp-2024">CP 2024&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Best Main Track Paper&lt;/strong>: Peng Lin, Mengchuan Zou and Shaowei Cai. &lt;a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol307-cp2024/LIPIcs.CP.2024.19/LIPIcs.CP.2024.19.pdf">An Efficient Local Search Solver for Mixed Integer Programming&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Application Track Paper&lt;/strong>: Duc Anh Le, Stephanie Roussel, Christophe Lecoutre and Anouck Chan. &lt;a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol307-cp2024/LIPIcs.CP.2024.18/LIPIcs.CP.2024.18.pdf">Learning Effect and Compound Activities in High Multiplicity RCPSP: Application to Satellite Production&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best ML Track Paper&lt;/strong>: Augustin Parjadis, Quentin Cappart, Bistra Dilkina, Aaron Ferber and Louis-Martin Rousseau. &lt;a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol307-cp2024/LIPIcs.CP.2024.22/LIPIcs.CP.2024.22.pdf">Learning Lagrangian Multipliers for the Travelling Salesman Problem&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="cp-2023">CP 2023&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Best Paper&lt;/strong>: Mathew J. McIlree and Ciaran McCreesh. &lt;a href="https://drops.dagstuhl.de/opus/volltexte/2023/19063/pdf/LIPIcs-CP-2023-26.pdf">Proof Logging for Smart Extensional Constraints&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Application Track Paper&lt;/strong>: Matthias Klapperstueck, Frits De Nijs, Ilankaikone Senthooran, Jack Lee-Kopij, Maria Garcia De La Banda and Michael Wybrow. &lt;a href="https://drops.dagstuhl.de/opus/volltexte/2023/19058/pdf/LIPIcs-CP-2023-21.pdf">Exploring Hydrogen Supply/Demand Networks: Modeller and Domain Expert views&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="cp-2022">CP 2022&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Best Paper&lt;/strong>: Isaac Rudich, Quentin Cappart and Louis-Martin Rousseau. &lt;a href="https://drops.dagstuhl.de/opus/volltexte/2022/16664/pdf/LIPIcs-CP-2022-35.pdf">Peel-and-Bound: Generating Stronger Relaxed Bounds with Multivalued Decision Diagrams&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Student Paper&lt;/strong>: Jimmy H. M. Lee and Allen Z. Zhong. &lt;a href="https://drops.dagstuhl.de/opus/volltexte/2022/16660/pdf/LIPIcs-CP-2022-31.pdf">Exploiting Functional Constraints in Generating Dominance Breaking Nogoods for Constraint Optimization&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="cp-2021">CP 2021&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Best Paper&lt;/strong>: Chu-Min Li, Zhenxing Xu, Jordi Coll, Felip Manya, Djamal Habet, and Kun He. &lt;a href="https://drops.dagstuhl.de/opus/volltexte/2021/15329/pdf/LIPIcs-CP-2021-38.pdf">Combining Clause Learning and Branch and Bound for MaxSAT&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="cp-2020">CP 2020&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Best Technical Track Paper&lt;/strong>: Tomáš Peitl and Stefan Szeider. &lt;a href="https://link.springer.com/chapter/10.1007/978-3-030-58475-7_30">Finding the Hardest Formulas for Resolution&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Application Track Paper&lt;/strong>: Rodothea Myrsini Tsoupidi, Roberto Castañeda Lozano, and Benoit Baudry. &lt;a href="https://link.springer.com/chapter/10.1007/978-3-030-58475-7_46">Constraint-Based Software Diversification for Efficient Mitigation of Code-Reuse Attacks&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best CP/ML Track Paper&lt;/strong>: Jinqiang Yu, Alexey Ignatiev, Peter Stuckey, and Pierre Le Bodic. &lt;a href="https://link.springer.com/chapter/10.1007/978-3-030-58475-7_55">Computing Optimal Decision Sets with SAT&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="cp-2019">CP 2019&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Best Paper&lt;/strong>: Alex Mattenet, Ian Davidson, Siegfried Nijssen, and Pierre Schaus. &lt;a href="https://link.springer.com/chapter/10.1007%2F978-3-030-30048-7_38">Generic Constraint-based Block Modeling using Constraint Programming&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Student Paper&lt;/strong>: Rocsildes Canoy and Tias Guns. &lt;a href="https://doi.org/10.1007/978-3-030-30048-7_4">Vehicle Routing by Learning from Historical Solutions&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Distinguished Student Paper&lt;/strong>: Mohd Hafiz Hasan and Pascal van Hentenryck. &lt;a href="https://link.springer.com/article/10.1007%2Fs10601-020-09310-5">The Flexible and Real-Time Commute Trip Sharing Problems&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="cp-2018">CP 2018&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Best Paper&lt;/strong>: Emmanuel Hebrard and George Katsirelos. &lt;a href="https://link.springer.com/chapter/10.1007%2F978-3-319-98334-9_12">Clause Learning and New Bounds for Graph Coloring&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="cp-2017">CP 2017&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Best Paper&lt;/strong>: Grigori German, Olivier Briant, Hadrien Cambazard, and Vincent Jost. &lt;a href="https://doi.org/10.1007/978-3-319-66158-2_8">Arc Consistency via Linear Programming&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Distinguished Paper&lt;/strong>: Fahiem Bacchus, Antti Hyttinen, Matti Järvisalo, and Paul Saikko. &lt;a href="https://doi.org/10.1007/978-3-319-66158-2_41">Reduced Cost Fixing in MaxSAT&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Student Paper&lt;/strong>: Adrian Goldwaser and Andreas Schutt. Optimal Torpedo Scheduling.&lt;/li>
+&lt;li>&lt;strong>Distinguished Student Paper&lt;/strong>: Guillaume Derval, Jean-Charles Regin, and Pierre Schaus. Improved Filtering for the Bin-Packing with Cardinality Constraint.&lt;/li>
+&lt;/ul>
+&lt;h3 id="cp-2016">CP 2016&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Best Paper&lt;/strong>: Krishnamurthy Dvijotham, Michael Chertkov, Pascal van Hentenryck, Marc Vuffray and Sidhant Misra. Graphical Models for Optimal Power Flow.&lt;/li>
+&lt;li>&lt;strong>Distinguished Paper&lt;/strong>: David Manlove, Iain McBride, and James Trimble. Almost-Stable Matchings in the Hospitals/Residents Problem with Couples.&lt;/li>
+&lt;li>&lt;strong>Best Student Paper&lt;/strong>: Clément Carbonnel. The Dichotomy for Conservative Constraint Satisfaction Is Polynomially Decidable.&lt;/li>
+&lt;li>&lt;strong>Distinguished Student Paper&lt;/strong>: Kyle E.C. Booth, Goldie Nejat, and J. Christopher Beck. A Constraint Programming Approach to Multi-Robot Task Allocation and Scheduling in Retirement Homes.&lt;/li>
+&lt;/ul>
+&lt;h3 id="cp-2015">CP 2015&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Best Technical Track Paper&lt;/strong>: John N. Hooker. Projection, Consistency, and George Boole.&lt;/li>
+&lt;li>&lt;strong>Best Application Track Paper&lt;/strong>: Philip Kilby and Tommaso Urli. Fleet Design Optimisation from Historical Data using Constraint Programming and Large Neighbourhood Search.&lt;/li>
+&lt;li>&lt;strong>Best Student Paper&lt;/strong>: Alexander Ivrii, Sharad Malik, Kuldeep S. Meel, and Moshe Vardi. On Computing Minimal Independent Support and Its Applications to Sampling and Counting.&lt;/li>
+&lt;/ul>
+&lt;h3 id="cp-2014">CP 2014&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Best Technical Track Paper&lt;/strong>: Martin Cooper, Achref El Mouelhi, Cyril Terrioux, and Bruno Zanuttini. On Broken Triangles.&lt;/li>
+&lt;li>&lt;strong>Best Application Track Paper&lt;/strong>: Morten Mossige, Arnaud Gotlieb, and Hein Meling. Using CP in Automatic Test Generation for ABB Robotics’ Paint Control System.&lt;/li>
+&lt;li>&lt;strong>Best Student Paper&lt;/strong>: Umut Oztok and Adnan Darwiche. On Compiling CNF into Decision-DNNF.&lt;/li>
+&lt;li>&lt;strong>Runner-Up&lt;/strong>: Thi-Van-Anh Nguyen and Arnaud Lallouet. A Complete Solver for Constraint Games.&lt;/li>
+&lt;/ul>
+&lt;h3 id="cp-2013">CP 2013&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Best Technical Track Paper&lt;/strong>: Thierry Moisan, Jonathan Gaudreault, and Claude-Guy Quimper. Parallel Discrepancy-Based Search.&lt;/li>
+&lt;li>&lt;strong>Best Application Track Paper&lt;/strong>: Hadrien Cambazard, Deepak Mehta, Barry O’Sullivan, and Helmut Simonis. Bin Packing with Linear Usage Costs – An Application to Energy Management in Data Centres.&lt;/li>
+&lt;li>&lt;strong>Best Student Paper&lt;/strong>: Jean-Guillaume Fages and Tanguy Lapègue. Filtering AtMostNValue with Diﬀerence Constraints: Application to the Shift Minimisation Personnel Task Scheduling Problem.&lt;/li>
+&lt;/ul>
+&lt;h3 id="cp-2012">CP 2012&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Best Main Track Paper&lt;/strong>: Geoﬀrey Chu and Peter Stuckey. A Generic Method for Identifying and Exploiting Dominance Relations.&lt;/li>
+&lt;li>&lt;strong>Best Application Track Paper&lt;/strong>: Gilles Simonin, Christian Artigues, Emmanuel Hebrard, and Pierre Lopez. Scheduling Scientiﬁc Experiments on the Rosetta/Philae Mission.&lt;/li>
+&lt;li>&lt;strong>Honorable Mentions&lt;/strong>: Mohamed Siala, Emmanuel Hebrard, and Marie-José Huguet. An Optimal Arc Consistency Algorithm for a Chain of Atmost Constraints with Cardinality.&lt;/li>
+&lt;li>&lt;strong>Honorable Mentions&lt;/strong>: Hannes Uppman. Max-Sur-CSP on Two Elements.&lt;/li>
+&lt;/ul>
+&lt;h3 id="cp-2011">CP 2011&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Best Research Track Paper&lt;/strong>: Georg Gottlob. On Minimal Constraint Networks.&lt;/li>
+&lt;li>&lt;strong>Best Application Track Paper&lt;/strong>: Venkatesh Ramamoorthy, Marius Silaghi, Toshihiro Matsui, Katsutoshi Hirayama, and Makoto Yokoo. The Design of Cryptographic Substitution Boxes Using CSPs.&lt;/li>
+&lt;li>&lt;strong>Runner-Up&lt;/strong>: Andreas Schutt, Peter J. Stuckey, and Andrew R. Verden. Optimal Carpet Cutting.&lt;/li>
+&lt;li>&lt;strong>Best Student Paper&lt;/strong>: Marie Pelleau, Charlotte Truchet, and Frédéric Benhamou. Octagonal Domains for Continuous Constraints.&lt;/li>
+&lt;/ul>
+&lt;h3 id="cp-2010">CP 2010&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Best Research Track Paper&lt;/strong>: Ross Willard. Testing Expressibility Is Hard.&lt;/li>
+&lt;li>&lt;strong>Best Application Track Paper&lt;/strong>: Sigal Asaf, Haggai Eran, Yossi Richter, Daniel P. Connors, Donna L. Gresh, Julio Ortega, and Michael J. Mcinnis. Applying Constraint Programming to Identiﬁcation and Assignment of Service Professionals.&lt;/li>
+&lt;li>&lt;strong>Best Student Paper&lt;/strong>: Stefano Ermon, Carla Gomes, and Bart Selman. Computing the Density of States of Boolean Formulas.&lt;/li>
+&lt;/ul>
+&lt;h3 id="cp-2009">CP 2009&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Best Research Track Paper&lt;/strong>: Petr Vilı́m. Edge Finding Filtering Algorithm for Discrete Cumulative Resources in O(kn log n).&lt;/li>
+&lt;li>&lt;strong>Runners-Up&lt;/strong>: Konstantin Korovin, Nestan Tsiskaridze, and Andrei Voronkov. Conﬂict Resolution.&lt;/li>
+&lt;li>&lt;strong>Runners-Up&lt;/strong>: Christophe Lecoutre and Olivier Roussel. Failed Value Consistencies for Constraint Satisfaction.&lt;/li>
+&lt;li>&lt;strong>Runners-Up&lt;/strong>: Knot Pipatsrisawat and Adnan Darwiche. On the Power of Clause-Learning SAT Solvers with Restarts.&lt;/li>
+&lt;li>&lt;strong>Best Application Track Paper&lt;/strong>: Helmut Simonis. A Hybrid Constraint Model for the Routing and Wavelength Assignment Problem.&lt;/li>
+&lt;li>&lt;strong>Best Student Paper&lt;/strong>: Knot Pipatsrisawat and Adnan Darwiche. On the Power of Clause-Learning SAT Solvers with Restarts.&lt;/li>
+&lt;li>&lt;strong>Runner-Up&lt;/strong>: Geoﬀrey Chu, Peter Stuckey, and Maria Garcia de la Banda. Using Relaxations in Maximum Density Still Life.&lt;/li>
+&lt;/ul>
+&lt;h3 id="cp-2008">CP 2008&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Best Research Track Paper&lt;/strong>: Alexandre Goldsztejn and Laurent Granvilliers. A New Framework for Sharp and Eﬃcient Resolution of NCSP with Manifolds of Solutions.&lt;/li>
+&lt;li>&lt;strong>Best Application Track Paper&lt;/strong>: Arnaldo Moura, Cid de Souza, André Cirè, and Tony Lopes. Planning and Scheduling the Operation of a Very Large Oil Pipeline Network.&lt;/li>
+&lt;li>&lt;strong>Best Student Paper&lt;/strong>: Jean-Marie Normand, Alexandre Goldsztejn, Marc Christia, and Frédéric Benhamou. A Branch and Bound Algorithm for Numerical MAX-CSP.&lt;/li>
+&lt;/ul>
+&lt;h3 id="cp-2007">CP 2007&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Best Paper&lt;/strong>: Alessandro Zanarini and Gilles Pesant. Solution Counting Algorithms for Constraint-Centered Search Heuristics.&lt;/li>
+&lt;li>&lt;strong>Best Student Paper&lt;/strong>: Olga Ohrimenko, Peter J. Stuckey, and Michael Codish. Propagation = Lazy Clause Generation.&lt;/li>
+&lt;/ul>
+&lt;h3 id="cp-2006">CP 2006&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Best Paper&lt;/strong>: Willem-Jan van Hoeve, Gilles Pesant, Louis-Martin Rousseau, and Ashish Sabharwal. Revisiting the Sequence Constraint.&lt;/li>
+&lt;/ul>
+&lt;h3 id="cp-2005">CP 2005&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Best Papers&lt;/strong>: David Cohen, Peter Jeavons, Christopher Jefferson, Karen E. Petrie, and Barbara M. Smith. Symmetry Definitions for Constraint Satisfaction Problems.&lt;/li>
+&lt;li>&lt;strong>Best Papers&lt;/strong>: Roie Zivan and Amnon Meisels. Dynamic Ordering for Asynchronous Backtracking on DisCSPs.&lt;/li>
+&lt;/ul>
+&lt;h3 id="cp-2004">CP 2004&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Distinguished Papers&lt;/strong>: Yong Gao and Joseph Culberson. Consistency and Random Constraint Satisfaction Models with a High Constraint Tightness.&lt;/li>
+&lt;li>&lt;strong>Distinguished Papers&lt;/strong>: Carla P. Gomes, Cèsar Fernández, Bart Selman, and Christian Bessiere. Statistical Regimes Across Constrainedness Regions.&lt;/li>
+&lt;li>&lt;strong>Distinguished Papers&lt;/strong>: Pascal van Hentenryck, Laurent Michel, and Liyuan Liu. Constraint-Based Combinators for Local Search.&lt;/li>
+&lt;li>&lt;strong>Distinguished Papers&lt;/strong>: Petr Vilím, Roman Barták, and Ondřej Čepek. Unary Resource Constraint with Optional Activities.&lt;/li>
+&lt;/ul>
+&lt;h3 id="cp-2003">CP 2003&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Best Paper&lt;/strong>: Pascal van Hentenryck and Laurent Michel. Control Abstractions by Local Search.&lt;/li>
+&lt;/ul>
+&lt;h3 id="cp-2001">CP 2001&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Best Technical Program Papers&lt;/strong>: Andrew Eremin and Mark Wallace. Hybrid Benders Decomposition Algorithms in Constraint Logic Programming.&lt;/li>
+&lt;li>&lt;strong>Best Technical Program Papers&lt;/strong>: Erlendur S. Thorsteinsson. Branch-and-Check: A Hybrid Framework Integrating Mixed Integer Programming and Constraint Logic Programming&lt;/li>
+&lt;li>&lt;strong>Best Innovative Applications Program Paper&lt;/strong>: Peter van Beek and Kent Wilken. Fast Optimal Instruction Scheduling for Single-Issue Processors with Arbitrary Latencies&lt;/li>
+&lt;/ul>
+&lt;p>&lt;em>CP 2001 was the first conference to have paper awards.&lt;/em>&lt;/p></description></item><item><title>Research Excellence Award</title><link>/awards/research-excellence-award/</link><pubDate>Sat, 25 Jul 2026 15:03:16 +0200</pubDate><guid>/awards/research-excellence-award/</guid><description>&lt;p>Ten years after the first CP conference, the CP research area was mature enough to begin to identify and honour the most influential people in the field. In 2015, the Executive Committee of the Association for Constraint Programming has decided to establish an annual &amp;ldquo;ACP award for Research Excellence in constraint programming&amp;rdquo;, whose purpose is to celebrate those CP researchers who have made exceptional and very influential research contributions to CP with their work.&lt;/p></description></item><item><title>About the ACP</title><link>/about/</link><pubDate>Sat, 25 Jul 2026 15:03:15 +0200</pubDate><guid>/about/</guid><description>&lt;p>The Association for Constraint Programming aims at promoting constraint programming in every aspect of the scientific world, by encouraging its theoretical and practical developments, its teaching in academic institutions, its adoption in the industrial world, and its use in the application fields.&lt;/p>
+&lt;p>The ACP is a non-profit association, which uses the profit of the organized events to support future events or activities. To become a member of the ACP, submit an application for membership by selecting &lt;em>Join the ACP&lt;/em> from the menu.&lt;/p></description></item><item><title>Policies</title><link>/policies/</link><pubDate>Sat, 25 Jul 2026 15:03:15 +0200</pubDate><guid>/policies/</guid><description>&lt;h2 id="cp-conference-organisation-policy">CP Conference Organisation Policy&lt;/h2>
 &lt;p>The ACP Executive Committee (EC) holds the annual International Conference on Principles and Practice of Constraint Programming (CP). If you are interested in organising a future CP conference, then you need to make a proposal to the Conference Coordinator of the EC (&lt;a href="mailto:helene.verhaeghe@uclouvain.be">helene.verhaeghe@uclouvain.be&lt;/a>). A proposal consists of volunteering to be Conference Chairs (CC) of the conference and to be responsible for the budget and local arrangements in the proposed city.&lt;/p></description></item><item><title>Welcome to the ACP</title><link>/home/</link><pubDate>Sat, 25 Jul 2026 15:03:14 +0200</pubDate><guid>/home/</guid><description>&lt;p>The Association for Constraint Programming aims at promoting constraint programming in every aspect of the scientific world, by encouraging its theoretical and practical developments, its teachning in the academic institutions, its adoption in the industrial world, and its use in the the application fields.&lt;/p>
 &lt;p>&lt;a href="./about">More about the ACP&lt;/a>&lt;/p>
 &lt;h2 id="about-constraint-programming">About Constraint Programming&lt;/h2>
