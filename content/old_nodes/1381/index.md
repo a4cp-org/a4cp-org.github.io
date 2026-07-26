@@ -6,6 +6,6 @@ draft: false
 
 The ACP is legally a French organisation, hence the official status are in French. We of course also provide a faithful translation in English of the statutes, as well as the bylaws.
 
-* [Official Statutes](2) (in French)
-* [English Statutes](1141)
-* [Bylaws](3)
+* [Official Statutes](/about/statutes) (in French)
+* [English Statutes](/about/statutes_en)
+* [Bylaws](/about/bylaws)
