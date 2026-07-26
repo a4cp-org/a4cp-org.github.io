@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>About the ACP on Association for Constraint Programming</title><link>/about/</link><description>Recent content in About the ACP on Association for Constraint Programming</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 25 Jul 2026 15:03:34 +0200</lastBuildDate><atom:link href="/about/index.xml" rel="self" type="application/rss+xml"/><item><title>ACP Logo</title><link>/about/acp-logo/</link><pubDate>Sat, 25 Jul 2026 15:03:34 +0200</pubDate><guid>/about/acp-logo/</guid><description>&lt;p>If you would like to include the ACP logo for a web page, presentation slides or a publication (for example if you have received sponsorship from the ACP), please use one of the versions below.&lt;/p>
-&lt;h3 id="file-attachments">File attachments&lt;/h3>
-&lt;p>&lt;a href="/sites/default/files/acp-color-logo.pdf">acp-color-logo.pdf&lt;/a>&lt;/p>
-&lt;p>&lt;a href="/sites/default/files/acp-large-color-logo.jpg">acp-large-color-logo.jpg&lt;/a>&lt;/p>
-&lt;p>&lt;a href="/sites/default/files/acp-small-color-logo.jpg">acp-small-color-logo.jpg&lt;/a>&lt;/p></description></item><item><title>Resources</title><link>/about/community-links/</link><pubDate>Sat, 25 Jul 2026 15:03:34 +0200</pubDate><guid>/about/community-links/</guid><description>&lt;table>
+&lt;h3 id="visual-preview">Visual Preview&lt;/h3>
+&lt;p>&lt;img alt="ACP Large Color Logo" loading="lazy" src="/sites/default/files/acp-large-color-logo.jpg">&lt;/p>
+&lt;h3 id="downloads--file-attachments">Downloads &amp;amp; File Attachments&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="/sites/default/files/acp-large-color-logo.jpg">ACP Large Color Logo (JPG)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="/sites/default/files/acp-small-color-logo.jpg">ACP Small Color Logo (JPG)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="/sites/default/files/acp-color-logo.pdf">ACP Color Logo (PDF)&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Resources</title><link>/about/community-links/</link><pubDate>Sat, 25 Jul 2026 15:03:34 +0200</pubDate><guid>/about/community-links/</guid><description>&lt;table>
 &lt;thead>
 &lt;tr>
 &lt;th>Resource&lt;/th>
