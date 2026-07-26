@@ -2,6 +2,8 @@
 title: "2024 Quarterly Report 2"
 date: 2026-07-25T15:04:34+0200
 draft: false
+aliases:
+  - /-91
 ---
 
 The past 3 months have been busy months for CP researchers, with the CP paper notification (accepted papers at <https://cp2024.a4cp.org/accepted_papers.html>), with the CP workshops calling for submissions and sending out notifications (workshop overview: <https://cp2024.a4cp.org/workshops.html>) and more. This has been announced on the CP2024 website <https://cp2024.a4cp.org/> and its socials, as well as the constraints google group.

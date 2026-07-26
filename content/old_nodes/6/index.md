@@ -2,6 +2,8 @@
 title: "2008 Election Results"
 date: 2026-07-25T15:03:22+0200
 draft: false
+aliases:
+  - /-6
 ---
 
 The voting period is now finished. Thanks to all those who have taken the time to vote for the new ACP EC members.

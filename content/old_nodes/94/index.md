@@ -2,6 +2,8 @@
 title: "2024 Quarterly Report 4"
 date: 2026-07-25T15:04:33+0200
 draft: false
+aliases:
+  - /-94
 ---
 
 In this quarterly report 4, we provide updates on AAAI Bridge and the coming two CP conferences.

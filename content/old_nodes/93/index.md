@@ -2,6 +2,8 @@
 title: "2024 Election Results"
 date: 2026-07-25T15:03:19+0200
 draft: false
+aliases:
+  - /-93
 ---
 
 The following 4 new members were elected to serve in the Executive Committee for a period of 4 years:

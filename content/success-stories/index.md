@@ -2,6 +2,8 @@
 title: "Success Stories"
 date: 2026-07-25T15:04:29+0200
 draft: false
+aliases:
+  - /cp/success-stories
 ---
 
 In this section, the ACP collects *success stories* of using constraint based technology. We aim to make these stories appeal to a wide audience, so they are written for a general audience.

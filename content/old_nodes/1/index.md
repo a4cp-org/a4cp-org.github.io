@@ -2,6 +2,8 @@
 title: "2003 Election Results"
 date: 2026-07-25T15:03:23+0200
 draft: false
+aliases:
+  - /-1
 ---
 
 The results of the 2003 elections was announced on September 10, 2003, and the new CP OC will be presented at the CP 2003 conference, which will be held in Kinsale, Ireland on September 29th - October 3rd, 2003. The 6 elected members of the new CP OC are the following CPers:

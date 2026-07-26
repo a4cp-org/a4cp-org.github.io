@@ -2,6 +2,8 @@
 title: "2025 Quarterly Report 3"
 date: 2026-07-25T15:04:32+0200
 draft: false
+aliases:
+  - /-97
 ---
 
 This quarterly report brings you reports on the CP conference, including the awards handed out and the general assembly, the ACP Summer School, and more.

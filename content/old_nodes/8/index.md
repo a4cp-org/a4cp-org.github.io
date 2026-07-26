@@ -2,6 +2,8 @@
 title: "2012 Election Results"
 date: 2026-07-25T15:03:21+0200
 draft: false
+aliases:
+  - /-8
 ---
 
 The voting period of the 2012 ACP EC election is over. Thanks to all those who have taken the time to vote for the new ACP EC members. Bylaw 5 of the ACP Bylaws (see www.a4cp.org) dictates the election procedure and rules. In this election, we aimed to run an election for three new regular members to a four-year term.

@@ -2,6 +2,8 @@
 title: "Constraints Journal"
 date: 2026-07-25T15:03:34+0200
 draft: false
+aliases:
+  - /cj2
 ---
 
 ![](/sites/default/files/Screenshot%202025-02-19%20163259_0.jpg)

@@ -2,6 +2,8 @@
 title: "Results and statements for the ACP elections - 2018"
 date: 2026-07-25T15:03:20+0200
 draft: false
+aliases:
+  - /-11
 ---
 
 ### Results

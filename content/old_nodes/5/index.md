@@ -2,6 +2,8 @@
 title: "2007 Election Results"
 date: 2026-07-25T15:03:22+0200
 draft: false
+aliases:
+  - /-5
 ---
 
 The voting period is now finished. Thanks to all those who have taken the time to vote for the new ACP EC. The two elected members of the new ACP EC are the following CPers:

@@ -2,6 +2,8 @@
 title: "2020 Election Results"
 date: 2026-07-25T15:03:20+0200
 draft: false
+aliases:
+  - /-0
 ---
 
 The 2021 ACP Executive Committee (EC) comprises the following people:

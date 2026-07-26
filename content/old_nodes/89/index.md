@@ -2,6 +2,8 @@
 title: "2024 Quarterly Report 1"
 date: 2026-07-25T15:04:34+0200
 draft: false
+aliases:
+  - /-89
 ---
 
 With the CP paper deadline now past, this quarterly report brings you updates about other tracks in the CP conference: a call for tutorials and doctoral program submissions, as well as the call for ACP Award nominations.

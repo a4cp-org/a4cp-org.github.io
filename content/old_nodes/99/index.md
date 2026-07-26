@@ -2,6 +2,8 @@
 title: "2026 Quarterly Report 1"
 date: 2026-07-25T15:04:31+0200
 draft: false
+aliases:
+  - /-99
 ---
 
 In this quarterly report 1, we provide updates on CP 2026, Summer School 2026, DEI opportunities, calls and much more.

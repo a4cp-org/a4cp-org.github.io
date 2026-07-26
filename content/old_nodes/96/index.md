@@ -2,6 +2,8 @@
 title: "2025 Quarterly Report 2"
 date: 2026-07-25T15:04:32+0200
 draft: false
+aliases:
+  - /-96
 ---
 
 This quarterly report contains reminders on the ACP Summer School and CP conference 2025.

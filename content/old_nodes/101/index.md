@@ -2,6 +2,8 @@
 title: "2026 Quarterly Report 2"
 date: 2026-07-25T15:04:30+0200
 draft: false
+aliases:
+  - /-101
 ---
 
 This quarterly report contains reminders on the ACP Summer

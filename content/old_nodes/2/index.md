@@ -2,6 +2,8 @@
 title: "2004 Election Results"
 date: 2026-07-25T15:03:23+0200
 draft: false
+aliases:
+  - /-2
 ---
 
 The voting period is now finished. Thanks to all those who have taken the time to vote for the new CP OC. The 2 elected members of the new CP OC are the following CPers:

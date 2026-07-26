@@ -2,6 +2,8 @@
 title: "2025 Quarterly Report 1"
 date: 2026-07-25T15:04:33+0200
 draft: false
+aliases:
+  - /-95
 ---
 
 In this quarterly report 1, we provide updates on the ACP Executive Committee, the ACP Summer School 2025, and the calls for awards and bids for CP 2027 and ACP Summer School 2026!

@@ -2,6 +2,8 @@
 title: "2025 Quarterly Report 4"
 date: 2026-07-25T15:04:32+0200
 draft: false
+aliases:
+  - /-98
 ---
 
 This quarterly report brings you reports on ACP membership, DEI opportunities, the next CP conference and the ACP Summer School.

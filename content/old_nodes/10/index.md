@@ -2,6 +2,8 @@
 title: "2016 Election Results"
 date: 2026-07-25T15:03:20+0200
 draft: false
+aliases:
+  - /-10
 ---
 
 The voting period of the 2016 ACP EC election is over. Thanks to all those who have taken the time to vote for the new ACP EC members. Bylaw 5 of the [ACP Bylaws](/about/bylaws) dictates the election procedure and rules. In this election, we aimed to run an election for three new regular members to a four-year term.

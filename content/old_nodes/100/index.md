@@ -2,6 +2,8 @@
 title: "2026 Election"
 date: 2026-07-25T15:03:19+0200
 draft: false
+aliases:
+  - /-100
 ---
 
 The 2026 ACP Executive Committee (EC) comprises the following people.

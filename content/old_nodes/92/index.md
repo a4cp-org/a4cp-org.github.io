@@ -2,6 +2,8 @@
 title: "2024 Quarterly Report 3"
 date: 2026-07-25T15:04:33+0200
 draft: false
+aliases:
+  - /-92
 ---
 
 This quarterly report brings you reports on the CP conference including the awards handed out, the general assembly and new ACP members, a call for DEI representatives and more.
