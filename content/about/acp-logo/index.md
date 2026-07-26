@@ -6,10 +6,12 @@ draft: false
 
 If you would like to include the ACP logo for a web page, presentation slides or a publication (for example if you have received sponsorship from the ACP), please use one of the versions below.
 
-### File attachments
+### Visual Preview
 
-[acp-color-logo.pdf](/sites/default/files/acp-color-logo.pdf)
+![ACP Large Color Logo](/sites/default/files/acp-large-color-logo.jpg)
 
-[acp-large-color-logo.jpg](/sites/default/files/acp-large-color-logo.jpg)
+### Downloads & File Attachments
 
-[acp-small-color-logo.jpg](/sites/default/files/acp-small-color-logo.jpg)
+* [ACP Large Color Logo (JPG)](/sites/default/files/acp-large-color-logo.jpg)
+* [ACP Small Color Logo (JPG)](/sites/default/files/acp-small-color-logo.jpg)
+* [ACP Color Logo (PDF)](/sites/default/files/acp-color-logo.pdf)
