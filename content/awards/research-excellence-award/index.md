@@ -1,6 +1,6 @@
 ---
 title: "Research Excellence Award"
-date: 2026-07-25T15:04:20+0200
+date: 2026-07-25T15:03:16+0200
 draft: false
 ---
 
@@ -10,12 +10,12 @@ The award, in the form of a certificate, is presented at the CP conference, wher
 
 The 2025 call closed on 30 May.
 
-At the occasion of the 30th anniversary of the CP conference, an exciting series of podcast-style interviews with the awardees has been made: <https://www.youtube.com/playlist?list=PLcByDTr7vRTb9PrlY7RVgb9S0wnNyu3MW>
+At the occasion of the 30th anniversary of the CP conference, an exciting series of podcast-style interviews with the awardees has been made: [YouTube Playlist](https://www.youtube.com/playlist?list=PLcByDTr7vRTb9PrlY7RVgb9S0wnNyu3MW)
 
 The past recipients of this award are as follows:
 
 | Year | Recipient | Nominated by |
-| --- | --- | --- |
+|------|-----------|--------------|
 | 2025 | Laurent Michel | Willem-Jan Van Hoeve, Pierre Schaus, and Pascal Van Hentenryck |
 | 2023 | Mats Carlsson | Nicolas Beldiceanu, Pierre Flener, Mikael Zayenz Lagerkvist, Justin Pearson and Magnus Rattfeldt |
 | 2021 | John Hooker | Pascal Van Hentenryck and Willem-Jan van Hoeve |

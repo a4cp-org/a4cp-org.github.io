@@ -1,19 +1,17 @@
 ---
 title: "ACP Summer Schools"
-date: 2026-07-25T15:04:19+0200
+date: 2026-07-25T15:03:17+0200
 draft: false
 ---
 
-Constraint Programming (CP) is a programming paradigm which provide useful tools to model and efficiently solve constrained optimisation problems, such as complex resource planning, scheduling, configuration and design problems.
-
-The Association of Constraint Programming is seeking to augment and complement University teaching of CP, and to disseminate a core body of CP knowledge supporting the recognition of CP as a mature and relevant technology for use in industry.
+Constraint Programming (CP) is a programming paradigm which provide useful tools to model and efficiently solve constrained optimisation problems, such as complex resource planning, scheduling, configuration and design problems. The Association of Constraint Programming is seeking to augment and complement University teaching of CP, and to disseminate a core body of CP knowledge supporting the recognition of CP as a mature and relevant technology for use in industry.
 
 To help the CP community in these respects, the ACP Executive Committee has decided to start a series of CP summer schools, to be held annually. The subject of each summer school will alternate between general and specific: one year the school will cover most of the CP areas while in the following year the school will focus on one subject of research within CP.
 
 The list of previous ACP summer schools is as follows:
 
 | Year | Month | Venue | More Information |
-| --- | --- | --- | --- |
+|------|-------|-------|------------------|
 | 2026 | August | Changchun, China | [web](https://school.a4cp.org/summer2026/) |
 | 2025 | August | Benin, Africa | [web](https://school.a4cp.org/summer2025/) |
 | 2024 | March | Aussois, France | [web](https://school.a4cp.org/winter2024/) |

@@ -1,6 +1,6 @@
 ---
 title: "Early Career Researcher Award"
-date: 2026-07-25T15:04:20+0200
+date: 2026-07-25T15:03:16+0200
 draft: false
 ---
 
@@ -15,9 +15,9 @@ The 2026 call closed on 10 May.
 Previous recipients of this award are:
 
 | Year | Recipient | Affiliation |
-| --- | --- | --- |
+|------|-----------|-------------|
 | 2026 | [Jeremias Berg](https://scholar.google.es/citations?user=QcaHULQAAAAJ) | University of Helsinki, Finland |
-| 2025 | [Emir Demirović](https://scholar.google.com/citations?user=QUhD6A0AAAAJ&hl=ca&oi=ao) | TU Delft, The Netherlands |
+| 2025 | [Emir Demirović](https://scholar.google.com/citations?user=QUhD6A0AAAAJ) | TU Delft, The Netherlands |
 | 2024 | [Quentin Cappart](https://scholar.google.be/citations?user=QJQMYLsAAAAJ) | Polytechnique Montreal, Canada |
 | 2023 | [Ciaran McCreesh](https://scholar.google.be/citations?user=LJ46oOYAAAAJ) | University of Glasgow, Scotland |
 | 2022 | [Kuldeep Meel](https://scholar.google.be/citations?user=bvW5Hs8AAAAJ) | National University of Singapore, Singapore |

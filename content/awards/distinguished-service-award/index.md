@@ -1,6 +1,6 @@
 ---
 title: "Distinguished Service Award"
-date: 2026-07-25T15:04:20+0200
+date: 2026-07-25T15:03:16+0200
 draft: false
 ---
 
@@ -11,7 +11,7 @@ The 2026 call closed on 10 May.
 Previous recipients of this award are:
 
 | Year | Recipient | Affiliation |
-| --- | --- | --- |
+|------|-----------|-------------|
 | 2026 | [J. Christopher Beck](https://scholar.google.com/citations?user=y_pAyuQAAAAJ) | University of Toronto, Canada |
 | 2024 | [Maria Garcia de la Banda](https://scholar.google.be/citations?user=mkm8ZlQAAAAJ) | Monash University, Australia |
 | 2022 | [Helmut Simonis](https://scholar.google.com/citations?user=RHIj4boAAAAJ) | Insight Centre for Data Analytics, Cork, Ireland |
