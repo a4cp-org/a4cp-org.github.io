@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /-90
 title: "CP Conference Organisation Policy"
 date: 2026-07-25T15:03:16+0200
 draft: false

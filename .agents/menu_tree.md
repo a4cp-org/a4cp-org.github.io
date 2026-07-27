@@ -3,30 +3,30 @@
   - History of the ACP `/about`
   - Policies `/policies`
     - Anti-Harassment `/events/anti-harassment-policy`
-    - Diversity, Equity and Inclusion `/-62`
-    - CP Conference Organisation `/-90`
-  - Legal Information `/node/1381`
+    - Diversity, Equity and Inclusion `/policies/diversity_equity_inclusion`
+    - CP Conference Organisation `/policies/cp_conference_organisation`
+  - Legal Information `/about/legal_information`
     - Statutes of the ACP (English version) `/about/statutes_en`
     - Statutes of the ACP `/about/statutes`
     - Bylaws of the ACP `/about/bylaws`
   - Executive Committee `/about/committee`
     - Current Committee `/about/committee`
     - Elections `/about/committee/election-results`
-      - 2026 Election `/-100`
-      - 2024 Election Results `/-93`
-      - 2022 Election Results `/-12`
-      - 2020 Election Results `/-0`
-      - 2018 Election Results `/-11`
-      - 2016 Election Results `/-10`
-      - 2014 Election Results `/-9`
-      - 2012 Election Results `/-8`
-      - 2010 Election Results `/-7`
-      - 2008 Election Results `/-6`
-      - 2007 Election Results `/-5`
-      - 2006 Election Results `/-4`
-      - 2005 Election Results `/-3`
-      - 2004 Election Results `/-2`
-      - 2003 Election Results `/-1`
+      - 2026 Election `/about/committee/election-results/elect_results_2026`
+      - 2024 Election Results `/about/committee/election-results/elect_results_2024`
+      - 2022 Election Results `/about/committee/election-results/elect_results_2022`
+      - 2020 Election Results `/about/committee/election-results/elect_results_2020`
+      - 2018 Election Results `/about/committee/election-results/elect_results_2018`
+      - 2016 Election Results `/about/committee/election-results/elect_results_2016`
+      - 2014 Election Results `/about/committee/election-results/elect_results_2014`
+      - 2012 Election Results `/about/committee/election-results/elect_results_2012`
+      - 2010 Election Results `/about/committee/election-results/elect_results_2010`
+      - 2008 Election Results `/about/committee/election-results/elect_results_2008`
+      - 2007 Election Results `/about/committee/election-results/elect_results_2007`
+      - 2006 Election Results `/about/committee/election-results/elect_results_2006`
+      - 2005 Election Results `/about/committee/election-results/elect_results_2005`
+      - 2004 Election Results `/about/committee/election-results/elect_results_2004`
+      - 2003 Election Results `/about/committee/election-results/elect_results_2003`
     - Quarterly Reports / Decisions `/about/committee/decisions`
   - General Assembly reports `/about/general-assembly-archive`
   - Sponsorships & Donations `/sponsorships-donations`
@@ -34,7 +34,7 @@
 - Constraints Journal `/cj2`
 - Constraint Programming `/about/community-links`
   - Resources `/about/community-links`
-  - Solvers `/node/1473`
+  - Solvers `/cp/solvers`
   - ACP Success Stories `/cp/success-stories`
   - Publication Venues `/cp/publication-venues`
   - CP and CPAIOR Papers `/cp/application/papers`
