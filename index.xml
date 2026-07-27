@@ -1,31 +1,671 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Welcome to the ACP on Association for Constraint Programming</title><link>/</link><description>Recent content in Welcome to the ACP on Association for Constraint Programming</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 25 Jul 2026 15:04:50 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>ACP Newsletter Archive</title><link>/news/newsletters/</link><pubDate>Sat, 25 Jul 2026 15:04:50 +0200</pubDate><guid>/news/newsletters/</guid><description>&lt;p>&lt;a href="/news/newsletters/vol11_n1">Volume 11, Number 1, April-June 2015&lt;/a>&lt;/p>
-&lt;p>June 2015&lt;/p>
-&lt;p>n1&lt;/p>
-&lt;p>v11&lt;/p>
-&lt;p>&lt;a href="/news/newsletters/vol11_n0">Volume 11, Number 0, January-March 2015&lt;/a>&lt;/p>
-&lt;p>January 2015&lt;/p>
-&lt;p>n0&lt;/p>
-&lt;p>v11&lt;/p>
-&lt;p>&lt;a href="/news/newsletters/vol10_n3">Volume 10, Number 2/3, October 2014&lt;/a>&lt;/p>
-&lt;p>October 2014&lt;/p>
-&lt;p>n3&lt;/p>
-&lt;p>v10&lt;/p>
-&lt;p>&lt;a href="/news/newsletters/vol10_n1">Volume 10, Number 1, April 2014&lt;/a>&lt;/p>
-&lt;p>April 2014&lt;/p>
-&lt;p>n1&lt;/p>
-&lt;p>v10&lt;/p>
-&lt;p>&lt;a href="/news/newsletters/vol10_n0">Volume 10, Number 0, January 2014&lt;/a>&lt;/p>
-&lt;p>January 2014&lt;/p>
-&lt;p>n0&lt;/p>
-&lt;p>v10&lt;/p>
-&lt;p>&lt;a href="/news/newsletters/vol9_n3">Volume 9, Number 3, October 2013&lt;/a>&lt;/p>
-&lt;p>October 2013&lt;/p>
-&lt;p>n3&lt;/p>
-&lt;p>v9&lt;/p>
-&lt;p>&lt;a href="/news/newsletters/vol9_n2">Volume 9, Number 2, July 2013&lt;/a>&lt;/p>
-&lt;p>July 2013&lt;/p>
-&lt;p>n2&lt;/p>
-&lt;p>v9&lt;/p></description></item><item><title>Policies</title><link>/taxonomy/term/9/feed/</link><pubDate>Sat, 25 Jul 2026 15:04:50 +0200</pubDate><guid>/taxonomy/term/9/feed/</guid><description/></item><item><title>Election Results</title><link>/taxonomy/term/5/feed/</link><pubDate>Sat, 25 Jul 2026 15:04:49 +0200</pubDate><guid>/taxonomy/term/5/feed/</guid><description/></item><item><title>Policies</title><link>/category/</link><pubDate>Sat, 25 Jul 2026 15:04:49 +0200</pubDate><guid>/category/</guid><description>&lt;h3 id="1-bidding-for-the-conference-organisation">1. Bidding for the Conference Organisation&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Welcome to the ACP on Association for Constraint Programming</title><link>/</link><description>Recent content in Welcome to the ACP on Association for Constraint Programming</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 25 Jul 2026 15:06:10 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Volume 0, Number 1, April 2004</title><link>/news/newsletters/vol0_n1/</link><pubDate>Sat, 25 Jul 2026 15:06:10 +0200</pubDate><guid>/news/newsletters/vol0_n1/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-0-number-1-april-2004">volume 0, number 1, April 2004&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://4c.ucc.ie/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: CP05, CP06, CP elections ..&lt;/li>
+&lt;li>&lt;a href="#publications">publications&lt;/a>: PhD theses, recent books&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>: job adverts&lt;/li>
+&lt;li>&lt;a href="#reports">reports&lt;/a>: AI&amp;amp;Maths 04&lt;/li>
+&lt;li>&lt;a href="#profiles">profiles&lt;/a>: Nantes&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;p>Welcome to the first number of CP News, an initiative of the CP organizing
+committee. We aim to provide a comprehensive summary of important news in
+the area of constraint programming. The newsletter will be published quarterly
+on 1st January, 1st April, 1st July, 1st October. Please email the relevant
+editor with any news, event, report or profile you want published.&lt;/p></description></item><item><title>Volume 0, Number 2, July 2004</title><link>/news/newsletters/vol0_n2/</link><pubDate>Sat, 25 Jul 2026 15:06:10 +0200</pubDate><guid>/news/newsletters/vol0_n2/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-0-number-2-july-2004">volume 0, number 2, July 2004&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://4c.ucc.ie/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: CP elections, CP online, CP AI OR, AFPC&lt;/li>
+&lt;li>&lt;a href="#publications">publications&lt;/a>: PhD theses, recent books, special issues, web resources&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>: job adverts&lt;/li>
+&lt;li>&lt;a href="#reports">reports&lt;/a>: FLAIRS 2004&lt;/li>
+&lt;li>&lt;a href="#profiles">profiles&lt;/a>: DEIS, Bologna&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;p>Welcome to the second number of CP News, an initiative of the CP organizing
+committee. We aim to provide a comprehensive summary of important news in
+the area of constraint programming. The newsletter will be published quarterly
+in January, April, July, and October. Please email the relevant
+editor with any news, event, report or profile you want published. To
+subscribe, please register
+&lt;a href="http://www.math.unipd.it/cp-online/register">here&lt;/a>.&lt;/p></description></item><item><title>Volume 0, Number 3, October 2004</title><link>/news/newsletters/vol0_n3/</link><pubDate>Sat, 25 Jul 2026 15:06:10 +0200</pubDate><guid>/news/newsletters/vol0_n3/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-0-number-3-oct-2004">volume 0, number 3, Oct 2004&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://4c.ucc.ie/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: CP elections&lt;/li>
+&lt;li>&lt;a href="#publications">publications&lt;/a>: PhD theses, recent books, special issues, new online journals&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>: postdoc position&lt;/li>
+&lt;li>&lt;a href="#reports">reports&lt;/a>: ECAI 2004 workshop on modelling and solving with constraints&lt;/li>
+&lt;li>&lt;a href="#profiles">profiles&lt;/a>: AFPC/JFPC&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;p>Welcome to the third number of CP News, an initiative of
+the CP organizing committee. We aim to provide a comprehensive
+summary of important news in the area of constraint programming.
+The newsletter will be published quarterly in January, April,
+July, and October. Please email the relevant editor with any
+news, event, report or profile you want published.
+To subscribe, please register
+&lt;a href="http://www.math.unipd.it/cp-online/register">here&lt;/a>.&lt;/p></description></item><item><title>Volume 1, Number 0, January 2005</title><link>/news/newsletters/vol1_n0/</link><pubDate>Sat, 25 Jul 2026 15:06:09 +0200</pubDate><guid>/news/newsletters/vol1_n0/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-1-number-0-jan-2005">volume 1, number 0, Jan 2005&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://www.cse.unsw.edu.au/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: CP online, CP 2005&lt;/li>
+&lt;li>&lt;a href="#publications">publications&lt;/a>: books, PhD theses, online journals, special issues, software&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>: Postdoc and PhD jobs at Montpellier, PARC, Namur, NICTA (Melbourne), Vidus (Ipswich), KTH (Stockholm), IRST (Trento)&lt;/li>
+&lt;li>&lt;a href="#reports">reports&lt;/a>: Workshop on Graph and Hypergraph Decompostions&lt;/li>
+&lt;li>&lt;a href="#profiles">profiles&lt;/a>: Lisbon Constraint Programming Group&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;p>Welcome to the second year of CP News, an initiative of the CP organizing
+committee. We aim to provide a comprehensive summary of important news
+in the area of constraint programming. The newsletter is published quarterly
+in January, April, July, and October. Please email the relevant editor
+with any news, event, report or profile you want published. To subscribe,
+please register
+&lt;a href="http://www.math.unipd.it/cp-online/register">here&lt;/a>.&lt;/p></description></item><item><title>Volume 1, Number 1, April 2005</title><link>/news/newsletters/vol1_n1/</link><pubDate>Sat, 25 Jul 2026 15:06:08 +0200</pubDate><guid>/news/newsletters/vol1_n1/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-1-number-1-apr-2005">volume 1, number 1, Apr 2005&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://www.cse.unsw.edu.au/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: CP elections, CP Summer School, CP 2005 and (sneak preview of) CP 2006&lt;/li>
+&lt;li>&lt;a href="#publications">publications&lt;/a>: books, PhD theses, special issues, web resources, software&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>: Postdoc position with CoCoA Team, Actenum&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;p>Welcome to the second year of CP News, an initiative of the CP organizing committee. We aim to provide a comprehensive summary of important news in the area of constraint programming. The newsletter is published quarterly in January, April, July, and October. Please email the relevant editor with any news, event, report or profile you want published. To subscribe, please register &lt;a href="http://www.math.unipd.it/cp-online/register">here&lt;/a>.&lt;/p></description></item><item><title>Volume 1, Number 2, July 2005</title><link>/news/newsletters/vol1_n2/</link><pubDate>Sat, 25 Jul 2026 15:06:08 +0200</pubDate><guid>/news/newsletters/vol1_n2/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-1-number-2-jul-2005">volume 1, number 2, Jul 2005&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://www.cse.unsw.edu.au/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: ACP EC Elections, CP Summer School, Next CP Conferences, CP 2005 Call for Demo&lt;/li>
+&lt;li>CONSTRAINTS journal accepted papers&lt;/li>
+&lt;li>&lt;a href="#_Other_Publications">other publications&lt;/a>: papers, books, journal, special issues, software&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>: New MSc, PhD, and Postdoc positions&lt;/li>
+&lt;li>&lt;a href="#_Report">report&lt;/a>: CP-AI-OR 2005 (by Michela Milano)&lt;/li>
+&lt;li>&lt;a href="#_Profile">profile&lt;/a>: Microsoft Research, Cambridge&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;p>Welcome to CP News, an initiative of the &lt;a href="http://slash.math.unipd.it/acp/">Association for Constraint Programming&lt;/a>.&lt;/p></description></item><item><title>Volume 1, Number 3, October 2005</title><link>/news/newsletters/vol1_n3/</link><pubDate>Sat, 25 Jul 2026 15:06:07 +0200</pubDate><guid>/news/newsletters/vol1_n3/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-1-number-3-oct-2005">volume 1, number 3, Oct 2005&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://www.cse.unsw.edu.au/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: ACP Awards, ACP EC Elections, Next CP Conferences, CONSTRAINTS Journal Call for Papers&lt;/li>
+&lt;li>&lt;a href="#_CONSTRAINTS_Journal_Accepted_Papers">CONSTRAINTS journal accepted papers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#_Other_Publications">other publications&lt;/a>: books, special issues, software&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>: Young Research programme, and Postdoc and Associate/Visiting Researcher position&lt;/li>
+&lt;li>&lt;a href="#_Report_1">reports&lt;/a>: CP Summer School, and IJCAI'05 Workshop on Modelling and Solving Problems with Constraints&lt;/li>
+&lt;li>&lt;a href="#_Profile">profile&lt;/a>: CLP Group at CharlesUniversity, Prague&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;p>Welcome to CP News, an initiative of the &lt;a href="http://slash.math.unipd.it/acp/">Association for Constraint Programming&lt;/a>.&lt;/p></description></item><item><title>Volume 2, Number 0, January 2006</title><link>/news/newsletters/vol2_n0/</link><pubDate>Sat, 25 Jul 2026 15:06:07 +0200</pubDate><guid>/news/newsletters/vol2_n0/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-2-number-0-jan-2006">volume 2, number 0, Jan, 2006&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/%7Ejlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://www.cse.unsw.edu.au/%7Etw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: ACP News, AAAS Fellow, CP-2005 Pictures, CONSTRAINTS Journal New Policy on Originality, ACP Summer School 2006, CP 2006, CP 2007&lt;/li>
+&lt;li>&lt;a href="#_CONSTRAINTS_Journal_Accepted_Papers">CONSTRAINTS journal accepted papers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#_Other_Publications">other publications&lt;/a>: book, phd theses, special issues, LMCS, TPLP Special Issue in CHR, book review, software&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>: Doctoral, Postdoc, Researcher, and Intern positions&lt;/li>
+&lt;li>&lt;a href="#_Report_1">reports&lt;/a>: CHR 2005 Second Workshop on Constraint Handling Rules&lt;/li>
+&lt;li>&lt;a href="#_Profile">profile&lt;/a>: ASTRA Research Group at Uppsala University, Sweden&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;p>Welcome to CP News, an initiative of the &lt;a href="http://slash.math.unipd.it/acp/">Association for Constraint Programming&lt;/a>.&lt;/p></description></item><item><title>Volume 2, Number 1, April 2006</title><link>/news/newsletters/vol2_n1/</link><pubDate>Sat, 25 Jul 2026 15:06:04 +0200</pubDate><guid>/news/newsletters/vol2_n1/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-2-number-0-jan-2006">volume 2, number 0, Jan, 2006&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/%7Ejlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://www.cse.unsw.edu.au/%7Etw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: ACP News, ACP Summer School 2006, CP 2006, CP 2007, CP-AI-OR, ERCIM Workshop on Constraints, Yahoo! Discussion Group on Constraints&lt;/li>
+&lt;li>&lt;a href="#_CONSTRAINTS_Journal_Accepted_Papers">CONSTRAINTS journal accepted papers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#_Other_Publications">other publications&lt;/a>: book, phd theses, special issues, book review, software&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>: Doctoral, Postdoc, Researcher, and Intern positions&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;p>Welcome to CP News, an initiative of the &lt;a href="http://slash.math.unipd.it/acp/">Association for Constraint Programming&lt;/a>.&lt;/p></description></item><item><title>Volume 2, Number 2, July 2006</title><link>/news/newsletters/vol2_n2/</link><pubDate>Sat, 25 Jul 2026 15:06:04 +0200</pubDate><guid>/news/newsletters/vol2_n2/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-2-number-2-jul-2006">volume 2, number 2, Jul, 2006&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/%7Ejlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://www.cse.unsw.edu.au/%7Etw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: ACP News, CP 2006 Call For Participation, Workshop “the next 10 years of CP”, Call for Proposal ICLP 2007, CP 2007&lt;/li>
+&lt;li>&lt;a href="#_CONSTRAINTS_Journal_Accepted_Papers">CONSTRAINTS journal accepted papers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#_Other_Publications">other publications&lt;/a>: special issues, software&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>: Doctoral, Postdoc, Researcher, and Intern positions&lt;/li>
+&lt;li>&lt;a href="#_Profile">Profile&lt;/a>: CHR at Leuven&lt;/li>
+&lt;/ul>
+&lt;h2>&lt;/h2>
+&lt;h2 id="news">News&lt;/h2>
+&lt;p>Welcome to CP News, an initiative of the &lt;a href="http://slash.math.unipd.it/acp/">Association for Constraint Programming&lt;/a>.&lt;/p></description></item><item><title>Volume 3, Number 0, January 2007</title><link>/news/newsletters/vol3_n0/</link><pubDate>Sat, 25 Jul 2026 15:06:03 +0200</pubDate><guid>/news/newsletters/vol3_n0/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-3-number-0-january-2007">volume 3, number 0, January, 2007&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/%7Ejlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://www.cse.unsw.edu.au/%7Etw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>:
+including ACP News&lt;/li>
+&lt;li>&lt;a href="#_CONSTRAINTS_Journal_Accepted_Papers">CONSTRAINTS journal accepted
+papers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#_Other_Publications">other publications&lt;/a>:
+books, thesis, special issues, software&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#_Career_news">career news&lt;/a>: Doctoral, Postdoc, Researcher, and Intern positions&lt;/li>
+&lt;/ul>
+&lt;h2>&lt;/h2>
+&lt;h2 id="news">News&lt;/h2>
+&lt;p>Welcome to CP News,
+an initiative of the &lt;a href="http://slash.math.unipd.it/acp/">Association for
+Constraint Programming&lt;/a>.&lt;/p>
+&lt;p>We aim to provide a
+comprehensive summary of important news in the area of constraint programming.
+The newsletter is published quarterly in January, April, July, and October.
+Please email the relevant editor with any news, event, report or profile you
+want published. To subscribe, please register &lt;a href="http://www.math.unipd.it/cp-online/register">here&lt;/a>.&lt;/p></description></item><item><title>Volume 3, Number 1, April 2007</title><link>/news/newsletters/vol3_n1/</link><pubDate>Sat, 25 Jul 2026 15:06:01 +0200</pubDate><guid>/news/newsletters/vol3_n1/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-v3-number-n1-april-2007">volume v3, number n1, April 2007&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://4c.ucc.ie/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: ACP EC news, ACP Award, &amp;hellip;&lt;/li>
+&lt;li>&lt;a href="#publications">publications&lt;/a>: CONSTRAINTS, Books, Special Issues, Softwares&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: conferences, workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>: job opportunities, PhD scholarships, Post-doctoral positions, &amp;hellip;&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>ACP EC news: January 1st to March 31th, 2007&lt;/strong>&lt;/p>
+&lt;p>This is a short summary of the activities of the ACP EC during
+the months January-March 2007.&lt;/p></description></item><item><title>Volume 3, Number 2, July 2007</title><link>/news/newsletters/vol3_n2/</link><pubDate>Sat, 25 Jul 2026 15:06:00 +0200</pubDate><guid>/news/newsletters/vol3_n2/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-3-number-2-july-2007">volume 3, number 2, July 2007&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://4c.ucc.ie/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: ACP EC news, Dechter wins ACP award, AFPC&lt;/li>
+&lt;li>&lt;a href="#publications">publications&lt;/a>: Constraint journal, PhD theses, recent books, special issues, web resources.&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>: job adverts&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;h3 id="acp-ec">ACP EC&lt;/h3>
+&lt;p>This is a short summary of the activities of the ACP EC during
+the months April-June 2007.&lt;/p></description></item><item><title>Volume 3, Number 3, October 2007</title><link>/news/newsletters/vol3_n3/</link><pubDate>Sat, 25 Jul 2026 15:06:00 +0200</pubDate><guid>/news/newsletters/vol3_n3/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-3-number-3-oct-2007">volume 3, number 3, Oct 2007&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://4c.ucc.ie/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: ACP news, call for proposals for ACP summer school&lt;/li>
+&lt;li>&lt;a href="#publications">publications&lt;/a>: Constraint journal, special issues&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>: job adverts&lt;/li>
+&lt;li>&lt;a href="#reports">reports&lt;/a>: 1st workshop on autonomous search&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;h3 id="association-for-constraint-programming">Association for Constraint Programming&lt;/h3>
+&lt;p>This is a short summary of activities within the ACP during the months July-September 2007.&lt;/p></description></item><item><title>Volume 4, Number 0, January 2008</title><link>/news/newsletters/vol4_n0/</link><pubDate>Sat, 25 Jul 2026 15:06:00 +0200</pubDate><guid>/news/newsletters/vol4_n0/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-4-number-0-jan-2008">volume 4, number 0, Jan 2008&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://4c.ucc.ie/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: ACP activities, LNCS listed in ISI Proceedings, 4C wins awards, call for proposals for CP-09, ICAPS-10.&lt;/li>
+&lt;li>&lt;a href="#publications">publications&lt;/a>: Constraint journal, PhD theses, books, &amp;hellip;&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>:PhD and Masters awards, PostDocs, Faculty positions&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;h3 id="association-of-constraint-programming-acp-october-1st-december-30th-2007">Association of Constraint Programming (ACP): October 1st-December 30th, 2007&lt;/h3>
+&lt;p>Dear ACP Members,&lt;/p></description></item><item><title>Volume 4, Number 1, April 2008</title><link>/news/newsletters/vol4_n1/</link><pubDate>Sat, 25 Jul 2026 15:05:58 +0200</pubDate><guid>/news/newsletters/vol4_n1/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-4-number-1-apr-2008">volume 4, number 1, Apr 2008&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://4c.ucc.ie/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: report from the ACP EC, 4C news, ICAPS call for
+nominations, Compulog/ALP summer school&lt;/li>
+&lt;li>&lt;a href="#_CONSTRAINTS_Journal_Accepted">CONSTRAINTS
+journal accepted papers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#_Constraint_Programming_Letters">Constraint Programming Letters
+journal accepted papers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#_Other_Publications">other publications&lt;/a>: phd theses, books, software&lt;/li>
+&lt;li>&lt;a href="#_Special_Issues_CFPs">special issues cfps&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>: new MSc, PhD and Postdoc positions, lectureship positions&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;p>Welcome to CP News, an initiative
+of the &lt;a href="http://slash.math.unipd.it/acp/">Association for Constraint
+Programming&lt;/a>.&lt;/p></description></item><item><title>Volume 4, Number 2, July 2008</title><link>/news/newsletters/vol4_n2/</link><pubDate>Sat, 25 Jul 2026 15:05:57 +0200</pubDate><guid>/news/newsletters/vol4_n2/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-4-number-2-jul-2008">volume 4, number 2, Jul 2008&lt;/h3>
+&lt;h3>&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://4c.ucc.ie/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: report from the ACP EC, honours to members of the CP community, ICAPS 2010 call for proposals, Minion Users Group Call for Members, News from the AFPC&lt;/li>
+&lt;li>&lt;a href="file:///D:/mgelain/Desktop/cpnews.v4.n2.html#_CONSTRAINTS_Journal_Accepted">CONSTRAINTS journal accepted papers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="file:///D:/mgelain/Desktop/cpnews.v4.n2.html#_Constraint_Programming_Letters">Constraint Programming Letters journal accepted papers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="file:///D:/mgelain/Desktop/cpnews.v4.n2.html#_Other_Publications">other publications&lt;/a>: books, software&lt;/li>
+&lt;li>&lt;a href="file:///D:/mgelain/Desktop/cpnews.v4.n2.html#_Special_Issues_CFPs">special issues cfps&lt;/a>&lt;/li>
+&lt;li>&lt;a href="file:///D:/mgelain/Desktop/cpnews.v4.n2.html#events">events&lt;/a>: forthcoming conferences and workshops&lt;/li>
+&lt;li>&lt;a href="file:///D:/mgelain/Desktop/cpnews.v4.n2.html#career">career news&lt;/a>: new PhD and Postdoc positions&lt;/li>
+&lt;li>&lt;a href="file:///D:/mgelain/Desktop/cpnews.v4.n2.html#_Reports">report:&lt;/a> SAT-Race 2008 by Carsten Sinz&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;p>Welcome to CP News, an initiative of the &lt;a href="http://slash.math.unipd.it/acp/">Association for Constraint Programming&lt;/a>.&lt;/p></description></item><item><title>Volume 4, Number 3, October 2008</title><link>/news/newsletters/vol4_n3/</link><pubDate>Sat, 25 Jul 2026 15:05:56 +0200</pubDate><guid>/news/newsletters/vol4_n3/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-4-number-3-oct-2008">volume 4, number 3, Oct 2008&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://4c.ucc.ie/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: report from the ACP EC, 4C news, EURO Excellence in
+Practice Award 2009, Honours to members of the
+CP Community, Graduate course: Comet and Constraint Programming&lt;/li>
+&lt;li>&lt;a href="#_CONSTRAINTS_Journal_Accepted">CONSTRAINTS
+journal accepted papers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#_Constraint_Programming_Letters">Constraint Programming Letters
+journal accepted papers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#_Other_Publications">other publications&lt;/a> : books, software&lt;/li>
+&lt;li>&lt;a href="#_Special_Issues_CFPs">special issues cfps&lt;/a>: forthcoming special
+issues deadlines&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>: new PhD, Postdoc ,
+and faculty positions&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;p>Welcome to CP News, an initiative of the &lt;a href="http://slash.math.unipd.it/acp/">Association for Constraint Programming&lt;/a>.&lt;/p></description></item><item><title>Volume 5, Number 0, January 2009</title><link>/news/newsletters/vol5_n0/</link><pubDate>Sat, 25 Jul 2026 15:05:55 +0200</pubDate><guid>/news/newsletters/vol5_n0/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-5-number-0-jan-2009">volume 5, number 0, Jan 2009&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/%7Ejlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://4c.ucc.ie/%7Etw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>:
+report from the ACP EC, DoctoralSchool
+on Algorithmic Decision Theory, European Master Program in
+Computational Logic&lt;/li>
+&lt;li>&lt;a href="cpnews.v5.n0.html#_CONSTRAINTS_Journal_Accepted">CONSTRAINTS
+journal accepted papers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="cpnews.v5.n0.html#_Constraint_Programming_Letters">Constraint
+Programming Letters journal accepted papers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="cpnews.v5.n0.html#_Other_Publications">other publications&lt;/a>: book, PhD thesis, software&lt;/li>
+&lt;li>&lt;a href="cpnews.v5.n0.html#_Special_Issues_CFPs">special issues
+cfps&lt;/a>: forthcoming special issues deadlines&lt;/li>
+&lt;li>&lt;a href="cpnews.v5.n0.html#events">events&lt;/a>:
+forthcoming conferences and workshops&lt;/li>
+&lt;li>&lt;a href="cpnews.v5.n0.html#career">career
+news&lt;/a>: new PhD, Postdoc,
+and scholarships opportunities&lt;/li>
+&lt;li>&lt;a href="cpnews.v5.n0.html#_Reports">report:&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;p>Welcome to CP News, an
+initiative
+of the &lt;a href="http://slash.math.unipd.it/acp/">Association
+for Constraint
+Programming&lt;/a>.&lt;/p></description></item><item><title>Volume 5, Number 1, April 2009</title><link>/news/newsletters/vol5_n1/</link><pubDate>Sat, 25 Jul 2026 15:05:55 +0200</pubDate><guid>/news/newsletters/vol5_n1/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-5-number-1-april-2009">volume 5, number 1, April 2009&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://www.cse.unsw.edu.au/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>:
+report from the ACP EC, DoctoralSchool on
+Algorithmic Decision Theory, European Master Program in Computational
+Logic.&lt;/li>
+&lt;li>&lt;a href="#_CONSTRAINTS_Journal_Accepted">CONSTRAINTS journal accepted papers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#_Constraint_Programming_Letters">Constraint Programming Letters
+journal accepted papers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#_Other_Publications">other publications&lt;/a>:
+book, PhD thesis, software&lt;/li>
+&lt;li>&lt;a href="#_Special_Issues_CFPs">special issues cfps&lt;/a>: forthcoming special
+issues deadlines&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>: new PhD, Postdoc, and scholarships
+opportunities&lt;/li>
+&lt;li>&lt;a href="#_Reports">report:&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;p>Welcome to CP News,
+an initiative of the &lt;a href="http://slash.math.unipd.it/acp/">Association for
+Constraint Programming&lt;/a>.&lt;/p></description></item><item><title>Volume 5, Number 2, July 2009</title><link>/news/newsletters/vol5_n2/</link><pubDate>Sat, 25 Jul 2026 15:05:54 +0200</pubDate><guid>/news/newsletters/vol5_n2/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-5-number-2-july-2009">volume 5, number 2, July 2009&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://www.cse.unsw.edu.au/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#122c1b6580603935_news">news&lt;/a>: report from the ACP EC, AFPC, EPTCS, Math programming glossary&lt;/li>
+&lt;li>&lt;a href="#122c1b6580603935__CONSTRAINTS_Journal_Accepted">CONSTRAINTS journal accepted papers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#122c1b6580603935__Constraint_Programming_Letters">Constraint Programming Letters journal accepted papers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#122c1b6580603935__Other_Publications">other publications&lt;/a>: book, PhD thesis, software&lt;/li>
+&lt;li>&lt;a href="#122c1b6580603935__Special_Issues_CFPs">special issues cfps&lt;/a>: forthcoming special issues deadlines&lt;/li>
+&lt;li>&lt;a href="#122c1b6580603935_events">events&lt;/a>: forthcoming conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#122c1b6580603935_career">career news&lt;/a>: new PhD, Postdoc, and scholarships opportunities&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;p>Welcome to CP News, an initiative of the &lt;a href="http://4c.ucc.ie/a4cp/">Association for Constraint Programming&lt;/a>.&lt;/p></description></item><item><title>Volume 5, Number 3, October 2009</title><link>/news/newsletters/vol5_n3/</link><pubDate>Sat, 25 Jul 2026 15:05:54 +0200</pubDate><guid>/news/newsletters/vol5_n3/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-5-number-3-october-2009">volume 5, number 3, October 2009&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://www.cse.unsw.edu.au/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>:
+report from the ACP EC, CONSTRAINTS: New Editor-in-Chief&lt;/li>
+&lt;li>&lt;a href="#_CONSTRAINTS_Journal_Accepted">CONSTRAINTS journal accepted papers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#_Constraint_Programming_Letters">Constraint Programming Letters
+journal accepted papers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#_Other_Publications">other publications&lt;/a>:
+book, PhD thesis, software&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>: new PhD, Postdoc,
+and scholarships opportunities&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;p>Welcome to CP News,
+an initiative of the &lt;a href="http://4c.ucc.ie/a4cp/">Association for Constraint
+Programming&lt;/a>.&lt;/p></description></item><item><title>Volume 6, Number 0, January 2010</title><link>/news/newsletters/vol6_n0/</link><pubDate>Sat, 25 Jul 2026 15:05:53 +0200</pubDate><guid>/news/newsletters/vol6_n0/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-6-number-0-january-2010">volume 6, number 0, January 2010&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://www.cse.unsw.edu.au/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: report from the ACP EC, other news&lt;/li>
+&lt;li>&lt;a href="#journal">CONSTRAINTS journal accepted papers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#letters">Constraint Programming Letters journal accepted papers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#publications">other publications&lt;/a>: book, PhD thesis, software&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>: new PhD, Postdoc, and scholarships opportunities&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;p>Welcome to CP News, an initiative of the &lt;a href="http://4c.ucc.ie/a4cp/">Association for Constraint Programming&lt;/a>&lt;/p></description></item><item><title>Volume 6, Number 1, April 2010</title><link>/news/newsletters/vol6_n1/</link><pubDate>Sat, 25 Jul 2026 15:05:53 +0200</pubDate><guid>/news/newsletters/vol6_n1/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-6-number-1-april-2010-published-in-may-2010">volume 6, number 1, April 2010 (published in May 2010)&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://www.cse.unsw.edu.au/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: report from the ACP EC, other news&lt;/li>
+&lt;li>&lt;a href="#journal">journals&lt;/a>: accepted papers&lt;/li>
+&lt;li>&lt;a href="#publications">other publications&lt;/a>: book, PhD thesis, software&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>: postdocs and other opportunities&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;p>This is a short summary of activities within the ACP during the months January-March 2010.&lt;/p>
+&lt;p>The 2010 ACP Executive Committee comprises the following people, in alphabetical order (officers identified)::&lt;/p></description></item><item><title>Volume 6, Number 2, July 2010</title><link>/news/newsletters/vol6_n2/</link><pubDate>Sat, 25 Jul 2026 15:05:53 +0200</pubDate><guid>/news/newsletters/vol6_n2/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-6-number-2-july-2010">volume 6, number 2, July 2010&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://www.cse.unsw.edu.au/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: report from the ACP EC, other news&lt;/li>
+&lt;li>&lt;a href="#journal">CONSTRAINTS journal accepted papers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#publications">other publications&lt;/a>: book, PhD thesis, software&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;h4 id="report-from-the-association-for-constraint-programming">REPORT FROM THE ASSOCIATION FOR CONSTRAINT PROGRAMMING&lt;/h4>
+&lt;p>This is a short summary of activities within the ACP during
+the months April-June 2010.&lt;/p>
+&lt;p>The 2010 ACP Executive Committee comprises the following people:&lt;/p></description></item><item><title>Volume 6, Number 3, October 2010</title><link>/news/newsletters/vol6_n3/</link><pubDate>Sat, 25 Jul 2026 15:05:51 +0200</pubDate><guid>/news/newsletters/vol6_n3/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-6-number-3-october-2010">volume 6, number 3, October 2010&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://www.cse.unsw.edu.au/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: Association for Constraint Programming, various calls for awards, Constraints journal announcement, accepted papers&lt;/li>
+&lt;li>&lt;a href="#publications">publications&lt;/a>: software&lt;/li>
+&lt;li>&lt;a href="#cfps">special issues cfps&lt;/a>: forthcoming special issues deadlines&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>: jobs&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;h4 id="report-from-the-association-for-constraint-programming">REPORT FROM THE ASSOCIATION FOR CONSTRAINT PROGRAMMING&lt;/h4>
+&lt;p>This is a short summary of activities within the ACP during the months&lt;br>
+July-September 2010.&lt;/p></description></item><item><title>Volume 7, Number 0, January 2011</title><link>/news/newsletters/vol7_n0/</link><pubDate>Sat, 25 Jul 2026 15:05:50 +0200</pubDate><guid>/news/newsletters/vol7_n0/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-7-number-0-january-2011">volume 7, number 0, January 2011&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://www.cse.unsw.edu.au/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: ACP, CSCLP&lt;/li>
+&lt;li>&lt;a href="#journals">journals&lt;/a>: Constraints, special issues&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: summer schools, forthcoming conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>: jobs&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;p>This is a short summary of activities within the ACP during the months October-December 2010.&lt;/p>
+&lt;h4 id="acp1-changes-to-the-acp-executive-committee">ACP.1. Changes to the ACP Executive Committee&lt;/h4>
+&lt;p>The 2011 Executive Committee comprises the following members (along with their elected terms):&lt;/p></description></item><item><title>Volume 7, Number 1, April 2011</title><link>/news/newsletters/vol7_n1/</link><pubDate>Sat, 25 Jul 2026 15:05:50 +0200</pubDate><guid>/news/newsletters/vol7_n1/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-7-number-1-april-2011">volume 7, number 1, April, 2011&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://www.cse.unsw.edu.au/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: ACP&lt;/li>
+&lt;li>&lt;a href="#journals">journals&lt;/a>: Constraints&lt;/li>
+&lt;li>&lt;a href="#publications">other publications&lt;/a>: books&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>: jobs&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;h4 id="report-from-the-association-for-constraint-programming">REPORT FROM THE ASSOCIATION FOR CONSTRAINT PROGRAMMING&lt;/h4>
+&lt;p>&lt;a href="http://www.4c.ucc.ie/a4cp/">http://www.4c.ucc.ie/a4cp/&lt;/a>&lt;/p>
+&lt;p>This is a short summary of activities within the ACP during the months
+January-March 2011.&lt;/p>
+&lt;h4 id="acp1-the-2011-acp-executive-committee">ACP.1. The 2011 ACP Executive Committee&lt;/h4>
+&lt;p>The 2011 ACP Executive Committee comprises the following people,
+in alphabetical order (officers identified):&lt;/p></description></item><item><title>Volume 7, Number 2, July 2011</title><link>/news/newsletters/vol7_n2/</link><pubDate>Sat, 25 Jul 2026 15:05:50 +0200</pubDate><guid>/news/newsletters/vol7_n2/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-7-number-2-july-2011">volume 7, number 2, July, 2011&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://www.cse.unsw.edu.au/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: ACP&lt;/li>
+&lt;li>&lt;a href="#journals">journals&lt;/a>: Constraints&lt;/li>
+&lt;li>&lt;a href="#cfps">special issues cfps&lt;/a>: forthcoming special issues deadlines&lt;/li>
+&lt;li>&lt;a href="#books">books&lt;/a>: PhD/HDR, books&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>: jobs&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;h4 id="report-from-the-association-for-constraint-programming">REPORT FROM THE ASSOCIATION FOR CONSTRAINT PROGRAMMING&lt;/h4>
+&lt;p>&lt;a href="http://www.4c.ucc.ie/a4cp/">http://www.4c.ucc.ie/a4cp/&lt;/a>&lt;/p>
+&lt;p>This is a short summary of activities within the ACP during the months
+April-June 2011.&lt;/p>
+&lt;p>The 2011 ACP Executive Committee comprises the following people, in
+alphabetical order (officers identified):&lt;/p></description></item><item><title>Volume 7, Number 3, October 2011</title><link>/news/newsletters/vol7_n3/</link><pubDate>Sat, 25 Jul 2026 15:05:46 +0200</pubDate><guid>/news/newsletters/vol7_n3/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-7-number-3-october-2011">volume 7, number 3, October, 2011&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://www.cse.unsw.edu.au/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: ACP&lt;/li>
+&lt;li>&lt;a href="#journals">journals&lt;/a>: Constraints&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming competition, conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>: jobs&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;h4 id="report-from-the-association-for-constraint-programming">REPORT FROM THE ASSOCIATION FOR CONSTRAINT PROGRAMMING&lt;/h4>
+&lt;p>&lt;a href="http://www.4c.ucc.ie/a4cp/">http://www.4c.ucc.ie/a4cp/&lt;/a>&lt;/p>
+&lt;p>This is a short summary of activities within the ACP during the months
+July-September 2011.&lt;/p>
+&lt;p>The 2011 ACP Executive Committee comprises the following people, in
+alphabetical order (officers identified):&lt;/p></description></item><item><title>Volume 8, Number 0, January 2012</title><link>/news/newsletters/vol8_n0/</link><pubDate>Sat, 25 Jul 2026 15:05:40 +0200</pubDate><guid>/news/newsletters/vol8_n0/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-8-number-0-january-2012">volume 8, number 0, January, 2012&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://www.cse.unsw.edu.au/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: ACP EC Report, Call for Nominations&lt;/li>
+&lt;li>&lt;a href="#journals">journals&lt;/a>: Constraints&lt;/li>
+&lt;li>&lt;a href="#cfps">special issues cfps&lt;/a>: forthcoming special issues
+deadlines&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming competition, conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>: jobs&lt;/li>
+&lt;li>&lt;a href="#profiles">profiles&lt;/a>: Optimisation @ NICTA&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">News&lt;/h2>
+&lt;h4 id="report-from-the-association-for-constraint-programming">REPORT FROM THE ASSOCIATION FOR CONSTRAINT PROGRAMMING&lt;/h4>
+&lt;p>&lt;a href="http://www.4c.ucc.ie/a4cp/">http://www.4c.ucc.ie/a4cp/&lt;/a>&lt;/p>
+&lt;p>This is a short summary of activities within the ACP during the months
+October-December 2011.&lt;/p></description></item><item><title>Volume 8, Number 1, April 2012</title><link>/news/newsletters/vol8_n1/</link><pubDate>Sat, 25 Jul 2026 15:05:40 +0200</pubDate><guid>/news/newsletters/vol8_n1/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-8-number-1-april-2012">volume 8, number 1, April, 2012&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://www.cse.unsw.edu.au/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">CONTENTS&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: ACP EC Report&lt;/li>
+&lt;li>&lt;a href="#journals">journals&lt;/a>: Constraints&lt;/li>
+&lt;li>&lt;a href="#publications">publications&lt;/a>: recent books&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: &lt;a href="#competitions">forthcoming competition&lt;/a>, &lt;a href="#conferences">conferences and workshops&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#careernews">career news&lt;/a>: jobs&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">&lt;strong>NEWS&lt;/strong>&lt;/h2>
+&lt;h4 id="reportfrom-the-association-for-constraint-programming">REPORTFROM THE ASSOCIATION FOR CONSTRAINT PROGRAMMING&lt;/h4>
+&lt;p>January-March 2012&lt;/p>
+&lt;p>This is a short summary of activities within the ACP during the months January-March 2012.&lt;/p>
+&lt;p>The 2012 ACP Executive Committee comprises the following people, in
+alphabetical order (officers identified):&lt;/p></description></item><item><title>Volume 8, Number 2, July 2012</title><link>/news/newsletters/vol8_n2/</link><pubDate>Sat, 25 Jul 2026 15:05:39 +0200</pubDate><guid>/news/newsletters/vol8_n2/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-8-number-2-july-2012">volume 8, number 2, July, 2012&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://www.cse.unsw.edu.au/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: ACP EC Report, CONSTRAINT Journal, CP 2012 Call for Position Papers&lt;/li>
+&lt;li>&lt;a href="#journals">journals&lt;/a>: Constraints, Constraint Programming Letters&lt;/li>
+&lt;li>&lt;a href="#publications">publications&lt;/a>: software&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming competition, conferences and workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>: jobs&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">&lt;strong>NEWS&lt;/strong>&lt;/h2>
+&lt;p>&lt;strong>REPORT FROM THE ASSOCIATION FOR CONSTRAINT PROGRAMMING&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="http://www.4c.ucc.ie/a4cp/">http://www.4c.ucc.ie/a4cp/&lt;/a>&lt;/p>
+&lt;p>This is a short summary of activities within the ACP during the months April-June 2012.&lt;/p></description></item><item><title>Volume 9, Number 0, January 2013</title><link>/news/newsletters/vol9_n0/</link><pubDate>Sat, 25 Jul 2026 15:04:53 +0200</pubDate><guid>/news/newsletters/vol9_n0/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-9-number-0-january-2013">volume 9, number 0, January, 2013&lt;/h3>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://www.cse.unsw.edu.au/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;p>Due to unforeseen circumstances, there was no 4th issue of the
+Constraint Programming News (v8n3) in 2012.&lt;/p>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: ACP EC Report, other news&lt;/li>
+&lt;li>&lt;a href="#journals">journals&lt;/a>: Constraints Journal, Special issues&lt;/li>
+&lt;li>&lt;a href="#publications">publications&lt;/a>: thesis, software&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming conferences and
+workshops&lt;/li>
+&lt;li>&lt;a href="#career">career news&lt;/a>: jobs&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">&lt;strong>NEWS&lt;/strong>&lt;/h2>
+&lt;p>&lt;strong>REPORT FROM THE ASSOCIATION FOR CONSTRAINT PROGRAMMING&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="http://www.4c.ucc.ie/a4cp/">http://www.4c.ucc.ie/a4cp/&lt;/a>&lt;/p>
+&lt;p>This is a short summary of activities within the ACP during the months
+July-October 2012.&lt;/p></description></item><item><title>Volume 9, Number 1, April 2013</title><link>/news/newsletters/vol9_n1/</link><pubDate>Sat, 25 Jul 2026 15:04:53 +0200</pubDate><guid>/news/newsletters/vol9_n1/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h4 id="editors-jimmy-lee-events-career-news-eric-monfroy-profiles-publications-toby-walsh-news-reports">Editors: &lt;a href="http://www.cse.cuhk.edu.hk/~jlee/">Jimmy Lee&lt;/a> (events, career news) &lt;a href="http://www.sciences.univ-nantes.fr/info/perso/permanents/monfroy/">Eric Monfroy&lt;/a> (profiles, publications) &lt;a href="http://www.cse.unsw.edu.au/~tw/">Toby Walsh&lt;/a> (news, reports)&lt;/h4>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#news">news&lt;/a>: ACP EC Report, other news&lt;/li>
+&lt;li>&lt;a href="#journals">journals&lt;/a>: Constraints Journal, Special issues&lt;/li>
+&lt;li>&lt;a href="#publications">publications&lt;/a>: thesis, software&lt;/li>
+&lt;li>&lt;a href="#events">events&lt;/a>: forthcoming conferences and
+workshops&lt;/li>
+&lt;/ul>
+&lt;h2 id="news">&lt;strong>NEWS&lt;/strong>&lt;/h2>
+&lt;p>&lt;strong>REPORT FROM THE ASSOCIATION FOR CONSTRAINT PROGRAMMING&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="http://www.a4cp.org">http://www.a4cp.org&lt;/a>&lt;/p>
+&lt;p>This is a short summary of activities within the ACP during the months
+January-March 2013.&lt;/p>
+&lt;p>The 2013 ACP Executive Committee comprises the following people, in
+alphabetical order. The committee has held internal elections for the
+different offices: Helmut Simonis was elected to be the new president
+of the ACP. The other officers are identified below:&lt;/p></description></item><item><title>Volume 10, Number 0, January 2014</title><link>/news/newsletters/vol10_n0/</link><pubDate>Sat, 25 Jul 2026 15:04:52 +0200</pubDate><guid>/news/newsletters/vol10_n0/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h4 id="editors">Editors:&lt;/h4>
+&lt;h5 id="guido-tack-pedro-meseguer-pierre-schaus-roland-yap">&lt;a href="http://www.csse.monash.edu/~guidot/">Guido Tack&lt;/a>, &lt;a href="http://www.iiia.csic.es/~pedro/">Pedro Meseguer&lt;/a>, &lt;a href="http://www.info.ucl.ac.be/~pschaus/">Pierre Schaus&lt;/a>, &lt;a href="https://www.comp.nus.edu.sg/~ryap/">Roland Yap&lt;/a>&lt;/h5>
+&lt;h2 id="contents">&lt;strong>CONTENTS&lt;/strong>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#editorial">editorial&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#news">news:&lt;/a> ACP report&lt;/li>
+&lt;li>&lt;a href="#classicpapers">papers with impact:&lt;/a> a new series&lt;/li>
+&lt;li>&lt;a href="#publications">publications:&lt;/a> new papers in the Constraints journal&lt;/li>
+&lt;li>&lt;a href="#careernews">career news:&lt;/a> jobs and scholarships&lt;/li>
+&lt;li>&lt;a href="#events">events:&lt;/a> upcoming conferences and deadlines&lt;/li>
+&lt;/ul>
+&lt;h2 id="editorial">&lt;strong>Editorial&lt;/strong>&lt;/h2>
+&lt;p>This first issue of CP News for 2014 comes with a few changes! First of all, we have a new team assembled – Guido, Pedro, Pierre and Roland will from now on compile the news every quarter.&lt;/p></description></item><item><title>Volume 9, Number 2, July 2013</title><link>/news/newsletters/vol9_n2/</link><pubDate>Sat, 25 Jul 2026 15:04:52 +0200</pubDate><guid>/news/newsletters/vol9_n2/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h3 id="volume-9-number-2-july-2013">volume 9, number 2, July, 2013&lt;/h3>
+&lt;h4 id="editor-guido-tack">Editor: &lt;a href="http://http://www.csse.monash.edu/~guidot/">Guido Tack&lt;/a>&lt;/h4>
+&lt;p>Due to ongoing reorganisation of CP News, this issue only contains the ACP EC Report.&lt;/p>
+&lt;h2 id="news">&lt;strong>NEWS&lt;/strong>&lt;/h2>
+&lt;p>&lt;strong>REPORT FROM THE ASSOCIATION FOR CONSTRAINT PROGRAMMING&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="http://www.a4cp.org">http://www.a4cp.org&lt;/a>&lt;/p>
+&lt;p>This is a short summary of activities within the ACP during the months
+April-June 2013.&lt;/p>
+&lt;p>The 2013 ACP Executive Committee comprises the following people, in
+alphabetical order.&lt;/p>
+&lt;ul>
+&lt;li>Yves Deville&lt;/li>
+&lt;li>Pierre Flener - Conference Coordinator (after CP 2013)&lt;/li>
+&lt;li>Willem-Jan van Hoeve - Secretary&lt;/li>
+&lt;li>Barry O&amp;rsquo;Sullivan (ex-officio, non-voting)&lt;/li>
+&lt;li>Thomas Schiex - Treasurer&lt;/li>
+&lt;li>Helmut Simonis - President&lt;/li>
+&lt;li>Guido Tack&lt;/li>
+&lt;li>Roland Yap&lt;/li>
+&lt;/ul>
+&lt;p>The ACP Executive Committee welcomes feedback and suggestions from
+the ACP community. We encourage you to engage with the ACP-EC to
+help design new initiatives that promote constraint programming.&lt;/p></description></item><item><title>Volume 9, Number 3, October 2013</title><link>/news/newsletters/vol9_n3/</link><pubDate>Sat, 25 Jul 2026 15:04:52 +0200</pubDate><guid>/news/newsletters/vol9_n3/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h4 id="editor-guido-tack">Editor: &lt;a href="http://www.csse.monash.edu/~guidot/">Guido Tack&lt;/a>&lt;/h4>
+&lt;h2 id="editorial">&lt;strong>Editorial&lt;/strong>&lt;/h2>
+&lt;p>You may have noticed that there have not been any updates to the Constraint Programming News since the beginning of the year. Our previous editors, Jimmy Lee, Eric Monfroy, and Toby Walsh handed their duties over to the ACP EC after many years of service to the community. We would like to thank them for the great effort and time they put in to keep us all up to date!&lt;/p></description></item><item><title>Volume 10, Number 1, April 2014</title><link>/news/newsletters/vol10_n1/</link><pubDate>Sat, 25 Jul 2026 15:04:51 +0200</pubDate><guid>/news/newsletters/vol10_n1/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h4 id="editors">Editors:&lt;/h4>
+&lt;h5 id="guido-tack-pedro-meseguer-pierre-schaus-roland-yap">&lt;a href="http://www.csse.monash.edu/~guidot/">Guido Tack&lt;/a>, &lt;a href="http://www.iiia.csic.es/~pedro/">Pedro Meseguer&lt;/a>, &lt;a href="http://www.info.ucl.ac.be/~pschaus/">Pierre Schaus&lt;/a>, &lt;a href="https://www.comp.nus.edu.sg/~ryap/">Roland Yap&lt;/a>&lt;/h5>
+&lt;h2 id="contents">&lt;strong>CONTENTS&lt;/strong>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#editorial">editorial&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#news">news:&lt;/a> ACP report&lt;/li>
+&lt;li>&lt;a href="#classicpapers">papers with impact&lt;/a> (by Gilles Pesant)&lt;/li>
+&lt;li>&lt;a href="#misc">other news:&lt;/a> publications, jobs, events&lt;/li>
+&lt;/ul>
+&lt;h2 id="editorial">&lt;strong>Editorial&lt;/strong>&lt;/h2>
+&lt;p>This is the second issue of CP News for 2014.&lt;/p>
+&lt;p>As always, we have the latest updates from the ACP Executive Committee. There are a few close deadlines in the report, such as &lt;strong>May 12 for proposing tutorials&lt;/strong> for CP 2014, &lt;strong>May 18 for community input to the new Strategic Committee&lt;/strong>, and &lt;strong>May 25&lt;/strong> for applications to this year&amp;rsquo;s summer school.&lt;/p></description></item><item><title>Volume 10, Number 2/3, October 2014</title><link>/news/newsletters/vol10_n3/</link><pubDate>Sat, 25 Jul 2026 15:04:51 +0200</pubDate><guid>/news/newsletters/vol10_n3/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h4 id="editors">Editors:&lt;/h4>
+&lt;h5 id="guido-tack-pedro-meseguer-pierre-schaus-roland-yap">&lt;a href="http://www.csse.monash.edu/~guidot/">Guido Tack&lt;/a>, &lt;a href="http://www.iiia.csic.es/~pedro/">Pedro Meseguer&lt;/a>, &lt;a href="http://www.info.ucl.ac.be/~pschaus/">Pierre Schaus&lt;/a>, &lt;a href="https://www.comp.nus.edu.sg/~ryap/">Roland Yap&lt;/a>&lt;/h5>
+&lt;h2 id="contents">&lt;strong>CONTENTS&lt;/strong>&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#editorial">editorial&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#news">news:&lt;/a> ACP report for Q2/3 2014&lt;/li>
+&lt;li>&lt;a href="#thesisarchive">New initiative: Archiving CP-related PhD theses&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#cparchive">CP Archive on the ACP web site&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#csplib">New CSPLib web site&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#mznchallenge">MiniZinc challenge 2014 results&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#misc">other news:&lt;/a> publications, jobs, events (now with RSS feeds!)&lt;/li>
+&lt;/ul>
+&lt;h2 id="editorial">&lt;strong>Editorial&lt;/strong>&lt;/h2>
+&lt;p>This is the combined issue 2 and 3 of CP News for 2014.&lt;/p>
+&lt;p>In this issue, you find the latest news from the ACP Executive Committee (as usual). Two items to highlight: the results of the ACP EC elections have been published, and the EC is still looking for proposals to host the 2015 ACP Summer School.&lt;/p></description></item><item><title>Volume 11, Number 0, January-March 2015</title><link>/news/newsletters/vol11_n0/</link><pubDate>Sat, 25 Jul 2026 15:04:51 +0200</pubDate><guid>/news/newsletters/vol11_n0/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h4 id="editors">Editors:&lt;/h4>
+&lt;h5 id="guido-tack-pedro-meseguer-pierre-schaus-roland-yap">&lt;a href="http://www.csse.monash.edu/~guidot/">Guido Tack&lt;/a>, &lt;a href="http://www.iiia.csic.es/~pedro/">Pedro Meseguer&lt;/a>, &lt;a href="http://www.info.ucl.ac.be/~pschaus/">Pierre Schaus&lt;/a>, &lt;a href="https://www.comp.nus.edu.sg/~ryap/">Roland Yap&lt;/a>&lt;/h5>
+&lt;h2 id="contents">CONTENTS&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#editorial">editorial&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#news">news:&lt;/a> ACP report for Q4 2014&lt;/li>
+&lt;li>&lt;a href="#thesisabstracts">Constraints journal: Now publishing thesis abstracts&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#classicpapers">Papers with impact&lt;/a> (by Jean-François Puget)&lt;/li>
+&lt;/ul>
+&lt;h2 id="editorial">Editorial&lt;/h2>
+&lt;p>Welcome to the first issue of the Constraint Programming Newsletter for 2015.&lt;/p>
+&lt;p>&lt;strong>Reminder:&lt;/strong> You have to &lt;a href="/membership/renew">renew your membership&lt;/a> if you want to remain a member of the ACP. Not a member yet? It&amp;rsquo;s easy to &lt;a href="www.a4cp.org/user/register">sign up&lt;/a>!&lt;/p>
+&lt;p>In this issue we can announce a new initiative of the ACP and the Constraints journal, publishing annual collections of thesis abstracts. Furthermore, we have the third article in our series on classic papers with impact.&lt;/p></description></item><item><title>Policies</title><link>/taxonomy/term/9/feed/</link><pubDate>Sat, 25 Jul 2026 15:04:50 +0200</pubDate><guid>/taxonomy/term/9/feed/</guid><description/></item><item><title>Volume 11, Number 1, April-June 2015</title><link>/news/newsletters/vol11_n1/</link><pubDate>Sat, 25 Jul 2026 15:04:50 +0200</pubDate><guid>/news/newsletters/vol11_n1/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
+&lt;h4 id="editors">Editors:&lt;/h4>
+&lt;h5 id="guido-tack-pedro-meseguer-pierre-schaus-roland-yap">&lt;a href="http://www.csse.monash.edu/~guidot/">Guido Tack&lt;/a>, &lt;a href="http://www.iiia.csic.es/~pedro/">Pedro Meseguer&lt;/a>, &lt;a href="http://www.info.ucl.ac.be/~pschaus/">Pierre Schaus&lt;/a>, &lt;a href="https://www.comp.nus.edu.sg/~ryap/">Roland Yap&lt;/a>&lt;/h5>
+&lt;h2 id="contents">CONTENTS&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#editorial">editorial&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#news">news:&lt;/a> ACP reports for Q1/Q2 2015&lt;/li>
+&lt;li>&lt;a href="#cpaior">reports:&lt;/a> CP-AI-OR 2015 in Barcelona&lt;/li>
+&lt;li>&lt;a href="#classicpapers">Papers with impact&lt;/a> (by Mark Wallace)&lt;/li>
+&lt;li>&lt;a href="#theses">thesis archive:&lt;/a> Final call to submit thesis abstracts for Constraints&lt;/li>
+&lt;li>&lt;a href="#success_stories">new initiative:&lt;/a> CP Success Stories&lt;/li>
+&lt;li>&lt;a href="#csplib">CSPLib sprint at CP 2015:&lt;/a> Make a contribution to CSPLib&lt;/li>
+&lt;/ul>
+&lt;h2 id="editorial">Editorial&lt;/h2>
+&lt;p>Welcome to issue 1 of the CP Newsletter for 2015.&lt;/p>
+&lt;p>This time, the newsletter features a short summary of CP-AI-OR 2015, and we have a new article in our series on &amp;ldquo;papers with impact&amp;rdquo;, kindly contributed by Mark Wallace.&lt;/p></description></item><item><title>Election Results</title><link>/taxonomy/term/5/feed/</link><pubDate>Sat, 25 Jul 2026 15:04:49 +0200</pubDate><guid>/taxonomy/term/5/feed/</guid><description/></item><item><title>Policies</title><link>/category/</link><pubDate>Sat, 25 Jul 2026 15:04:49 +0200</pubDate><guid>/category/</guid><description>&lt;h3 id="1-bidding-for-the-conference-organisation">1. Bidding for the Conference Organisation&lt;/h3>
 &lt;p>The ACP Executive Committee (EC) holds the annual International Conference on Principles and Practice of Constraint Programming (CP). If you are interested in organising a future CP conference, then you need to make a proposal to the Conference Coordinator of the EC (&lt;a href="mailto:helene.verhaeghe@uclouvain.be">helene.verhaeghe@uclouvain.be&lt;/a>). A proposal consists of volunteering to be Conference Chairs (CC) of the conference and to be responsible for the budget and local arrangements in the proposed city.&lt;/p></description></item><item><title>Constraints - Volume 29, Issue 3-4</title><link>/constraints-journal/cj-vol29-34/</link><pubDate>Sat, 25 Jul 2026 15:04:48 +0200</pubDate><guid>/constraints-journal/cj-vol29-34/</guid><description>&lt;p>&lt;img loading="lazy" src="/images/default_thumbnail.jpg">&lt;br>
 December 2024&lt;/p>
 &lt;p>&lt;strong>&lt;a href="https://rdcu.be/d1gXD">Learning and fine-tuning a generic value-selection heuristic inside a constraint programming solver&lt;/a>&lt;/strong>&lt;br>
@@ -72,7 +712,42 @@ Stefano Bistarelli and Hélène Fargier and Francesca Rossi and Thomas Schiex&lt
 video in progress&lt;/p>
 &lt;p>&lt;strong>&lt;a href="https://rdcu.be/ftcmU">Utilizing simple tabular reduction wisely&lt;/a>&lt;/strong>&lt;br>
 Christophe Lecoutre&lt;br>
-video in progress&lt;/p></description></item><item><title>Reset your password</title><link>/user/password/</link><pubDate>Sat, 25 Jul 2026 15:04:35 +0200</pubDate><guid>/user/password/</guid><description>&lt;p>Username or email address&lt;/p>
+video in progress&lt;/p></description></item><item><title>Positions available at Monash University (tenured and postdoc)</title><link>/news/career-news/positions_available_at_monash_/</link><pubDate>Sat, 25 Jul 2026 15:04:41 +0200</pubDate><guid>/news/career-news/positions_available_at_monash_/</guid><description>&lt;p>The optimization group at Monash University has a long history of important contributions to the science of modelling and optimization. It is the centre of development of the widely used modelling language MiniZinc (&lt;a href="https://www.minizinc.org">www.minizinc.org&lt;/a>). It also was responsible for the development of the CP and SAT hybrid solving methodology, lazy clause generation (LCG), which defines the state of the art for many discrete optimization problems.&lt;/p>
+&lt;p>&lt;a href="https://www.monash.edu/it/data-science/optimisation/">https://www.monash.edu/it/data-science/optimisation/&lt;/a>&lt;/p>
+&lt;p>The optimization group is expanding. We have two tenure-track teaching and research positions currently advertised, see&lt;/p></description></item><item><title>Post-doc position in Nantes, France</title><link>/news/career-news/post-doc_position_in_nantes_fr/</link><pubDate>Sat, 25 Jul 2026 15:04:41 +0200</pubDate><guid>/news/career-news/post-doc_position_in_nantes_fr/</guid><description>&lt;p>An 18-month Post-Doctoral position is available at the University of Nantes, France, in the Coverif project, about Constraint Programming (CP) with/for Abstract Interpretation (AI).
+&lt;a href="http://www.anr-coverif.fr/">http://www.anr-coverif.fr/&lt;/a>&lt;/p>
+&lt;p>The main task of the post-doc will be to develop the AbSolute solver, which relies on abstract domains, as defined in Abstract Interpretation, for constraints. We are looking for highly motivated researchers with a strong background either in constraint programming (in particular global constraints) or in abstract interpretation/verification (in particular numerical or logical domains). The AbSolute solver is in OCaml, thus, a knowledge of functional programming would be a plus.&lt;/p></description></item><item><title>U. of Toronto Faculty Opening in Industrial Engineering: Machine Learning/AI/OR</title><link>/news/career-news/u_of_toronto_faculty_opening_i/</link><pubDate>Sat, 25 Jul 2026 15:04:41 +0200</pubDate><guid>/news/career-news/u_of_toronto_faculty_opening_i/</guid><description>&lt;p>We are excited to announce a tenure stream faculty opening in Industrial Engineering at the U. of Toronto.&lt;/p>
+&lt;p>Specifically, we seek candidates who demonstrate research excellence in the development and application of Machine Learning (ML) and Artificial Intelligence (AI) methodologies for Operations Research (OR).&lt;/p>
+&lt;p>The full job postings are here (there is one position with applications accepted at either level):&lt;/p>
+&lt;ul>
+&lt;li>Assistant Professor: &lt;a href="https://tinyurl.com/ydbk5en5">https://tinyurl.com/ydbk5en5&lt;/a>&lt;/li>
+&lt;li>Associate Professor: &lt;a href="https://tinyurl.com/yacw66yo">https://tinyurl.com/yacw66yo&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Applications close Nov 20, 2018.&lt;/p></description></item><item><title>IMT ATLANTIQUE: tenured Full Professor position in Data and Decision Science</title><link>/news/career-news/imt_atlantique_tenured_full_pr/</link><pubDate>Sat, 25 Jul 2026 15:04:40 +0200</pubDate><guid>/news/career-news/imt_atlantique_tenured_full_pr/</guid><description>&lt;p>IMT ATLANTIQUE&lt;br>
+campuses in Brest, Nantes and Rennes, France&lt;br>
+call for applications for a tenured Full Professor position in Data and Decision Science&lt;br>
+&lt;a href="http://www.imt-atlantique.fr">http://www.imt-atlantique.fr&lt;/a>&lt;br>
+The date on which the position is taken up: 01/09/2020&lt;/p>
+&lt;p>IMT Atlantique is a leading French engineering school (Grande Ecole, a sort of Ivy League School). It is ranked among the top 400 universities in the world in THE World University Ranking 2019, present in four themes of the Shanghai ranking, and is in top 25 in U-Multirank on the number of joint publications with industrial partners. The School is a part of the National Institute of Science and Technology “Institut Mines-Télécom” (IMT).&lt;/p></description></item><item><title>PostDoc Position in automated reasoning (Toulouse, France)</title><link>/news/career-news/postdoc_position_in_automated_/</link><pubDate>Sat, 25 Jul 2026 15:04:40 +0200</pubDate><guid>/news/career-news/postdoc_position_in_automated_/</guid><description>&lt;p>In the framework of Toulouse&amp;rsquo;s &lt;a href="https://aniti.univ-toulouse.fr/en/">Interdisciplinary Institute for AI&lt;/a>, we are looking for a candidate PostDoc to work on propositional reasoning with logic, constraints, preferences, and probabilities using graphical models (from constraint programming and SAT to Markov Random Fields and Bayes Nets).&lt;/p>
+&lt;p>The PostDoc will be involved in the development of our award-winning discrete optimization C++ solver, &lt;a href="http://www.inra.fr/mia/T/toulbar2/">Toulbar2&lt;/a>, including its parallelization, the integration of machine learning technology for improved guidance, its extension to tackle problems &amp;ldquo;beyond NP&amp;rdquo; with direct applications in &lt;a href="https://www.linkedin.com/pulse/ai-designs-self-assembling-protein-thomas-schiex/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BpSRIRk9CSPqWz6QRv6sd6Q%3D%3D">Computational Protein Design&lt;/a>, with potential impactful contributions in Health, Green Chemistry and Nanotechnologies, among others.&lt;/p></description></item><item><title>Full professorship in Theoretical Computer Science at the University of Copenhagen</title><link>/news/career-news/full_professorship_in_theoreti/</link><pubDate>Sat, 25 Jul 2026 15:04:39 +0200</pubDate><guid>/news/career-news/full_professorship_in_theoreti/</guid><description>&lt;p>The Department of Computer Science at the University of Copenhagen is seeking candidates for a full professorship in Theoretical Computer Science (TCS). More specifically, we are inviting exceptional candidates from the broad fields of algorithms, complexity, and cryptography including privacy.&lt;/p>
+&lt;p>We are looking for an outstanding, experienced researcher with an innovative mind-set and intellectual curiosity to strengthen and complement the research profile of the Algorithms and Complexity Section, headed by Professor Mikkel Thorup. The Algorithms and Complexity Section is part of an exciting environment including the Basic Algorithms Research Copenhagen (BARC) centre, joint with the IT University of Copenhagen, and involving extensive collaborations with the Technical University of Denmark (DTU) and Lund University on the Swedish side of the Oresund Bridge. We aim to attract top talent from around the world to an ambitious, creative, collaborative, and fun environment. Using the power of mathematics, we strive to create fundamental breakthroughs in algorithms and complexity theory, but we also have a track record of start-ups and surprising algorithmic discoveries leading to major industrial applications.&lt;/p></description></item><item><title>Postdoc position</title><link>/news/career-news/postdoc_position/</link><pubDate>Sat, 25 Jul 2026 15:04:39 +0200</pubDate><guid>/news/career-news/postdoc_position/</guid><description>&lt;p>A Postdoc position is available at the Chair of Artificial Intelligence, Prof. Jana Koehler (&lt;a href="https://jana-koehler.dfki.de/)">https://jana-koehler.dfki.de/)&lt;/a>, starting in Spring 2020.
+The applicant´s research should center around one of the following fields: planning, search algorithms, constraint reasoning, decision and game theory, reinforcement learning.&lt;/p>
+&lt;p>The position is financed from general funds and thus not bound to a project. The successful candidate is expected to actively pursue an academic career and to define her/his own research agenda in accordance with the topics addressed at the chair of AI and the related research area Algorithmic Business and Production at DFKI (&lt;a href="https://www.dfki.de/abp">https://www.dfki.de/abp&lt;/a>)&lt;/p></description></item><item><title>Research Engineer on Constraint Programming</title><link>/news/career-news/research_engineer_on_constrain/</link><pubDate>Sat, 25 Jul 2026 15:04:39 +0200</pubDate><guid>/news/career-news/research_engineer_on_constrain/</guid><description>&lt;p>The Research Center in Paris is responsible for advanced research in the fields of Algorithm and Software design, Parallel Computing, Aesthetics, MBB, IOT &amp;amp; Home device, to create and design the innovative technologies and software platforms.&lt;/p>
+&lt;p>The Declarative Computing research team in the Paris Research Center is seeking applications for a 1- year development position. The position aims to participate to the development of a constraint solver.&lt;/p>
+&lt;p>Responsibilities&lt;/p>
+&lt;ul>
+&lt;li>Develop and implement highly optimized Constraint Solving techniques, like search algorithms&lt;/li>
+&lt;li>and propagation algorithms.&lt;/li>
+&lt;li>Develop and implement Constraint Programming heuristics.&lt;/li>
+&lt;li>Develop and implement Constraint Programming applications.&lt;/li>
+&lt;li>Improve software engineering practices to get high quality software.&lt;/li>
+&lt;li>Write documentation.&lt;/li>
+&lt;/ul>
+&lt;p>Qualifications&lt;/p></description></item><item><title>PhD Position in Montréal, Canada and Nantes, France</title><link>/news/career-news/phd_position_in_montr%C3%A9al_canad/</link><pubDate>Sat, 25 Jul 2026 15:04:38 +0200</pubDate><guid>/news/career-news/phd_position_in_montr%C3%A9al_canad/</guid><description>&lt;p>A fully-funded PhD position is open at IMT-A in Nantes, France and Polytechnique Montréal, Canada, on Constraint-based pattern mining. The PhD candidate will develop new methods for sampling and counting for interactive and anytime pattern discovery.&lt;/p>
+&lt;p>A full description is available here:
+&lt;a href="https://www.normalesup.org/~truchet/Docs/Prov/2022">https://www.normalesup.org/~truchet/Docs/Prov/2022&lt;/a>_IMT_offres_theses_sujet9.pdf&lt;/p></description></item><item><title>Two funded PhD positions on Epistemic AI (constraint programming or reinforcement learning) at TU Delft - deadline 28 February</title><link>/news/career-news/two_funded_phd_positions_on_ep/</link><pubDate>Sat, 25 Jul 2026 15:04:38 +0200</pubDate><guid>/news/career-news/two_funded_phd_positions_on_ep/</guid><description>&lt;p>TU Delft (Netherlands) offers two fully-funded PhD positions as part of the EU FET Open project Epistemic AI.&lt;/p>
+&lt;p>The first PhD candidate will develop novel approaches for combinatorial optimisation under epistemic uncertainty, with an emphasis on constraint programming. The second PhD candidate will develop novel reinforcement learning algorithms that aim for robust and safe behaviour in partially-known environments.&lt;/p>
+&lt;p>The project goal is to create a new paradigm for next-generation AI providing worst-case guarantees on its predictions thanks to a proper modelling of real-world uncertainties.&lt;/p></description></item><item><title>Reset your password</title><link>/user/password/</link><pubDate>Sat, 25 Jul 2026 15:04:35 +0200</pubDate><guid>/user/password/</guid><description>&lt;p>Username or email address&lt;/p>
 &lt;p>Password reset instructions will be sent to your registered email address.&lt;/p>
 &lt;p>CAPTCHA&lt;/p>
 &lt;p>This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.&lt;/p></description></item><item><title>2024 Quarterly Report 1</title><link>/about/committee/decisions/report_2024_q1/</link><pubDate>Sat, 25 Jul 2026 15:04:34 +0200</pubDate><guid>/about/committee/decisions/report_2024_q1/</guid><description>&lt;p>With the CP paper deadline now past, this quarterly report brings you updates about other tracks in the CP conference: a call for tutorials and doctoral program submissions, as well as the call for ACP Award nominations.&lt;/p>
@@ -118,18 +793,7 @@ for Constraint Programming&lt;/a>.&lt;/p></description></item><item><title>Succe
 &lt;p>For questions concerning the web site, please send email to &lt;a href="mailto:webmaster@a4cp.org">webmaster@a4cp.org&lt;/a>.&lt;/p></description></item><item><title>Log in</title><link>/user/login/</link><pubDate>Sat, 25 Jul 2026 15:04:27 +0200</pubDate><guid>/user/login/</guid><description>&lt;p>Username&lt;/p>
 &lt;p>Enter your Association for Constraint Programming username.&lt;/p>
 &lt;p>Password&lt;/p>
-&lt;p>Enter the password that accompanies your username.&lt;/p></description></item><item><title>Career news</title><link>/news/career-news/</link><pubDate>Sat, 25 Jul 2026 15:03:48 +0200</pubDate><guid>/news/career-news/</guid><description>&lt;ul>
-&lt;li>&lt;a href="/news/career-news/phd_position_in_montr%C3%A9al_canad">PhD Position in Montréal, Canada and Nantes, France&lt;/a>&lt;/li>
-&lt;li>&lt;a href="/news/career-news/two_funded_phd_positions_on_ep">Two funded PhD positions on Epistemic AI (constraint programming or reinforcement learning) at TU Delft - deadline 28 February&lt;/a>&lt;/li>
-&lt;li>&lt;a href="/news/career-news/full_professorship_in_theoreti">Full professorship in Theoretical Computer Science at the University of Copenhagen&lt;/a>&lt;/li>
-&lt;li>&lt;a href="/news/career-news/postdoc_position">Postdoc position&lt;/a>&lt;/li>
-&lt;li>&lt;a href="/news/career-news/research_engineer_on_constrain">Research Engineer on Constraint Programming&lt;/a>&lt;/li>
-&lt;li>&lt;a href="/news/career-news/postdoc_position_in_automated_">PostDoc Position in automated reasoning (Toulouse, France)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="/news/career-news/imt_atlantique_tenured_full_pr">IMT ATLANTIQUE: tenured Full Professor position in Data and Decision Science&lt;/a>&lt;/li>
-&lt;li>&lt;a href="/news/career-news/positions_available_at_monash_">Positions available at Monash University (tenured and postdoc)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="/news/career-news/u_of_toronto_faculty_opening_i">U. of Toronto Faculty Opening in Industrial Engineering: Machine Learning/AI/OR&lt;/a>&lt;/li>
-&lt;li>&lt;a href="/news/career-news/post-doc_position_in_nantes_fr">Post-doc position in Nantes, France&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>CP and CPAIOR Application Papers</title><link>/cp/application/papers/</link><pubDate>Sat, 25 Jul 2026 15:03:47 +0200</pubDate><guid>/cp/application/papers/</guid><description>&lt;h2 id="1-dispatching-and-planning">1. Dispatching and Planning&lt;/h2>
+&lt;p>Enter the password that accompanies your username.&lt;/p></description></item><item><title>CP and CPAIOR Application Papers</title><link>/cp/application/papers/</link><pubDate>Sat, 25 Jul 2026 15:03:47 +0200</pubDate><guid>/cp/application/papers/</guid><description>&lt;h2 id="1-dispatching-and-planning">1. Dispatching and Planning&lt;/h2>
 &lt;ul>
 &lt;li>
 &lt;p>&lt;a href="/cp/papers/LIPIcs.CP.2025.33.pdf">&lt;strong>Constraint-based In-Station Train Dispatching (CP 2025)&lt;/strong>&lt;/a>&lt;br>
