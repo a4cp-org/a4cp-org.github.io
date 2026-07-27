@@ -72,330 +72,10 @@ Stefano Bistarelli and Hélène Fargier and Francesca Rossi and Thomas Schiex&lt
 video in progress&lt;/p>
 &lt;p>&lt;strong>&lt;a href="https://rdcu.be/ftcmU">Utilizing simple tabular reduction wisely&lt;/a>&lt;/strong>&lt;br>
 Christophe Lecoutre&lt;br>
-video in progress&lt;/p></description></item><item><title>Constraint Programming for Optimization Under Uncertainty in Stochastic Inventory Control</title><link>/theses/constraint_programming_for_opt/</link><pubDate>Sat, 25 Jul 2026 15:04:46 +0200</pubDate><guid>/theses/constraint_programming_for_opt/</guid><description>&lt;h3 id="author">Author&lt;/h3>
-&lt;p>Roberto Rossi&lt;/p>
-&lt;h3 id="school">School&lt;/h3>
-&lt;p>Business School&lt;/p>
-&lt;h3 id="supervisors">Supervisors&lt;/h3>
-&lt;p>S. Armagan Tarim&lt;/p>
-&lt;p>Brahim Hnich&lt;/p>
-&lt;p>Steven Prestwich&lt;/p>
-&lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;p>Constraint Programming (CP) is a programming paradigm where relations between variables can be stated in the form of constraints. CP features discrete domains and global constraints. Global constraints capture interesting substructures of a problem, encapsulate dedicated inference algorithms based on feasibility and/or optimality reasoning, and provide information to the search process on the most viable course. Stochastic Constraint Programming (SCP) is a novel framework that generalizes CP stochastic problems, allowing both to model and solve this class of problems by using any available existing CP solver. Although this framework proves to be extremely flexible in terms of modelling power, its current implementation does not scale well. In order to enhance this framework, in this dissertation we propose a general extension for SCP: global chance-constraints. In contrast to global constraints, which represent relations among a non-fixed number of decision variables, global chance-constraints represent relations among a non-fixed number of decision variables and stochastic variables. Nevertheless, as global constraints do, global chance-constraints encapsulate dedicated inference algorithms based on feasibility and/or optimality reasoning and may provide information to the search process. We call optimization-oriented global chance-constraints those global chance-constraints performing optimality reasoning. We applied global chance-constraints encapsulating dedicated inference algorithms based on feasibility and/or optimality reasoning to problems in the area of stochastic inventory control. Our computational experience shows that global chance-constraints let us model and solve to optimality problems that could not or could be only approximately solved by other existing approaches. It also shows that filtering based on optimality reasoning is extremely effective for this class of problems.&lt;/p></description></item><item><title>Constraint Propagation – Models, Techniques, Implementation</title><link>/theses/constraint_propagation__models/</link><pubDate>Sat, 25 Jul 2026 15:04:46 +0200</pubDate><guid>/theses/constraint_propagation__models/</guid><description>&lt;h3 id="author">Author&lt;/h3>
-&lt;p>Guido Tack&lt;/p>
-&lt;h3 id="school">School&lt;/h3>
-&lt;p>Saarland University, Germany&lt;/p>
-&lt;h3 id="supervisors">Supervisors&lt;/h3>
-&lt;p>Gert Smolka&lt;/p>
-&lt;p>Christian Schulte&lt;/p>
-&lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;p>This dissertation presents the design of a propagation-based constraint solver. The design is based on models that span several levels of abstraction, ranging from a mathematical foundation, to a high-level implementation architecture, to concrete data structures and algorithms. This principled design approach results in a well-understood, correct, modular, and efficient implementation.&lt;/p>
-&lt;p>The core of the developed architecture is the propagation kernel. It provides the propagation infrastructure and is thus crucial for correctness and efficiency of the solver. Based on a mathematical model as well as a careful design of the employed algorithms and data structures, the presented architecture results in an efficient and domain-independent kernel. Constraints are realized by propagators, and implementing a propagator is a challenging, error-prone, and time-consuming task. A practically useful solver must however provide a comprehensive propagator library. This dissertation introduces two techniques for automatically deriving correct and efficient propagators. Views generalize variables and are used to derive propagators from existing propagators. For constraints over set variables, propagators are derived from formal constraint specifications.&lt;/p></description></item><item><title>Representations in Constraint Programming</title><link>/theses/representations_in_constraint_/</link><pubDate>Sat, 25 Jul 2026 15:04:45 +0200</pubDate><guid>/theses/representations_in_constraint_/</guid><description>&lt;h3 id="author">Author&lt;/h3>
-&lt;p>Christopher Jefferson&lt;/p>
-&lt;h3 id="school">School&lt;/h3>
-&lt;p>University of York&lt;/p>
-&lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;p>One important choice in modelling is what variables will be used to represent the states of the problem. This choice is often optimised to try to take advantage of the global constraints in the solver being used. This concentration on global constraints has allowed the performance of models to improve as more and better global constraints are designed and implemented. However, this obsession with global constraints has lead to a lack of study of the variables, independent of the particular set of constraints implemented by a given solver.&lt;/p></description></item><item><title>Robust Solutions for Constraint Satisfaction and Optimisation under Uncertainty</title><link>/theses/robust_solutions_for_constrain/</link><pubDate>Sat, 25 Jul 2026 15:04:45 +0200</pubDate><guid>/theses/robust_solutions_for_constrain/</guid><description>&lt;h3 id="author">Author&lt;/h3>
-&lt;p>Emmanuel Hebrard&lt;/p>
-&lt;h3 id="school">School&lt;/h3>
-&lt;p>University of New South Wales&lt;/p>
-&lt;h3 id="supervisors">Supervisors&lt;/h3>
-&lt;p>Toby Walsh&lt;/p>
-&lt;p>Brahim Hnich&lt;/p>
-&lt;p>Michael Maher&lt;/p>
-&lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;p>We develop a framework for finding robust solutions of constraint programs. Our approach is based on the notion of fault tolerance. We formalise this concept within constraint programming, extend it in several dimensions and introduce some algorithms to find robust solutions efficiently.&lt;/p>
-&lt;p>When applying constraint programming to real world problems we often face uncertainty. Whilst reactive methods merely deal with the consequences of an unexpected change, taking a more proactive approach may guarantee a certain level of robustness. We propose to apply the fault tolerance framework, introduced in [Ginsberg 98], to constraint programming: A robust solution is one such that a small perturbation only requires a small response. We identify, define and classify a number of abstract problems related to stability within constraint satisfaction or optimisation. We propose some efficient and effective algorithms for solving these problems. We then extend this framework by allowing the repairs and perturbations themselves to be constrained. Finally, we assess the practicality of this framework on constraint satisfaction and scheduling problems.&lt;/p></description></item><item><title>Set Constraints for Local Search</title><link>/theses/set_constraints_for_local_sear/</link><pubDate>Sat, 25 Jul 2026 15:04:45 +0200</pubDate><guid>/theses/set_constraints_for_local_sear/</guid><description>&lt;h3 id="author">Author&lt;/h3>
-&lt;p>Magnus Ågren (now Magnus Rattfeldt)&lt;/p>
-&lt;h3 id="school">School&lt;/h3>
-&lt;p>Uppsala University&lt;/p>
-&lt;h3 id="supervisors">Supervisors&lt;/h3>
-&lt;p>Pierre Flener&lt;/p>
-&lt;p>Justin Pearson&lt;/p>
-&lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;p>Combinatorial problems are ubiquitous in our society and solving such problems efficiently is often crucial. One technique for solving combinatorial problems is constraint-based local search. Its compositional nature together with its efficiency on large problem instances have made this technique particularly attractive. In this thesis we contribute to simplifying the solving of combinatorial problems using constraint-based local search.&lt;/p></description></item><item><title>Asynchronously solving problems with privacy requirements</title><link>/theses/asynchronously_solving_problem_1/</link><pubDate>Sat, 25 Jul 2026 15:04:43 +0200</pubDate><guid>/theses/asynchronously_solving_problem_1/</guid><description>&lt;h3 id="author">Author&lt;/h3>
-&lt;p>Marius-Calin Silaghi&lt;/p>
-&lt;h3 id="school">School&lt;/h3>
-&lt;p>Swiss Federal Institute of Technology (EPFL)&lt;/p>
-&lt;h3 id="supervisors">Supervisors&lt;/h3>
-&lt;p>Boi Faltings&lt;/p>
-&lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;p>Asynchronous search techniques for distributed satisfaction problems
-are among the scientific challenges of Distributed Artificial
-Intelligence. They are useful in applications like negotiations
-(Generalized English Auctions), distributed meeting scheduling with
-private constraints, distributed configuration with secret know-how.
-Asynchronous search also has an important theoretic value, defining
-generic techniques whose properties, once
-proven, apply to a large number of not only distributed but also
-centralized old and new algorithms. A convincing example is the technique I
-propose for using backtracking nogoods in consistency
-(Section~\ref{sec:AMC:dmac-abt}), technique that can be
-straightforwardly applied to classic centralized versions of backtracking (as
-I show in Section~\ref{sec:DPF:FBT}) with improvements of
-efficiency.
-Despite the continuous effort of the last ten years, several important
-issues remained open until now. This thesis describes several
-advances that allow the agents to get more opportunities to
-communicate. It also proposes new frameworks for
-distributed constraint satisfaction, and strategies for agents. The
-main focus is on asynchronous complete search with polynomial space
-requirements in the size of the global problem, where the global
-problem is distributed naturally.
-Among the main contributions I mention:
-* Local consistency is a technique bringing gains that are exponential
-in the size of the problem, by deposing an effort that is exponential
-in the size of the used predicates (constraints). The effort can
-therefore be polynomial in the size of the global problem. {\bf Exponential
-gain with polynomial cost} made local consistency the most important
-technique in constraint satisfaction where it was shown that any
-opportunity must be used for exploiting it ({\em
-consistency maintenance}). I generalize the concept of centralized
-consistency maintenance in a way that makes it applicable to
-asynchronous techniques. This is the first technique allowing for
-consistency maintenance in asynchronous search and is very efficient (Chapter~\ref{chap:AMC}).
-* I noticed that the use of CSPs techniques for numeric problems over
-\R{} was possible by something that can be described as: {\em letting
-the domain splits have existential meaning rather than the universal
-meaning in classical backtracking}. Existing asynchronous search
-protocols supported only proposals with universal quantifiers
-(e.g. {\bf require}($\forall x\in{1})$). I modify and generalize
-existing asynchronous search protocols to support proposals with
-existential quantifiers (e.g. {\bf require}($\exists
-x\in{[1.5,10^5]\cup{0,1}}$)). This efficient technique is the
-first to allow a {\bf proper use of intervals} in proposals and is
-a first step I took for extending the applicability of asynchronous
-search to Numeric CSPs. Since this idea came when I tried to integrate
-in ABT an aggregation technique described in~\cite{rfia00}, the
-first protocol with the desired property is called Asynchronous
-Aggregation Search (see Chapter~\ref{chap:AAS}).
-* Existing algorithms enforced a static priority
-on agents. This is a drawback. It entangles agents to {\em verify
-conflicts in Generalized English Auctions} (Chapter~\ref{chap:ASS}), for
-defending themselves from unfair competition. One only knew to remove
-that constraint at the expense of requiring an unbounded computer
-memory (e.g. RAM). This is infeasible and leads to unwarranted
-protocols. I designed the first solving protocol that {\bf allows the
-needed dynamic reordering} and still has {\bf a guaranteed
-termination} with polynomially bounded computer space
-requirements. Moreover, the designed technique is very general as
-it can introduce all important reordering heuristics used for
-efficiency in centralized techniques (see Chapter~\ref{chap:ABTR}).
-* Besides the aforementioned reordering technique, I propose a suite of
-other techniques for dynamic reordering with other types of
-heuristics and still offering guaranteed termination with polynomial
-space requirements: Reordering with increasing delay restarts
-(Section~\ref{sec:ABTR:restarts}), and Finite number of
-reorderings. These two techniques are simple but allow only simplistic
-reordering heuristics. Dynamic Partial Order is discussed in
-Section~\ref{sec:ABTR:poas}.
-* Proposals with existential quantifiers are not sufficient for enabling
-application of search to numeric problems. The remaining requirement
-is that {\em proposals must not be binding}. Actually, one of the powerful
-and general available centralized techniques for solving numeric
-problems is the one proposed in Section~\ref{sec:cDPF:uca6}. Domains
-are split recursively, and {\bf the same constraints are recursively
-reverified} until complete satisfaction or an acceptable resolution is
-obtained.
-* Asynchronous techniques requested an agent only once its proposal. The
-proposals were therefore necessarily binding. This is incompatible
-with the practice required for numeric problems, as mentioned at the
-previous item. After understanding this problem, I proposed a
-modeling technique called Replica-based search. Several replicas
-of the same agent are asked proposals at different levels of
-abstractions. As a result, {\bf proposals of the replicas are not
-binding}. They can be refused by subsequent replicas (e.g. After an
-agent sends {\bf require}($\exists x\in{[1.5,10^5]\cup{0,1}}$), it
-can be more restrictive in a subsequent replica, {\bf
-require}($\exists x\in{[15,1000]}$), and later can even abandon
-completely its proposal, {\bf
-require}($x\not\in{[1.5,10^5]\cup{0,1}}$)). This technique,
-described in Chapter~\ref{chap:RDisCSP} closes the sequence of ideas
-required for developing asynchronous techniques for numeric problems
-over \R.
-* One of the main motivations for distributed algorithms is the
-enforcement of privacy. A framework for modeling and quantifying
-privacy loss and a {\bf theoretic comparison on the power of different
-protocols in saving privacy} are proposed in
-Chapter~\ref{chap:Privacy}.
-* Hewlett-Packard, learning that the ink-jet printer is a competitor for
-their main product, the laser printer, decided to also develop ink-jet
-printers in parallel. With the same principle in mind, I developed and
-analyzed an expensive secure protocol (SCSPS), proposed in
-Chapter~\ref{chap:Secure}. I also developed and analyzed {a set of
-cryptographic protocols for both discrete and numeric distributed
-satisfaction problems} (Annex~\ref{chap:Test}). For the work described
-in Annex~\ref{chap:Test}, another important contribution
-is the discovery of the
-feebleness of that type of techniques, the ``S-attacks&amp;rsquo;&amp;rsquo;.
-The obtained cryptographic protocols have some drawbacks such that a
-trade-off remains between the competing techniques. Secure protocols
-and distributed algorithms will continue to coexist for a while, as
-laser printers and ink-jet printers.
-* Several distributed optimization techniques have been developed so far. Those
-techniques are not general and abstract enough for allowing extensions
-like consistency maintenance and reordering. The notion of cost was
-unclear. I {\bf introduce the notion of cost in nogoods, obtaining a
-general stand-alone communication atom}. In
-Chapter~\ref{chap:Optimization} I describe a generalization of all the
-existing distributed satisfaction and optimization techniques. This
-generalization allows the introduction of consistency maintenance,
-reordering, etc. in distributed optimization.
-* Negotiations are defined by the fact that the participants yield from
-their constraints to reach common solutions. This is technically
-called: constraint relaxation. No relaxation technique existed for private
-problems. I propose such a technique for private constraints
-(Section~\ref{sec:GEA:CR}). A classical dualism for CSPs defines a
-standard transfer between privacy on constraints and privacy on
-domains (see Section~\ref{sec:domain-constraints} and
-Chapter~\ref{chap:DisGCSP}). We have also defined a primal version of
-this technique.
-&lt;a href="https://academynet.com/ebeoshop/sneakers">SNEAKERS&lt;/a>&lt;/p></description></item><item><title>Efficient Propagators for Global Constraints</title><link>/theses/efficient_propagators_for_glob/</link><pubDate>Sat, 25 Jul 2026 15:04:43 +0200</pubDate><guid>/theses/efficient_propagators_for_glob/</guid><description>&lt;h3 id="author">Author&lt;/h3>
-&lt;p>Claude-Guy Quimper&lt;/p>
-&lt;h3 id="school">School&lt;/h3>
-&lt;p>University of Waterloo&lt;/p>
-&lt;h3 id="supervisors">Supervisors&lt;/h3>
-&lt;p>Alejandro López-Ortiz&lt;/p>
-&lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;p>We study in this thesis three well known global constraints. The All-Different constraint restricts a set of variables to be assigned to distinct values. The global cardinality constraint (GCC) ensures that a value v is assigned to at least l_v variables and to at most u_v variables among a set of given variables where l_v and u_v are non-negative integers such that l_v &amp;lt;= u_v. The Inter-Distance constraint ensures that all variables, among a set of variables x_1,&amp;hellip;, x_n, are pairwise distant from p, i.e. |x_i - x_j| &amp;gt;= p for all i != j. The All-Different constraint, the GCC, and the Inter-Distance constraint are largely used in scheduling problems. For instance, in scheduling problems where tasks with unit processing time compete for a single resource, we have an All-Different constraint on the starting time variables. When there are k resources, we have a GCC with l_v = 0 and u_v = k over all starting time variables. Finally, if tasks have processing time t and compete for a single resource, we have an Inter-Distance constraint with p = t over all starting time variables. We present new propagators for the \alldiff\ constraint, the \gcc, and the&lt;br>
-\interdistance\ constraint i.e., new filtering algorithms that reduce the search space according to these constraints. For a given consistency, our propagators outperform previous propagators both in practice and in theory. The gains in performance are achieved through judicious use of advanced data structures combined with novel results on the structural properties of the constraints.&lt;/p></description></item><item><title>Reliable Constraint Reasoning with Uncertain Data</title><link>/theses/reliable_constraint_reasoning_/</link><pubDate>Sat, 25 Jul 2026 15:04:43 +0200</pubDate><guid>/theses/reliable_constraint_reasoning_/</guid><description>&lt;h3 id="author">Author&lt;/h3>
-&lt;p>Neil Yorke-Smith&lt;/p>
-&lt;h3 id="school">School&lt;/h3>
-&lt;p>Imperial College London&lt;/p>
-&lt;h3 id="supervisors">Supervisors&lt;/h3>
-&lt;p>Carmen Gervet&lt;/p>
-&lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;p>Constraint programming (CP) has proved an effective paradigm to model and solve difficult combinatorial optimisation problems from disparate domains. The need for reliable solutions to real-world applications requires that the uncertainty inherent in these problems is taken into account. To date, however, there has been little work on accommodating uncertainty within CP, apart from seeking a solution that holds in the greatest number of circumstances.&lt;/p></description></item><item><title>Asynchronously solving problems with privacy requirements</title><link>/theses/asynchronously_solving_problem/</link><pubDate>Sat, 25 Jul 2026 15:04:42 +0200</pubDate><guid>/theses/asynchronously_solving_problem/</guid><description>&lt;h3 id="author">Author&lt;/h3>
-&lt;p>Marius-Calin Silaghi&lt;/p>
-&lt;h3 id="school">School&lt;/h3>
-&lt;p>Swiss Federal Institute of Technology (EPFL)&lt;/p>
-&lt;h3 id="supervisors">Supervisors&lt;/h3>
-&lt;p>Boi Faltings&lt;/p>
-&lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;p>Asynchronous search techniques for distributed satisfaction problems are among the scientific challenges of Distributed Artificial Intelligence. They are useful in applications like negotiations (Generalized English Auctions), distributed meeting scheduling with private constraints, distributed
-configuration with secret know-how.
-Asynchronous search also has an important theoretic value, defining generic techniques whose
-properties, once proven, apply to a large number of not only distributed but also centralized old
-and new algorithms. A convincing example is the technique I propose for using backtracking
-nogoods in consistency (Section 7.3.1), technique that can be straightforwardly applied to classic
-centralized versions of backtracking (as I show in Section 5.2) with improvements of efficiency.
-Despite the continuous effort of the last ten years, several important issues remained open
-until now. This thesis describes several advances that allow the agents to get more opportunities
-to communicate. It also proposes new frameworks for distributed constraint satisfaction, and
-strategies for agents. The main focus is on asynchronous complete search with polynomial space
-requirements in the size of the global problem, where the global problem is distributed naturally.
-Among the main contributions I mention:&lt;/p></description></item><item><title>On the foundations of constraint logic programming</title><link>/theses/on_the_foundations_of_constrai/</link><pubDate>Sat, 25 Jul 2026 15:04:42 +0200</pubDate><guid>/theses/on_the_foundations_of_constrai/</guid><description>&lt;h3 id="author">Author&lt;/h3>
-&lt;p>Peter J. Stuckey&lt;/p>
-&lt;h3 id="school">School&lt;/h3>
-&lt;p>Department of Data Science and Artificial Intelligence&lt;/p>
-&lt;h3 id="supervisors">Supervisors&lt;/h3>
-&lt;p>Joxan Jaffar&lt;/p>
-&lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;p>Stuckey., Peter J. (2020). On the foundations of constraint logic programming. Monash University. Thesis. &lt;a href="https://doi.org/10.26180/14972436.v1">https://doi.org/10.26180/14972436.v1&lt;/a>&lt;/p>
-&lt;h3 id="graduated">Graduated&lt;/h3>
-&lt;p>Thursday, December 24, 1987 - 12:00&lt;/p>
-&lt;h3 id="link-to-full-text">Link to full text&lt;/h3>
-&lt;p>&lt;a href="https://doi.org/10.26180/14972436.v1">https://doi.org/10.26180/14972436.v1&lt;/a>&lt;/p></description></item><item><title>Constrained Counting and Sampling: Bridging the Gap between Theory and Practice</title><link>/theses/constrained_counting_and_sampl/</link><pubDate>Sat, 25 Jul 2026 15:04:38 +0200</pubDate><guid>/theses/constrained_counting_and_sampl/</guid><description>&lt;h3 id="author">Author&lt;/h3>
-&lt;p>Kuldeep S. Meel&lt;/p>
-&lt;h3 id="school">School&lt;/h3>
-&lt;p>Rice University&lt;/p>
-&lt;h3 id="supervisors">Supervisors&lt;/h3>
-&lt;p>Supratik Chakraborty&lt;/p>
-&lt;p>Moshe Y. Vardi&lt;/p>
-&lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;p>Constrained counting and sampling are two fundamental problems in Computer
-Science with numerous applications, including network reliability, privacy, probabilistic reasoning, and constrained-random verification. In constrained counting, the task
-is to compute the total weight, subject to a given weighting function, of the set of
-solutions of the given constraints. In constrained sampling, the task is to sample randomly, subject to a given weighting function, from the set of solutions to a set of given
-constraints. Consequently, constrained counting and sampling have been subject to
-intense theoretical and empirical investigations over the years. Prior work, however,
-offered either heuristic techniques with poor guarantees of accuracy or approaches
-with proven guarantees but poor performance in practice.
-In this thesis, we introduce a novel hashing-based algorithmic framework for constrained sampling and counting that combines the classical algorithmic technique of
-universal hashing with the dramatic progress made in combinatorial reasoning tools,
-in particular, SAT and SMT, over the past two decades. The resulting frameworks for
-counting ( ApproxMC2) and sampling (UniGen) can handle formulas with up to million
-variables representing a significant boost up from the prior state of the art tools’ capability to handle few hundreds of variables. If the initial set of constraints is expressed as Disjunctive Normal Form (DNF), ApproxMC2 is the only known Fully Polynomial
-Randomized Approximation Scheme (FPRAS) that does not involve Monte Carlo
-steps. By exploiting the connection between definability of formulas and variance
-of the distribution of solutions in a cell defined by 3-universal hash functions, we
-introduced an algorithmic technique, MIS, that reduced the size of XOR constraints
-employed in the underlying universal hash functions by as much as two orders of
-magnitude.
-We demonstrate the utility of the above techniques on real-world applications
-including probabilistic inference, design verification and estimating the reliability of
-critical infrastructure networks during natural disasters. The high parallelizability of
-our approach opens up new directions for development of artificial intelligence tools
-that can effectively leverage high-performance computing resources.&lt;/p></description></item><item><title>Constraint-Based Register Allocation and Instruction Scheduling</title><link>/theses/constraint-based_register_allo/</link><pubDate>Sat, 25 Jul 2026 15:04:37 +0200</pubDate><guid>/theses/constraint-based_register_allo/</guid><description>&lt;h3 id="author">Author&lt;/h3>
-&lt;p>Roberto Castañeda Lozano&lt;/p>
-&lt;h3 id="school">School&lt;/h3>
-&lt;p>KTH Royal Institute of Technology, Sweden&lt;/p>
-&lt;h3 id="supervisors">Supervisors&lt;/h3>
-&lt;p>Christian Schulte&lt;/p>
-&lt;p>Mats Carlsson&lt;/p>
-&lt;p>Ingo Sander&lt;/p>
-&lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;p>Register allocation (mapping variables to processor registers or memory) and instruction scheduling (reordering instructions to improve latency or throughput) are central compiler problems. This dissertation proposes a combinatorial optimization approach to these problems that delivers optimal solutions according to a model, captures trade-offs between conflicting decisions, accommodates processor-specific features, and handles different optimization criteria.&lt;/p></description></item><item><title>Harnessing Tractability in Constraint Satisfaction Problems</title><link>/theses/harnessing_tractability_in_con/</link><pubDate>Sat, 25 Jul 2026 15:04:37 +0200</pubDate><guid>/theses/harnessing_tractability_in_con/</guid><description>&lt;h3 id="author">Author&lt;/h3>
-&lt;p>Clément Carbonnel&lt;/p>
-&lt;h3 id="school">School&lt;/h3>
-&lt;p>INP Toulouse&lt;/p>
-&lt;h3 id="supervisors">Supervisors&lt;/h3>
-&lt;p>Emmanuel Hebrard&lt;/p>
-&lt;p>Martin C. Cooper&lt;/p>
-&lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;p>The generality of CSP and its connections to logic, universal algebra and graph theory have drawn considerable attention from the complexity theory community. In particular, a rich theory has been developed to study how restricting the catalog of available relations affects the complexity of CSP. This line of research has produced a series of increasingly sophisticated polynomial-time algorithms that solve CSPs over a variety of constraint languages; unfortunately, this wealth of results on tractable subproblems of CSP has seen little to no practical use so far. This dissertation discusses the technical obstacles that prevent these theoretical results from being relevant to practical solving, and hints at possible approaches to overcome them.&lt;/p></description></item><item><title>Improving combinatorial optimization</title><link>/theses/improving_combinatorial_optimi/</link><pubDate>Sat, 25 Jul 2026 15:04:37 +0200</pubDate><guid>/theses/improving_combinatorial_optimi/</guid><description>&lt;h3 id="author">Author&lt;/h3>
-&lt;p>Geoffrey G Chu&lt;/p>
-&lt;h3 id="school">School&lt;/h3>
-&lt;p>The University of Melbourne, Australia&lt;/p>
-&lt;h3 id="supervisors">Supervisors&lt;/h3>
-&lt;p>Peter J Stuckey&lt;/p>
-&lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;p>Combinatorial Optimization is an important area of computer science that has many theoretical and practical applications. In this thesis, we present important contributions to several different areas of combinatorial optimization, including nogood learning, symmetry breaking, dominance, relaxations and parallelization.&lt;/p>
-&lt;p>We develop a new nogood learning technique based on constraint projection that allows us to exploit subproblem dominances that arise when two different search paths lead to subproblems which are identical on the remaining unlabeled variables. On appropriate problems, this nogood learning technique provides orders of magnitude speedup compared to a base solver which does not learn nogoods.&lt;/p></description></item><item><title>Hybrid Optimization of Vehicle Routing Problems</title><link>/theses/hybrid_optimization_of_vehicle/</link><pubDate>Sat, 25 Jul 2026 15:04:36 +0200</pubDate><guid>/theses/hybrid_optimization_of_vehicle/</guid><description>&lt;h3 id="author">Author&lt;/h3>
-&lt;p>Edward Lam&lt;/p>
-&lt;h3 id="school">School&lt;/h3>
-&lt;p>University of Melbourne&lt;/p>
-&lt;h3 id="supervisors">Supervisors&lt;/h3>
-&lt;p>Pascal Van Hentenryck&lt;/p>
-&lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;p>Vehicle routing problems are combinatorial optimization problems that aspire to design vehicle routes that minimize some measure of cost, such as the total distance traveled or the time at which the last vehicle returns to a depot, while adhering to various restrictions. Vehicle routing problems are of profound interest in both academia and industry because they are opportunities to study graph structures and algorithms, and because they underpin practical applications in a multitude of industries, but notably, the transportation and logistics industries. This dissertation presents two applications relevant to industry and develops a fully hybrid method for solving a classical vehicle routing problem.&lt;/p></description></item><item><title>Solving Hard Subgraph Problems in Parallel</title><link>/theses/solving_hard_subgraph_problems/</link><pubDate>Sat, 25 Jul 2026 15:04:36 +0200</pubDate><guid>/theses/solving_hard_subgraph_problems/</guid><description>&lt;h3 id="author">Author&lt;/h3>
-&lt;p>Ciaran McCreesh&lt;/p>
-&lt;h3 id="school">School&lt;/h3>
-&lt;p>School of Computing Science&lt;/p>
-&lt;h3 id="supervisors">Supervisors&lt;/h3>
-&lt;p>Patrick Prosser&lt;/p>
-&lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;p>This thesis improves the state of the art in exact, practical algorithms for finding subgraphs. We study maximum clique, subgraph isomorphism, and maximum common subgraph problems. These are widely applicable: within computing science, subgraph problems arise in document clustering, computer vision, the design of communication protocols, model checking, compiler code generation, malware detection, cryptography, and robotics; beyond, applications occur in biochemistry, electrical engineering, mathematics, law enforcement, fraud detection, fault diagnosis, manufacturing, and sociology. We therefore consider both the ``pure&amp;rsquo;&amp;rsquo; forms of these problems, and variants with labels and other domain-specific constraints.&lt;/p></description></item><item><title>Solving Optimization Problems via Maximum Satisfiability : Encodings and Re-Encodings</title><link>/theses/solving_optimization_problems_/</link><pubDate>Sat, 25 Jul 2026 15:04:36 +0200</pubDate><guid>/theses/solving_optimization_problems_/</guid><description>&lt;h3 id="author">Author&lt;/h3>
-&lt;p>Jeremias Berg&lt;/p>
-&lt;h3 id="school">School&lt;/h3>
-&lt;p>University of Helsinki&lt;/p>
-&lt;h3 id="supervisors">Supervisors&lt;/h3>
-&lt;p>Associate Professor Matti Järvisalo&lt;/p>
-&lt;p>Professor Petri Myllymäki&lt;/p>
-&lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;p>NP-hard combinatorial optimization problems are commonly encountered in numerous different domains. As such efficient methods for solving instances of such problems can save time, money, and other resources in several different applications. This thesis investigates exact declarative approaches to combinatorial optimization within the maximum satisfiability (MaxSAT) paradigm, using propositional logic as the constraint language of choice. Specifically we contribute to both MaxSAT solving and encoding techniques.&lt;/p></description></item><item><title>Optimization Methods Based on Decision Diagrams for Constraint Programming, AI Planning, and Mathematical Programming</title><link>/theses/optimization_methods_based_on_/</link><pubDate>Sat, 25 Jul 2026 15:04:35 +0200</pubDate><guid>/theses/optimization_methods_based_on_/</guid><description>&lt;h3 id="author">Author&lt;/h3>
-&lt;p>Margarita Castro&lt;/p>
-&lt;h3 id="school">School&lt;/h3>
-&lt;p>University of Toronto&lt;/p>
-&lt;h3 id="supervisors">Supervisors&lt;/h3>
-&lt;p>J. Christopher Beck&lt;/p>
-&lt;p>Andre A. Cire&lt;/p>
-&lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;p>Decision diagrams (DDs) are graphical structures that can be used to solve discrete optimization problems by representing the set of feasible solutions as paths in a graph. This graphical encoding of the feasibility set can represent complex combinatorial structures and is the foundation of several novel optimization techniques. Due to their flexibility, DDs have become an attractive optimization tool for researchers in different fields, including operations research and computer science.&lt;/p></description></item><item><title>Reset your password</title><link>/user/password/</link><pubDate>Sat, 25 Jul 2026 15:04:35 +0200</pubDate><guid>/user/password/</guid><description>&lt;p>Username or email address&lt;/p>
+video in progress&lt;/p></description></item><item><title>Reset your password</title><link>/user/password/</link><pubDate>Sat, 25 Jul 2026 15:04:35 +0200</pubDate><guid>/user/password/</guid><description>&lt;p>Username or email address&lt;/p>
 &lt;p>Password reset instructions will be sent to your registered email address.&lt;/p>
 &lt;p>CAPTCHA&lt;/p>
-&lt;p>This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.&lt;/p></description></item><item><title>The extensional constraint</title><link>/theses/the_extensional_constraint/</link><pubDate>Sat, 25 Jul 2026 15:04:35 +0200</pubDate><guid>/theses/the_extensional_constraint/</guid><description>&lt;h3 id="author">Author&lt;/h3>
-&lt;p>Hélène Verhaeghe&lt;/p>
-&lt;h3 id="school">School&lt;/h3>
-&lt;p>UCLouvain, Louvain-la-Neuve, Belgium&lt;/p>
-&lt;h3 id="supervisors">Supervisors&lt;/h3>
-&lt;p>Prof. Pierre Schaus&lt;/p>
-&lt;p>Prof. Christophe Lecoutre&lt;/p>
-&lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;p>Extensional constraints are crucial in Constraint Programming. They represent allowed combinations of values for a subset of variables (the scope of the constraint) using extensional representation forms such as tables (lists of tuples of constraint solutions) or MDDs (layered acyclic directed graphs where each path represents a constraint solution). Such extensional forms allow the modelization of virtually any kind of constraints.
-This type of constraint is among the first ones available in constraint solvers. A lot of progress has been made since the original design of the first propagator of table constraints: advanced use of supports, simple tabular reduction, bitwise computations, reseting opperations, table compression, and MDDs. The most recent algorithm prior to this thesis is Compact-Table. It advantageously uses a data structure called reversible sparse bitsets to speed up the computations.
-The work in this thesis initiates with Compact-Table. The goal is to extend it to handle other kinds of extensional representation. The first addressed representation is about compressed tables, i.e. tables containing tuples wich do not only contain single values but also simple unary (∗, != v, ≤ v, ≥ v, ∈ S, !∈ S) or binary (= x + v, != x + v, ≤ x + v, ≥ x + v) restrictions. One such compressed tuple allows representing several classical ones. This led to the CT ∗ and CT bs algorithms, handling respectively short and basic smart tables. The second addressed issue concerns negative tables, i.e. tables listing forbidden combinations of values. This results in the CT neg and CT ∗ neg algorithms, handling respectively negative and negative short tables. The third and last adaptation addresses diagram structures, i.e. graphs such as MDDs or other layered graphical structure. This led to the CD and CD bs algorithms, handling respectively diagrams and basic smart diagrams.
-Being able to use such diversity of representation helps to counter-balance the main drawback of classical table representations, which is their potentially exponential growth in size. Compressed tables, negative tables, and diagrams help reduce the memory consumption (storage size) required to store an equivalent representation.&lt;/p></description></item><item><title>2024 Quarterly Report 1</title><link>/about/committee/decisions/report_2024_q1/</link><pubDate>Sat, 25 Jul 2026 15:04:34 +0200</pubDate><guid>/about/committee/decisions/report_2024_q1/</guid><description>&lt;p>With the CP paper deadline now past, this quarterly report brings you updates about other tracks in the CP conference: a call for tutorials and doctoral program submissions, as well as the call for ACP Award nominations.&lt;/p>
+&lt;p>This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.&lt;/p></description></item><item><title>2024 Quarterly Report 1</title><link>/about/committee/decisions/report_2024_q1/</link><pubDate>Sat, 25 Jul 2026 15:04:34 +0200</pubDate><guid>/about/committee/decisions/report_2024_q1/</guid><description>&lt;p>With the CP paper deadline now past, this quarterly report brings you updates about other tracks in the CP conference: a call for tutorials and doctoral program submissions, as well as the call for ACP Award nominations.&lt;/p>
 &lt;h2 id="acp1-cp-2024-in-girona-spain">ACP.1 CP 2024 in Girona, Spain.&lt;/h2>
 &lt;p>The 30th edition of the conference will take place from 2 to 6 September 2024 (mark your calendars&amp;hellip;) in the lovely Girona in Catalonia, Spain.&lt;/p>
 &lt;p>Besides a main track, there will be 3 specialised tracks: Application track, CP and Machine Learning track, and CP and Quantum Computing track.&lt;/p></description></item><item><title>2024 Quarterly Report 2</title><link>/about/committee/decisions/report_2024_q2/</link><pubDate>Sat, 25 Jul 2026 15:04:34 +0200</pubDate><guid>/about/committee/decisions/report_2024_q2/</guid><description>&lt;p>The past 3 months have been busy months for CP researchers, with the CP paper notification (accepted papers at &lt;a href="https://cp2024.a4cp.org/accepted_papers.html">https://cp2024.a4cp.org/accepted_papers.html&lt;/a>), with the CP workshops calling for submissions and sending out notifications (workshop overview: &lt;a href="https://cp2024.a4cp.org/workshops.html">https://cp2024.a4cp.org/workshops.html&lt;/a>) and more. This has been announced on the CP2024 website &lt;a href="https://cp2024.a4cp.org/">https://cp2024.a4cp.org/&lt;/a> and its socials, as well as the constraints google group.&lt;/p>
@@ -1143,60 +823,322 @@ Number of Votes: 755&lt;/p></description></item><item><title>2004 Election Resul
 &lt;p>The ACP Executive Committee (EC) holds the annual International Conference on Principles and Practice of Constraint Programming (CP). If you are interested in organising a future CP conference, then you need to make a proposal to the Conference Coordinator of the EC (&lt;a href="mailto:helene.verhaeghe@uclouvain.be">helene.verhaeghe@uclouvain.be&lt;/a>). A proposal consists of volunteering to be Conference Chairs (CC) of the conference and to be responsible for the budget and local arrangements in the proposed city.&lt;/p></description></item><item><title>Welcome to the ACP</title><link>/home/</link><pubDate>Sat, 25 Jul 2026 15:03:14 +0200</pubDate><guid>/home/</guid><description>&lt;p>The Association for Constraint Programming aims at promoting constraint programming in every aspect of the scientific world, by encouraging its theoretical and practical developments, its teachning in the academic institutions, its adoption in the industrial world, and its use in the the application fields.&lt;/p>
 &lt;p>&lt;a href="/about">More about the ACP&lt;/a>&lt;/p>
 &lt;h2 id="about-constraint-programming">About Constraint Programming&lt;/h2>
-&lt;p>We provide a number of resources for you to explore the history and the state of the art of all aspects of computing with constraints. Read about &lt;a href="/cp/success-stories">Success Stories&lt;/a> of our field. The &lt;a href="/theses">PhD thesis archive&lt;/a> is an initiative to collect and archive PhD dissertations from the field of Constraint Programming. And the &lt;a href="/about/committee/decisions">Quarterly Reports&lt;/a> of the ACP executive committee.&lt;/p></description></item><item><title>Decision Diagrams for Optimization</title><link>/theses/decision_diagrams_for_optimiza/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/decision_diagrams_for_optimiza/</guid><description>&lt;h3 id="author">Author&lt;/h3>
-&lt;p>Andre Augusto Cire&lt;/p>
-&lt;h3 id="school">School&lt;/h3>
-&lt;p>Carnegie Mellon University&lt;/p>
-&lt;h3 id="supervisors">Supervisors&lt;/h3>
-&lt;p>John Hooker&lt;/p>
-&lt;p>Willem-Jan van Hoeve&lt;/p>
+&lt;p>We provide a number of resources for you to explore the history and the state of the art of all aspects of computing with constraints. Read about &lt;a href="/cp/success-stories">Success Stories&lt;/a> of our field. The &lt;a href="/theses">PhD thesis archive&lt;/a> is an initiative to collect and archive PhD dissertations from the field of Constraint Programming. And the &lt;a href="/about/committee/decisions">Quarterly Reports&lt;/a> of the ACP executive committee.&lt;/p></description></item><item><title>Asynchronously solving problems with privacy requirements</title><link>/theses/2002_mariuscalin_silaghi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/2002_mariuscalin_silaghi/</guid><description>&lt;p>&lt;strong>Author:&lt;/strong> Marius-Calin Silaghi&lt;br>
+&lt;strong>School:&lt;/strong> Swiss Federal Institute of Technology (EPFL)&lt;br>
+&lt;strong>Supervisors:&lt;/strong> Boi Faltings&lt;br>
+&lt;strong>Graduated:&lt;/strong> January 06, 2002&lt;br>
+&lt;strong>Link to full text:&lt;/strong> &lt;a href="https://cs.fit.edu/~msilaghi/teza/">Asynchronously solving problems with privacy requirements&lt;/a>&lt;/p>
 &lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;p>Decision diagrams are compact graphical representations of Boolean functions originally introduced for applications in circuit design, simulation, and formal verification. Recently, they have been considered for a variety of purposes in optimization and operations research. These include facet enumeration in integer programming, maximum flow computation in large-scale networks, solution counting in combinatorics, and learning in genetic programming techniques.&lt;/p></description></item><item><title>Efficient Algorithms for Strong Local Consistencies and Adaptive Techniques in Constraint Satisfaction Problems</title><link>/theses/efficient_algorithms_for_stron/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/efficient_algorithms_for_stron/</guid><description>&lt;h3 id="author">Author&lt;/h3>
-&lt;p>Anastasia Paparrizou&lt;/p>
-&lt;h3 id="school">School&lt;/h3>
-&lt;p>University of Western Macedonia, Greece&lt;/p>
-&lt;h3 id="supervisors">Supervisors&lt;/h3>
-&lt;p>Kostas Stergiou&lt;/p>
+&lt;p>Asynchronous search techniques for distributed satisfaction problems are among the scientific challenges of Distributed Artificial Intelligence. They are useful in applications like negotiations (Generalized English Auctions), distributed meeting scheduling with private constraints, distributed
+configuration with secret know-how.
+Asynchronous search also has an important theoretic value, defining generic techniques whose
+properties, once proven, apply to a large number of not only distributed but also centralized old
+and new algorithms. A convincing example is the technique I propose for using backtracking
+nogoods in consistency (Section 7.3.1), technique that can be straightforwardly applied to classic
+centralized versions of backtracking (as I show in Section 5.2) with improvements of efficiency.
+Despite the continuous effort of the last ten years, several important issues remained open
+until now. This thesis describes several advances that allow the agents to get more opportunities
+to communicate. It also proposes new frameworks for distributed constraint satisfaction, and
+strategies for agents. The main focus is on asynchronous complete search with polynomial space
+requirements in the size of the global problem, where the global problem is distributed naturally.
+Among the main contributions I mention:&lt;/p></description></item><item><title>Asynchronously solving problems with privacy requirements</title><link>/theses/2002_mariuscalin_silaghi_1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/2002_mariuscalin_silaghi_1/</guid><description>&lt;p>&lt;strong>Author:&lt;/strong> Marius-Calin Silaghi&lt;br>
+&lt;strong>School:&lt;/strong> Swiss Federal Institute of Technology (EPFL)&lt;br>
+&lt;strong>Supervisors:&lt;/strong> Boi Faltings&lt;br>
+&lt;strong>Graduated:&lt;/strong> August 02, 2002&lt;br>
+&lt;strong>Link to full text:&lt;/strong> &lt;a href="http://cs.fit.edu/~msilaghi/teza/">Asynchronously solving problems with privacy requirements&lt;/a>&lt;/p>
 &lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;p>Constraint Programming (CP) is a successful technology for solving a wide range of problems in business and industry which require the satisfaction of a set of complex constraints. Examples include product configuration, resource allocation, transportation, and scheduling. As the simultaneous satisfaction of different constraints is intractable in general, problems can become very difficult to solve as their size increases. CP has thus developed various techniques to tackle this inherent problem. Enforcing a local consistency property is one of the most important such techniques. Bounds Consistency and Arc Consistency are the two most widely studied and used local consistencies in CP solvers. While there exist stronger local consistency (SLC) properties, their usage is limited due to their prohibitive cost.&lt;/p></description></item><item><title>First International CSPlib Sprint Event, September 5th, 2015, UCC Cork, Ireland</title><link>/news/first_international_csplib_spr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/news/first_international_csplib_spr/</guid><description>&lt;h2 id="call-for-participation">Call for Participation&lt;/h2>
-&lt;p>On the Saturday after the CP 2015 conference (&lt;a href="http://booleconferences.ucc.ie/cp2015)">http://booleconferences.ucc.ie/cp2015)&lt;/a>, we will organise a Sprint event to make improvements to the CSPlib problem library (&lt;a href="http://csplib.org">http://csplib.org&lt;/a>). This event is an informal gathering of interested researchers and practitioners. We will add new, interesting problems, add new solutions to existing problem instances, and work on improving references and links in the library. This is the perfect way to end the trip to Cork for the CP conference and serve as an excellent starting point to contributing to a valuable resource for the CP community.&lt;/p></description></item><item><title>Hybrid Methods for Resource Allocation and Scheduling Problems in Deterministic and Stochastic Environments</title><link>/theses/hybrid_methods_for_resource_al/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/hybrid_methods_for_resource_al/</guid><description>&lt;h3 id="author">Author&lt;/h3>
-&lt;p>Michele Lombardi&lt;/p>
-&lt;h3 id="school">School&lt;/h3>
-&lt;p>University of Bologna&lt;/p>
-&lt;h3 id="supervisors">Supervisors&lt;/h3>
-&lt;p>Michela Milano&lt;/p>
+&lt;p>Asynchronous search techniques for distributed satisfaction problems
+are among the scientific challenges of Distributed Artificial
+Intelligence. They are useful in applications like negotiations
+(Generalized English Auctions), distributed meeting scheduling with
+private constraints, distributed configuration with secret know-how.
+Asynchronous search also has an important theoretic value, defining
+generic techniques whose properties, once
+proven, apply to a large number of not only distributed but also
+centralized old and new algorithms. A convincing example is the technique I
+propose for using backtracking nogoods in consistency
+(Section~\ref{sec:AMC:dmac-abt}), technique that can be
+straightforwardly applied to classic centralized versions of backtracking (as
+I show in Section~\ref{sec:DPF:FBT}) with improvements of
+efficiency.
+Despite the continuous effort of the last ten years, several important
+issues remained open until now. This thesis describes several
+advances that allow the agents to get more opportunities to
+communicate. It also proposes new frameworks for
+distributed constraint satisfaction, and strategies for agents. The
+main focus is on asynchronous complete search with polynomial space
+requirements in the size of the global problem, where the global
+problem is distributed naturally.
+Among the main contributions I mention:
+* Local consistency is a technique bringing gains that are exponential
+in the size of the problem, by deposing an effort that is exponential
+in the size of the used predicates (constraints). The effort can
+therefore be polynomial in the size of the global problem. {\bf Exponential
+gain with polynomial cost} made local consistency the most important
+technique in constraint satisfaction where it was shown that any
+opportunity must be used for exploiting it ({\em
+consistency maintenance}). I generalize the concept of centralized
+consistency maintenance in a way that makes it applicable to
+asynchronous techniques. This is the first technique allowing for
+consistency maintenance in asynchronous search and is very efficient (Chapter~\ref{chap:AMC}).
+* I noticed that the use of CSPs techniques for numeric problems over
+\R{} was possible by something that can be described as: {\em letting
+the domain splits have existential meaning rather than the universal
+meaning in classical backtracking}. Existing asynchronous search
+protocols supported only proposals with universal quantifiers
+(e.g. {\bf require}($\forall x\in{1})$). I modify and generalize
+existing asynchronous search protocols to support proposals with
+existential quantifiers (e.g. {\bf require}($\exists
+x\in{[1.5,10^5]\cup{0,1}}$)). This efficient technique is the
+first to allow a {\bf proper use of intervals} in proposals and is
+a first step I took for extending the applicability of asynchronous
+search to Numeric CSPs. Since this idea came when I tried to integrate
+in ABT an aggregation technique described in~\cite{rfia00}, the
+first protocol with the desired property is called Asynchronous
+Aggregation Search (see Chapter~\ref{chap:AAS}).
+* Existing algorithms enforced a static priority
+on agents. This is a drawback. It entangles agents to {\em verify
+conflicts in Generalized English Auctions} (Chapter~\ref{chap:ASS}), for
+defending themselves from unfair competition. One only knew to remove
+that constraint at the expense of requiring an unbounded computer
+memory (e.g. RAM). This is infeasible and leads to unwarranted
+protocols. I designed the first solving protocol that {\bf allows the
+needed dynamic reordering} and still has {\bf a guaranteed
+termination} with polynomially bounded computer space
+requirements. Moreover, the designed technique is very general as
+it can introduce all important reordering heuristics used for
+efficiency in centralized techniques (see Chapter~\ref{chap:ABTR}).
+* Besides the aforementioned reordering technique, I propose a suite of
+other techniques for dynamic reordering with other types of
+heuristics and still offering guaranteed termination with polynomial
+space requirements: Reordering with increasing delay restarts
+(Section~\ref{sec:ABTR:restarts}), and Finite number of
+reorderings. These two techniques are simple but allow only simplistic
+reordering heuristics. Dynamic Partial Order is discussed in
+Section~\ref{sec:ABTR:poas}.
+* Proposals with existential quantifiers are not sufficient for enabling
+application of search to numeric problems. The remaining requirement
+is that {\em proposals must not be binding}. Actually, one of the powerful
+and general available centralized techniques for solving numeric
+problems is the one proposed in Section~\ref{sec:cDPF:uca6}. Domains
+are split recursively, and {\bf the same constraints are recursively
+reverified} until complete satisfaction or an acceptable resolution is
+obtained.
+* Asynchronous techniques requested an agent only once its proposal. The
+proposals were therefore necessarily binding. This is incompatible
+with the practice required for numeric problems, as mentioned at the
+previous item. After understanding this problem, I proposed a
+modeling technique called Replica-based search. Several replicas
+of the same agent are asked proposals at different levels of
+abstractions. As a result, {\bf proposals of the replicas are not
+binding}. They can be refused by subsequent replicas (e.g. After an
+agent sends {\bf require}($\exists x\in{[1.5,10^5]\cup{0,1}}$), it
+can be more restrictive in a subsequent replica, {\bf
+require}($\exists x\in{[15,1000]}$), and later can even abandon
+completely its proposal, {\bf
+require}($x\not\in{[1.5,10^5]\cup{0,1}}$)). This technique,
+described in Chapter~\ref{chap:RDisCSP} closes the sequence of ideas
+required for developing asynchronous techniques for numeric problems
+over \R.
+* One of the main motivations for distributed algorithms is the
+enforcement of privacy. A framework for modeling and quantifying
+privacy loss and a {\bf theoretic comparison on the power of different
+protocols in saving privacy} are proposed in
+Chapter~\ref{chap:Privacy}.
+* Hewlett-Packard, learning that the ink-jet printer is a competitor for
+their main product, the laser printer, decided to also develop ink-jet
+printers in parallel. With the same principle in mind, I developed and
+analyzed an expensive secure protocol (SCSPS), proposed in
+Chapter~\ref{chap:Secure}. I also developed and analyzed {a set of
+cryptographic protocols for both discrete and numeric distributed
+satisfaction problems} (Annex~\ref{chap:Test}). For the work described
+in Annex~\ref{chap:Test}, another important contribution
+is the discovery of the
+feebleness of that type of techniques, the ``S-attacks&amp;rsquo;&amp;rsquo;.
+The obtained cryptographic protocols have some drawbacks such that a
+trade-off remains between the competing techniques. Secure protocols
+and distributed algorithms will continue to coexist for a while, as
+laser printers and ink-jet printers.
+* Several distributed optimization techniques have been developed so far. Those
+techniques are not general and abstract enough for allowing extensions
+like consistency maintenance and reordering. The notion of cost was
+unclear. I {\bf introduce the notion of cost in nogoods, obtaining a
+general stand-alone communication atom}. In
+Chapter~\ref{chap:Optimization} I describe a generalization of all the
+existing distributed satisfaction and optimization techniques. This
+generalization allows the introduction of consistency maintenance,
+reordering, etc. in distributed optimization.
+* Negotiations are defined by the fact that the participants yield from
+their constraints to reach common solutions. This is technically
+called: constraint relaxation. No relaxation technique existed for private
+problems. I propose such a technique for private constraints
+(Section~\ref{sec:GEA:CR}). A classical dualism for CSPs defines a
+standard transfer between privacy on constraints and privacy on
+domains (see Section~\ref{sec:domain-constraints} and
+Chapter~\ref{chap:DisGCSP}). We have also defined a primal version of
+this technique.
+&lt;a href="https://academynet.com/ebeoshop/sneakers">SNEAKERS&lt;/a>&lt;/p></description></item><item><title>Constrained Counting and Sampling: Bridging the Gap between Theory and Practice</title><link>/theses/2017_kuldeep_s_meel/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/2017_kuldeep_s_meel/</guid><description>&lt;p>&lt;strong>Author:&lt;/strong> Kuldeep S. Meel&lt;br>
+&lt;strong>School:&lt;/strong> Rice University&lt;br>
+&lt;strong>Supervisors:&lt;/strong> Supratik Chakraborty, Moshe Y. Vardi&lt;br>
+&lt;strong>Graduated:&lt;/strong> December 31, 2017&lt;/p>
+&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p>Constrained counting and sampling are two fundamental problems in Computer
+Science with numerous applications, including network reliability, privacy, probabilistic reasoning, and constrained-random verification. In constrained counting, the task
+is to compute the total weight, subject to a given weighting function, of the set of
+solutions of the given constraints. In constrained sampling, the task is to sample randomly, subject to a given weighting function, from the set of solutions to a set of given
+constraints. Consequently, constrained counting and sampling have been subject to
+intense theoretical and empirical investigations over the years. Prior work, however,
+offered either heuristic techniques with poor guarantees of accuracy or approaches
+with proven guarantees but poor performance in practice.
+In this thesis, we introduce a novel hashing-based algorithmic framework for constrained sampling and counting that combines the classical algorithmic technique of
+universal hashing with the dramatic progress made in combinatorial reasoning tools,
+in particular, SAT and SMT, over the past two decades. The resulting frameworks for
+counting ( ApproxMC2) and sampling (UniGen) can handle formulas with up to million
+variables representing a significant boost up from the prior state of the art tools’ capability to handle few hundreds of variables. If the initial set of constraints is expressed as Disjunctive Normal Form (DNF), ApproxMC2 is the only known Fully Polynomial
+Randomized Approximation Scheme (FPRAS) that does not involve Monte Carlo
+steps. By exploiting the connection between definability of formulas and variance
+of the distribution of solutions in a cell defined by 3-universal hash functions, we
+introduced an algorithmic technique, MIS, that reduced the size of XOR constraints
+employed in the underlying universal hash functions by as much as two orders of
+magnitude.
+We demonstrate the utility of the above techniques on real-world applications
+including probabilistic inference, design verification and estimating the reliability of
+critical infrastructure networks during natural disasters. The high parallelizability of
+our approach opens up new directions for development of artificial intelligence tools
+that can effectively leverage high-performance computing resources.&lt;/p></description></item><item><title>Constraint Programming for Optimization Under Uncertainty in Stochastic Inventory Control</title><link>/theses/2008_roberto_rossi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/2008_roberto_rossi/</guid><description>&lt;p>&lt;strong>Author:&lt;/strong> Roberto Rossi&lt;br>
+&lt;strong>School:&lt;/strong> Business School&lt;br>
+&lt;strong>Supervisors:&lt;/strong> S. Armagan Tarim, Brahim Hnich, Steven Prestwich&lt;br>
+&lt;strong>Graduated:&lt;/strong> December 11, 2008&lt;br>
+&lt;strong>Link to full text:&lt;/strong> &lt;a href="http://library.ucc.ie/record=b1839245">Constraint Programming for Optimization Under Uncertainty in Stochastic Invento…&lt;/a>&lt;/p>
+&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p>Constraint Programming (CP) is a programming paradigm where relations between variables can be stated in the form of constraints. CP features discrete domains and global constraints. Global constraints capture interesting substructures of a problem, encapsulate dedicated inference algorithms based on feasibility and/or optimality reasoning, and provide information to the search process on the most viable course. Stochastic Constraint Programming (SCP) is a novel framework that generalizes CP stochastic problems, allowing both to model and solve this class of problems by using any available existing CP solver. Although this framework proves to be extremely flexible in terms of modelling power, its current implementation does not scale well. In order to enhance this framework, in this dissertation we propose a general extension for SCP: global chance-constraints. In contrast to global constraints, which represent relations among a non-fixed number of decision variables, global chance-constraints represent relations among a non-fixed number of decision variables and stochastic variables. Nevertheless, as global constraints do, global chance-constraints encapsulate dedicated inference algorithms based on feasibility and/or optimality reasoning and may provide information to the search process. We call optimization-oriented global chance-constraints those global chance-constraints performing optimality reasoning. We applied global chance-constraints encapsulating dedicated inference algorithms based on feasibility and/or optimality reasoning to problems in the area of stochastic inventory control. Our computational experience shows that global chance-constraints let us model and solve to optimality problems that could not or could be only approximately solved by other existing approaches. It also shows that filtering based on optimality reasoning is extremely effective for this class of problems.&lt;/p></description></item><item><title>Constraint Propagation – Models, Techniques, Implementation</title><link>/theses/2009_guido_tack/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/2009_guido_tack/</guid><description>&lt;p>&lt;strong>Author:&lt;/strong> Guido Tack&lt;br>
+&lt;strong>School:&lt;/strong> Saarland University, Germany&lt;br>
+&lt;strong>Supervisors:&lt;/strong> Gert Smolka, Christian Schulte&lt;br>
+&lt;strong>Graduated:&lt;/strong> January 29, 2009&lt;/p>
+&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p>This dissertation presents the design of a propagation-based constraint solver. The design is based on models that span several levels of abstraction, ranging from a mathematical foundation, to a high-level implementation architecture, to concrete data structures and algorithms. This principled design approach results in a well-understood, correct, modular, and efficient implementation.&lt;/p>
+&lt;p>The core of the developed architecture is the propagation kernel. It provides the propagation infrastructure and is thus crucial for correctness and efficiency of the solver. Based on a mathematical model as well as a careful design of the employed algorithms and data structures, the presented architecture results in an efficient and domain-independent kernel. Constraints are realized by propagators, and implementing a propagator is a challenging, error-prone, and time-consuming task. A practically useful solver must however provide a comprehensive propagator library. This dissertation introduces two techniques for automatically deriving correct and efficient propagators. Views generalize variables and are used to derive propagators from existing propagators. For constraints over set variables, propagators are derived from formal constraint specifications.&lt;/p></description></item><item><title>Constraint-Based Register Allocation and Instruction Scheduling</title><link>/theses/2018_roberto_casta%C3%B1eda_lozano/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/2018_roberto_casta%C3%B1eda_lozano/</guid><description>&lt;p>&lt;strong>Author:&lt;/strong> Roberto Castañeda Lozano&lt;br>
+&lt;strong>School:&lt;/strong> KTH Royal Institute of Technology, Sweden&lt;br>
+&lt;strong>Supervisors:&lt;/strong> Christian Schulte, Mats Carlsson, Ingo Sander&lt;br>
+&lt;strong>Graduated:&lt;/strong> September 03, 2018&lt;br>
+&lt;strong>Link to full text:&lt;/strong> &lt;a href="http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Akth%3Adiva-232192">Open Access in DiVA database&lt;/a>&lt;/p>
+&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p>Register allocation (mapping variables to processor registers or memory) and instruction scheduling (reordering instructions to improve latency or throughput) are central compiler problems. This dissertation proposes a combinatorial optimization approach to these problems that delivers optimal solutions according to a model, captures trade-offs between conflicting decisions, accommodates processor-specific features, and handles different optimization criteria.&lt;/p></description></item><item><title>Decision Diagrams for Optimization</title><link>/theses/2014_andre_augusto_cire/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/2014_andre_augusto_cire/</guid><description>&lt;p>&lt;strong>Author:&lt;/strong> Andre Augusto Cire&lt;br>
+&lt;strong>School:&lt;/strong> Carnegie Mellon University&lt;br>
+&lt;strong>Supervisors:&lt;/strong> John Hooker, Willem-Jan van Hoeve&lt;br>
+&lt;strong>Graduated:&lt;/strong> August 08, 2014&lt;/p>
+&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p>Decision diagrams are compact graphical representations of Boolean functions originally introduced for applications in circuit design, simulation, and formal verification. Recently, they have been considered for a variety of purposes in optimization and operations research. These include facet enumeration in integer programming, maximum flow computation in large-scale networks, solution counting in combinatorics, and learning in genetic programming techniques.&lt;/p></description></item><item><title>Efficient Algorithms for Strong Local Consistencies and Adaptive Techniques in Constraint Satisfaction Problems</title><link>/theses/2013_anastasia_paparrizou/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/2013_anastasia_paparrizou/</guid><description>&lt;p>&lt;strong>Author:&lt;/strong> Anastasia Paparrizou&lt;br>
+&lt;strong>School:&lt;/strong> University of Western Macedonia, Greece&lt;br>
+&lt;strong>Supervisors:&lt;/strong> Kostas Stergiou&lt;br>
+&lt;strong>Graduated:&lt;/strong> December 10, 2013&lt;/p>
+&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p>Constraint Programming (CP) is a successful technology for solving a wide range of problems in business and industry which require the satisfaction of a set of complex constraints. Examples include product configuration, resource allocation, transportation, and scheduling. As the simultaneous satisfaction of different constraints is intractable in general, problems can become very difficult to solve as their size increases. CP has thus developed various techniques to tackle this inherent problem. Enforcing a local consistency property is one of the most important such techniques. Bounds Consistency and Arc Consistency are the two most widely studied and used local consistencies in CP solvers. While there exist stronger local consistency (SLC) properties, their usage is limited due to their prohibitive cost.&lt;/p></description></item><item><title>Efficient Propagators for Global Constraints</title><link>/theses/2006_claudeguy_quimper/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/2006_claudeguy_quimper/</guid><description>&lt;p>&lt;strong>Author:&lt;/strong> Claude-Guy Quimper&lt;br>
+&lt;strong>School:&lt;/strong> University of Waterloo&lt;br>
+&lt;strong>Supervisors:&lt;/strong> Alejandro López-Ortiz&lt;br>
+&lt;strong>Graduated:&lt;/strong> October 21, 2006&lt;/p>
+&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p>We study in this thesis three well known global constraints. The All-Different constraint restricts a set of variables to be assigned to distinct values. The global cardinality constraint (GCC) ensures that a value v is assigned to at least l_v variables and to at most u_v variables among a set of given variables where l_v and u_v are non-negative integers such that l_v &amp;lt;= u_v. The Inter-Distance constraint ensures that all variables, among a set of variables x_1,&amp;hellip;, x_n, are pairwise distant from p, i.e. |x_i - x_j| &amp;gt;= p for all i != j. The All-Different constraint, the GCC, and the Inter-Distance constraint are largely used in scheduling problems. For instance, in scheduling problems where tasks with unit processing time compete for a single resource, we have an All-Different constraint on the starting time variables. When there are k resources, we have a GCC with l_v = 0 and u_v = k over all starting time variables. Finally, if tasks have processing time t and compete for a single resource, we have an Inter-Distance constraint with p = t over all starting time variables. We present new propagators for the \alldiff\ constraint, the \gcc, and the&lt;br>
+\interdistance\ constraint i.e., new filtering algorithms that reduce the search space according to these constraints. For a given consistency, our propagators outperform previous propagators both in practice and in theory. The gains in performance are achieved through judicious use of advanced data structures combined with novel results on the structural properties of the constraints.&lt;/p></description></item><item><title>First International CSPlib Sprint Event, September 5th, 2015, UCC Cork, Ireland</title><link>/news/first_international_csplib_spr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/news/first_international_csplib_spr/</guid><description>&lt;h2 id="call-for-participation">Call for Participation&lt;/h2>
+&lt;p>On the Saturday after the CP 2015 conference (&lt;a href="http://booleconferences.ucc.ie/cp2015)">http://booleconferences.ucc.ie/cp2015)&lt;/a>, we will organise a Sprint event to make improvements to the CSPlib problem library (&lt;a href="http://csplib.org">http://csplib.org&lt;/a>). This event is an informal gathering of interested researchers and practitioners. We will add new, interesting problems, add new solutions to existing problem instances, and work on improving references and links in the library. This is the perfect way to end the trip to Cork for the CP conference and serve as an excellent starting point to contributing to a valuable resource for the CP community.&lt;/p></description></item><item><title>Harnessing Tractability in Constraint Satisfaction Problems</title><link>/theses/2016_cl%C3%A9ment_carbonnel/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/2016_cl%C3%A9ment_carbonnel/</guid><description>&lt;p>&lt;strong>Author:&lt;/strong> Clément Carbonnel&lt;br>
+&lt;strong>School:&lt;/strong> INP Toulouse&lt;br>
+&lt;strong>Supervisors:&lt;/strong> Emmanuel Hebrard, Martin C. Cooper&lt;br>
+&lt;strong>Graduated:&lt;/strong> December 07, 2016&lt;/p>
+&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p>The generality of CSP and its connections to logic, universal algebra and graph theory have drawn considerable attention from the complexity theory community. In particular, a rich theory has been developed to study how restricting the catalog of available relations affects the complexity of CSP. This line of research has produced a series of increasingly sophisticated polynomial-time algorithms that solve CSPs over a variety of constraint languages; unfortunately, this wealth of results on tractable subproblems of CSP has seen little to no practical use so far. This dissertation discusses the technical obstacles that prevent these theoretical results from being relevant to practical solving, and hints at possible approaches to overcome them.&lt;/p></description></item><item><title>Hybrid Methods for Resource Allocation and Scheduling Problems in Deterministic and Stochastic Environments</title><link>/theses/2010_michele_lombardi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/2010_michele_lombardi/</guid><description>&lt;p>&lt;strong>Author:&lt;/strong> Michele Lombardi&lt;br>
+&lt;strong>School:&lt;/strong> University of Bologna&lt;br>
+&lt;strong>Supervisors:&lt;/strong> Michela Milano&lt;br>
+&lt;strong>Graduated:&lt;/strong> April 01, 2010&lt;/p>
 &lt;h3 id="abstract">Abstract&lt;/h3>
 &lt;p>This work presents exact, hybrid algorithms for mixed resource Allocation and Scheduling problems; in general terms, those consist into assigning over time finite capacity resources to a set of precedence connected activities.&lt;/p>
-&lt;p>The proposed methods have broad applicability, but are mainly motivated by applications in the field of Embedded System Design. In particular, high-performance embedded computing recently witnessed the shift from single CPU platforms with application-specific accelerators to programmable Multi Processor Systems-on-Chip (MPSoCs). Those allow higher flexibility, real time performance and low energy consumption, but the programmer must be able to effectively exploit the platform parallelism. This raises interest in the development of algorithmic techniques to be embedded in CAD tools; in particular, given a specific application and platform, the objective if to perform optimal allocation of hardware resources and to compute an execution schedule.&lt;/p></description></item><item><title>Instance-Specific Algorithm Configuration</title><link>/theses/instance-specific_algorithm_co/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/instance-specific_algorithm_co/</guid><description>&lt;h3 id="author">Author&lt;/h3>
-&lt;p>Yuri Malitsky&lt;/p>
-&lt;h3 id="school">School&lt;/h3>
-&lt;p>Brown University&lt;/p>
-&lt;h3 id="supervisors">Supervisors&lt;/h3>
-&lt;p>Meinolf Sellmann&lt;/p>
+&lt;p>The proposed methods have broad applicability, but are mainly motivated by applications in the field of Embedded System Design. In particular, high-performance embedded computing recently witnessed the shift from single CPU platforms with application-specific accelerators to programmable Multi Processor Systems-on-Chip (MPSoCs). Those allow higher flexibility, real time performance and low energy consumption, but the programmer must be able to effectively exploit the platform parallelism. This raises interest in the development of algorithmic techniques to be embedded in CAD tools; in particular, given a specific application and platform, the objective if to perform optimal allocation of hardware resources and to compute an execution schedule.&lt;/p></description></item><item><title>Hybrid Optimization of Vehicle Routing Problems</title><link>/theses/2019_edward_lam/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/2019_edward_lam/</guid><description>&lt;p>&lt;strong>Author:&lt;/strong> Edward Lam&lt;br>
+&lt;strong>School:&lt;/strong> University of Melbourne&lt;br>
+&lt;strong>Supervisors:&lt;/strong> Pascal Van Hentenryck&lt;br>
+&lt;strong>Graduated:&lt;/strong> April 17, 2019&lt;br>
+&lt;strong>Link to full text:&lt;/strong> &lt;a href="https://minerva-access.unimelb.edu.au/handle/11343/220534">Hybrid Optimization of Vehicle Routing Problems&lt;/a>&lt;/p>
 &lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;p>When developing a new heuristic or complete algorithm, we frequently face the problem of choice. There may be multiple heuristics that we can employ, different types of inference mechanisms, various settings for the learning rate, or a multitude of neighborhoods to choose from. Furthermore, the way in which the choices we make affect one another is not readily known. The task of making these choices is referred to as algorithm configuration. At the same time, even for instances from the same problem domain, very different algorithmic strategies may prove effective. The task of selecting the most appropriate solver for the provided problem instance is know as algorithm selection. While it is possible to approach both these tasks manually, the potential explosion of the search space necessitates that need for automated methodologies to provide consistently beneficial results. This thesis addresses this exact problem, showing how to effectively perform both algorithm selection and configuration simultaneously, and leading to approaches that have dominated international competitions.&lt;/p></description></item><item><title>New Techniques for Discrete Optimization</title><link>/theses/new_techniques_for_discrete_op/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/new_techniques_for_discrete_op/</guid><description>&lt;h3 id="author">Author&lt;/h3>
-&lt;p>David Bergman&lt;/p>
-&lt;h3 id="school">School&lt;/h3>
-&lt;p>Tepper School of Business, Carnegie Mellon University&lt;/p>
-&lt;h3 id="supervisors">Supervisors&lt;/h3>
-&lt;p>J.N. Hooker&lt;/p>
-&lt;p>Willem-Jan van Hoeve&lt;/p>
+&lt;p>Vehicle routing problems are combinatorial optimization problems that aspire to design vehicle routes that minimize some measure of cost, such as the total distance traveled or the time at which the last vehicle returns to a depot, while adhering to various restrictions. Vehicle routing problems are of profound interest in both academia and industry because they are opportunities to study graph structures and algorithms, and because they underpin practical applications in a multitude of industries, but notably, the transportation and logistics industries. This dissertation presents two applications relevant to industry and develops a fully hybrid method for solving a classical vehicle routing problem.&lt;/p></description></item><item><title>Improving combinatorial optimization</title><link>/theses/2011_geoffrey_g_chu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/2011_geoffrey_g_chu/</guid><description>&lt;p>&lt;strong>Author:&lt;/strong> Geoffrey G Chu&lt;br>
+&lt;strong>School:&lt;/strong> The University of Melbourne, Australia&lt;br>
+&lt;strong>Supervisors:&lt;/strong> Peter J Stuckey&lt;br>
+&lt;strong>Graduated:&lt;/strong> October 01, 2011&lt;br>
+&lt;strong>Link to full text:&lt;/strong> &lt;a href="https://minerva-access.unimelb.edu.au/handle/11343/36679">Melbourne University Institutional Repository&lt;/a>&lt;/p>
+&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p>Combinatorial Optimization is an important area of computer science that has many theoretical and practical applications. In this thesis, we present important contributions to several different areas of combinatorial optimization, including nogood learning, symmetry breaking, dominance, relaxations and parallelization.&lt;/p>
+&lt;p>We develop a new nogood learning technique based on constraint projection that allows us to exploit subproblem dominances that arise when two different search paths lead to subproblems which are identical on the remaining unlabeled variables. On appropriate problems, this nogood learning technique provides orders of magnitude speedup compared to a base solver which does not learn nogoods.&lt;/p></description></item><item><title>Instance-Specific Algorithm Configuration</title><link>/theses/2012_yuri_malitsky/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/2012_yuri_malitsky/</guid><description>&lt;p>&lt;strong>Author:&lt;/strong> Yuri Malitsky&lt;br>
+&lt;strong>School:&lt;/strong> Brown University&lt;br>
+&lt;strong>Supervisors:&lt;/strong> Meinolf Sellmann&lt;br>
+&lt;strong>Graduated:&lt;/strong> May 16, 2012&lt;/p>
+&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p>When developing a new heuristic or complete algorithm, we frequently face the problem of choice. There may be multiple heuristics that we can employ, different types of inference mechanisms, various settings for the learning rate, or a multitude of neighborhoods to choose from. Furthermore, the way in which the choices we make affect one another is not readily known. The task of making these choices is referred to as algorithm configuration. At the same time, even for instances from the same problem domain, very different algorithmic strategies may prove effective. The task of selecting the most appropriate solver for the provided problem instance is know as algorithm selection. While it is possible to approach both these tasks manually, the potential explosion of the search space necessitates that need for automated methodologies to provide consistently beneficial results. This thesis addresses this exact problem, showing how to effectively perform both algorithm selection and configuration simultaneously, and leading to approaches that have dominated international competitions.&lt;/p></description></item><item><title>New Techniques for Discrete Optimization</title><link>/theses/2015_david_bergman/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/2015_david_bergman/</guid><description>&lt;p>&lt;strong>Author:&lt;/strong> David Bergman&lt;br>
+&lt;strong>School:&lt;/strong> Tepper School of Business, Carnegie Mellon University&lt;br>
+&lt;strong>Supervisors:&lt;/strong> J.N. Hooker, Willem-Jan van Hoeve&lt;br>
+&lt;strong>Graduated:&lt;/strong> May 19, 2015&lt;br>
+&lt;strong>Link to full text:&lt;/strong> &lt;a href="http://www.business.uconn.edu/wp-content/uploads/sites/969/2014/12/bergman_thesis.pdf">New Techniques for Discrete Optimization&lt;/a>&lt;/p>
 &lt;h3 id="abstract">Abstract&lt;/h3>
 &lt;p>Objective function bounds are critical to solving discrete optimization problems. In this thesis, we explore several new techniques for obtaining bounds, and also describe a new branch-and-bound algorithm for discrete optimization problems.&lt;/p>
-&lt;p>The first area explored is the application of decision diagrams (DDs) to binary optimization problems. In recent years, DDs have been applied to various problems in operations research. These include sequential pattern data mining, cut generation, product configuration, and post-optimality analysis in integer programming, to name a few. Through these applications and others, DDs have proven to be a useful tool for a variety of tasks. Unfortunately, DDs may grow exponentially large, prohibiting their use.&lt;/p></description></item><item><title>On the use of graphs within constraint-programming</title><link>/theses/on_the_use_of_graphs_within_co/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/on_the_use_of_graphs_within_co/</guid><description>&lt;h3 id="author">Author&lt;/h3>
-&lt;p>Jean-Guillaume Fages&lt;/p>
-&lt;h3 id="school">School&lt;/h3>
-&lt;p>Ecole des Mines de Nantes, LINA, CNRS, INRIA&lt;/p>
-&lt;h3 id="supervisors">Supervisors&lt;/h3>
-&lt;p>Xavier Lorca&lt;/p>
-&lt;p>Nicolas Beldiceanu&lt;/p>
+&lt;p>The first area explored is the application of decision diagrams (DDs) to binary optimization problems. In recent years, DDs have been applied to various problems in operations research. These include sequential pattern data mining, cut generation, product configuration, and post-optimality analysis in integer programming, to name a few. Through these applications and others, DDs have proven to be a useful tool for a variety of tasks. Unfortunately, DDs may grow exponentially large, prohibiting their use.&lt;/p></description></item><item><title>On the foundations of constraint logic programming</title><link>/theses/1987_peter_j_stuckey/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/1987_peter_j_stuckey/</guid><description>&lt;p>&lt;strong>Author:&lt;/strong> Peter J. Stuckey&lt;br>
+&lt;strong>School:&lt;/strong> Department of Data Science and Artificial Intelligence&lt;br>
+&lt;strong>Supervisors:&lt;/strong> Joxan Jaffar&lt;br>
+&lt;strong>Graduated:&lt;/strong> December 24, 1987&lt;br>
+&lt;strong>Link to full text:&lt;/strong> &lt;a href="https://doi.org/10.26180/14972436.v1">https://doi.org/10.26180/14972436.v1&lt;/a>&lt;/p>
 &lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;p>Many IT applications require to solve decision problems which are hard from a mathematical point of view. Constraint-programming enables to model and solve some of these problems. Among them, some are defined over graphs. Beyond the difficulty stemming from each of these problems, the size of the instance to solve increases the difficulty of the task. This PhD thesis is about the use of graphs within constraint- programming, in order to improve its scalability. First, we study the use of constraint-programming to solve some graph problems involving the computation of trees and Hamiltonian paths and cycles. These problems are important and can be found in many industrial applications. Both filtering and search are investigated. Next, we move on problems which are no longer defined in terms of graph properties. We then study the use of graphs to propagate global constraints. In particular, we suggest a generic schema, relying on a graph structure, to dynamically decompose filtering algorithms. The central theme in this work is the use of graph concepts at the origin of every reasoning and the practical will to increase the size of problems that can be addressed in constraint-programming.&lt;/p></description></item><item><title>The complexity and expressive power of valued constraints</title><link>/theses/the_complexity_and_expressive_/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/the_complexity_and_expressive_/</guid><description>&lt;h3 id="author">Author&lt;/h3>
-&lt;p>Stanislav Zivny&lt;/p>
-&lt;h3 id="school">School&lt;/h3>
-&lt;p>University of Oxford&lt;/p>
-&lt;h3 id="supervisors">Supervisors&lt;/h3>
-&lt;p>Peter Jeavons&lt;/p>
+&lt;p>Stuckey., Peter J. (2020). On the foundations of constraint logic programming. Monash University. Thesis. &lt;a href="https://doi.org/10.26180/14972436.v1">https://doi.org/10.26180/14972436.v1&lt;/a>&lt;/p></description></item><item><title>On the use of graphs within constraint-programming</title><link>/theses/2014_jeanguillaume_fages/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/2014_jeanguillaume_fages/</guid><description>&lt;p>&lt;strong>Author:&lt;/strong> Jean-Guillaume Fages&lt;br>
+&lt;strong>School:&lt;/strong> Ecole des Mines de Nantes, LINA, CNRS, INRIA&lt;br>
+&lt;strong>Supervisors:&lt;/strong> Xavier Lorca, Nicolas Beldiceanu&lt;br>
+&lt;strong>Graduated:&lt;/strong> October 23, 2014&lt;/p>
+&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p>Many IT applications require to solve decision problems which are hard from a mathematical point of view. Constraint-programming enables to model and solve some of these problems. Among them, some are defined over graphs. Beyond the difficulty stemming from each of these problems, the size of the instance to solve increases the difficulty of the task. This PhD thesis is about the use of graphs within constraint- programming, in order to improve its scalability. First, we study the use of constraint-programming to solve some graph problems involving the computation of trees and Hamiltonian paths and cycles. These problems are important and can be found in many industrial applications. Both filtering and search are investigated. Next, we move on problems which are no longer defined in terms of graph properties. We then study the use of graphs to propagate global constraints. In particular, we suggest a generic schema, relying on a graph structure, to dynamically decompose filtering algorithms. The central theme in this work is the use of graph concepts at the origin of every reasoning and the practical will to increase the size of problems that can be addressed in constraint-programming.&lt;/p></description></item><item><title>Optimization Methods Based on Decision Diagrams for Constraint Programming, AI Planning, and Mathematical Programming</title><link>/theses/2021_margarita_castro/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/2021_margarita_castro/</guid><description>&lt;p>&lt;strong>Author:&lt;/strong> Margarita Castro&lt;br>
+&lt;strong>School:&lt;/strong> University of Toronto&lt;br>
+&lt;strong>Supervisors:&lt;/strong> J. Christopher Beck, Andre A. Cire&lt;br>
+&lt;strong>Graduated:&lt;/strong> March 01, 2021&lt;br>
+&lt;strong>Link to full text:&lt;/strong> &lt;a href="https://www.proquest.com/docview/2507182586?pq-origsite=gscholar&amp;amp;fromopenview=true">Optimization Methods Based on Decision Diagrams for Constraint Programming, AI …&lt;/a>&lt;/p>
+&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p>Decision diagrams (DDs) are graphical structures that can be used to solve discrete optimization problems by representing the set of feasible solutions as paths in a graph. This graphical encoding of the feasibility set can represent complex combinatorial structures and is the foundation of several novel optimization techniques. Due to their flexibility, DDs have become an attractive optimization tool for researchers in different fields, including operations research and computer science.&lt;/p></description></item><item><title>Reliable Constraint Reasoning with Uncertain Data</title><link>/theses/2004_neil_yorkesmith/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/2004_neil_yorkesmith/</guid><description>&lt;p>&lt;strong>Author:&lt;/strong> Neil Yorke-Smith&lt;br>
+&lt;strong>School:&lt;/strong> Imperial College London&lt;br>
+&lt;strong>Supervisors:&lt;/strong> Carmen Gervet&lt;br>
+&lt;strong>Graduated:&lt;/strong> June 01, 2004&lt;/p>
+&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p>Constraint programming (CP) has proved an effective paradigm to model and solve difficult combinatorial optimisation problems from disparate domains. The need for reliable solutions to real-world applications requires that the uncertainty inherent in these problems is taken into account. To date, however, there has been little work on accommodating uncertainty within CP, apart from seeking a solution that holds in the greatest number of circumstances.&lt;/p></description></item><item><title>Representations in Constraint Programming</title><link>/theses/2007_christopher_jefferson/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/2007_christopher_jefferson/</guid><description>&lt;p>&lt;strong>Author:&lt;/strong> Christopher Jefferson&lt;br>
+&lt;strong>School:&lt;/strong> University of York&lt;br>
+&lt;strong>Graduated:&lt;/strong> June 30, 2007&lt;/p>
+&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p>One important choice in modelling is what variables will be used to represent the states of the problem. This choice is often optimised to try to take advantage of the global constraints in the solver being used. This concentration on global constraints has allowed the performance of models to improve as more and better global constraints are designed and implemented. However, this obsession with global constraints has lead to a lack of study of the variables, independent of the particular set of constraints implemented by a given solver.&lt;/p></description></item><item><title>Robust Solutions for Constraint Satisfaction and Optimisation under Uncertainty</title><link>/theses/2007_emmanuel_hebrard/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/2007_emmanuel_hebrard/</guid><description>&lt;p>&lt;strong>Author:&lt;/strong> Emmanuel Hebrard&lt;br>
+&lt;strong>School:&lt;/strong> University of New South Wales&lt;br>
+&lt;strong>Supervisors:&lt;/strong> Toby Walsh, Brahim Hnich, Michael Maher&lt;br>
+&lt;strong>Graduated:&lt;/strong> April 20, 2007&lt;br>
+&lt;strong>Link to full text:&lt;/strong> &lt;a href="http://homepages.laas.fr/ehebrard/papers/phdthesis.pdf">Robust Solutions for Constraint Satisfaction and Optimisation under Uncertainty&lt;/a>&lt;/p>
+&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p>We develop a framework for finding robust solutions of constraint programs. Our approach is based on the notion of fault tolerance. We formalise this concept within constraint programming, extend it in several dimensions and introduce some algorithms to find robust solutions efficiently.&lt;/p></description></item><item><title>Set Constraints for Local Search</title><link>/theses/2008_magnus_%C3%A5gren_now_magnus_rattfeldt/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/2008_magnus_%C3%A5gren_now_magnus_rattfeldt/</guid><description>&lt;p>&lt;strong>Author:&lt;/strong> Magnus Ågren (now Magnus Rattfeldt)&lt;br>
+&lt;strong>School:&lt;/strong> Uppsala University&lt;br>
+&lt;strong>Supervisors:&lt;/strong> Pierre Flener, Justin Pearson&lt;br>
+&lt;strong>Graduated:&lt;/strong> January 18, 2008&lt;br>
+&lt;strong>Link to full text:&lt;/strong> &lt;a href="http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-8373">Set Constraints for Local Search&lt;/a>&lt;/p>
+&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p>Combinatorial problems are ubiquitous in our society and solving such problems efficiently is often crucial. One technique for solving combinatorial problems is constraint-based local search. Its compositional nature together with its efficiency on large problem instances have made this technique particularly attractive. In this thesis we contribute to simplifying the solving of combinatorial problems using constraint-based local search.&lt;/p></description></item><item><title>Solving Hard Subgraph Problems in Parallel</title><link>/theses/2017_ciaran_mccreesh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/2017_ciaran_mccreesh/</guid><description>&lt;p>&lt;strong>Author:&lt;/strong> Ciaran McCreesh&lt;br>
+&lt;strong>School:&lt;/strong> School of Computing Science&lt;br>
+&lt;strong>Supervisors:&lt;/strong> Patrick Prosser&lt;br>
+&lt;strong>Graduated:&lt;/strong> July 25, 2017&lt;br>
+&lt;strong>Link to full text:&lt;/strong> &lt;a href="http://theses.gla.ac.uk/8322/">Solving hard subgraph problems in parallel&lt;/a>&lt;/p>
+&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p>This thesis improves the state of the art in exact, practical algorithms for finding subgraphs. We study maximum clique, subgraph isomorphism, and maximum common subgraph problems. These are widely applicable: within computing science, subgraph problems arise in document clustering, computer vision, the design of communication protocols, model checking, compiler code generation, malware detection, cryptography, and robotics; beyond, applications occur in biochemistry, electrical engineering, mathematics, law enforcement, fraud detection, fault diagnosis, manufacturing, and sociology. We therefore consider both the ``pure&amp;rsquo;&amp;rsquo; forms of these problems, and variants with labels and other domain-specific constraints.&lt;/p></description></item><item><title>Solving Optimization Problems via Maximum Satisfiability : Encodings and Re-Encodings</title><link>/theses/2018_jeremias_berg/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/2018_jeremias_berg/</guid><description>&lt;p>&lt;strong>Author:&lt;/strong> Jeremias Berg&lt;br>
+&lt;strong>School:&lt;/strong> University of Helsinki&lt;br>
+&lt;strong>Supervisors:&lt;/strong> Associate Professor Matti Järvisalo, Professor Petri Myllymäki&lt;br>
+&lt;strong>Graduated:&lt;/strong> June 13, 2018&lt;br>
+&lt;strong>Link to full text:&lt;/strong> &lt;a href="https://helda.helsinki.fi/handle/10138/234642">University of Helsinki e-thesis&lt;/a>&lt;/p>
+&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p>NP-hard combinatorial optimization problems are commonly encountered in numerous different domains. As such efficient methods for solving instances of such problems can save time, money, and other resources in several different applications. This thesis investigates exact declarative approaches to combinatorial optimization within the maximum satisfiability (MaxSAT) paradigm, using propositional logic as the constraint language of choice. Specifically we contribute to both MaxSAT solving and encoding techniques.&lt;/p></description></item><item><title>The complexity and expressive power of valued constraints</title><link>/theses/2010_stanislav_zivny/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/2010_stanislav_zivny/</guid><description>&lt;p>&lt;strong>Author:&lt;/strong> Stanislav Zivny&lt;br>
+&lt;strong>School:&lt;/strong> University of Oxford&lt;br>
+&lt;strong>Supervisors:&lt;/strong> Peter Jeavons&lt;br>
+&lt;strong>Graduated:&lt;/strong> March 06, 2010&lt;br>
+&lt;strong>Link to full text:&lt;/strong> &lt;a href="http://www.cs.ox.ac.uk/Stanislav.Zivny/homepage/publications/SZivny09DPhil.pdf">The complexity and expressive power of valued constraints&lt;/a>&lt;/p>
 &lt;h3 id="abstract">Abstract&lt;/h3>
 &lt;p>This thesis is a detailed examination of the expressive power of valued constraints and related complexity questions. The valued constraint satisfaction problem (VCSP) is a generalisation of the constraint satisfaction problem which allows a variety of combinatorial optimisation problems to be described. Although most results are stated in this framework, they can be interpreted equivalently in the framework of, for instance, pseudo-Boolean polynomials, Gibbs energy minimisation or Markov Random Fields.&lt;br>
-We take a result of Cohen, Cooper and Jeavons that characterises the expressive power of valued constraints in terms of certain algebraic properties, and extend this result by showing a new connection between the expressive power of valued constraints and linear programming. We prove a decidability result for related algebraic properties.&lt;/p></description></item></channel></rss>
+We take a result of Cohen, Cooper and Jeavons that characterises the expressive power of valued constraints in terms of certain algebraic properties, and extend this result by showing a new connection between the expressive power of valued constraints and linear programming. We prove a decidability result for related algebraic properties.&lt;/p></description></item><item><title>The extensional constraint</title><link>/theses/2021_h%C3%A9l%C3%A8ne_verhaeghe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/theses/2021_h%C3%A9l%C3%A8ne_verhaeghe/</guid><description>&lt;p>&lt;strong>Author:&lt;/strong> Hélène Verhaeghe&lt;br>
+&lt;strong>School:&lt;/strong> UCLouvain, Louvain-la-Neuve, Belgium&lt;br>
+&lt;strong>Supervisors:&lt;/strong> Prof. Pierre Schaus, Prof. Christophe Lecoutre&lt;br>
+&lt;strong>Graduated:&lt;/strong> August 31, 2021&lt;/p>
+&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p>Extensional constraints are crucial in Constraint Programming. They represent allowed combinations of values for a subset of variables (the scope of the constraint) using extensional representation forms such as tables (lists of tuples of constraint solutions) or MDDs (layered acyclic directed graphs where each path represents a constraint solution). Such extensional forms allow the modelization of virtually any kind of constraints.
+This type of constraint is among the first ones available in constraint solvers. A lot of progress has been made since the original design of the first propagator of table constraints: advanced use of supports, simple tabular reduction, bitwise computations, reseting opperations, table compression, and MDDs. The most recent algorithm prior to this thesis is Compact-Table. It advantageously uses a data structure called reversible sparse bitsets to speed up the computations.
+The work in this thesis initiates with Compact-Table. The goal is to extend it to handle other kinds of extensional representation. The first addressed representation is about compressed tables, i.e. tables containing tuples wich do not only contain single values but also simple unary (∗, != v, ≤ v, ≥ v, ∈ S, !∈ S) or binary (= x + v, != x + v, ≤ x + v, ≥ x + v) restrictions. One such compressed tuple allows representing several classical ones. This led to the CT ∗ and CT bs algorithms, handling respectively short and basic smart tables. The second addressed issue concerns negative tables, i.e. tables listing forbidden combinations of values. This results in the CT neg and CT ∗ neg algorithms, handling respectively negative and negative short tables. The third and last adaptation addresses diagram structures, i.e. graphs such as MDDs or other layered graphical structure. This led to the CD and CD bs algorithms, handling respectively diagrams and basic smart diagrams.
+Being able to use such diversity of representation helps to counter-balance the main drawback of classical table representations, which is their potentially exponential growth in size. Compressed tables, negative tables, and diagrams help reduce the memory consumption (storage size) required to store an equivalent representation.&lt;/p></description></item></channel></rss>
