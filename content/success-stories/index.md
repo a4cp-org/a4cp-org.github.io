@@ -41,7 +41,7 @@ We are now working on new targets with collaborators in medicine and green chemi
 
 [view](/cp/success-stories/a_cp_solver_designs_a_self-ass)
 
-[From dreams to reality](/theses/from_dreams_to_reality)
+[From dreams to reality](/cp/success-stories/from_dreams_to_reality)
 
 [![Gecode](/sites/default/files/gecode_0.png)](https://www.gecode.org/)
 
@@ -52,7 +52,7 @@ SAP builds its variant configuration engine in their S/4HANA platform on top of 
 * [More info on KTH website](https://www.kth.se/en/forskning/artiklar/at-core-of-software-leader-sap-s-product-an-open-source-code-developed-at-kth-1.867376)
 * [More info on SAP blog](https://blogs.sap.com/2018/09/07/sap-leverages-gecode-an-award-winning-constraint-solver-in-s4hana-for-advanced-variant-configuration/)
 
-[view](/theses/from_dreams_to_reality)
+[view](/cp/success-stories/from_dreams_to_reality)
 
 [CP Has Landed on the Comet](/cp/success-stories/cp_has_landed_on_the_comet)
 
@@ -177,7 +177,7 @@ In Proceedings of the International Workshop on Planning and Scheduling for Spac
 
 [view](/cp/success-stories/cp_has_landed_on_the_comet)
 
-[Outperforming state-of-the-art compilers in Unison](/theses/outperforming_state-of-the-art)
+[Outperforming state-of-the-art compilers in Unison](/cp/success-stories/outperforming_state-of-the-art)
 
 [![Unison](/sites/default/files/unison-logo.png)](https://unison-code.github.io/)
 
@@ -187,4 +187,4 @@ A compiler is a program that transforms a source code from a high-level programm
 
 Unison complements state-of-the-art compilers and is used by [Ericsson](https://www.ericsson.com/en/blog/2017/12/outperforming-state-of-the-art-compilers-in-unison).
 
-[view](/theses/outperforming_state-of-the-art)
+[view](/cp/success-stories/outperforming_state-of-the-art)
