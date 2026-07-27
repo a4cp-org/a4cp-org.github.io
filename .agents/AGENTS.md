@@ -10,3 +10,6 @@
 ## Core Rule: Strict Menu Tree and Uniform Submenus
 - The menu tree defined in `.agents/menu_tree.md` MUST be followed strictly.
 - The presentation of the submenu (local navigation) MUST be uniform on each page within a section. It should display the entire hierarchical structure (including sub-items) of the active top-level menu item to ensure high-fidelity with the original site's local tasks.
+
+## Core Rule: Keep Menu Tree Synchronized
+- Whenever a folder, content file, or path is renamed or moved within the `content/` directory, you **MUST** simultaneously update `.agents/menu_tree.md` to reflect the new path, ensuring the menu hierarchy tracking remains perfectly accurate.
