@@ -13,49 +13,54 @@ content/
 ├── _index.md                        # Home Page (Welcome hero, ACP mission, quick links)
 ├── about/                           # About the ACP
 │   ├── index.md                     # Overview & Executive Committee overview
-│   ├── statutes/                    # ACP Statutes (English & French)
-│   ├── bylaws/                      # ACP Bylaws
 │   ├── committee/                   # Executive Committee members & election results
-│   ├── committee/decisions/         # Executive Committee quarterly reports & meeting minutes
+│   ├── bylaws/                      # ACP Bylaws
+│   ├── community-links/             # Constraint Programming community resources & links
+│   ├── statutes/                    # ACP Statutes (French)
+│   ├── statutes_en/                 # ACP Statutes (English)
 │   ├── general-assembly-archive/    # Minutes & reports from annual General Assemblies
 │   └── acp-logo/                    # ACP official logo assets & guidelines
-├── events/                          # Events & Activities
-│   ├── index.md                     # Events summary
-│   ├── cp-conference-series/        # Annual CP Conference series (posters, locations, proceedings)
-│   ├── summer-schools/              # ACP Summer Schools archive & upcoming bids
-│   ├── competitions/                # Solver & Model competitions (MiniZinc, CP Solver competitions)
-│   └── outreach/                    # Community outreach initiatives
 ├── awards/                          # ACP Awards & Honors
 │   ├── index.md                     # Awards overview
-│   ├── research-excellence-award/   # Research Excellence Award recipients
 │   ├── distinguished-service-award/ # Distinguished Service Award recipients
-│   ├── early-career-research-award/ # Early Career Research Award recipients
-│   ├── doctoral-research-award/    # Doctoral Research Award recipients
-│   └── paper-awards/                # Best Paper Award recipients at CP conferences
-├── news/                            # News & Announcements
-│   ├── index.md                     # News section overview
-│   ├── career-news/                 # Open positions, PhD/Postdoc opportunities
-│   └── newsletters/                 # Historical ACP Quarterly Newsletters archive
-├── cp/                              # Constraint Programming Resources
-│   ├── success-stories/             # High-impact industrial & scientific CP application stories
-│   ├── publication-venues/          # Primary CP journals, conferences, and publishing guidelines
-│   └── application/papers/          # Selected CP application papers listing
-├── theses/                          # PhD Thesis Archive
-│   └── index.md                     # Repository of PhD dissertations in Constraint Programming
+│   ├── paper-awards/                # Best Paper Award recipients at CP conferences
+│   ├── doctoral-research-award/     # Doctoral Research Award recipients
+│   ├── research-excellence-award/   # Research Excellence Award recipients
+│   └── early-career-research-award/ # Early Career Research Award recipients
 ├── constraints-journal/             # Constraints Journal Archives
 │   ├── index.md                     # Constraints Journal section index
-│   ├── cj2/                         # Volume 29+ open access articles & videos
 │   ├── cj-vol29-34/                 # Volume 29, Issues 3-4
 │   ├── cj-vol-in-prog/              # Journal volume in progress archive
+│   ├── cj2/                         # Volume 29+ open access articles & videos
 │   ├── vol30-14/                    # Volume 30, Issue 1-4 archive
 │   └── con-anv/                     # Constraints Journal 20th Anniversary Special
-├── old_nodes/                       # Archived legacy Drupal nodes & articles
-│   ├── index.md                     # Legacy nodes archive index
-│   └── <node_id>/index.md           # Individual legacy Drupal articles & node pages
+├── contact/                         # Contact Information
+│   └── index.md                     # Officers, email addresses, and secretary contact
+├── cp/                              # Constraint Programming Resources
+│   ├── application/                 # Selected CP application papers listing
+│   ├── publication-venues/          # Primary CP journals, conferences, and publishing guidelines
+│   └── success-stories/             # High-impact industrial & scientific CP application stories
+├── events/                          # Events & Activities
+│   ├── index.md                     # Events summary
+│   ├── summer-schools/              # ACP Summer Schools archive & upcoming bids
+│   ├── cp-conference-series/        # Annual CP Conference series (posters, locations, proceedings)
+│   ├── competitions/                # Solver & Model competitions
+│   ├── outreach/                    # Community outreach initiatives
+│   └── anti-harassment-policy/      # Anti-harassment policy for ACP events
+├── news/                            # News & Announcements
+│   ├── index.md                     # News section overview
+│   ├── newsletters/                 # Historical ACP Quarterly Newsletters archive
+│   └── career-news/                 # Open positions, PhD/Postdoc opportunities
+├── policies/                        # ACP Policies
+│   └── index.md                     # Policies overview
 ├── sponsorships-donations/          # Sponsorships & Financial Support
 │   └── index.md                     # Guidelines for conference & summer school sponsorships
-└── contact/                         # Contact Information
-    └── index.md                     # Officers, email addresses, and secretary contact
+├── success-stories/                 # Legacy/Duplicate success stories (or redirects)
+├── theses/                          # PhD Thesis Archive
+│   └── index.md                     # Repository of PhD dissertations in Constraint Programming
+├── category/                        # Taxonomy for Drupal categories (Legacy)
+├── taxonomy/                        # Taxonomy for Drupal tags (Legacy)
+└── user/                            # User account pages (Legacy)
 ```
 
 ---
