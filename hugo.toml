@@ -17,7 +17,7 @@ theme = 'PaperMod'
     
     [params.label]
         text = "Association for Constraint Programming"
-        icon = "/sites/default/files/acp-small-color-logo.jpg"
+        icon = "/about/acp-logo/acp-small-color-logo.jpg"
         iconHeight = 40
 
     # PaperMod specific options
