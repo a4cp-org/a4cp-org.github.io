@@ -1,0 +1,30 @@
+{{ $currentPage := . }}
+{{ $subMenuItems := slice }}
+
+{{/* First try to find the top level menu item that matches the section */}}
+{{ range site.Menus.main }}
+  {{ if eq .Identifier $currentPage.Section }}
+    {{ $subMenuItems = .Children }}
+  {{ end }}
+{{ end }}
+
+{{/* If it's a deeply nested section, maybe its section doesn't match a top-level menu directly.
+     Let's just use the children of the menu item that starts with the current section. */}}
+
+{{ if $subMenuItems }}
+<nav class="local-menu" style="margin-bottom: 20px; padding: 10px; background-color: var(--entry); border-radius: var(--radius); border: 1px solid var(--border);">
+    <ul style="list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 15px;">
+        {{ range $subMenuItems }}
+        {{ $isActive := eq $currentPage.RelPermalink .URL }}
+        {{ if not $isActive }}
+          {{ $isActive = eq $currentPage.RelPermalink (printf "%s/" .URL) }}
+        {{ end }}
+        <li>
+            <a href="{{ .URL | absLangURL }}" style="text-decoration: none; color: {{ if $isActive }}var(--primary){{ else }}var(--secondary){{ end }}; font-weight: {{ if $isActive }}bold{{ else }}normal{{ end }};">
+                {{ .Name }}
+            </a>
+        </li>
+        {{ end }}
+    </ul>
+</nav>
+{{ end }}
