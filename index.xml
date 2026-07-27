@@ -186,50 +186,32 @@ information, etc. is included in the Springer website for the journal, which can
 &lt;thead>
 &lt;tr>
 &lt;th>Resource&lt;/th>
-&lt;th>Location&lt;/th>
-&lt;th>Location&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>CP Conference Index in DBLP&lt;/td>
-&lt;td>&lt;a href="http://www.informatik.uni-trier.de/~ley/db/conf/cp/">web&lt;/a>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>&lt;a href="http://www.informatik.uni-trier.de/~ley/db/conf/cp/">CP Conference Index in DBLP&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Constraints Journal&lt;/td>
-&lt;td>&lt;a href="/constraints-journal/cj2">web - our page&lt;/a>&lt;/td>
-&lt;td>&lt;a href="https://www.springer.com/journal/10601">web - Springer page&lt;/a>&lt;/td>
+&lt;td>&lt;a href="/constraints-journal/cj2">Constraints Journal - our page&lt;/a> / &lt;a href="https://www.springer.com/journal/10601">Springer page&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>CSP Lib&lt;/td>
-&lt;td>&lt;a href="http://www.csplib.org">web&lt;/a>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>&lt;a href="http://www.csplib.org">CSP Lib&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Google Constraints Discussion Group&lt;/td>
-&lt;td>&lt;a href="https://groups.google.com/g/constraints">web&lt;/a>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>&lt;a href="https://groups.google.com/g/constraints">Google Constraints Discussion Group&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>ACP YouTube Channel&lt;/td>
-&lt;td>&lt;a href="https://www.youtube.com/channel/UCKiP5edRx7G10LI6YvYeIQQ">web&lt;/a>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>&lt;a href="https://www.youtube.com/channel/UCKiP5edRx7G10LI6YvYeIQQ">ACP YouTube Channel&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>CP Conference YouTube Channel&lt;/td>
-&lt;td>&lt;a href="https://www.youtube.com/channel/UCQsTD5thbBxZKQW6UR-gh6Q">web&lt;/a>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>&lt;a href="https://www.youtube.com/channel/UCQsTD5thbBxZKQW6UR-gh6Q">CP Conference YouTube Channel&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>LinkedIn ACP Group&lt;/td>
-&lt;td>&lt;a href="http://www.linkedin.com/groups/Association-Constraint-Programming-3855851">web&lt;/a>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td>&lt;a href="http://www.linkedin.com/groups/Association-Constraint-Programming-3855851">LinkedIn ACP Group&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Eugene Freuder keeps a very extensive list of CP resources &lt;a href="http://www.pearltrees.com/constraints/resources/id39817957">on pearltrees&lt;/a>&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table></description></item><item><title>General Assembly Archive</title><link>/about/general-assembly-archive/</link><pubDate>Sat, 25 Jul 2026 15:03:33 +0200</pubDate><guid>/about/general-assembly-archive/</guid><description>&lt;p>Here is an archive of the President&amp;rsquo;s Report at the yearly General Assembly, which is held during the CP conference.&lt;/p>
