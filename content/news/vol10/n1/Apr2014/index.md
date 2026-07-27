@@ -51,9 +51,9 @@ Here are the topics from the Q1 2014 ACP Executive Committee Report, available a
 
 ## **CLASSIC PAPERS**
 
-The [second article in this series](/old_nodes/920) has been contributed by Gilles Pesant. He writes about the early days of our field, and how it was introduced to a broader audience by Jacques Cohen in Communications of the ACM. Thanks so much, Gilles, for this contribution!
+The [second article in this series](/cp/success-stories/paper_with_impact_g_pesant) has been contributed by Gilles Pesant. He writes about the early days of our field, and how it was introduced to a broader audience by Jacques Cohen in Communications of the ACM. Thanks so much, Gilles, for this contribution!
 
-In case you missed the previous article, be sure to head over to our archive and [read it now!](/old_nodes/894)
+In case you missed the previous article, be sure to head over to our archive and [read it now!](/cp/success-stories/papers_with_impact_p_prosser)
 
 ## **OTHER NEWS**
 

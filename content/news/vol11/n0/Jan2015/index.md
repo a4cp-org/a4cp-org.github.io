@@ -47,6 +47,6 @@ Submissions must be at most 3700 characters long (including spaces), and will be
 
 ## Papers with impact
 
-This time, Jean-François Puget [looks back at a 1988 paper](/old_nodes/990) that got him started in the field of constraint programming. Enjoy!
+This time, Jean-François Puget [looks back at a 1988 paper](/cp/success-stories/papers_with_impact_j-f_puget) that got him started in the field of constraint programming. Enjoy!
 
 What is the paper that got you excited about CP? Let us know if you'd like to contribute to this series!

@@ -51,7 +51,7 @@ Here are the topics from the Q4 2013 ACP Executive Committee Report, available a
 
 ## **CLASSIC PAPERS**
 
-We are very happy to be able to share the first article in this new series on classic Papers with Impact! Patrick Prosser has contributed his view on [an IJCAI paper from 1977, as well as a 1989 article from Computational Intelligence](/old_nodes/894). Thanks a lot to Patrick, and we hope you enjoy the read.
+We are very happy to be able to share the first article in this new series on classic Papers with Impact! Patrick Prosser has contributed his view on [an IJCAI paper from 1977, as well as a 1989 article from Computational Intelligence](/cp/success-stories/papers_with_impact_p_prosser). Thanks a lot to Patrick, and we hope you enjoy the read.
 
 ## **PUBLICATIONS**
 

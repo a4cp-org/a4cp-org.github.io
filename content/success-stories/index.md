@@ -14,7 +14,7 @@ If you want to share your story (or know someone who has a story to share), plea
 
 ---
 
-[A CP solver designs a self-assembling protein](/old_nodes/1284)
+[A CP solver designs a self-assembling protein](/cp/success-stories/a_cp_solver_designs_a_self-ass)
 
 ![The Ika4 protein (PDB 6g6q)](/sites/default/files/final_0.png)
 
@@ -39,9 +39,9 @@ We are now working on new targets with collaborators in medicine and green chemi
 
 (3) Noguchi, H., Addy, C., Simoncini, D., Wouters, S., Mylemans, B., Van Meervelt, L., Schiex, T., Zhang, K.Y., Tame, J.R.H. and Voet, A.R.D., 2019. Computational design of symmetrical eight-bladed β-propeller proteins. IUCrJ, 6(1).
 
-[view](/old_nodes/1284)
+[view](/cp/success-stories/a_cp_solver_designs_a_self-ass)
 
-[From dreams to reality](/old_nodes/1285)
+[From dreams to reality](/theses/from_dreams_to_reality)
 
 [![Gecode](/sites/default/files/gecode_0.png)](https://www.gecode.org/)
 
@@ -52,9 +52,9 @@ SAP builds its variant configuration engine in their S/4HANA platform on top of 
 * [More info on KTH website](https://www.kth.se/en/forskning/artiklar/at-core-of-software-leader-sap-s-product-an-open-source-code-developed-at-kth-1.867376)
 * [More info on SAP blog](https://blogs.sap.com/2018/09/07/sap-leverages-gecode-an-award-winning-constraint-solver-in-s4hana-for-advanced-variant-configuration/)
 
-[view](/old_nodes/1285)
+[view](/theses/from_dreams_to_reality)
 
-[CP Has Landed on the Comet](/old_nodes/1058)
+[CP Has Landed on the Comet](/cp/success-stories/cp_has_landed_on_the_comet)
 
 On June 13th 2015, the robot-lab Philae woke up on the comet 67P/Churyumov-Gerasimenko to resume a series of experiments interrupted seven months ago. These experiments were scheduled using Constraint Programming, and researchers of the team [ROC](#authors) developed
 propagation algorithms
@@ -175,9 +175,9 @@ In Proceedings of the International Workshop on Planning and Scheduling for Spac
 *2. At the time of writing, the first condition is met, however not yet the second because of the sublimation of the comet's ice making it difficult for Rosetta to orbit at close enough range.[↩](#ref4 "Jump back to footnote 2 in the text.")*
 *Gilles Simonin, Christian Artigues, Emmanuel Hebrard, Pierre Lopez and Pauline Ballereau, of the Operations Research & Constraints group [(ROC)](https://www.laas.fr/public/en/roc).[↩](#back "Jump back to the text.")*
 
-[view](/old_nodes/1058)
+[view](/cp/success-stories/cp_has_landed_on_the_comet)
 
-[Outperforming state-of-the-art compilers in Unison](/old_nodes/1231)
+[Outperforming state-of-the-art compilers in Unison](/theses/outperforming_state-of-the-art)
 
 [![Unison](/sites/default/files/unison-logo.png)](https://unison-code.github.io/)
 
@@ -187,4 +187,4 @@ A compiler is a program that transforms a source code from a high-level programm
 
 Unison complements state-of-the-art compilers and is used by [Ericsson](https://www.ericsson.com/en/blog/2017/12/outperforming-state-of-the-art-compilers-in-unison).
 
-[view](/old_nodes/1231)
+[view](/theses/outperforming_state-of-the-art)

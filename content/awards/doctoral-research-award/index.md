@@ -16,22 +16,22 @@ Previous recipients of this award are:
 | 2025 | [Ruiwei Wang](https://scholar.google.be/citations?user=9enh9asAAAAJ) | National University of Singapore, Singapore |
 | 2024 | [Jayanta Mandi](https://scholar.google.be/citations?user=NvnKeFkAAAAJ) | KU Leuven, Belgium |
 | 2023 | [Stephan Gocht](https://scholar.google.com/citations?user=Agp7HbIAAAAJ) | Lund University, Sweden |
-| 2022 | [Hélène Verhaeghe](/old_nodes/1372) | UCLouvain, Belgium |
-| 2021 | [Margarita Paz Castro](/old_nodes/1392) | University of Toronto, Canada |
-| 2020 | [Jeremias Berg](/old_nodes/1221) | University of Helsinki, Finland |
-| 2019 | [Edward Lam](/old_nodes/1272) | Monash University, Australia |
-| 2018 | [Ciaran McCreesh](/old_nodes/1188) | University of Glasgow, UK |
-| 2017 | [Clément Carbonnel](/old_nodes/1278) | LAAS-CNRS, France |
-| 2016 | [Andre Augusto Cire](/old_nodes/1052) | Carnegie Mellon University, USA |
-| 2015 | [Jean-Guillaume Fages](/old_nodes/982) | Ecole des Mines de Nantes, LINA, CNRS, INRIA, France |
-| 2015 | [Anastasia Paparrizou](/old_nodes/1051) | University of Western Macedonia, Greece |
-| 2014 | [David Bergman](/old_nodes/1053) | Carnegie Mellon University, USA |
+| 2022 | [Hélène Verhaeghe](/theses/the_extensional_constraint) | UCLouvain, Belgium |
+| 2021 | [Margarita Paz Castro](/theses/optimization_methods_based_on_) | University of Toronto, Canada |
+| 2020 | [Jeremias Berg](/theses/solving_optimization_problems_) | University of Helsinki, Finland |
+| 2019 | [Edward Lam](/theses/hybrid_optimization_of_vehicle) | Monash University, Australia |
+| 2018 | [Ciaran McCreesh](/theses/solving_hard_subgraph_problems) | University of Glasgow, UK |
+| 2017 | [Clément Carbonnel](/theses/harnessing_tractability_in_con) | LAAS-CNRS, France |
+| 2016 | [Andre Augusto Cire](/theses/decision_diagrams_for_optimiza) | Carnegie Mellon University, USA |
+| 2015 | [Jean-Guillaume Fages](/theses/on_the_use_of_graphs_within_co) | Ecole des Mines de Nantes, LINA, CNRS, INRIA, France |
+| 2015 | [Anastasia Paparrizou](/theses/efficient_algorithms_for_stron) | University of Western Macedonia, Greece |
+| 2014 | [David Bergman](/theses/new_techniques_for_discrete_op) | Carnegie Mellon University, USA |
 | 2013 | [Tias Guns](/old_nodes/980) | KU Leuven, Belgium |
-| 2012 | [Geoffrey Chu](/old_nodes/1276) | University of Melbourne, Australia |
-| 2011 | [Stanislav Zivny](/old_nodes/971) | Oxford University, UK |
-| 2010 | [Guido Tack](/old_nodes/968) | Saarland University, Germany |
-| 2009 | [Christopher Jefferson](/old_nodes/985) | University of York, UK |
-| 2008 | [Claude-Guy Quimper](/old_nodes/972) | University of Waterloo, Canada |
+| 2012 | [Geoffrey Chu](/theses/improving_combinatorial_optimi) | University of Melbourne, Australia |
+| 2011 | [Stanislav Zivny](/theses/the_complexity_and_expressive_) | Oxford University, UK |
+| 2010 | [Guido Tack](/theses/constraint_propagation__models) | Saarland University, Germany |
+| 2009 | [Christopher Jefferson](/theses/representations_in_constraint_) | University of York, UK |
+| 2008 | [Claude-Guy Quimper](/theses/efficient_propagators_for_glob) | University of Waterloo, Canada |
 
 ### Honourable Mentions
 
@@ -44,9 +44,9 @@ Previous recipients of this award are:
 | 2022 | [Dimosthenis Tsouros](https://scholar.google.com/citations?user=qFrNdPAAAAAJ) | University of Western Macedonia, Greece |
 | 2021 | [Joaquín Arias](https://scholar.google.es/citations?user=hPA523AAAAAJ) | Universidad Politécnica de Madrid, Spain |
 | 2020 | [Peter Fulla](https://scholar.google.com/citations?user=NqKWjD4AAAAJ) | Oxford University, UK |
-| 2019 | [Roberto Castañeda Lozano](/old_nodes/1265) | KTH Royal Institute of Technology, Sweden |
-| 2018 | [Kuldeep Singh Meel](/old_nodes/1294) | Rice University, United States |
-| 2014 | [Yuri Malitsky](/old_nodes/977) | Brown University, United States |
+| 2019 | [Roberto Castañeda Lozano](/theses/constraint-based_register_allo) | KTH Royal Institute of Technology, Sweden |
+| 2018 | [Kuldeep Singh Meel](/theses/constrained_counting_and_sampl) | Rice University, United States |
+| 2014 | [Yuri Malitsky](/theses/instance-specific_algorithm_co) | Brown University, United States |
 | 2013 | [Justin Yip](/old_nodes/979) | Brown University, United States |
 | 2012 | [Nina Narodytska](/old_nodes/979) | University of New South Wales, Australia |
-| 2011 | [Michele Lombardi](/old_nodes/1057) | University of Bologna, Italy |
+| 2011 | [Michele Lombardi](/theses/hybrid_methods_for_resource_al) | University of Bologna, Italy |

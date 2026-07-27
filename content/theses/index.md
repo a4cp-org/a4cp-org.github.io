@@ -17,43 +17,43 @@ AscDesc
 Items per page
 510204060- All -
 
-[On the foundations of constraint logic programming](/old_nodes/1457):Peter J. Stuckey
+[On the foundations of constraint logic programming](/theses/on_the_foundations_of_constrai):Peter J. Stuckey
 
 Thu, 12/24/1987 - 12:00
 
-[Asynchronously solving problems with privacy requirements](/old_nodes/1299):Marius-Calin Silaghi
+[Asynchronously solving problems with privacy requirements](/theses/asynchronously_solving_problem):Marius-Calin Silaghi
 
 Sun, 01/06/2002 - 12:00
 
-[Asynchronously solving problems with privacy requirements](/old_nodes/984):Marius-Calin Silaghi
+[Asynchronously solving problems with privacy requirements](/theses/asynchronously_solving_problem_1):Marius-Calin Silaghi
 
 Fri, 08/02/2002 - 12:00
 
-[Reliable Constraint Reasoning with Uncertain Data](/old_nodes/991):Neil Yorke-Smith
+[Reliable Constraint Reasoning with Uncertain Data](/theses/reliable_constraint_reasoning_):Neil Yorke-Smith
 
 Tue, 06/01/2004 - 12:00
 
-[Efficient Propagators for Global Constraints](/old_nodes/972):Claude-Guy Quimper
+[Efficient Propagators for Global Constraints](/theses/efficient_propagators_for_glob):Claude-Guy Quimper
 
 Sat, 10/21/2006 - 12:00
 
-[Robust Solutions for Constraint Satisfaction and Optimisation under Uncertainty](/old_nodes/1038):Emmanuel Hebrard
+[Robust Solutions for Constraint Satisfaction and Optimisation under Uncertainty](/theses/robust_solutions_for_constrain):Emmanuel Hebrard
 
 Fri, 04/20/2007 - 12:00
 
-[Representations in Constraint Programming](/old_nodes/985):Christopher Jefferson
+[Representations in Constraint Programming](/theses/representations_in_constraint_):Christopher Jefferson
 
 Sat, 06/30/2007 - 12:00
 
-[Set Constraints for Local Search](/old_nodes/975):Magnus Ågren (now Magnus Rattfeldt)
+[Set Constraints for Local Search](/theses/set_constraints_for_local_sear):Magnus Ågren (now Magnus Rattfeldt)
 
 Fri, 01/18/2008 - 12:00
 
-[Constraint Programming for Optimization Under Uncertainty in Stochastic Inventory Control](/old_nodes/1183):Roberto Rossi
+[Constraint Programming for Optimization Under Uncertainty in Stochastic Inventory Control](/theses/constraint_programming_for_opt):Roberto Rossi
 
 Thu, 12/11/2008 - 12:00
 
-[Constraint Propagation – Models, Techniques, Implementation](/old_nodes/968):Guido Tack
+[Constraint Propagation – Models, Techniques, Implementation](/theses/constraint_propagation__models):Guido Tack
 
 Thu, 01/29/2009 - 12:00
 
