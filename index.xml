@@ -1,73 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Welcome to the ACP on Association for Constraint Programming</title><link>/</link><description>Recent content in Welcome to the ACP on Association for Constraint Programming</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 25 Jul 2026 15:04:52 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Volume 10, Number 0, January 2014</title><link>/news/vol10/n0/jan2014/</link><pubDate>Sat, 25 Jul 2026 15:04:52 +0200</pubDate><guid>/news/vol10/n0/jan2014/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
-&lt;h4 id="editors">Editors:&lt;/h4>
-&lt;h5 id="guido-tack-pedro-meseguer-pierre-schaus-roland-yap">&lt;a href="http://www.csse.monash.edu/~guidot/">Guido Tack&lt;/a>, &lt;a href="http://www.iiia.csic.es/~pedro/">Pedro Meseguer&lt;/a>, &lt;a href="http://www.info.ucl.ac.be/~pschaus/">Pierre Schaus&lt;/a>, &lt;a href="https://www.comp.nus.edu.sg/~ryap/">Roland Yap&lt;/a>&lt;/h5>
-&lt;h2 id="contents">&lt;strong>CONTENTS&lt;/strong>&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="#editorial">editorial&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#news">news:&lt;/a> ACP report&lt;/li>
-&lt;li>&lt;a href="#classicpapers">papers with impact:&lt;/a> a new series&lt;/li>
-&lt;li>&lt;a href="#publications">publications:&lt;/a> new papers in the Constraints journal&lt;/li>
-&lt;li>&lt;a href="#careernews">career news:&lt;/a> jobs and scholarships&lt;/li>
-&lt;li>&lt;a href="#events">events:&lt;/a> upcoming conferences and deadlines&lt;/li>
-&lt;/ul>
-&lt;h2 id="editorial">&lt;strong>Editorial&lt;/strong>&lt;/h2>
-&lt;p>This first issue of CP News for 2014 comes with a few changes! First of all, we have a new team assembled – Guido, Pedro, Pierre and Roland will from now on compile the news every quarter.&lt;/p></description></item><item><title>Volume 10, Number 1, April 2014</title><link>/news/vol10/n1/apr2014/</link><pubDate>Sat, 25 Jul 2026 15:04:51 +0200</pubDate><guid>/news/vol10/n1/apr2014/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
-&lt;h4 id="editors">Editors:&lt;/h4>
-&lt;h5 id="guido-tack-pedro-meseguer-pierre-schaus-roland-yap">&lt;a href="http://www.csse.monash.edu/~guidot/">Guido Tack&lt;/a>, &lt;a href="http://www.iiia.csic.es/~pedro/">Pedro Meseguer&lt;/a>, &lt;a href="http://www.info.ucl.ac.be/~pschaus/">Pierre Schaus&lt;/a>, &lt;a href="https://www.comp.nus.edu.sg/~ryap/">Roland Yap&lt;/a>&lt;/h5>
-&lt;h2 id="contents">&lt;strong>CONTENTS&lt;/strong>&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="#editorial">editorial&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#news">news:&lt;/a> ACP report&lt;/li>
-&lt;li>&lt;a href="#classicpapers">papers with impact&lt;/a> (by Gilles Pesant)&lt;/li>
-&lt;li>&lt;a href="#misc">other news:&lt;/a> publications, jobs, events&lt;/li>
-&lt;/ul>
-&lt;h2 id="editorial">&lt;strong>Editorial&lt;/strong>&lt;/h2>
-&lt;p>This is the second issue of CP News for 2014.&lt;/p>
-&lt;p>As always, we have the latest updates from the ACP Executive Committee. There are a few close deadlines in the report, such as &lt;strong>May 12 for proposing tutorials&lt;/strong> for CP 2014, &lt;strong>May 18 for community input to the new Strategic Committee&lt;/strong>, and &lt;strong>May 25&lt;/strong> for applications to this year&amp;rsquo;s summer school.&lt;/p></description></item><item><title>Volume 10, Number 2/3, October 2014</title><link>/news/vol10/n3/oct2014/</link><pubDate>Sat, 25 Jul 2026 15:04:51 +0200</pubDate><guid>/news/vol10/n3/oct2014/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
-&lt;h4 id="editors">Editors:&lt;/h4>
-&lt;h5 id="guido-tack-pedro-meseguer-pierre-schaus-roland-yap">&lt;a href="http://www.csse.monash.edu/~guidot/">Guido Tack&lt;/a>, &lt;a href="http://www.iiia.csic.es/~pedro/">Pedro Meseguer&lt;/a>, &lt;a href="http://www.info.ucl.ac.be/~pschaus/">Pierre Schaus&lt;/a>, &lt;a href="https://www.comp.nus.edu.sg/~ryap/">Roland Yap&lt;/a>&lt;/h5>
-&lt;h2 id="contents">&lt;strong>CONTENTS&lt;/strong>&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="#editorial">editorial&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#news">news:&lt;/a> ACP report for Q2/3 2014&lt;/li>
-&lt;li>&lt;a href="#thesisarchive">New initiative: Archiving CP-related PhD theses&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#cparchive">CP Archive on the ACP web site&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#csplib">New CSPLib web site&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#mznchallenge">MiniZinc challenge 2014 results&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#misc">other news:&lt;/a> publications, jobs, events (now with RSS feeds!)&lt;/li>
-&lt;/ul>
-&lt;h2 id="editorial">&lt;strong>Editorial&lt;/strong>&lt;/h2>
-&lt;p>This is the combined issue 2 and 3 of CP News for 2014.&lt;/p>
-&lt;p>In this issue, you find the latest news from the ACP Executive Committee (as usual). Two items to highlight: the results of the ACP EC elections have been published, and the EC is still looking for proposals to host the 2015 ACP Summer School.&lt;/p></description></item><item><title>Volume 11, Number 0, January-March 2015</title><link>/news/vol11/n0/jan2015/</link><pubDate>Sat, 25 Jul 2026 15:04:51 +0200</pubDate><guid>/news/vol11/n0/jan2015/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
-&lt;h4 id="editors">Editors:&lt;/h4>
-&lt;h5 id="guido-tack-pedro-meseguer-pierre-schaus-roland-yap">&lt;a href="http://www.csse.monash.edu/~guidot/">Guido Tack&lt;/a>, &lt;a href="http://www.iiia.csic.es/~pedro/">Pedro Meseguer&lt;/a>, &lt;a href="http://www.info.ucl.ac.be/~pschaus/">Pierre Schaus&lt;/a>, &lt;a href="https://www.comp.nus.edu.sg/~ryap/">Roland Yap&lt;/a>&lt;/h5>
-&lt;h2 id="contents">CONTENTS&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="#editorial">editorial&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#news">news:&lt;/a> ACP report for Q4 2014&lt;/li>
-&lt;li>&lt;a href="#thesisabstracts">Constraints journal: Now publishing thesis abstracts&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#classicpapers">Papers with impact&lt;/a> (by Jean-François Puget)&lt;/li>
-&lt;/ul>
-&lt;h2 id="editorial">Editorial&lt;/h2>
-&lt;p>Welcome to the first issue of the Constraint Programming Newsletter for 2015.&lt;/p>
-&lt;p>&lt;strong>Reminder:&lt;/strong> You have to &lt;a href="/membership/renew">renew your membership&lt;/a> if you want to remain a member of the ACP. Not a member yet? It&amp;rsquo;s easy to &lt;a href="www.a4cp.org/user/register">sign up&lt;/a>!&lt;/p>
-&lt;p>In this issue we can announce a new initiative of the ACP and the Constraints journal, publishing annual collections of thesis abstracts. Furthermore, we have the third article in our series on classic papers with impact.&lt;/p></description></item><item><title>ACP Newsletter Archive</title><link>/news/newsletters/</link><pubDate>Sat, 25 Jul 2026 15:04:50 +0200</pubDate><guid>/news/newsletters/</guid><description>&lt;p>&lt;a href="/news/vol11/n1/June2015">Volume 11, Number 1, April-June 2015&lt;/a>&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Welcome to the ACP on Association for Constraint Programming</title><link>/</link><description>Recent content in Welcome to the ACP on Association for Constraint Programming</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 25 Jul 2026 15:04:50 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>ACP Newsletter Archive</title><link>/news/newsletters/</link><pubDate>Sat, 25 Jul 2026 15:04:50 +0200</pubDate><guid>/news/newsletters/</guid><description>&lt;p>&lt;a href="/news/newsletters/vol11_n1">Volume 11, Number 1, April-June 2015&lt;/a>&lt;/p>
 &lt;p>June 2015&lt;/p>
 &lt;p>n1&lt;/p>
 &lt;p>v11&lt;/p>
-&lt;p>&lt;a href="/news/vol11/n0/Jan2015">Volume 11, Number 0, January-March 2015&lt;/a>&lt;/p>
+&lt;p>&lt;a href="/news/newsletters/vol11_n0">Volume 11, Number 0, January-March 2015&lt;/a>&lt;/p>
 &lt;p>January 2015&lt;/p>
 &lt;p>n0&lt;/p>
 &lt;p>v11&lt;/p>
-&lt;p>&lt;a href="/news/vol10/n3/Oct2014">Volume 10, Number 2/3, October 2014&lt;/a>&lt;/p>
+&lt;p>&lt;a href="/news/newsletters/vol10_n3">Volume 10, Number 2/3, October 2014&lt;/a>&lt;/p>
 &lt;p>October 2014&lt;/p>
 &lt;p>n3&lt;/p>
 &lt;p>v10&lt;/p>
-&lt;p>&lt;a href="/news/vol10/n1/Apr2014">Volume 10, Number 1, April 2014&lt;/a>&lt;/p>
+&lt;p>&lt;a href="/news/newsletters/vol10_n1">Volume 10, Number 1, April 2014&lt;/a>&lt;/p>
 &lt;p>April 2014&lt;/p>
 &lt;p>n1&lt;/p>
 &lt;p>v10&lt;/p>
-&lt;p>&lt;a href="/news/vol10/n0/Jan2014">Volume 10, Number 0, January 2014&lt;/a>&lt;/p>
+&lt;p>&lt;a href="/news/newsletters/vol10_n0">Volume 10, Number 0, January 2014&lt;/a>&lt;/p>
 &lt;p>January 2014&lt;/p>
 &lt;p>n0&lt;/p>
 &lt;p>v10&lt;/p>
@@ -78,22 +25,7 @@
 &lt;p>&lt;a href="/news/newsletters/vol9_n2">Volume 9, Number 2, July 2013&lt;/a>&lt;/p>
 &lt;p>July 2013&lt;/p>
 &lt;p>n2&lt;/p>
-&lt;p>v9&lt;/p></description></item><item><title>Policies</title><link>/taxonomy/term/9/feed/</link><pubDate>Sat, 25 Jul 2026 15:04:50 +0200</pubDate><guid>/taxonomy/term/9/feed/</guid><description/></item><item><title>Volume 11, Number 1, April-June 2015</title><link>/news/vol11/n1/june2015/</link><pubDate>Sat, 25 Jul 2026 15:04:50 +0200</pubDate><guid>/news/vol11/n1/june2015/</guid><description>&lt;h2 id="constraint-programming-news">Constraint Programming News&lt;/h2>
-&lt;h4 id="editors">Editors:&lt;/h4>
-&lt;h5 id="guido-tack-pedro-meseguer-pierre-schaus-roland-yap">&lt;a href="http://www.csse.monash.edu/~guidot/">Guido Tack&lt;/a>, &lt;a href="http://www.iiia.csic.es/~pedro/">Pedro Meseguer&lt;/a>, &lt;a href="http://www.info.ucl.ac.be/~pschaus/">Pierre Schaus&lt;/a>, &lt;a href="https://www.comp.nus.edu.sg/~ryap/">Roland Yap&lt;/a>&lt;/h5>
-&lt;h2 id="contents">CONTENTS&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="#editorial">editorial&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#news">news:&lt;/a> ACP reports for Q1/Q2 2015&lt;/li>
-&lt;li>&lt;a href="#cpaior">reports:&lt;/a> CP-AI-OR 2015 in Barcelona&lt;/li>
-&lt;li>&lt;a href="#classicpapers">Papers with impact&lt;/a> (by Mark Wallace)&lt;/li>
-&lt;li>&lt;a href="#theses">thesis archive:&lt;/a> Final call to submit thesis abstracts for Constraints&lt;/li>
-&lt;li>&lt;a href="#success_stories">new initiative:&lt;/a> CP Success Stories&lt;/li>
-&lt;li>&lt;a href="#csplib">CSPLib sprint at CP 2015:&lt;/a> Make a contribution to CSPLib&lt;/li>
-&lt;/ul>
-&lt;h2 id="editorial">Editorial&lt;/h2>
-&lt;p>Welcome to issue 1 of the CP Newsletter for 2015.&lt;/p>
-&lt;p>This time, the newsletter features a short summary of CP-AI-OR 2015, and we have a new article in our series on &amp;ldquo;papers with impact&amp;rdquo;, kindly contributed by Mark Wallace.&lt;/p></description></item><item><title>Election Results</title><link>/taxonomy/term/5/feed/</link><pubDate>Sat, 25 Jul 2026 15:04:49 +0200</pubDate><guid>/taxonomy/term/5/feed/</guid><description/></item><item><title>Policies</title><link>/category/</link><pubDate>Sat, 25 Jul 2026 15:04:49 +0200</pubDate><guid>/category/</guid><description>&lt;h3 id="1-bidding-for-the-conference-organisation">1. Bidding for the Conference Organisation&lt;/h3>
+&lt;p>v9&lt;/p></description></item><item><title>Policies</title><link>/taxonomy/term/9/feed/</link><pubDate>Sat, 25 Jul 2026 15:04:50 +0200</pubDate><guid>/taxonomy/term/9/feed/</guid><description/></item><item><title>Election Results</title><link>/taxonomy/term/5/feed/</link><pubDate>Sat, 25 Jul 2026 15:04:49 +0200</pubDate><guid>/taxonomy/term/5/feed/</guid><description/></item><item><title>Policies</title><link>/category/</link><pubDate>Sat, 25 Jul 2026 15:04:49 +0200</pubDate><guid>/category/</guid><description>&lt;h3 id="1-bidding-for-the-conference-organisation">1. Bidding for the Conference Organisation&lt;/h3>
 &lt;p>The ACP Executive Committee (EC) holds the annual International Conference on Principles and Practice of Constraint Programming (CP). If you are interested in organising a future CP conference, then you need to make a proposal to the Conference Coordinator of the EC (&lt;a href="mailto:helene.verhaeghe@uclouvain.be">helene.verhaeghe@uclouvain.be&lt;/a>). A proposal consists of volunteering to be Conference Chairs (CC) of the conference and to be responsible for the budget and local arrangements in the proposed city.&lt;/p></description></item><item><title>Constraints - Volume 29, Issue 3-4</title><link>/constraints-journal/cj-vol29-34/</link><pubDate>Sat, 25 Jul 2026 15:04:48 +0200</pubDate><guid>/constraints-journal/cj-vol29-34/</guid><description>&lt;p>&lt;img loading="lazy" src="/sites/default/files/Screenshot%202025-02-19%20163259_0.jpg">&lt;br>
 December 2024&lt;/p>
 &lt;p>&lt;strong>&lt;a href="https://rdcu.be/d1gXD">Learning and fine-tuning a generic value-selection heuristic inside a constraint programming solver&lt;/a>&lt;/strong>&lt;br>
