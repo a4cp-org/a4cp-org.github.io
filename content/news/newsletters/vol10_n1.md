@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /news/vol10/n1/Apr2014
 title: "Volume 10, Number 1, April 2014"
 date: 2026-07-25T15:04:51+0200
 draft: false

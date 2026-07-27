@@ -4,7 +4,7 @@ date: 2026-07-25T15:04:50+0200
 draft: false
 ---
 
-[Volume 11, Number 1, April-June 2015](/news/vol11/n1/June2015)
+[Volume 11, Number 1, April-June 2015](/news/newsletters/vol11_n1)
 
 June 2015
 
@@ -12,7 +12,7 @@ n1
 
 v11
 
-[Volume 11, Number 0, January-March 2015](/news/vol11/n0/Jan2015)
+[Volume 11, Number 0, January-March 2015](/news/newsletters/vol11_n0)
 
 January 2015
 
@@ -20,7 +20,7 @@ n0
 
 v11
 
-[Volume 10, Number 2/3, October 2014](/news/vol10/n3/Oct2014)
+[Volume 10, Number 2/3, October 2014](/news/newsletters/vol10_n3)
 
 October 2014
 
@@ -28,7 +28,7 @@ n3
 
 v10
 
-[Volume 10, Number 1, April 2014](/news/vol10/n1/Apr2014)
+[Volume 10, Number 1, April 2014](/news/newsletters/vol10_n1)
 
 April 2014
 
@@ -36,7 +36,7 @@ n1
 
 v10
 
-[Volume 10, Number 0, January 2014](/news/vol10/n0/Jan2014)
+[Volume 10, Number 0, January 2014](/news/newsletters/vol10_n0)
 
 January 2014
 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /news/vol10/n3/Oct2014
 title: "Volume 10, Number 2/3, October 2014"
 date: 2026-07-25T15:04:51+0200
 draft: false

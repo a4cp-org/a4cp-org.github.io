@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /news/vol11/n0/Jan2015
 title: "Volume 11, Number 0, January-March 2015"
 date: 2026-07-25T15:04:51+0200
 draft: false

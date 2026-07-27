@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /news/vol10/n0/Jan2014
 title: "Volume 10, Number 0, January 2014"
 date: 2026-07-25T15:04:52+0200
 draft: false

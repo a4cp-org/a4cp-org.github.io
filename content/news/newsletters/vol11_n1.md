@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /news/vol11/n1/June2015
 title: "Volume 11, Number 1, April-June 2015"
 date: 2026-07-25T15:04:50+0200
 draft: false
