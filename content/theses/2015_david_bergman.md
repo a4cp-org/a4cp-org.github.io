@@ -1,23 +1,16 @@
 ---
-aliases:
-  - /old_nodes/1053
 title: "New Techniques for Discrete Optimization"
 draft: false
+aliases:
+  - /old_nodes/1053
+  - /theses/new_techniques_for_discrete_op
 ---
 
-### Author
-
-David Bergman
-
-### School
-
-Tepper School of Business, Carnegie Mellon University
-
-### Supervisors
-
-J.N. Hooker
-
-Willem-Jan van Hoeve
+**Author:** David Bergman  
+**School:** Tepper School of Business, Carnegie Mellon University  
+**Supervisors:** J.N. Hooker, Willem-Jan van Hoeve  
+**Graduated:** May 19, 2015  
+**Link to full text:** [New Techniques for Discrete Optimization](http://www.business.uconn.edu/wp-content/uploads/sites/969/2014/12/bergman_thesis.pdf)  
 
 ### Abstract
 
@@ -37,11 +30,3 @@ We employ a common strategy for generating problem-specific cuts: the identifica
 of facet-defining cuts for special types of induced subgraphs, such as odd-holes, webs, and paths. We identify cuts that bound the objective function as well as cuts that exclude infeasible solutions.
 
 One structure that we focus on is cyclic structures and show that the cuts we obtain are stronger than previously known cuts. For example, when an existing separation algorithm identifies odd-hole cuts, we can supply stronger cuts with no additional calculation. In addition, we generalize odd-hole cuts to odd-cycle cuts that are stronger than any collection of odd-hole cuts. We also identify cuts associated with intersecting systems, for which there are no previously known 0-1 cuts, to the best of our knowledge.
-
-### Graduated
-
-Tuesday, May 19, 2015 - 12:00
-
-### Link to full text
-
-[New Techniques for Discrete Optimization](http://www.business.uconn.edu/wp-content/uploads/sites/969/2014/12/bergman_thesis.pdf)

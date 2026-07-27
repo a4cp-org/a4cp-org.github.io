@@ -1,23 +1,15 @@
 ---
-aliases:
-  - /old_nodes/1052
 title: "Decision Diagrams for Optimization"
 draft: false
+aliases:
+  - /old_nodes/1052
+  - /theses/decision_diagrams_for_optimiza
 ---
 
-### Author
-
-Andre Augusto Cire
-
-### School
-
-Carnegie Mellon University
-
-### Supervisors
-
-John Hooker
-
-Willem-Jan van Hoeve
+**Author:** Andre Augusto Cire  
+**School:** Carnegie Mellon University  
+**Supervisors:** John Hooker, Willem-Jan van Hoeve  
+**Graduated:** August 08, 2014  
 
 ### Abstract
 
@@ -28,7 +20,3 @@ In this dissertation we develop new methodologies based on decision diagrams to 
 In our second contribution, we focus on the application of approximate diagram to sequencing and scheduling problems. We show that, besides the computation of bounds, approximate decision diagram can be used to deduce non-trivial constraints of a problem, such as precedence relations between jobs in scheduling applications. We also demonstrate that such inference can be incorporated into state-of-the-art solvers and speed-up the optimization process by orders of magnitude.
 
 Finally, we propose new parallelization strategies that exploits the recursive structure of an approximate diagram. These strategies decouple a problem in a naturally loose fashion and allow for more effective load balancing heuristics when considering hundreds of computer cores.
-
-### Graduated
-
-Friday, August 8, 2014 - 12:00

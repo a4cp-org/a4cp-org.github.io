@@ -1,24 +1,15 @@
 ---
+title: "Harnessing Tractability in Constraint Satisfaction Problems"
+draft: false
 aliases:
   - /old_nodes/1278
-title: "Harnessing Tractability in Constraint Satisfaction Problems"
-date: 2026-07-25T15:04:37+0200
-draft: false
+  - /theses/harnessing_tractability_in_con
 ---
 
-### Author
-
-Clément Carbonnel
-
-### School
-
-INP Toulouse
-
-### Supervisors
-
-Emmanuel Hebrard
-
-Martin C. Cooper
+**Author:** Clément Carbonnel  
+**School:** INP Toulouse  
+**Supervisors:** Emmanuel Hebrard, Martin C. Cooper  
+**Graduated:** December 07, 2016  
 
 ### Abstract
 
@@ -29,7 +20,3 @@ First, most real-world CSP instances do not belong to a well-studied tractable c
 Second, many tractable classes are defined by elusive algebraic properties and more often than not the complexity of testing for them is unknown - in some cases, even decidability is an issue. To address this issue, we present a universal algorithm that determines the complexity of any conservative constraint language in polynomial time. If the language turns out to be tractable, our algorithm also outputs valuable information on its algebraic structure. We complement this result with specialized, highly efficient polynomial-time algorithms for two well-known tractable classes.
 
 Third and last, the definition of CSP used in most theoretical works ignores one of the most widely used feature of constraint solvers, global constraints. We focus on global constraints which are NP-hard to propagate and develop a full theory of "constraint kernelization", which provide novel algorithmic tools for propagator design. The notion of constraint kernelization is highly flexible; it can be used to create both complete and incomplete propagators with strong theoretical guarantees. We showcase our ideas by reporting promising experiments on an NP-hard global constraint implemented in Mistral.
-
-### Graduated
-
-Wednesday, December 7, 2016 - 12:00

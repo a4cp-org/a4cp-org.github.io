@@ -1,21 +1,15 @@
 ---
-aliases:
-  - /old_nodes/1057
 title: "Hybrid Methods for Resource Allocation and Scheduling Problems in Deterministic and Stochastic Environments"
 draft: false
+aliases:
+  - /old_nodes/1057
+  - /theses/hybrid_methods_for_resource_al
 ---
 
-### Author
-
-Michele Lombardi
-
-### School
-
-University of Bologna
-
-### Supervisors
-
-Michela Milano
+**Author:** Michele Lombardi  
+**School:** University of Bologna  
+**Supervisors:** Michela Milano  
+**Graduated:** April 01, 2010  
 
 ### Abstract
 
@@ -27,11 +21,3 @@ On this regard, since embedded systems tend to run the same set of applications 
 
 In this work, we consider in first instance an Allocation and Scheduling problem over the Cell BE processor by Sony, IBM and Toshiba; we propose three different solution methods, leveraging decomposition, cut generation and heuristic guided search. Next, we face Allocation and Scheduling of so-called Conditional Task Graphs, explicitly accounting for branches with outcome not known at design time; we extend the CP scheduling framework to effectively deal with the introduced stochastic elements. Finally, we address Allocation and Scheduling with uncertain, bounded execution times, via conflict based tree search; we introduce a simple and flexible time model to take into account duration variability and provide an efficient conflict detection method.
 The proposed approaches achieve good results on practical size problems, thus demonstrating the use of exact approaches for system design is feasible. Furthermore, the developed techniques bring significant contributions to combinatorial optimization methods.
-
-### Graduated
-
-Thursday, April 1, 2010 - 12:00
-
-### Notes
-
-This work received a honorable mention at the CP Doctoral Research Award in 2011

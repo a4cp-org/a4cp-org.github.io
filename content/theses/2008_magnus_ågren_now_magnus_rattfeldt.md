@@ -1,24 +1,16 @@
 ---
+title: "Set Constraints for Local Search"
+draft: false
 aliases:
   - /old_nodes/975
-title: "Set Constraints for Local Search"
-date: 2026-07-25T15:04:45+0200
-draft: false
+  - /theses/set_constraints_for_local_sear
 ---
 
-### Author
-
-Magnus Ågren (now Magnus Rattfeldt)
-
-### School
-
-Uppsala University
-
-### Supervisors
-
-Pierre Flener
-
-Justin Pearson
+**Author:** Magnus Ågren (now Magnus Rattfeldt)  
+**School:** Uppsala University  
+**Supervisors:** Pierre Flener, Justin Pearson  
+**Graduated:** January 18, 2008  
+**Link to full text:** [Set Constraints for Local Search](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-8373)  
 
 ### Abstract
 
@@ -29,11 +21,3 @@ To provide higher-level modelling options, we introduce set variables and set co
 To enable higher-level search algorithms, we introduce constraint-directed neighbourhoods in local search by proposing new constraint primitives for representing such neighbourhoods. Based on a constraint, possibly modelled in monadic existential second-order logic, these primitives return neighbourhoods with moves that are known in advance to achieve a decrease (or preservation, or increase) of the constraint measures, without the need to iterate over any other moves.
 
 We also present a framework for constraint-based local search where one can model and solve combinatorial problems with set variables and set constraints, use any set constraint modelled in monadic existential second-order logic, as well as use constraint-directed neighbourhoods. Experimental results on three real-life problems show the usefulness in practice of our theoretical results: our running times are comparable to the current state-of-the-art approaches to solving the considered problems.
-
-### Graduated
-
-Friday, January 18, 2008 - 12:00
-
-### Link to full text
-
-[Set Constraints for Local Search](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Auu%3Adiva-8373)

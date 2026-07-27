@@ -1,22 +1,16 @@
 ---
+title: "Improving combinatorial optimization"
+draft: false
 aliases:
   - /old_nodes/1276
-title: "Improving combinatorial optimization"
-date: 2026-07-25T15:04:37+0200
-draft: false
+  - /theses/improving_combinatorial_optimi
 ---
 
-### Author
-
-Geoffrey G Chu
-
-### School
-
-The University of Melbourne, Australia
-
-### Supervisors
-
-Peter J Stuckey
+**Author:** Geoffrey G Chu  
+**School:** The University of Melbourne, Australia  
+**Supervisors:** Peter J Stuckey  
+**Graduated:** October 01, 2011  
+**Link to full text:** [Melbourne University Institutional Repository](https://minerva-access.unimelb.edu.au/handle/11343/36679)  
 
 ### Abstract
 
@@ -33,11 +27,3 @@ We examine three reasonably well known problems: the Minimization of Open Stacks
 We identify cache contention as a serious bottleneck that severely limit the amount of speedup achievable when parallelizing SAT and LCG solvers on multi-core systems. We alter the data structures used in the state of the art SAT solver MiniSat to be more cache aware, leading to a sequential SAT solver that is some 80% faster on average and a parallel SAT solver that is some 140% faster on average.
 
 We examine an important issue in parallel search that has not been properly addressed in the literature. Many work stealing schemes used for load balancing completely ignore the branching heuristic, and instead try to maximize the granularity of the work stolen. This can result in many of the processors searching in unfruitful parts of the search tree. We analyze this problem and develop a new work stealing scheme called confidence based work stealing, which partitions the work based on how strong the branching heuristic is at each node. The new parallel algorithm produced near linear or super linear speedup on all the problems we tested.
-
-### Graduated
-
-Saturday, October 1, 2011 - 12:00
-
-### Link to full text
-
-[Melbourne University Institutional Repository](https://minerva-access.unimelb.edu.au/handle/11343/36679)

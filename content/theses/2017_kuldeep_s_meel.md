@@ -1,24 +1,15 @@
 ---
+title: "Constrained Counting and Sampling: Bridging the Gap between Theory and Practice"
+draft: false
 aliases:
   - /old_nodes/1294
-title: "Constrained Counting and Sampling: Bridging the Gap between Theory and Practice"
-date: 2026-07-25T15:04:38+0200
-draft: false
+  - /theses/constrained_counting_and_sampl
 ---
 
-### Author
-
-Kuldeep S. Meel
-
-### School
-
-Rice University
-
-### Supervisors
-
-Supratik Chakraborty
-
-Moshe Y. Vardi
+**Author:** Kuldeep S. Meel  
+**School:** Rice University  
+**Supervisors:** Supratik Chakraborty, Moshe Y. Vardi  
+**Graduated:** December 31, 2017  
 
 ### Abstract
 
@@ -46,7 +37,3 @@ including probabilistic inference, design verification and estimating the reliab
 critical infrastructure networks during natural disasters. The high parallelizability of
 our approach opens up new directions for development of artificial intelligence tools
 that can effectively leverage high-performance computing resources.
-
-### Graduated
-
-Sunday, December 31, 2017 - 12:00

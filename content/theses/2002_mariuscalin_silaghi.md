@@ -1,22 +1,16 @@
 ---
+title: "Asynchronously solving problems with privacy requirements"
+draft: false
 aliases:
   - /old_nodes/1299
-title: "Asynchronously solving problems with privacy requirements"
-date: 2026-07-25T15:04:42+0200
-draft: false
+  - /theses/asynchronously_solving_problem
 ---
 
-### Author
-
-Marius-Calin Silaghi
-
-### School
-
-Swiss Federal Institute of Technology (EPFL)
-
-### Supervisors
-
-Boi Faltings
+**Author:** Marius-Calin Silaghi  
+**School:** Swiss Federal Institute of Technology (EPFL)  
+**Supervisors:** Boi Faltings  
+**Graduated:** January 06, 2002  
+**Link to full text:** [Asynchronously solving problems with privacy requirements](https://cs.fit.edu/~msilaghi/teza/)  
 
 ### Abstract
 
@@ -101,15 +95,3 @@ Among the main contributions I mention:
   (Section 17.10). A classical dualism for CSPs defines a standard transfer between privacy on
   constraints and privacy on domains (see Section 3.5.2 and Chapter 18). We have also defined
   a primal version of this technique.
-
-### Graduated
-
-Sunday, January 6, 2002 - 12:00
-
-### Link to full text
-
-[Asynchronously solving problems with privacy requirements](https://cs.fit.edu/~msilaghi/teza/)
-
-### Also published in
-
-[Distributed Constraint Reasoning with Privacy Requirements](http://www.lulu.com/shop/marius-silaghi/distributed-constraint-reasoning-with-privacy-requirements/paperback/product-23541566.html)

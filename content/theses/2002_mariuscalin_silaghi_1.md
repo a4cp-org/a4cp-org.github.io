@@ -1,22 +1,16 @@
 ---
+title: "Asynchronously solving problems with privacy requirements"
+draft: false
 aliases:
   - /old_nodes/984
-title: "Asynchronously solving problems with privacy requirements"
-date: 2026-07-25T15:04:43+0200
-draft: false
+  - /theses/asynchronously_solving_problem_1
 ---
 
-### Author
-
-Marius-Calin Silaghi
-
-### School
-
-Swiss Federal Institute of Technology (EPFL)
-
-### Supervisors
-
-Boi Faltings
+**Author:** Marius-Calin Silaghi  
+**School:** Swiss Federal Institute of Technology (EPFL)  
+**Supervisors:** Boi Faltings  
+**Graduated:** August 02, 2002  
+**Link to full text:** [Asynchronously solving problems with privacy requirements](http://cs.fit.edu/~msilaghi/teza/)  
 
 ### Abstract
 
@@ -151,15 +145,3 @@ domains (see Section~\ref{sec:domain-constraints} and
 Chapter~\ref{chap:DisGCSP}). We have also defined a primal version of
 this technique.
 [SNEAKERS](https://academynet.com/ebeoshop/sneakers)
-
-### Graduated
-
-Friday, August 2, 2002 - 12:00
-
-### Link to full text
-
-[Asynchronously solving problems with privacy requirements](http://cs.fit.edu/~msilaghi/teza/)
-
-### Also published in
-
-[Distributed Constraint Reasoning with Privacy Requirements](http://www.lulu.com/shop/marius-silaghi/distributed-constraint-reasoning-with-privacy-requirements/paperback/product-23541566.html)

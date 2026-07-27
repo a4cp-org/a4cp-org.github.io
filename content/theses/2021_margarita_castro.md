@@ -1,24 +1,16 @@
 ---
+title: "Optimization Methods Based on Decision Diagrams for Constraint Programming, AI Planning, and Mathematical Programming"
+draft: false
 aliases:
   - /old_nodes/1392
-title: "Optimization Methods Based on Decision Diagrams for Constraint Programming, AI Planning, and Mathematical Programming"
-date: 2026-07-25T15:04:35+0200
-draft: false
+  - /theses/optimization_methods_based_on_
 ---
 
-### Author
-
-Margarita Castro
-
-### School
-
-University of Toronto
-
-### Supervisors
-
-J. Christopher Beck
-
-Andre A. Cire
+**Author:** Margarita Castro  
+**School:** University of Toronto  
+**Supervisors:** J. Christopher Beck, Andre A. Cire  
+**Graduated:** March 01, 2021  
+**Link to full text:** [Optimization Methods Based on Decision Diagrams for Constraint Programming, AI …](https://www.proquest.com/docview/2507182586?pq-origsite=gscholar&fromopenview=true)  
 
 ### Abstract
 
@@ -29,15 +21,3 @@ This dissertation investigates new techniques to use DDs in conjunction with exi
 Throughout this work, we address this thesis by developing novel DD procedures that leverage methodologies from different optimization fields to solve discrete optimization problems. Our first project employs Lagrangian duality to strengthen DD bounds for pickup-and-delivery problems. The second project explores new ways to generate admissible heuristics for AI planning tasks by combining DD relaxations with AI planning techniques. This work also studies the relationship between DD heuristics and existing admissible heuristics in the community. Lastly, we propose a novel combinatorial lifting procedure and two cutting plane approaches based on DDs for general-form binary optimization problems. We show theoretical guarantees for our lifting procedure (e.g., conditions to obtain facet defining inequalities) and provide a thorough theoretical analysis of our two cutting plane procedures.
 
 We apply our DD techniques to different problems, extending the usability of DDs in the field. Our first work extends the literature of DDs for sequencing problems by considering capacity constraints and proposing a DD construction procedure based on this restriction. We also present two DD encodings for delete-free AI planning and analyze the properties of both representations. Our last project introduces a new DD network flow formulation and proposes a novel DD encoding for second-order cone inequalities.
-
-### Graduated
-
-Monday, March 1, 2021 - 12:00
-
-### Link to full text
-
-[Optimization Methods Based on Decision Diagrams for Constraint Programming, AI …](https://www.proquest.com/docview/2507182586?pq-origsite=gscholar&fromopenview=true)
-
-### Notes
-
-This dissertation obtained the Doctoral Research Award from the Association for Constraint Programming (ACP) in 2021. Also, the third chapter of this dissertation won the Student Paper Competition (Open Category) from the Canadian OR Society (CORS) in 2020 and was recognized as the runner-up of the Student Paper Award given by the INFORMS Computing Society (ICS) in 2020.

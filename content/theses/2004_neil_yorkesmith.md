@@ -1,22 +1,15 @@
 ---
+title: "Reliable Constraint Reasoning with Uncertain Data"
+draft: false
 aliases:
   - /old_nodes/991
-title: "Reliable Constraint Reasoning with Uncertain Data"
-date: 2026-07-25T15:04:43+0200
-draft: false
+  - /theses/reliable_constraint_reasoning_
 ---
 
-### Author
-
-Neil Yorke-Smith
-
-### School
-
-Imperial College London
-
-### Supervisors
-
-Carmen Gervet
+**Author:** Neil Yorke-Smith  
+**School:** Imperial College London  
+**Supervisors:** Carmen Gervet  
+**Graduated:** June 01, 2004  
 
 ### Abstract
 
@@ -29,15 +22,3 @@ We provide reliable information by enclosing the uncertainty with what is known,
 The approach is formalised as the certainty closure framework. We define the concept of an Uncertain Constraint Satisfaction Problem (UCSP) to bring an explicit description of uncertain data into the model. We define several useful closures to a UCSP, and specify how to derive them across disparate domains by giving two resolutions forms. Instances are presented for specific constraint classes.
 
 The practical value of the generic framework is demonstrated in applications to network diagnosis and aerospace planning. Tractable solution methods to derive closures are exhibited for each instance of the framework, and verified by empirical studies.
-
-### Graduated
-
-Tuesday, June 1, 2004 - 12:00
-
-### Also published in
-
-[Yorke-Smith, N. and Gervet, C. Certainty Closure: Reliable Constraint Reasoning…](http://dx.doi.org/10.1145/1459010.1459013)
-
-[Yorke-Smith, N. and Gervet, C. Certainty Closure: A Framework for Reliable Cons…](http://dx.doi.org/10.1007/978-3-540-45193-8_52)
-
-[Yorke-Smith, N. and Gervet, C. On Constraint Problems with Incomplete or Errone…](http://dx.doi.org/10.1007/3-540-46135-3_54)
