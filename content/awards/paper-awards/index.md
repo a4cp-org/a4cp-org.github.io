@@ -6,29 +6,29 @@ draft: false
 
 ### CP 2025
 
-* **Best Technical Paper**: J. Christopher Beck, Ryo Kuroiwa, Jimmy H. M. Lee, Peter J. Stuckey, and Allen Z. Zhong. [Transition Dominance in Domain-Independent Dynamic Programming](https://drops.dagstuhl.de/cp/papers/LIPIcs.CP.2025.5.pdf)
-* **Best Application Paper**: Ignace Bleukx, Ryma Boumazouza, Tias Guns, Nadine Laage, and Guillaume Poveda. [Modeling and Explaining an Industrial Workforce Allocation and Scheduling Problem](https://drops.dagstuhl.de/cp/papers/LIPIcs.CP.2025.6.pdf)
-* **Best Student Paper**: Hannes Ihalainen, Jeremias Berg, Matti Järvisalo, and Bart Bogaerts. [Symmetric Core Learning for Pseudo-Boolean Optimization by Implicit Hitting Sets](https://drops.dagstuhl.de/cp/papers/LIPIcs.CP.2025.15.pdf)
+* **Best Technical Paper**: J. Christopher Beck, Ryo Kuroiwa, Jimmy H. M. Lee, Peter J. Stuckey, and Allen Z. Zhong. [Transition Dominance in Domain-Independent Dynamic Programming](/cp/papers/LIPIcs.CP.2025.5.pdf)
+* **Best Application Paper**: Ignace Bleukx, Ryma Boumazouza, Tias Guns, Nadine Laage, and Guillaume Poveda. [Modeling and Explaining an Industrial Workforce Allocation and Scheduling Problem](/cp/papers/LIPIcs.CP.2025.6.pdf)
+* **Best Student Paper**: Hannes Ihalainen, Jeremias Berg, Matti Järvisalo, and Bart Bogaerts. [Symmetric Core Learning for Pseudo-Boolean Optimization by Implicit Hitting Sets](/cp/papers/LIPIcs.CP.2025.15.pdf)
 
 ### CP 2024
 
-* **Best Main Track Paper**: Peng Lin, Mengchuan Zou and Shaowei Cai. [An Efficient Local Search Solver for Mixed Integer Programming](https://drops.dagstuhl.de/cp/papers/LIPIcs.CP.2024.19.pdf)
-* **Best Application Track Paper**: Duc Anh Le, Stephanie Roussel, Christophe Lecoutre and Anouck Chan. [Learning Effect and Compound Activities in High Multiplicity RCPSP: Application to Satellite Production](https://drops.dagstuhl.de/cp/papers/LIPIcs.CP.2024.18.pdf)
-* **Best ML Track Paper**: Augustin Parjadis, Quentin Cappart, Bistra Dilkina, Aaron Ferber and Louis-Martin Rousseau. [Learning Lagrangian Multipliers for the Travelling Salesman Problem](https://drops.dagstuhl.de/cp/papers/LIPIcs.CP.2024.22.pdf)
+* **Best Main Track Paper**: Peng Lin, Mengchuan Zou and Shaowei Cai. [An Efficient Local Search Solver for Mixed Integer Programming](/cp/papers/LIPIcs.CP.2024.19.pdf)
+* **Best Application Track Paper**: Duc Anh Le, Stephanie Roussel, Christophe Lecoutre and Anouck Chan. [Learning Effect and Compound Activities in High Multiplicity RCPSP: Application to Satellite Production](/cp/papers/LIPIcs.CP.2024.18.pdf)
+* **Best ML Track Paper**: Augustin Parjadis, Quentin Cappart, Bistra Dilkina, Aaron Ferber and Louis-Martin Rousseau. [Learning Lagrangian Multipliers for the Travelling Salesman Problem](/cp/papers/LIPIcs.CP.2024.22.pdf)
 
 ### CP 2023
 
-* **Best Paper**: Mathew J. McIlree and Ciaran McCreesh. [Proof Logging for Smart Extensional Constraints](https://drops.dagstuhl.de/cp/papers/LIPIcs-CP-2023-26.pdf)
-* **Best Application Track Paper**: Matthias Klapperstueck, Frits De Nijs, Ilankaikone Senthooran, Jack Lee-Kopij, Maria Garcia De La Banda and Michael Wybrow. [Exploring Hydrogen Supply/Demand Networks: Modeller and Domain Expert views](https://drops.dagstuhl.de/cp/papers/LIPIcs-CP-2023-21.pdf)
+* **Best Paper**: Mathew J. McIlree and Ciaran McCreesh. [Proof Logging for Smart Extensional Constraints](/cp/papers/LIPIcs-CP-2023-26.pdf)
+* **Best Application Track Paper**: Matthias Klapperstueck, Frits De Nijs, Ilankaikone Senthooran, Jack Lee-Kopij, Maria Garcia De La Banda and Michael Wybrow. [Exploring Hydrogen Supply/Demand Networks: Modeller and Domain Expert views](/cp/papers/LIPIcs-CP-2023-21.pdf)
 
 ### CP 2022
 
-* **Best Paper**: Isaac Rudich, Quentin Cappart and Louis-Martin Rousseau. [Peel-and-Bound: Generating Stronger Relaxed Bounds with Multivalued Decision Diagrams](https://drops.dagstuhl.de/cp/papers/LIPIcs-CP-2022-35.pdf)
-* **Best Student Paper**: Jimmy H. M. Lee and Allen Z. Zhong. [Exploiting Functional Constraints in Generating Dominance Breaking Nogoods for Constraint Optimization](https://drops.dagstuhl.de/cp/papers/LIPIcs-CP-2022-31.pdf)
+* **Best Paper**: Isaac Rudich, Quentin Cappart and Louis-Martin Rousseau. [Peel-and-Bound: Generating Stronger Relaxed Bounds with Multivalued Decision Diagrams](/cp/papers/LIPIcs-CP-2022-35.pdf)
+* **Best Student Paper**: Jimmy H. M. Lee and Allen Z. Zhong. [Exploiting Functional Constraints in Generating Dominance Breaking Nogoods for Constraint Optimization](/cp/papers/LIPIcs-CP-2022-31.pdf)
 
 ### CP 2021
 
-* **Best Paper**: Chu-Min Li, Zhenxing Xu, Jordi Coll, Felip Manya, Djamal Habet, and Kun He. [Combining Clause Learning and Branch and Bound for MaxSAT](https://drops.dagstuhl.de/cp/papers/LIPIcs-CP-2021-38.pdf)
+* **Best Paper**: Chu-Min Li, Zhenxing Xu, Jordi Coll, Felip Manya, Djamal Habet, and Kun He. [Combining Clause Learning and Branch and Bound for MaxSAT](/cp/papers/LIPIcs-CP-2021-38.pdf)
 
 ### CP 2020
 
