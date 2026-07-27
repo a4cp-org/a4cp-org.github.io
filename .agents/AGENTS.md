@@ -13,3 +13,6 @@
 
 ## Core Rule: Keep Menu Tree Synchronized
 - Whenever a folder, content file, or path is renamed or moved within the `content/` directory, you **MUST** simultaneously update `.agents/menu_tree.md` to reflect the new path, ensuring the menu hierarchy tracking remains perfectly accurate.
+
+## Core Rule: Internal Link Consistency
+- Whenever a folder, file, or path is renamed or restructured, you **MUST** comprehensively search and replace all internal links throughout the `content/` files that point to the old URL. Do not leave legacy or broken links (e.g. `/old_nodes/`) lying around in Markdown files when their targets have been restructured.

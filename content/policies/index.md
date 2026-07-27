@@ -8,7 +8,7 @@ draft: false
 
 The ACP Executive Committee (EC) holds the annual International Conference on Principles and Practice of Constraint Programming (CP). If you are interested in organising a future CP conference, then you need to make a proposal to the Conference Coordinator of the EC (helene.verhaeghe@uclouvain.be). A proposal consists of volunteering to be Conference Chairs (CC) of the conference and to be responsible for the budget and local arrangements in the proposed city.
 
-[Read more about CP Conference Organisation Policy](/old_nodes/90)
+[Read more about CP Conference Organisation Policy](/policies/cp_conference_organisation)
 
 ## Anti-Harassment Policy
 
@@ -20,4 +20,4 @@ The open exchange of ideas is central to the mission of the Association for Cons
 
 The ACP shares the policy of the [Association for the Advancement of Artificial Intelligence](https://www.aaai.org) (AAAI) on diversity, equity, and inclusion. We believe that ACP's greatest strengths come from the people who make up our community. The ACP is committed to fostering an inclusive community with opportunities for all participants without regard to age, religion, race, ethnicity, gender identity, sexual orientation, national origin, or disability.
 
-[Read more about Diversity, Equity and Inclusion Policy](/old_nodes/62)
+[Read more about Diversity, Equity and Inclusion Policy](/policies/diversity_equity_inclusion)
