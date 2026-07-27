@@ -1,59 +1,117 @@
+/* Main menu vertical styling for right sidebar */
+ul.menu {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    gap: 15px;
+}
+
+ul.menu > li {
+    width: 100%;
+}
+
+ul.menu > li > a {
+    display: block;
+    padding: 10px 15px;
+    border-radius: var(--radius);
+    transition: background-color 0.3s ease, color 0.3s ease, transform 0.2s ease;
+    background-color: var(--entry);
+    border: 1px solid var(--border);
+    font-weight: 600;
+}
+
+ul.menu > li > a:hover {
+    background-color: var(--primary);
+    color: var(--theme);
+    transform: translateX(-5px);
+}
+
 /* Dropdown menu styling */
 .menu .has-children {
     position: relative;
 }
 .menu .has-children .drop-icon {
+    float: right;
     font-size: 0.8em;
-    margin-left: 5px;
+    margin-top: 5px;
 }
 .menu .sub-menu {
     display: none;
     position: absolute;
-    top: 100%;
-    left: 0;
+    top: 0;
+    right: 100%; /* Fly out to the left because menu is on the right */
+    left: auto;
     background-color: var(--theme);
     border: 1px solid var(--border);
     border-radius: var(--radius);
     padding: 10px 0;
     min-width: 250px;
     z-index: 1000;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: -4px 4px 15px rgba(0, 0, 0, 0.1);
+    margin-right: 10px; /* Gap between parent and flyout */
 }
-.menu .has-children:hover .sub-menu {
+
+/* Show submenu on hover */
+.menu .has-children:hover > .sub-menu {
     display: block;
+    animation: fade-in-left 0.2s ease-out forwards;
 }
+
+@keyframes fade-in-left {
+    from { opacity: 0; transform: translateX(10px); }
+    to { opacity: 1; transform: translateX(0); }
+}
+
 .menu .sub-menu li {
     display: block;
     margin: 0;
 }
 .menu .sub-menu li a {
     display: block;
-    padding: 8px 15px;
-    font-weight: 400;
+    padding: 10px 20px;
+    font-weight: 500;
     color: var(--primary);
     text-decoration: none;
+    transition: background-color 0.2s ease, padding-left 0.2s ease;
 }
 .menu .sub-menu li a:hover {
-    background-color: var(--tertiary);
+    background-color: var(--entry);
+    padding-left: 25px; /* Nice indent effect on hover */
 }
 
 /* Third-level menu styling */
 .menu .sub-menu .has-children > .sub-menu.third-level {
     display: none;
     top: 0;
-    left: 100%; /* Slide out to the right */
-    margin-left: 0;
+    right: 100%; /* Slide out to the left */
+    left: auto;
+    margin-right: 0;
 }
 .menu .sub-menu .has-children:hover > .sub-menu.third-level {
     display: block;
 }
+
 /* Ensure hover over parent doesn't show ALL third level menus, only the hovered one's */
-.menu .has-children:hover > .sub-menu {
-    display: block;
-}
 .menu .has-children:hover .sub-menu .sub-menu {
     display: none; /* Hide deeper levels until their direct parent is hovered */
 }
 .menu .sub-menu .has-children:hover > .sub-menu {
     display: block; /* Show the deeper level when its direct parent is hovered */
+}
+
+/* Layout overrides for new modern two-column layout */
+.header-nav {
+    max-width: 1200px !important;
+}
+.layout-wrapper {
+    margin-top: 20px;
+}
+.sidebar-column {
+    position: sticky;
+    top: 20px;
+    align-self: flex-start;
 }
