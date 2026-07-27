@@ -1,30 +1,66 @@
 {{ $currentPage := . }}
-{{ $subMenuItems := slice }}
+{{ $pageUrl := $currentPage.RelPermalink }}
+{{ $pageUrlNoSlash := strings.TrimRight "/" $pageUrl }}
+{{ $pageUrlWithSlash := printf "%s/" $pageUrlNoSlash }}
+{{ $topLevelItem := "" }}
 
-{{/* First try to find the top level menu item that matches the section */}}
 {{ range site.Menus.main }}
-  {{ if eq .Identifier $currentPage.Section }}
-    {{ $subMenuItems = .Children }}
+  {{ $isCurrentTop := false }}
+  
+  {{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}
+    {{ $isCurrentTop = true }}
+  {{ end }}
+
+  {{ if or (eq $pageUrlNoSlash (strings.TrimRight "/" .URL)) (eq $pageUrlWithSlash (printf "%s/" (strings.TrimRight "/" .URL))) }}
+    {{ $isCurrentTop = true }}
+  {{ end }}
+  
+  {{ range .Children }}
+    {{ if or (eq $pageUrlNoSlash (strings.TrimRight "/" .URL)) (eq $pageUrlWithSlash (printf "%s/" (strings.TrimRight "/" .URL))) }}
+      {{ $isCurrentTop = true }}
+    {{ end }}
+    {{ range .Children }}
+      {{ if or (eq $pageUrlNoSlash (strings.TrimRight "/" .URL)) (eq $pageUrlWithSlash (printf "%s/" (strings.TrimRight "/" .URL))) }}
+        {{ $isCurrentTop = true }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ if $isCurrentTop }}
+    {{ $topLevelItem = . }}
   {{ end }}
 {{ end }}
 
-{{/* If it's a deeply nested section, maybe its section doesn't match a top-level menu directly.
-     Let's just use the children of the menu item that starts with the current section. */}}
+{{ if $topLevelItem }}
+  {{ if $topLevelItem.HasChildren }}
+    <nav class="local-menu" style="margin-bottom: 30px; padding: 20px; background-color: var(--entry); border-radius: var(--radius); border: 1px solid var(--border); box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+      <ul style="list-style: none; padding: 0; margin: 0;">
+        {{ template "local-menu-tree" dict "menu" $topLevelItem.Children "pageUrlNoSlash" $pageUrlNoSlash "level" 0 }}
+      </ul>
+    </nav>
+  {{ end }}
+{{ end }}
 
-{{ if $subMenuItems }}
-<nav class="local-menu" style="margin-bottom: 20px; padding: 10px; background-color: var(--entry); border-radius: var(--radius); border: 1px solid var(--border);">
-    <ul style="list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 15px;">
-        {{ range $subMenuItems }}
-        {{ $isActive := eq $currentPage.RelPermalink .URL }}
-        {{ if not $isActive }}
-          {{ $isActive = eq $currentPage.RelPermalink (printf "%s/" .URL) }}
+{{ define "local-menu-tree" }}
+  {{ $pageUrlNoSlash := .pageUrlNoSlash }}
+  {{ $level := .level }}
+  
+  {{ range .menu }}
+    {{ $itemUrlNoSlash := strings.TrimRight "/" .URL }}
+    {{ $isActive := eq $pageUrlNoSlash $itemUrlNoSlash }}
+    
+    <li style="margin: 5px 0;">
+        <a href="{{ .URL | absLangURL }}" style="text-decoration: none; display: block; padding: 8px 12px; color: {{ if $isActive }}var(--primary){{ else }}var(--secondary){{ end }}; font-weight: {{ if $isActive }}bold{{ else }}normal{{ end }}; background-color: {{ if $isActive }}var(--theme){{ else }}transparent{{ end }}; border-radius: 4px; transition: background-color 0.2s;">
+            {{ if gt $level 0 }}
+              <span style="display:inline-block; width: {{ mul $level 15 }}px;"></span>↳ 
+            {{ end }}
+            {{ .Name }}
+        </a>
+        {{ if .HasChildren }}
+          <ul style="list-style: none; padding: 0; margin: 0; margin-left: 5px; border-left: 2px solid var(--border);">
+            {{ template "local-menu-tree" dict "menu" .Children "pageUrlNoSlash" $pageUrlNoSlash "level" (add $level 1) }}
+          </ul>
         {{ end }}
-        <li>
-            <a href="{{ .URL | absLangURL }}" style="text-decoration: none; color: {{ if $isActive }}var(--primary){{ else }}var(--secondary){{ end }}; font-weight: {{ if $isActive }}bold{{ else }}normal{{ end }};">
-                {{ .Name }}
-            </a>
-        </li>
-        {{ end }}
-    </ul>
-</nav>
+    </li>
+  {{ end }}
 {{ end }}
