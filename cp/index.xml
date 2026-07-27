@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Constraint Programming on Association for Constraint Programming</title><link>/cp/</link><description>Recent content in Constraint Programming on Association for Constraint Programming</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 25 Jul 2026 15:03:47 +0200</lastBuildDate><atom:link href="/cp/index.xml" rel="self" type="application/rss+xml"/><item><title>CP and CPAIOR Application Papers</title><link>/cp/application/papers/</link><pubDate>Sat, 25 Jul 2026 15:03:47 +0200</pubDate><guid>/cp/application/papers/</guid><description>&lt;h2 id="1-dispatching-and-planning">1. Dispatching and Planning&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;strong>Constraint-based In-Station Train Dispatching (CP 2025)&lt;/strong>&lt;br>
-&lt;em>Andreas Schutt, Matteo Cardellini, Jip J. Dekker, Daniel Harabor, Marco Maratea, and Mauro Vallati&lt;/em>&lt;br>
-&amp;lt;/cp/papers/LIPIcs.CP.2025.33.pdf&amp;gt;&lt;/p>
+&lt;p>&lt;a href="/cp/papers/LIPIcs.CP.2025.33.pdf">&lt;strong>Constraint-based In-Station Train Dispatching (CP 2025)&lt;/strong>&lt;/a>&lt;br>
+&lt;em>Andreas Schutt, Matteo Cardellini, Jip J. Dekker, Daniel Harabor, Marco Maratea, and Mauro Vallati&lt;/em>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;strong>Optimization of Short-Term Underground Mine Planning using Constraint Programming (CP 2023)&lt;/strong>&lt;br>
-&lt;em>Younes Aalian, Gilles Pesant, Michel Gamache&lt;/em>&lt;br>
-&amp;lt;/cp/papers/LIPIcs.CP.2023.6.pdf&amp;gt;&lt;/p>
+&lt;p>&lt;a href="/cp/papers/LIPIcs.CP.2023.6.pdf">&lt;strong>Optimization of Short-Term Underground Mine Planning using Constraint Programming (CP 2023)&lt;/strong>&lt;/a>&lt;br>
+&lt;em>Younes Aalian, Gilles Pesant, Michel Gamache&lt;/em>&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="2-transportation">2. Transportation&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;strong>Aircraft Resource-Constrained Assembly Line Balancing with Learning Effect: a Constraint Programming Approach (CP 2025)&lt;/strong>&lt;br>
-&lt;em>Duc Anh Le, Stéphanie Roussel, Christophe Lecoutre&lt;/em>&lt;br>
-&lt;a href="//drops.dagstuhl.de/cp/papers/LIPIcs.CP.2025.25.pdf">/cp/papers/LIPIcs.CP.2025.25.pdf&lt;/a>&lt;/p>
+&lt;p>&lt;a href="/cp/papers/LIPIcs.CP.2025.25.pdf">&lt;strong>Aircraft Resource-Constrained Assembly Line Balancing with Learning Effect: a Constraint Programming Approach (CP 2025)&lt;/strong>&lt;/a>&lt;br>
+&lt;em>Duc Anh Le, Stéphanie Roussel, Christophe Lecoutre&lt;/em>&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>&lt;strong>Combining Constraint Programming and Metaheuristics for Aircraft Maintenance Routing with a Distribution Objective (CPAIOR 2025)&lt;/strong>&lt;br>
-&lt;em>Ida Gjergji, Lucas Kletzander, Hendrik Bierlee, Nysret Musliu, Peter J. Stuckey&lt;/em>&lt;br>
-&lt;a href="https://link.springer.com/content/pdf/10.1007/978-3-031-95976-9_1.pdf?pdf=inline%20link">https://link.springer.com/content/pdf/10.1007/978-3-031-95976-9_1.pdf?pdf=inline%20link&lt;/a>&lt;/p></description></item><item><title>ACP Success Stories</title><link>/cp/success-stories/</link><pubDate>Sat, 25 Jul 2026 15:03:36 +0200</pubDate><guid>/cp/success-stories/</guid><description>&lt;ul>
+&lt;p>&lt;a href="https://link.springer.com/content/pdf/10.1007/978-3-031-95976-9_1.pdf?pdf=inline%20link">&lt;strong>Combining Constraint Programming and Metaheuristics for Aircraft Maintenance Routing with a Distribution Objective (CPAIOR 2025)&lt;/strong>&lt;/a>&lt;br>
+&lt;em>Ida Gjergji, Lucas Kletzander, Hendrik Bierlee, Nysret Musliu, Peter J. Stuckey&lt;/em>&lt;/p></description></item><item><title>ACP Success Stories</title><link>/cp/success-stories/</link><pubDate>Sat, 25 Jul 2026 15:03:36 +0200</pubDate><guid>/cp/success-stories/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>Toulbar2 a CP solver helped in designing a stable and self-assembling protein by organizing thousands of atoms in a favorable configuration in space.
 Toulbar2 is available on Github.&lt;/p>
