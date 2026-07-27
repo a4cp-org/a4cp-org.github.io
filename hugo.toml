@@ -30,56 +30,189 @@ theme = 'PaperMod'
   [[menu.main]]
     name = "Home"
     url = "/"
-    weight = 1
+    weight = 10
 
   [[menu.main]]
+    identifier = "about"
     name = "About the ACP"
     url = "/about"
-    weight = 2
+    weight = 20
 
   [[menu.main]]
-    name = "Constraint Programming"
-    url = "/cp"
-    weight = 3
+    parent = "about"
+    name = "History of the ACP"
+    url = "/about"
+    weight = 21
 
   [[menu.main]]
+    parent = "about"
     name = "Policies"
     url = "/policies"
-    weight = 4
+    weight = 22
 
   [[menu.main]]
+    parent = "about"
+    name = "Legal Information"
+    url = "/old_nodes/1381"
+    weight = 23
+
+  [[menu.main]]
+    parent = "about"
+    name = "Executive Committee"
+    url = "/about/committee"
+    weight = 24
+
+  [[menu.main]]
+    parent = "about"
+    name = "Elections"
+    url = "/about/committee/election-results"
+    weight = 25
+
+  [[menu.main]]
+    parent = "about"
+    name = "Quarterly Reports / Decisions"
+    url = "/about/committee/decisions"
+    weight = 26
+
+  [[menu.main]]
+    parent = "about"
+    name = "General Assembly reports"
+    url = "/about/general-assembly-archive"
+    weight = 27
+
+  [[menu.main]]
+    parent = "about"
+    name = "Sponsorships & Donations"
+    url = "/sponsorships-donations"
+    weight = 28
+
+  [[menu.main]]
+    parent = "about"
+    name = "ACP Logo"
+    url = "/about/acp-logo"
+    weight = 29
+
+  [[menu.main]]
+    parent = "about"
+    name = "Constraints Journal"
+    url = "/cj2"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "cp"
+    name = "Constraint Programming"
+    url = "/cp"
+    weight = 40
+
+  [[menu.main]]
+    parent = "cp"
+    name = "Resources"
+    url = "/about/community-links"
+    weight = 41
+
+  [[menu.main]]
+    parent = "cp"
+    name = "Solvers"
+    url = "/node/1473"
+    weight = 42
+
+  [[menu.main]]
+    parent = "cp"
+    name = "ACP Success Stories"
+    url = "/cp/success-stories"
+    weight = 43
+
+  [[menu.main]]
+    parent = "cp"
+    name = "Publication Venues"
+    url = "/cp/publication-venues"
+    weight = 44
+
+  [[menu.main]]
+    parent = "cp"
+    name = "CP and CPAIOR Papers"
+    url = "/cp/application/papers"
+    weight = 45
+
+  [[menu.main]]
+    parent = "cp"
+    name = "PhD Thesis Archive"
+    url = "/theses"
+    weight = 46
+
+  [[menu.main]]
+    parent = "cp"
+    name = "Career News"
+    url = "/news/career-news"
+    weight = 47
+
+  [[menu.main]]
+    identifier = "events"
     name = "Events"
     url = "/events"
-    weight = 5
-    
+    weight = 50
+
   [[menu.main]]
+    parent = "events"
+    name = "CP Conference Series"
+    url = "/events/cp-conference-series"
+    weight = 51
+
+  [[menu.main]]
+    parent = "events"
+    name = "ACP Summer Schools"
+    url = "/events/summer-schools"
+    weight = 52
+
+  [[menu.main]]
+    parent = "events"
+    name = "Competitions"
+    url = "/events/competitions"
+    weight = 53
+
+  [[menu.main]]
+    parent = "events"
+    name = "Call for Outreach Initiatives"
+    url = "/events/outreach"
+    weight = 54
+
+  [[menu.main]]
+    identifier = "awards"
     name = "Awards"
     url = "/awards"
-    weight = 6
+    weight = 60
 
   [[menu.main]]
-    name = "News"
-    url = "/news"
-    weight = 7
+    parent = "awards"
+    name = "Research Excellence Award"
+    url = "/awards/research-excellence-award"
+    weight = 61
 
   [[menu.main]]
-    name = "Theses"
-    url = "/theses"
-    weight = 8
+    parent = "awards"
+    name = "Distinguished Service Award"
+    url = "/awards/distinguished-service-award"
+    weight = 62
 
   [[menu.main]]
-    name = "Constraints Journal"
-    url = "/constraints-journal"
-    weight = 9
+    parent = "awards"
+    name = "Early Career Researcher Award"
+    url = "/awards/early-career-research-award"
+    weight = 63
 
   [[menu.main]]
-    name = "Sponsorships"
-    url = "/sponsorships-donations"
-    weight = 10
+    parent = "awards"
+    name = "Doctoral Research Award"
+    url = "/awards/doctoral-research-award"
+    weight = 64
+
+  [[menu.main]]
+    parent = "awards"
+    name = "Paper Awards"
+    url = "/awards/paper-awards"
+    weight = 65
 
   [[menu.main]]
     name = "Contact"
     url = "/contact"
-    weight = 11
-
-
+    weight = 70

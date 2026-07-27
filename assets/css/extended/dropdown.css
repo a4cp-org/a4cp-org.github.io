@@ -1,0 +1,38 @@
+/* Dropdown menu styling */
+.menu .has-children {
+    position: relative;
+}
+.menu .has-children .drop-icon {
+    font-size: 0.8em;
+    margin-left: 5px;
+}
+.menu .sub-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: var(--theme);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 10px 0;
+    min-width: 250px;
+    z-index: 1000;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.menu .has-children:hover .sub-menu {
+    display: block;
+}
+.menu .sub-menu li {
+    display: block;
+    margin: 0;
+}
+.menu .sub-menu li a {
+    display: block;
+    padding: 8px 15px;
+    font-weight: 400;
+    color: var(--primary);
+    text-decoration: none;
+}
+.menu .sub-menu li a:hover {
+    background-color: var(--tertiary);
+}
