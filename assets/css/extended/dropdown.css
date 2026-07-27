@@ -36,3 +36,24 @@
 .menu .sub-menu li a:hover {
     background-color: var(--tertiary);
 }
+
+/* Third-level menu styling */
+.menu .sub-menu .has-children > .sub-menu.third-level {
+    display: none;
+    top: 0;
+    left: 100%; /* Slide out to the right */
+    margin-left: 0;
+}
+.menu .sub-menu .has-children:hover > .sub-menu.third-level {
+    display: block;
+}
+/* Ensure hover over parent doesn't show ALL third level menus, only the hovered one's */
+.menu .has-children:hover > .sub-menu {
+    display: block;
+}
+.menu .has-children:hover .sub-menu .sub-menu {
+    display: none; /* Hide deeper levels until their direct parent is hovered */
+}
+.menu .sub-menu .has-children:hover > .sub-menu {
+    display: block; /* Show the deeper level when its direct parent is hovered */
+}
