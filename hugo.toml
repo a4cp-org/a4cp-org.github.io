@@ -54,53 +54,11 @@ theme = 'PaperMod'
     weight = 40
 
   [[menu.main]]
-    identifier = "anti-harassment"
-    parent = "policies"
-    name = "Anti-Harassment"
-    url = "/events/anti-harassment-policy"
-    weight = 50
-
-  [[menu.main]]
-    identifier = "diversity-equity-and-inclusion"
-    parent = "policies"
-    name = "Diversity, Equity and Inclusion"
-    url = "/policies/diversity_equity_inclusion"
-    weight = 60
-
-  [[menu.main]]
-    identifier = "cp-conference-organisation"
-    parent = "policies"
-    name = "CP Conference Organisation"
-    url = "/policies/cp_conference_organisation"
-    weight = 70
-
-  [[menu.main]]
     identifier = "legal-information"
     parent = "about-the-acp"
     name = "Legal Information"
     url = "/about/legal_information"
     weight = 80
-
-  [[menu.main]]
-    identifier = "statutes-of-the-acp-english-version"
-    parent = "legal-information"
-    name = "Statutes of the ACP (English version)"
-    url = "/about/statutes_en"
-    weight = 90
-
-  [[menu.main]]
-    identifier = "statutes-of-the-acp"
-    parent = "legal-information"
-    name = "Statutes of the ACP"
-    url = "/about/statutes"
-    weight = 100
-
-  [[menu.main]]
-    identifier = "bylaws-of-the-acp"
-    parent = "legal-information"
-    name = "Bylaws of the ACP"
-    url = "/about/bylaws"
-    weight = 110
 
   [[menu.main]]
     identifier = "executive-committee"
@@ -122,111 +80,6 @@ theme = 'PaperMod'
     name = "Elections"
     url = "/about/committee/election-results"
     weight = 140
-
-  [[menu.main]]
-    identifier = "2026-election"
-    parent = "elections"
-    name = "2026 Election"
-    url = "/about/committee/election-results/elect_results_2026"
-    weight = 150
-
-  [[menu.main]]
-    identifier = "2024-election-results"
-    parent = "elections"
-    name = "2024 Election Results"
-    url = "/about/committee/election-results/elect_results_2024"
-    weight = 160
-
-  [[menu.main]]
-    identifier = "2022-election-results"
-    parent = "elections"
-    name = "2022 Election Results"
-    url = "/about/committee/election-results/elect_results_2022"
-    weight = 170
-
-  [[menu.main]]
-    identifier = "2020-election-results"
-    parent = "elections"
-    name = "2020 Election Results"
-    url = "/about/committee/election-results/elect_results_2020"
-    weight = 180
-
-  [[menu.main]]
-    identifier = "2018-election-results"
-    parent = "elections"
-    name = "2018 Election Results"
-    url = "/about/committee/election-results/elect_results_2018"
-    weight = 190
-
-  [[menu.main]]
-    identifier = "2016-election-results"
-    parent = "elections"
-    name = "2016 Election Results"
-    url = "/about/committee/election-results/elect_results_2016"
-    weight = 200
-
-  [[menu.main]]
-    identifier = "2014-election-results"
-    parent = "elections"
-    name = "2014 Election Results"
-    url = "/about/committee/election-results/elect_results_2014"
-    weight = 210
-
-  [[menu.main]]
-    identifier = "2012-election-results"
-    parent = "elections"
-    name = "2012 Election Results"
-    url = "/about/committee/election-results/elect_results_2012"
-    weight = 220
-
-  [[menu.main]]
-    identifier = "2010-election-results"
-    parent = "elections"
-    name = "2010 Election Results"
-    url = "/about/committee/election-results/elect_results_2010"
-    weight = 230
-
-  [[menu.main]]
-    identifier = "2008-election-results"
-    parent = "elections"
-    name = "2008 Election Results"
-    url = "/about/committee/election-results/elect_results_2008"
-    weight = 240
-
-  [[menu.main]]
-    identifier = "2007-election-results"
-    parent = "elections"
-    name = "2007 Election Results"
-    url = "/about/committee/election-results/elect_results_2007"
-    weight = 250
-
-  [[menu.main]]
-    identifier = "2006-election-results"
-    parent = "elections"
-    name = "2006 Election Results"
-    url = "/about/committee/election-results/elect_results_2006"
-    weight = 260
-
-  [[menu.main]]
-    identifier = "2005-election-results"
-    parent = "elections"
-    name = "2005 Election Results"
-    url = "/about/committee/election-results/elect_results_2005"
-    weight = 270
-
-  [[menu.main]]
-    identifier = "2004-election-results"
-    parent = "elections"
-    name = "2004 Election Results"
-    url = "/about/committee/election-results/elect_results_2004"
-    weight = 280
-
-  [[menu.main]]
-    identifier = "2003-election-results"
-    parent = "elections"
-    name = "2003 Election Results"
-    url = "/about/committee/election-results/elect_results_2003"
-    weight = 290
 
   [[menu.main]]
     identifier = "quarterly-reports-decisions"

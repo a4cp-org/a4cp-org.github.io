@@ -24,16 +24,4 @@ From 2004 till 2015 the ACP sent out a 3-monthly CP Newsletter, the [archive of 
 
 The first President of the ACP was Professor Francesca Rossi (University of Padova, Italy), who served until September 31st 2007. Professor Barry O'Sullivan (University College Cork, Ireland) served as President from October 1st 2007 until December 31st 2012. Helmut Simonis (University College Cork, Ireland) served as President from January 2013 until December 2015. Professor Laurent Michel (University of Connecticut) served as President from January 2015 until December 2019. Professor Maria Garcia de la Banda (Monash University) served as President from January 2020 until December 2020. The next president of the ACP was Professor Chris Beck from Toronto university. He was replaced by Professor David Bergman from Conneticut university. Since January 2025, Professor Gilles Pesant serves as the ACP president.
 
----
 
-## About the ACP — Subsections & Governance
-
-* [Executive Committee](/about/committee/)
-* [Election Results](/about/committee/election-results/)
-* [Executive Committee Decisions & Quarterly Reports](/about/committee/decisions/)
-* [General Assembly Archive](/about/general-assembly-archive/)
-* [Bylaws of the ACP](/about/bylaws/)
-* [Statutes of the ACP (English version)](/about/statutes_en/)
-* [Statutes of the ACP (Official French version)](/about/statutes/)
-* [Legal Information](/old_nodes/1381/)
-* [ACP Logo Downloads](/about/acp-logo/)
