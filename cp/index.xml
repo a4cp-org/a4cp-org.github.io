@@ -3,12 +3,12 @@
 &lt;li>
 &lt;p>&lt;strong>Constraint-based In-Station Train Dispatching (CP 2025)&lt;/strong>&lt;br>
 &lt;em>Andreas Schutt, Matteo Cardellini, Jip J. Dekker, Daniel Harabor, Marco Maratea, and Mauro Vallati&lt;/em>&lt;br>
-&lt;a href="https://drops.dagstuhl.de/cp/papers/LIPIcs.CP.2025.33.pdf">https://drops.dagstuhl.de/cp/papers/LIPIcs.CP.2025.33.pdf&lt;/a>&lt;/p>
+&amp;lt;/cp/papers/LIPIcs.CP.2025.33.pdf&amp;gt;&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;strong>Optimization of Short-Term Underground Mine Planning using Constraint Programming (CP 2023)&lt;/strong>&lt;br>
 &lt;em>Younes Aalian, Gilles Pesant, Michel Gamache&lt;/em>&lt;br>
-&lt;a href="https://drops.dagstuhl.de/cp/papers/LIPIcs.CP.2023.6.pdf">https://drops.dagstuhl.de/cp/papers/LIPIcs.CP.2023.6.pdf&lt;/a>&lt;/p>
+&amp;lt;/cp/papers/LIPIcs.CP.2023.6.pdf&amp;gt;&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="2-transportation">2. Transportation&lt;/h2>
@@ -16,7 +16,7 @@
 &lt;li>
 &lt;p>&lt;strong>Aircraft Resource-Constrained Assembly Line Balancing with Learning Effect: a Constraint Programming Approach (CP 2025)&lt;/strong>&lt;br>
 &lt;em>Duc Anh Le, Stéphanie Roussel, Christophe Lecoutre&lt;/em>&lt;br>
-&lt;a href="//drops.dagstuhl.de/cp/papers/LIPIcs.CP.2025.25.pdf">https://drops.dagstuhl.de/cp/papers/LIPIcs.CP.2025.25.pdf&lt;/a>&lt;/p>
+&lt;a href="//drops.dagstuhl.de/cp/papers/LIPIcs.CP.2025.25.pdf">/cp/papers/LIPIcs.CP.2025.25.pdf&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;strong>Combining Constraint Programming and Metaheuristics for Aircraft Maintenance Routing with a Distribution Objective (CPAIOR 2025)&lt;/strong>&lt;br>

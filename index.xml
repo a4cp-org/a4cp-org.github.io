@@ -134,12 +134,12 @@ for Constraint Programming&lt;/a>.&lt;/p></description></item><item><title>Succe
 &lt;li>
 &lt;p>&lt;strong>Constraint-based In-Station Train Dispatching (CP 2025)&lt;/strong>&lt;br>
 &lt;em>Andreas Schutt, Matteo Cardellini, Jip J. Dekker, Daniel Harabor, Marco Maratea, and Mauro Vallati&lt;/em>&lt;br>
-&lt;a href="https://drops.dagstuhl.de/cp/papers/LIPIcs.CP.2025.33.pdf">https://drops.dagstuhl.de/cp/papers/LIPIcs.CP.2025.33.pdf&lt;/a>&lt;/p>
+&amp;lt;/cp/papers/LIPIcs.CP.2025.33.pdf&amp;gt;&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;strong>Optimization of Short-Term Underground Mine Planning using Constraint Programming (CP 2023)&lt;/strong>&lt;br>
 &lt;em>Younes Aalian, Gilles Pesant, Michel Gamache&lt;/em>&lt;br>
-&lt;a href="https://drops.dagstuhl.de/cp/papers/LIPIcs.CP.2023.6.pdf">https://drops.dagstuhl.de/cp/papers/LIPIcs.CP.2023.6.pdf&lt;/a>&lt;/p>
+&amp;lt;/cp/papers/LIPIcs.CP.2023.6.pdf&amp;gt;&lt;/p>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="2-transportation">2. Transportation&lt;/h2>
@@ -147,7 +147,7 @@ for Constraint Programming&lt;/a>.&lt;/p></description></item><item><title>Succe
 &lt;li>
 &lt;p>&lt;strong>Aircraft Resource-Constrained Assembly Line Balancing with Learning Effect: a Constraint Programming Approach (CP 2025)&lt;/strong>&lt;br>
 &lt;em>Duc Anh Le, Stéphanie Roussel, Christophe Lecoutre&lt;/em>&lt;br>
-&lt;a href="//drops.dagstuhl.de/cp/papers/LIPIcs.CP.2025.25.pdf">https://drops.dagstuhl.de/cp/papers/LIPIcs.CP.2025.25.pdf&lt;/a>&lt;/p>
+&lt;a href="//drops.dagstuhl.de/cp/papers/LIPIcs.CP.2025.25.pdf">/cp/papers/LIPIcs.CP.2025.25.pdf&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>&lt;strong>Combining Constraint Programming and Metaheuristics for Aircraft Maintenance Routing with a Distribution Objective (CPAIOR 2025)&lt;/strong>&lt;br>
@@ -661,29 +661,29 @@ Number of Votes: 755&lt;/p></description></item><item><title>2004 Election Resul
 &lt;li>&lt;a href="/about/bylaws">Bylaws&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Paper Awards</title><link>/awards/paper-awards/</link><pubDate>Sat, 25 Jul 2026 15:03:16 +0200</pubDate><guid>/awards/paper-awards/</guid><description>&lt;h3 id="cp-2025">CP 2025&lt;/h3>
 &lt;ul>
-&lt;li>&lt;strong>Best Technical Paper&lt;/strong>: J. Christopher Beck, Ryo Kuroiwa, Jimmy H. M. Lee, Peter J. Stuckey, and Allen Z. Zhong. &lt;a href="https://drops.dagstuhl.de/cp/papers/LIPIcs.CP.2025.5.pdf">Transition Dominance in Domain-Independent Dynamic Programming&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best Application Paper&lt;/strong>: Ignace Bleukx, Ryma Boumazouza, Tias Guns, Nadine Laage, and Guillaume Poveda. &lt;a href="https://drops.dagstuhl.de/cp/papers/LIPIcs.CP.2025.6.pdf">Modeling and Explaining an Industrial Workforce Allocation and Scheduling Problem&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best Student Paper&lt;/strong>: Hannes Ihalainen, Jeremias Berg, Matti Järvisalo, and Bart Bogaerts. &lt;a href="https://drops.dagstuhl.de/cp/papers/LIPIcs.CP.2025.15.pdf">Symmetric Core Learning for Pseudo-Boolean Optimization by Implicit Hitting Sets&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Technical Paper&lt;/strong>: J. Christopher Beck, Ryo Kuroiwa, Jimmy H. M. Lee, Peter J. Stuckey, and Allen Z. Zhong. &lt;a href="/cp/papers/LIPIcs.CP.2025.5.pdf">Transition Dominance in Domain-Independent Dynamic Programming&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Application Paper&lt;/strong>: Ignace Bleukx, Ryma Boumazouza, Tias Guns, Nadine Laage, and Guillaume Poveda. &lt;a href="/cp/papers/LIPIcs.CP.2025.6.pdf">Modeling and Explaining an Industrial Workforce Allocation and Scheduling Problem&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Student Paper&lt;/strong>: Hannes Ihalainen, Jeremias Berg, Matti Järvisalo, and Bart Bogaerts. &lt;a href="/cp/papers/LIPIcs.CP.2025.15.pdf">Symmetric Core Learning for Pseudo-Boolean Optimization by Implicit Hitting Sets&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="cp-2024">CP 2024&lt;/h3>
 &lt;ul>
-&lt;li>&lt;strong>Best Main Track Paper&lt;/strong>: Peng Lin, Mengchuan Zou and Shaowei Cai. &lt;a href="https://drops.dagstuhl.de/cp/papers/LIPIcs.CP.2024.19.pdf">An Efficient Local Search Solver for Mixed Integer Programming&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best Application Track Paper&lt;/strong>: Duc Anh Le, Stephanie Roussel, Christophe Lecoutre and Anouck Chan. &lt;a href="https://drops.dagstuhl.de/cp/papers/LIPIcs.CP.2024.18.pdf">Learning Effect and Compound Activities in High Multiplicity RCPSP: Application to Satellite Production&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best ML Track Paper&lt;/strong>: Augustin Parjadis, Quentin Cappart, Bistra Dilkina, Aaron Ferber and Louis-Martin Rousseau. &lt;a href="https://drops.dagstuhl.de/cp/papers/LIPIcs.CP.2024.22.pdf">Learning Lagrangian Multipliers for the Travelling Salesman Problem&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Main Track Paper&lt;/strong>: Peng Lin, Mengchuan Zou and Shaowei Cai. &lt;a href="/cp/papers/LIPIcs.CP.2024.19.pdf">An Efficient Local Search Solver for Mixed Integer Programming&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Application Track Paper&lt;/strong>: Duc Anh Le, Stephanie Roussel, Christophe Lecoutre and Anouck Chan. &lt;a href="/cp/papers/LIPIcs.CP.2024.18.pdf">Learning Effect and Compound Activities in High Multiplicity RCPSP: Application to Satellite Production&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best ML Track Paper&lt;/strong>: Augustin Parjadis, Quentin Cappart, Bistra Dilkina, Aaron Ferber and Louis-Martin Rousseau. &lt;a href="/cp/papers/LIPIcs.CP.2024.22.pdf">Learning Lagrangian Multipliers for the Travelling Salesman Problem&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="cp-2023">CP 2023&lt;/h3>
 &lt;ul>
-&lt;li>&lt;strong>Best Paper&lt;/strong>: Mathew J. McIlree and Ciaran McCreesh. &lt;a href="https://drops.dagstuhl.de/cp/papers/LIPIcs-CP-2023-26.pdf">Proof Logging for Smart Extensional Constraints&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best Application Track Paper&lt;/strong>: Matthias Klapperstueck, Frits De Nijs, Ilankaikone Senthooran, Jack Lee-Kopij, Maria Garcia De La Banda and Michael Wybrow. &lt;a href="https://drops.dagstuhl.de/cp/papers/LIPIcs-CP-2023-21.pdf">Exploring Hydrogen Supply/Demand Networks: Modeller and Domain Expert views&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Paper&lt;/strong>: Mathew J. McIlree and Ciaran McCreesh. &lt;a href="/cp/papers/LIPIcs-CP-2023-26.pdf">Proof Logging for Smart Extensional Constraints&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Application Track Paper&lt;/strong>: Matthias Klapperstueck, Frits De Nijs, Ilankaikone Senthooran, Jack Lee-Kopij, Maria Garcia De La Banda and Michael Wybrow. &lt;a href="/cp/papers/LIPIcs-CP-2023-21.pdf">Exploring Hydrogen Supply/Demand Networks: Modeller and Domain Expert views&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="cp-2022">CP 2022&lt;/h3>
 &lt;ul>
-&lt;li>&lt;strong>Best Paper&lt;/strong>: Isaac Rudich, Quentin Cappart and Louis-Martin Rousseau. &lt;a href="https://drops.dagstuhl.de/cp/papers/LIPIcs-CP-2022-35.pdf">Peel-and-Bound: Generating Stronger Relaxed Bounds with Multivalued Decision Diagrams&lt;/a>&lt;/li>
-&lt;li>&lt;strong>Best Student Paper&lt;/strong>: Jimmy H. M. Lee and Allen Z. Zhong. &lt;a href="https://drops.dagstuhl.de/cp/papers/LIPIcs-CP-2022-31.pdf">Exploiting Functional Constraints in Generating Dominance Breaking Nogoods for Constraint Optimization&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Paper&lt;/strong>: Isaac Rudich, Quentin Cappart and Louis-Martin Rousseau. &lt;a href="/cp/papers/LIPIcs-CP-2022-35.pdf">Peel-and-Bound: Generating Stronger Relaxed Bounds with Multivalued Decision Diagrams&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Student Paper&lt;/strong>: Jimmy H. M. Lee and Allen Z. Zhong. &lt;a href="/cp/papers/LIPIcs-CP-2022-31.pdf">Exploiting Functional Constraints in Generating Dominance Breaking Nogoods for Constraint Optimization&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="cp-2021">CP 2021&lt;/h3>
 &lt;ul>
-&lt;li>&lt;strong>Best Paper&lt;/strong>: Chu-Min Li, Zhenxing Xu, Jordi Coll, Felip Manya, Djamal Habet, and Kun He. &lt;a href="https://drops.dagstuhl.de/cp/papers/LIPIcs-CP-2021-38.pdf">Combining Clause Learning and Branch and Bound for MaxSAT&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Best Paper&lt;/strong>: Chu-Min Li, Zhenxing Xu, Jordi Coll, Felip Manya, Djamal Habet, and Kun He. &lt;a href="/cp/papers/LIPIcs-CP-2021-38.pdf">Combining Clause Learning and Branch and Bound for MaxSAT&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="cp-2020">CP 2020&lt;/h3>
 &lt;ul>
