@@ -6,7 +6,7 @@ date: 2026-07-25T15:04:29+0200
 draft: false
 ---
 
-[![Gecode](/sites/default/files/gecode_0.png)](https://www.gecode.org/)
+[![Gecode](/success-stories/gecode_0.png)](https://www.gecode.org/)
 
 You need to buy a new car and want to try out configurations to know what can be done or is affordable? It is now possible if your car dealer uses the SAP S/4HANA tool.
 

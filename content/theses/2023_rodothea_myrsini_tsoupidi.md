@@ -9,4 +9,4 @@ aliases:
 **School:** School of Electrical Engineering and Computer Science  
 **Supervisors:** Elena TroubitsynaPanagiotis Papadimitratos  
 **Graduated:** June 07, 2023  
-**Link to full text:** <https://www.a4cp.org/sites/default/files/rodothea_myrsini_tsoupidi_-_generating_optimized_and_secure_binary_code.pdf>  
+**Link to full text:** </theses/rodothea_myrsini_tsoupidi_-_generating_optimized_and_secure_binary_code.pdf>  

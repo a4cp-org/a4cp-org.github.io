@@ -8,10 +8,10 @@ If you would like to include the ACP logo for a web page, presentation slides or
 
 ### Visual Preview
 
-![ACP Large Color Logo](/sites/default/files/acp-large-color-logo.jpg)
+![ACP Large Color Logo](/about/acp-logo/acp-large-color-logo.jpg)
 
 ### Downloads & File Attachments
 
-* [ACP Large Color Logo (JPG)](/sites/default/files/acp-large-color-logo.jpg)
-* [ACP Small Color Logo (JPG)](/sites/default/files/acp-small-color-logo.jpg)
-* [ACP Color Logo (PDF)](/sites/default/files/acp-color-logo.pdf)
+* [ACP Large Color Logo (JPG)](/about/acp-logo/acp-large-color-logo.jpg)
+* [ACP Small Color Logo (JPG)](/about/acp-logo/acp-small-color-logo.jpg)
+* [ACP Color Logo (PDF)](/about/acp-logo/acp-color-logo.pdf)

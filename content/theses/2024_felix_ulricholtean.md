@@ -9,4 +9,4 @@ aliases:
 **School:** University of York, United Kingdom  
 **Supervisors:** Peter Nightingale, James Walker, James Cussens  
 **Graduated:** March 22, 2024  
-**Link to full text:** <https://www.a4cp.org/sites/default/files/fvuo-dissertation.pdf>  
+**Link to full text:** </theses/fvuo-dissertation.pdf>  

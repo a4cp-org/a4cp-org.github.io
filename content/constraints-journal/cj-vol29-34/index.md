@@ -4,7 +4,7 @@ date: 2026-07-25T15:04:48+0200
 draft: false
 ---
 
-![](/sites/default/files/Screenshot%202025-02-19%20163259_0.jpg)  
+![](/images/default_thumbnail.jpg)  
 December 2024
 
 **[Learning and fine-tuning a generic value-selection heuristic inside a constraint programming solver](https://rdcu.be/d1gXD)**   

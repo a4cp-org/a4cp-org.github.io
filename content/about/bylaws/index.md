@@ -153,4 +153,4 @@ at which point the processes in the Bylaws will take full effect.
 
 ### File attachments
 
-[Bylaws (submitted Sep 14)](/sites/default/files/bylawssubmittedsep14a.pdf "bylawssubmittedsep14a.pdf")
+[Bylaws (submitted Sep 14)](/about/bylaws/acp_bylaws.pdf "bylawssubmittedsep14a.pdf")

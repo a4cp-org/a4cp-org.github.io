@@ -9,4 +9,4 @@ aliases:
 **School:** Université de Toulouse 3 Paul Sabatier  
 **Supervisors:** Thomas SchiexChristian Bessiere  
 **Graduated:** January 15, 2015  
-**Link to full text:** <https://www.a4cp.org/sites/default/files/rolandgarros26.pdf>  
+**Link to full text:** </theses/rolandgarros26.pdf>  

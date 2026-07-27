@@ -6,4 +6,4 @@ aliases:
   - /node/1473
 ---
 
-![Solver_Logo](https://img.freepik.com/free-vector/stylish-coming-soon-promo-poster-with-stay-tuned-text_1017-51962.jpg)
+![Solver_Logo](https://img.freepik.com/cp/solvers/coming_soon.jpg)

@@ -6,7 +6,7 @@ date: 2026-07-25T15:04:30+0200
 draft: false
 ---
 
-[![Unison](/sites/default/files/unison-logo.png)](https://unison-code.github.io/)
+[![Unison](/success-stories/unison-logo.png)](https://unison-code.github.io/)
 
 Do you want to improve the quality of your code? Unison is a code generator for compilers with a radically new approach. Unison rethinks code generation using combinatorial optimization techniques. Unison is available on [Github](https://unison-code.github.io/) and is integrated with the regular LLVM toolchain.
 

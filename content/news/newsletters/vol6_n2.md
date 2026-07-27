@@ -602,7 +602,7 @@ positions, to be hosted according to the call of proposal "Trentino -
 The Trentino programme of research, training and mobility of
 post-doctoral researchers", to be funded by the Autonomous Province of
 Trento, see:
-<http://www.uniricerca.provincia.tn.it/binary/pat_uniricerca/news/call_1_post_doc_2010_incoming_en.1273589322.pdf>
+<http://www.uniricerca.provincia.tn.it/news/newsletters/postdoc_call.pdf>
 
 Applications are invited in the broad field of formal verification
 and planning. Topics of interest include:
@@ -730,7 +730,7 @@ region can be found at <http://www.trentino.to/home/index.html?_lang=3Den>.
 Links
 
 * [Autonomous Province of Trento, University and Scientific Research](http://www.uniricerca.provincia.tn.it/)
-* [Call for applications](http://www.uniricerca.provincia.tn.it/binary/pat_uniricerca/news/call_1_post_doc_2010_incoming_en.1273589322.pdf)
+* [Call for applications](http://www.uniricerca.provincia.tn.it/news/newsletters/postdoc_call.pdf)
 * [Fondazione Bruno Kessler](http://www.fbk.eu/)
 * [Center for Information Technology](>http://cit.fbk.eu)
 * [Embedded Systems Research Unit](https://es.fbk.eu/)

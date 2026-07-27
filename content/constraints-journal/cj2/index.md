@@ -6,7 +6,7 @@ aliases:
   - /cj2
 ---
 
-![](/sites/default/files/Screenshot%202025-02-19%20163259_0.jpg)
+![](/images/default_thumbnail.jpg)
 
 *Constraints*, published by Springer, is the journal for our community. Through the generosity of Springer’s
 SharedIt program, we will also be providing access to the journal issues at this site,

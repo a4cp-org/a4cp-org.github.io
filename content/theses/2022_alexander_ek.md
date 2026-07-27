@@ -9,4 +9,4 @@ aliases:
 **School:** Monash University  
 **Supervisors:** Guido TackMaria Garcia de la BandaAndreas SchuttPeter J. Stuckey  
 **Graduated:** September 23, 2022  
-**Link to full text:** <https://www.a4cp.org/sites/default/files/Thesis%20Alexander%20Ek_1122.pdf>  
+**Link to full text:** </theses/Thesis%20Alexander%20Ek_1122.pdf>  

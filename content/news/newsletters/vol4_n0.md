@@ -257,7 +257,7 @@ Lionel Paris (LSIS, Marseille, France)
 PhD supervisors: BelaÃ¯d Benhamou, Pierre SiÃ©gel.
 
 Cedric Piette (CRIL, Lens, France)  
- [Techniques algorithmiques pour l'extraction de formules minimales inconsistantes](http://www.cril.univ-artois.fr/%7Epiette/These.pdf) PhD supervisors: Ã‰ric GrÃ©goire, Bertrand Mazure.
+ [Techniques algorithmiques pour l'extraction de formules minimales inconsistantes](http://www.cril.univ-artois.fr/news/newsletters/thesis.pdf) PhD supervisors: Ã‰ric GrÃ©goire, Bertrand Mazure.
 
 SÃ©bastien Tabary (CRIL, Lens, France)  
  [Exploiter les conflits pour rÃ©duire l'effort de recherche en satisfaction de contraintes.](http://www.cril.univ-artois.fr/%7Etabary/download/these/tabaryThese.pdf)  

@@ -10,7 +10,7 @@ aliases:
 **School:** University of New South Wales  
 **Supervisors:** Toby Walsh, Brahim Hnich, Michael Maher  
 **Graduated:** April 20, 2007  
-**Link to full text:** [Robust Solutions for Constraint Satisfaction and Optimisation under Uncertainty](http://homepages.laas.fr/ehebrard/papers/phdthesis.pdf)  
+**Link to full text:** [Robust Solutions for Constraint Satisfaction and Optimisation under Uncertainty](http://homepages.laas.fr/theses/phdthesis.pdf)  
 
 ### Abstract
 

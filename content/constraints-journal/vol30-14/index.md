@@ -4,7 +4,7 @@ date: 2026-07-25T15:04:47+0200
 draft: false
 ---
 
-![](/sites/default/files/Screenshot%202025-02-19%20163259_0.jpg)  
+![](/images/default_thumbnail.jpg)  
 December 2025
 
 **[Solving logic-based benders decomposition master problems with constraint programming and domainindependent dynamic programming](https://rdcu.be/e345I)**   

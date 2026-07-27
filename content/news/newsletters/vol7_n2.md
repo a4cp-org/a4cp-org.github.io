@@ -1467,9 +1467,9 @@ physical states).
 See for examples works:
 
 * on NVECTOR:
-  <http://www.emn.fr/x-info/gchabe08/chabert_jaulin_lorca_cp09.pdf>
+  <http://www.emn.fr/news/newsletters/chabert_jaulin_lorca_cp09.pdf>
 * and more recently on AMONG:
-  <http://hal.inria.fr/inria-00598712/PDF/RR-7640.pdf>.
+  <http://hal.inria.fr/news/newsletters/RR-7640.pdf>.
 
 There are three challenges in one: enrich the constraint programming
 formalism, create a new branch at the interface of discrete and

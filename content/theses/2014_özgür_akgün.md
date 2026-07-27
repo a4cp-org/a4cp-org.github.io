@@ -9,4 +9,4 @@ aliases:
 **School:** School of Computer Science  
 **Supervisors:** Ian MiguelChris Jefferson  
 **Graduated:** May 01, 2014  
-**Link to full text:** <https://www.a4cp.org/sites/default/files/OzgurAkgunPhdThesis.pdf>  
+**Link to full text:** </theses/OzgurAkgunPhdThesis.pdf>  

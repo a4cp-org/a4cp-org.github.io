@@ -435,7 +435,7 @@ Important Note:
 
 Students at Austrian universities are charged tuition fees. Since these fees depend on citizenship we refer to the information at [Johannes Kepler University Linz](http://www.jku.at/).
 
-You can find detailed information about the RISC Curriculum in Symbolic Computation in the [brochure](http://www.risc.uni-linz.ac.at/education/phd/Curriculum.pdf).
+You can find detailed information about the RISC Curriculum in Symbolic Computation in the [brochure](http://www.risc.uni-linz.ac.at/news/newsletters/curriculum.pdf).
 
 ## NICTA, Queensland Research Laboratory
 

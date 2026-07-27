@@ -4,7 +4,7 @@ date: 2026-07-25T15:04:47+0200
 draft: false
 ---
 
-![](/sites/default/files/Screenshot%202025-02-19%20163259_0.jpg)
+![](/images/default_thumbnail.jpg)
 
 **[Preimage attacks on round-reduced MD5, SHA-1, and SHA-256 using parameterized SAT solver](https://rdcu.be/e4eJA)**   
 Oleg Zaikin   

@@ -138,7 +138,7 @@ Volume 4 will be a special issue dedicated to Autonomous Search. It will be edit
 
 #### Book:
 
-* "[Optimisation par colonies de fourmis](http://www.lavoisier.fr/notice/fr335183.html)" by Christine Solnon , in the collection " Programmation par contraintes ", Hermes-Lavoisier editors You can read the introduction [here](http://www710.univ-lyon1.fr/~csolnon/intro.pdf).
+* "[Optimisation par colonies de fourmis](http://www.lavoisier.fr/notice/fr335183.html)" by Christine Solnon , in the collection " Programmation par contraintes ", Hermes-Lavoisier editors You can read the introduction [here](http://www710.univ-lyon1.fr/news/newsletters/intro.pdf).
 
 #### Software:
 

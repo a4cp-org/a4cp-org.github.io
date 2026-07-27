@@ -9,4 +9,4 @@ aliases:
 **School:** Polytechnique Montréal  
 **Supervisors:** Louis-Martin RousseauQuentin Cappart  
 **Graduated:** August 16, 2024  
-**Link to full text:** <https://www.a4cp.org/sites/default/files/Thesis.pdf>  
+**Link to full text:** </theses/Thesis.pdf>  
