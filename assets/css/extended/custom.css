@@ -1,5 +1,5 @@
 :root {
-    --theme: #fdfdfd;
+    --theme: #ffffff;
     --entry: #ffffff;
     --primary: #1e293b;
     --secondary: #475569;
@@ -99,7 +99,7 @@
     padding: 0 1.5rem;
 }
 
-.post-entry {
+.post-entry, .post-single, .main > .post-content {
     background: var(--entry);
     border: 1px solid var(--border);
     border-radius: 10px;

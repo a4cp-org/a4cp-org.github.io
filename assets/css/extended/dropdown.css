@@ -1,6 +1,6 @@
 /* Modern Layout Overrides */
 :root {
-    --theme: #fdfdfd;
+    --theme: #ffffff;
     --entry: #ffffff;
     --primary: #1e293b;
     --secondary: #475569;
@@ -13,6 +13,10 @@
     --header-bg: #ffffff;
     --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
     --radius: 8px;
+}
+
+.list {
+    background: var(--theme) !important;
 }
 
 .dark {
@@ -224,7 +228,7 @@ ul.menu li a:hover, ul.menu li a:focus, ul.menu li a .active {
 }
 
 /* Post Styling */
-.post-entry {
+.post-entry, .post-single, .main > .post-content {
     background: var(--entry);
     border: 1px solid var(--border);
     border-radius: var(--radius);
