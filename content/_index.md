@@ -18,8 +18,8 @@ ACP membership is tied to CP conference and Summer School registrations, for thr
 
 ## Upcoming Events
 
-**CP2026** — The 32nd International Conference on Principles and Practice of Constraint Programming, July 20-23 2026 (with some workshops before, the 18-19, and some after, the 24-25), Lisbon, Portugal, during [FLoC2026](https://www.floc26.org/). More information on the [website](https://cp2026.a4cp.org/).
-
 **2026 ACP Summer School** — The 2026 ACP Summer School, will take place in Changchun, China, August 24-28 2026! More info on the [website](https://school.a4cp.org/summer2026/)!
+
+## Calls
 
 **Call for bid for the 2027 ACP Summer School** — The call for bid is currently open! The Association for Constraint Programming invites proposals for organizing the ACP Summer School on Constraint Programming in 2027. Members of the CP community who are interested in organizing the 2027 Summer School should send a proposal to helene.verhaeghe@uclouvain.be by the 31st of August 2026, covering: topic, location, dates, organizers, tentative list of speakers, provisional budget.

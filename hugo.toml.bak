@@ -1,0 +1,85 @@
+baseURL = '/'
+relativeURLs = false
+languageCode = 'en-us'
+title = 'Association for Constraint Programming'
+theme = 'PaperMod'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+    env = 'production'
+    description = 'Association for Constraint Programming (ACP)'
+    author = 'ACP'
+    
+    [params.label]
+        text = "Association for Constraint Programming"
+        icon = "/sites/default/files/acp-small-color-logo.jpg"
+        iconHeight = 40
+
+    # PaperMod specific options
+    ShowReadingTime = false
+    ShowShareButtons = false
+    ShowPostNavLinks = true
+    ShowBreadCrumbs = true
+
+    
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About the ACP"
+    url = "/about"
+    weight = 2
+
+  [[menu.main]]
+    name = "Constraint Programming"
+    url = "/cp"
+    weight = 3
+
+  [[menu.main]]
+    name = "Policies"
+    url = "/policies"
+    weight = 4
+
+  [[menu.main]]
+    name = "Events"
+    url = "/events"
+    weight = 5
+    
+  [[menu.main]]
+    name = "Awards"
+    url = "/awards"
+    weight = 6
+
+  [[menu.main]]
+    name = "News"
+    url = "/news"
+    weight = 7
+
+  [[menu.main]]
+    name = "Theses"
+    url = "/theses"
+    weight = 8
+
+  [[menu.main]]
+    name = "Constraints Journal"
+    url = "/constraints-journal"
+    weight = 9
+
+  [[menu.main]]
+    name = "Sponsorships"
+    url = "/sponsorships-donations"
+    weight = 10
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact"
+    weight = 11
+
+

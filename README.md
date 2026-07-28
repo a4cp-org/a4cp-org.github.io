@@ -55,7 +55,7 @@ content/
 │   └── index.md                     # Policies overview
 ├── sponsorships-donations/          # Sponsorships & Financial Support
 │   └── index.md                     # Guidelines for conference & summer school sponsorships
-├── success-stories/                 # Legacy/Duplicate success stories (or redirects)
+
 ├── theses/                          # PhD Thesis Archive
 │   └── index.md                     # Repository of PhD dissertations in Constraint Programming
 ├── category/                        # Taxonomy for Drupal categories (Legacy)

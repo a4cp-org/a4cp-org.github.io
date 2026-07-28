@@ -4,6 +4,9 @@ aliases:
 title: "CP Has Landed on the Comet"
 date: 2026-07-25T15:04:30+0200
 draft: false
+cover:
+    image: "/cp/success-stories/comet_navcam_141210.jpg"
+    hiddenInSingle: true
 ---
 
 On June 13th 2015, the robot-lab Philae woke up on the comet 67P/Churyumov-Gerasimenko to resume a series of experiments interrupted seven months ago. These experiments were scheduled using Constraint Programming, and researchers of the team [ROC](#authors) developed
@@ -16,7 +19,7 @@ The Rosetta/Philae mission was launched in 2004 and it took more than ten years 
 
 |  |  |  |
 | --- | --- | --- |
-|  | Philae Instruments, image copyright ESA/AOES Medialab |  |
+|  | ![Philae Instruments](/cp/success-stories/philae_instruments_transp_2.png) |  |
 |  | Figure 1. Philae's instruments (© ESA/AOES Medialab) |  |
 
 The plans executed by Philae are modelled and solved using constraint programming technology.
@@ -32,7 +35,7 @@ Notice that the activities of Rosetta, on the other hand, were handled by a sepa
 
 |  |  |  |
 | --- | --- | --- |
-|  | Rosetta's navcam image of 67P, copyright ESA/AOES Medialab |  |
+|  | ![Rosetta navcam image](/cp/success-stories/comet_navcam_141210.jpg) |  |
 |  | 67P Churyumov/Gerasimenko by Rosetta's navcam, on December 10th 2014 (© ESA/AOES Medialab) |  |
 
 Comets are of particular interest because as witnesses of the early age of the solar system, and because that may be the source of a large part of the water in our oceans*[1](#fn1)* and perhaps at the origin of life on Earth.
@@ -98,7 +101,7 @@ However, when an instrument has high priority but produce less data than can be 
 
 |  |  |  |
 | --- | --- | --- |
-|  | Philae's data transfers |  |
+|  | ![Philae data transfers](/cp/success-stories/transfers_transp_4.png) |  |
 |  | Figure 3. Illustration of the data transfers onboard Philae. |  |
 
 #### Impact on the Mission

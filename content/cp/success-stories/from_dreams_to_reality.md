@@ -4,9 +4,12 @@ aliases:
 title: "From dreams to reality"
 date: 2026-07-25T15:04:29+0200
 draft: false
+cover:
+    image: "/cp/success-stories/gecode_0.png"
+    hiddenInSingle: true
 ---
 
-[![Gecode](/success-stories/gecode_0.png)](https://www.gecode.org/)
+[![Gecode](/cp/success-stories/gecode_0.png)](https://www.gecode.org/)
 
 You need to buy a new car and want to try out configurations to know what can be done or is affordable? It is now possible if your car dealer uses the SAP S/4HANA tool.
 
