@@ -33,8 +33,9 @@
 
 {{ if $topLevelItem }}
   {{ if $topLevelItem.HasChildren }}
-    <nav class="local-menu" style="margin-bottom: 30px; padding: 20px; background-color: var(--entry); border-radius: var(--radius); border: 1px solid var(--border); box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
-      <ul style="list-style: none; padding: 0; margin: 0;">
+    <nav class="local-menu-nav">
+      <h3 class="local-menu-title">{{ $topLevelItem.Name }}</h3>
+      <ul class="local-menu-list">
         {{ template "local-menu-tree" dict "menu" $topLevelItem.Children "pageUrlNoSlash" $pageUrlNoSlash "level" 0 }}
       </ul>
     </nav>
@@ -49,15 +50,12 @@
     {{ $itemUrlNoSlash := strings.TrimRight "/" .URL }}
     {{ $isActive := eq $pageUrlNoSlash $itemUrlNoSlash }}
     
-    <li style="margin: 5px 0;">
-        <a href="{{ .URL | absLangURL }}" style="text-decoration: none; display: block; padding: 8px 12px; color: {{ if $isActive }}var(--primary){{ else }}var(--secondary){{ end }}; font-weight: {{ if $isActive }}bold{{ else }}normal{{ end }}; background-color: {{ if $isActive }}var(--theme){{ else }}transparent{{ end }}; border-radius: 4px; transition: background-color 0.2s;">
-            {{ if gt $level 0 }}
-              <span style="display:inline-block; width: {{ mul $level 15 }}px;"></span>↳ 
-            {{ end }}
+    <li class="local-menu-item level-{{ $level }}">
+        <a href="{{ .URL | absLangURL }}" class="local-menu-link {{ if $isActive }}active{{ end }}">
             {{ .Name }}
         </a>
         {{ if .HasChildren }}
-          <ul style="list-style: none; padding: 0; margin: 0; margin-left: 5px; border-left: 2px solid var(--border);">
+          <ul class="local-menu-sublist">
             {{ template "local-menu-tree" dict "menu" .Children "pageUrlNoSlash" $pageUrlNoSlash "level" (add $level 1) }}
           </ul>
         {{ end }}
