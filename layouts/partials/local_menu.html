@@ -34,10 +34,17 @@
 {{ if $topLevelItem }}
   {{ if $topLevelItem.HasChildren }}
     <nav class="local-menu-nav">
-      <h3 class="local-menu-title">{{ $topLevelItem.Name }}</h3>
-      <ul class="local-menu-list">
-        {{ template "local-menu-tree" dict "menu" $topLevelItem.Children "pageUrlNoSlash" $pageUrlNoSlash "level" 0 }}
-      </ul>
+      <details class="local-menu-details">
+        <summary class="local-menu-title">
+          <span>{{ $topLevelItem.Name }}</span>
+          <svg class="local-menu-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+        </summary>
+        <div class="local-menu-content">
+          <ul class="local-menu-list">
+            {{ template "local-menu-tree" dict "menu" $topLevelItem.Children "pageUrlNoSlash" $pageUrlNoSlash "level" 0 }}
+          </ul>
+        </div>
+      </details>
     </nav>
   {{ end }}
 {{ end }}
