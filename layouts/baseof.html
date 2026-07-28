@@ -47,6 +47,24 @@
                     menu.classList.toggle('active');
                 });
             }
+
+            const localMenuDetails = document.querySelector('.local-menu-details');
+            if (localMenuDetails) {
+                const enforceDetailsState = () => {
+                    if (window.innerWidth > 950) {
+                        localMenuDetails.setAttribute('open', '');
+                    } else {
+                        // Optional: only remove if you want it to auto-close when shrinking
+                        // localMenuDetails.removeAttribute('open');
+                    }
+                };
+                
+                // Initial check
+                enforceDetailsState();
+                
+                // Check on resize
+                window.addEventListener('resize', enforceDetailsState);
+            }
         });
     </script>
 </body>
