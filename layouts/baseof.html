@@ -50,17 +50,25 @@
 
             const localMenuDetails = document.querySelector('.local-menu-details');
             if (localMenuDetails) {
+                let wasDesktop = window.innerWidth > 950;
+                
                 const enforceDetailsState = () => {
-                    if (window.innerWidth > 950) {
+                    const isDesktop = window.innerWidth > 950;
+                    if (isDesktop) {
                         localMenuDetails.setAttribute('open', '');
-                    } else {
-                        // Optional: only remove if you want it to auto-close when shrinking
-                        // localMenuDetails.removeAttribute('open');
+                    } else if (wasDesktop && !isDesktop) {
+                        // Automatically retract when crossing from Desktop -> Mobile
+                        localMenuDetails.removeAttribute('open');
                     }
+                    wasDesktop = isDesktop;
                 };
                 
-                // Initial check
-                enforceDetailsState();
+                // Initial check on load
+                if (window.innerWidth > 950) {
+                    localMenuDetails.setAttribute('open', '');
+                } else {
+                    localMenuDetails.removeAttribute('open');
+                }
                 
                 // Check on resize
                 window.addEventListener('resize', enforceDetailsState);
