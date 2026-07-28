@@ -38,7 +38,7 @@ draft: false
   <br><img src="/events/cp-conference-series/posters/2014.jpg" alt="CP 2014 Poster" style="max-width: 200px; margin-top: 10px; margin-bottom: 20px;" />
 * **CP2013**: Nineteenth International Conference on Principles and Practice of Constraint Programming, September 16th-20th, Uppsala, Sweden. [CP2013](https://web.archive.org/web/20140624232044/http://cp2013.a4cp.org/). Proceedings: [Springer Lecture Notes in Computer Science 8124](http://dx.doi.org/10.1007/978-3-642-40627-0)
   <br><img src="/events/cp-conference-series/posters/2013.jpg" alt="CP 2013 Poster" style="max-width: 200px; margin-top: 10px; margin-bottom: 20px;" />
-* **CP2012**: Eighteenth International Conference on Principles and Practice of Constraint Programming, October 8-12, Quebec City, Canada, [Springer Lecture Notes in Computer Science 7514](http://dx.doi.org/10.1007/978-3-642-33558-7)
+* **CP2012**: Eighteenth International Conference on Principles and Practice of Constraint Programming, October 8-12, Quebec City, Canada. [CP2012](https://archive.a4cp.org/cp2012/index.php). Proceedings: [Springer Lecture Notes in Computer Science 7514](http://dx.doi.org/10.1007/978-3-642-33558-7)
   <br><img src="/events/cp-conference-series/posters/2012.jpg" alt="CP 2012 Poster" style="max-width: 200px; margin-top: 10px; margin-bottom: 20px;" />
 * **CP2011**: Seventeenth International Conference on Principles and Practice of Constraint Programming, September 12-16, Perugia, Italy, [Springer Lecture Notes in Computer Science 6876](http://dx.doi.org/10.1007/978-3-642-23786-7)
   <br><img src="/events/cp-conference-series/posters/2011.jpg" alt="CP 2011 Poster" style="max-width: 200px; margin-top: 10px; margin-bottom: 20px;" />
