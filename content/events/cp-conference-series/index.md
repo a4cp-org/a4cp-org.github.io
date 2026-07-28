@@ -16,7 +16,7 @@ draft: false
   <br><img src="/events/cp-conference-series/posters/2025.png" alt="CP 2025 Poster" style="max-width: 200px; margin-top: 10px; margin-bottom: 20px;" />
 * **CP2024**: The 30th International Conference on Principles and Practice of Constraint Programming, September 2 - 6 2024, Girona, Spain. [CP2024](http://cp2024.a4cp.org/)
   <br><img src="/events/cp-conference-series/posters/2024.png" alt="CP 2024 Poster" style="max-width: 200px; margin-top: 10px; margin-bottom: 20px;" />
-* **CP2023**: The 29th International Conference on Principles and Practice of Constraint Programming (CP 2023), August 27 - 31, 2023, Toronto, Canada. Proceedings: [LIPIcs Vol. 280](https://drops.dagstuhl.de/opus/portals/lipics/index.php?semnr=16301)
+* **CP2023**: The 29th International Conference on Principles and Practice of Constraint Programming (CP 2023), August 27 - 31, 2023, Toronto, Canada. [CP2023](https://cp2023.a4cp.org). Proceedings: [LIPIcs Vol. 280](https://drops.dagstuhl.de/opus/portals/lipics/index.php?semnr=16301)
   <br><img src="/events/cp-conference-series/posters/2023.png" alt="CP 2023 Poster" style="max-width: 200px; margin-top: 10px; margin-bottom: 20px;" />
 * **CP2022**: Twenty-Eighth International Conference on Principles and Practice of Constraint Programming, July 31st to August 8th 2022, Haifa, Israel. [CP2022](https://cp2022.a4cp.org). Proceedings: [Leibniz International Proceedings in Informatics (LIPIcs), Volume 235, CP 2022, Complete Volume](https://www.dagstuhl.de/dagpub/978-3-95977-240-2).
   <br><img src="/events/cp-conference-series/posters/2022.png" alt="CP 2022 Poster" style="max-width: 200px; margin-top: 10px; margin-bottom: 20px;" />
