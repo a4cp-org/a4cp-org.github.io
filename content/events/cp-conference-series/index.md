@@ -13,6 +13,7 @@ draft: false
 * **CP2026**: The 32nd International Conference on Principles and Practice of Constraint Programming, July 20-23 2026, Lisbon, Portugal (during FLoC 2026). [website](https://cp2026.a4cp.org/)
   <br><img src="/events/cp-conference-series/posters/2026.png" alt="CP 2026 Poster" style="max-width: 200px; margin-top: 10px; margin-bottom: 20px;" />
 * **CP2025**: The 31th International Conference on Principles and Practice of Constraint Programming, 12 - 15 August 2025, Glasgow, Scotland. [CP2025](http://cp2025.a4cp.org/)
+  <br><img src="/events/cp-conference-series/posters/2025.png" alt="CP 2025 Poster" style="max-width: 200px; margin-top: 10px; margin-bottom: 20px;" />
 * **CP2024**: The 30th International Conference on Principles and Practice of Constraint Programming, September 2 - 6 2024, Girona, Spain. [CP2024](http://cp2024.a4cp.org/)
   <br><img src="/events/cp-conference-series/posters/2024.png" alt="CP 2024 Poster" style="max-width: 200px; margin-top: 10px; margin-bottom: 20px;" />
 * **CP2023**: The 29th International Conference on Principles and Practice of Constraint Programming (CP 2023), August 27 - 31, 2023, Toronto, Canada. Proceedings: [LIPIcs Vol. 280](https://drops.dagstuhl.de/opus/portals/lipics/index.php?semnr=16301)
