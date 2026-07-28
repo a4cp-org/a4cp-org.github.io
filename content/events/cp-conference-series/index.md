@@ -32,7 +32,7 @@ draft: false
   <br><img src="/events/cp-conference-series/posters/2017.jpg" alt="CP 2017 Poster" style="max-width: 200px; margin-top: 10px; margin-bottom: 20px;" />
 * **CP2016**: Twenty-Second International Conference on Principles and Practice of Constraint Programming, September 5th-9th, 2016, Toulouse, France. [CP2016](https://cp2016.a4cp.org). Proceedings: [Springer Lecture Notes in Computer Science 9892](https://doi.org/10.1007/978-3-319-44953-1).
   <br><img src="/events/cp-conference-series/posters/2016.jpg" alt="CP 2016 Poster" style="max-width: 200px; margin-top: 10px; margin-bottom: 20px;" />
-* **CP2015**: Twenty-First International Conference on Principles and Practice of Constraint Programming, August 31st-September 4th, 2015, Cork, Ireland, [Springer Lecture Notes in Computer Science 9255](https://doi.org/10.1007/978-3-319-23219-5)
+* **CP2015**: Twenty-First International Conference on Principles and Practice of Constraint Programming, August 31st-September 4th, 2015, Cork, Ireland. [CP2015](https://web.archive.org/web/20150131102602/http://booleconferences.ucc.ie/cp2015). Proceedings: [Springer Lecture Notes in Computer Science 9255](https://doi.org/10.1007/978-3-319-23219-5)
   <br><img src="/events/cp-conference-series/posters/2015.jpg" alt="CP 2015 Poster" style="max-width: 200px; margin-top: 10px; margin-bottom: 20px;" />
 * **CP2014**: Twentieth International Conference on Principles and Practice of Constraint Programming, September 8th-12th, 2014, Lyon, France, [Springer Lecture Notes in Computer Science 8656](http://dx.doi.org/10.1007/978-3-319-10428-7)
   <br><img src="/events/cp-conference-series/posters/2014.jpg" alt="CP 2014 Poster" style="max-width: 200px; margin-top: 10px; margin-bottom: 20px;" />
