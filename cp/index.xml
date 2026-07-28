@@ -17,15 +17,7 @@
 &lt;/li>
 &lt;li>
 &lt;p>&lt;a href="https://link.springer.com/content/pdf/10.1007/978-3-031-95976-9_1.pdf?pdf=inline%20link">&lt;strong>Combining Constraint Programming and Metaheuristics for Aircraft Maintenance Routing with a Distribution Objective (CPAIOR 2025)&lt;/strong>&lt;/a>&lt;br>
-&lt;em>Ida Gjergji, Lucas Kletzander, Hendrik Bierlee, Nysret Musliu, Peter J. Stuckey&lt;/em>&lt;/p></description></item><item><title>ACP Success Stories</title><link>/cp/success-stories/</link><pubDate>Sat, 25 Jul 2026 15:03:36 +0200</pubDate><guid>/cp/success-stories/</guid><description>&lt;ul>
-&lt;li>
-&lt;p>Toulbar2 a CP solver helped in designing a stable and self-assembling protein by organizing thousands of atoms in a favorable configuration in space.
-Toulbar2 is available on Github.&lt;/p>
-&lt;p>&lt;a href="/cp/success-stories/a_cp_solver_designs_a_self-ass">Read more&amp;hellip;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>You need to buy a new car and want to try out configurations to know what can be done or is affordable? It is now possible if your car dealer uses the SAP S/4HANA tool.
-It uses the constraint solver Gecode to ensure that configurations are valid and that no restrictions are violated.&lt;/p></description></item><item><title>Publication Venues</title><link>/cp/publication-venues/</link><pubDate>Sat, 25 Jul 2026 15:03:36 +0200</pubDate><guid>/cp/publication-venues/</guid><description>&lt;h2 id="primary-conferences">Primary conferences&lt;/h2>
+&lt;em>Ida Gjergji, Lucas Kletzander, Hendrik Bierlee, Nysret Musliu, Peter J. Stuckey&lt;/em>&lt;/p></description></item><item><title>Publication Venues</title><link>/cp/publication-venues/</link><pubDate>Sat, 25 Jul 2026 15:03:36 +0200</pubDate><guid>/cp/publication-venues/</guid><description>&lt;h2 id="primary-conferences">Primary conferences&lt;/h2>
 &lt;ul>
 &lt;li>The International Conference on Principles and Practice of Constraint Programming (CP) is a central publishing and meeting place for CP research &lt;a href="/events/cp-conference-series">CP Conference series page&lt;/a>&lt;/li>
 &lt;li>Another venue that has CP at its core is the International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research &lt;a href="https://cpaior.org">CPAIOR Conference series page&lt;/a>&lt;/li>
