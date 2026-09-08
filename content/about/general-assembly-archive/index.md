@@ -6,6 +6,7 @@ draft: false
 
 Here is an archive of the President's Report at the yearly General Assembly, which is held during the CP conference.
 
+* **2026:** [President's Report](/about/general-assembly-archive/agm2026.pdf)
 * **2025:** [President's Report](/about/general-assembly-archive/agm2025.pdf)
 * **2024:** [President's Report](/about/general-assembly-archive/agm2024.pdf)
 * **2023:** [President's Report](/about/general-assembly-archive/agm2023.pdf)
