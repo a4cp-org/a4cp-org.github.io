@@ -31,6 +31,8 @@ Here is an archive of the President's Report at the yearly General Assembly, whi
 
 [cp-dei-survey22.xls](/about/general-assembly-archive/cp-dei-survey22.xls)
 
+<!--
 [agm2024.pdf](/about/general-assembly-archive/agm2024.pdf)
 
 [agm2025.pdf](/about/general-assembly-archive/agm2025.pdf)
+-->
