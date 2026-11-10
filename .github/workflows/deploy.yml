@@ -41,3 +41,4 @@ jobs:
           publish_dir: ./public
           publish_branch: gh-pages
           force_orphan: false
+          cname: a4cp.org
