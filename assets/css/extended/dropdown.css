@@ -132,6 +132,33 @@ ul.menu li a:hover, ul.menu li a:focus, ul.menu li a .active {
     background: var(--code-bg);
 }
 
+/* Discrete Footer Contribute Button */
+.footer-contribute {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: -0.5rem;
+}
+
+.footer-contribute-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.3rem 0.75rem;
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: var(--secondary);
+    background: var(--code-bg);
+    border: 1px solid var(--border);
+    border-radius: 9999px;
+    text-decoration: none;
+    transition: color 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+}
+
+.footer-contribute-btn:hover {
+    color: var(--accent);
+    border-color: var(--accent);
+}
+
 /* Main Layout Structure */
 .layout-wrapper {
     display: flex;
