@@ -1,6 +1,6 @@
 ---
 title: "Bylaws (Règlement intérieur) of the ACP"
-date: 2026-07-25T15:03:18+0200
+date: 2026-11-11T19:39:00+0100
 draft: false
 ---
 
