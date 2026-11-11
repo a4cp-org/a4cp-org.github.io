@@ -6,15 +6,13 @@ draft: false
 
 ### Bylaw 1 - Membership
 
-1. There shall be two categories of membership: Member and Honorary Member.
-2. Each Member shall have one vote and will be entitled to vote with respect to the election of members of the Executive Committee and with regards to amendments to the bylaws of the Association. A Member may also stand for election to the Executive Committee.
-3. One becomes a Member of the Association by either:
-   1. Paying an annual due as established by the Executive Committee, or
-   2. Being designated an Honorary Member of the ACP
-4. Honorary membership is a lifetime membership. An Honorary member is designated by a vote of the Executive Committee and confirmed by a vote of the General Assembly.
-5. The term of membership for those paying annual dues shall coincide with the calendar year, beginning January 1 and ending on December 31.
-6. A Member whose conduct may have been detrimental to the good of the Association may be dropped from membership and from any office by the unanimity of the total voting membership of the Executive Committee or during the General Assembly by a 2/3 majority, provided that the member has been notified by at least twenty (20) days in advance as to the charges against him or her, and has been given the opportunity to answer the charges in person, in writing, or by an authorized representative. A person who has been dropped from membership under this bylaw can be reinstated to membership only upon majority approval of the Executive Committee or by majority vote at the General Assembly and by meeting membership requirements.
-7. Any Member may resign by sending a written resignation to the President or Secretary.
+1. Each Member shall have one vote and will be entitled to vote with respect to the election of members of the Executive Committee and with regards to amendments to the bylaws of the Association. A Member may also stand for election to the Executive Committee.
+2. One becomes a Member of the Association by either:
+   1. Registering to the CP conference or the ACP Summer School, or
+   2. Asking the Executive Committee
+3. Registration includes a three-year new or renewing ACP membership, beginning on the date of registration and expiring on December 31 after three years.
+4. A Member whose conduct may have been detrimental to the good of the Association may be dropped from membership and from any office by the unanimity of the total voting membership of the Executive Committee or during the General Assembly by a 2/3 majority, provided that the member has been notified by at least twenty (20) days in advance as to the charges against him or her, and has been given the opportunity to answer the charges in person, in writing, or by an authorized representative. A person who has been dropped from membership under this bylaw can be reinstated to membership only upon majority approval of the Executive Committee or by majority vote at the General Assembly and by meeting membership requirements.
+5. Any Member may resign by sending a written resignation to the President or Secretary.
 
 ### Bylaw 2 - General Assembly
 
@@ -80,77 +78,3 @@ draft: false
 ### Bylaw 8 --- Amendments to the Bylaws
 
 1. The Bylaws of the Association may be altered by majority vote of the General Assembly under the process given in Bylaw 2.
-
-### Bylaw 9 --- Transitioning
-
-These bylaws are effective January 1, 2008. The Executive Committee as of that date will elect among themselves a President to serve until December 31, 2008. The following are the members of the Executive Committee along with the end of their term:
-
-* Benhamou (December 31, 2008)
-* Jussein (December 31, 2008)
-* O'Sullivan (December 31, 2008)
-* Rossi (December 31, 2008)
-* Lee (December 31, 2009)
-* Regin (December 31, 2009)
-* Schulte (December 31, 2009)
-* Trick (December 31, 2009)
-* Sellman or Michel (December 31, 2009)
-* Bessiere (December 31, 2009)
-
-Along with two new elected members of the EC (denoted elected1 and elected2), whose terms end December 31, 2010. In 2008, an election will be held for three (3) members of the EC, elected to a four year term along with two (2) interim members to serve a two year term. The President as of December 31, 2007 shall be Past-President unless selected as President for 2009-2010. If the President is reselected as President then there will be no initial Past-President. No election before the 2008 election applies to the "no two consecutive terms rule". Any position that falls vacant in 2008 and 2009 will not be refilled, unless by not refilling the Executive Committee falls below seven members, in which case replacements will be chosen under the appropriate bylaw until there are seven members. In 2010, there will be an election for four members of the EC. In every further even year there will be an election for members of the EC to make up the seven members.
-
-#### 2008
-
-* Benhamou (December 31, 2008)
-* Jussein (December 31, 2008)
-* O'Sullivan (December 31, 2008)
-* Rossi (December 31, 2008)
-* Lee (December 31, 2009)
-* Regin (December 31, 2009)
-* Schulte (December 31, 2009)
-* Trick (December 31, 2009)
-* Sellman or Michel (December 31, 2009)
-* Bessiere (December 31, 2009)
-* Elected1 (December 31, 2010)
-* Elected2 (December 31, 2010)
-
-#### 2009
-
-* Lee (December 31, 2009)
-* Regin (December 31, 2009)
-* Schulte (December 31, 2009)
-* Trick (December 31, 2009)
-* Sellman or Michel (December 31, 2009)
-* Bessiere (December 31, 2009)
-* Elected1 (December 31, 2010)
-* Elected2 (December 31, 2010)
-* Elected3 (December 31, 2012)
-* Elected4 (December 31, 2012)
-* Elected5 (December 31, 2012)
-* Elected6 (December 31, 2010)
-* Elected7 (December 31, 2010)
-
-#### 2010
-
-* Elected1 (December 31, 2010)
-* Elected2 (December 31, 2010)
-* Elected3 (December 31, 2012)
-* Elected4 (December 31, 2012)
-* Elected5 (December 31, 2012)
-* Elected6 (December 31, 2010)
-* Elected7 (December 31, 2010)
-
-#### 2011
-
-* Elected3 (December 31, 2012)
-* Elected4 (December 31, 2012)
-* Elected5 (December 31, 2012)
-* Elected8 (December 31, 2014)
-* Elected9 (December 31, 2014)
-* Elected10 (December 31,2014)
-* Elected11 (December 31, 2014)
-
-at which point the processes in the Bylaws will take full effect.
-
-### File attachments
-
-[Bylaws (submitted Sep 14)](/about/bylaws/acp_bylaws.pdf "bylawssubmittedsep14a.pdf")
