@@ -33,6 +33,7 @@ content/
 │   ├── cj-vol-in-prog/              # Journal volume in progress archive
 │   ├── cj2/                         # Volume 29+ open access articles & videos
 │   ├── vol30-14/                    # Volume 30, Issue 1-4 archive
+│   ├── vol31-12/                    # Volume 31, Issue 1-2 archive
 │   └── con-anv/                     # Constraints Journal 20th Anniversary Special
 ├── contact/                         # Contact Information
 │   └── index.md                     # Officers, email addresses, and secretary contact

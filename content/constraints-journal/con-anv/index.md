@@ -9,8 +9,16 @@ This issue includes “Commentaries” on some of the most highly-cited papers p
 
 We are posting Commentaries as they become available. The issue is not yet complete.
 
+**[Introduction to the Constraints journal Thirtieth Anniversary special issue](https://link.springer.com/article/10.1007/s10601-026-09412-6)**   
+Eugene C. Freuder  
+video in progress
+
 **[Revisited: solving hard qualitative temporal reasoning problems](https://rdcu.be/ftchJ)**   
 Bernhard Nebel  
+video in progress
+
+**[Constraint-based attribute and interval planning: a commentary](https://link.springer.com/article/10.1007/s10601-026-09389-2)**   
+Jeremy Frank and Ari Jónsson  
 video in progress
 
 **[Semiring–based and valued CSPs revisited](https://rdcu.be/ftckU)**   
@@ -26,7 +34,7 @@ Steven N. Minton
 video in progress
 
 **[Commentary on “Cardinality Networks: a theoretical and empirical study”](https://rdcu.be/ftcnO)**   
-Roberto Asín-Achá, Robert Nieuwenhuis, Albert Oliveras and Enric Rodríguez-Carbonell2  
+Roberto Asín-Achá, Robert Nieuwenhuis, Albert Oliveras and Enric Rodríguez-Carbonell  
 video in progress
 
 **[Lazy clause generation in retrospect](https://rdcu.be/ftcoH)**   
@@ -49,10 +57,34 @@ video in progress
 François Pachet and Pierre Roy  
 video in progress
 
-**[Reflections on Essence: a constraint language for specifying combinatorial problems](//rdcu.be/ftAFs)**   
+**[Reflections on Essence: a constraint language for specifying combinatorial problems](https://rdcu.be/ftAFs)**   
 Alan M. Frisch, Christopher Jefferson and Ian Miguel  
 video in progress
 
-**[Practical applications of constraint programming: retrospective](//rdcu.be/ftIs1)**   
+**[Practical applications of constraint programming: retrospective](https://rdcu.be/ftIs1)**   
 Mark Wallace  
+video in progress
+
+**[Radio link frequency assignment revisited](https://link.springer.com/article/10.1007/s10601-026-09407-3)**   
+Simon de Givry and Thomas Schiex  
+video in progress
+
+**[Probe backtrack search, revisited](https://link.springer.com/article/10.1007/s10601-026-09406-4)**   
+Hani ElSakkout and Mark Wallace  
+video in progress
+
+**[Markov constraints revisited: commentary on “Markov constraints: steerable generation of Markov sequences”](https://link.springer.com/article/10.1007/s10601-026-09409-1)**   
+François Pachet and Pierre Roy  
+video in progress
+
+**[Commentary on paper: ”Learning the travelling salesperson problem requires rethinking generalization”](https://link.springer.com/article/10.1007/s10601-026-09408-2)**   
+Quentin Cappart, Chaitanya K. Joshi and Louis-Martin Rousseau  
+video in progress
+
+**[The legacy of the Zinc modelling language](https://link.springer.com/article/10.1007/s10601-026-09405-5)**   
+Kimbal Marriott, Reza Rafeh, Peter J. Stuckey, Maria Garcia de la Banda and Mark Wallace  
+video in progress
+
+**[A cost-regular based hybrid column generation approach: a commentary](https://link.springer.com/article/10.1007/s10601-026-09411-7)**   
+Sophie Demassey, Gilles Pesant and Louis-Martin Rousseau  
 video in progress

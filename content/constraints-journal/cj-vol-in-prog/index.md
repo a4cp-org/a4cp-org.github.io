@@ -15,5 +15,9 @@ Daiwen Zhang, Amy E.M. Cohn & Marina A. Epelman
 video in progress
 
 **[Optimizing multiple-control Toffoli quantum circuit design with constraint programming](https://link.springer.com/article/10.1007/s10601-026-09399-0)**   
-Jihye Jung, Kevin Dalmeijer and Pascal Van Hentenryck  
+Jihye Jung, Kevin Dalmeijer & Pascal Van Hentenryck  
+video in progress
+
+**[Approximating Pareto frontiers in stochastic multi-objective optimization via hashing and randomization](https://link.springer.com/article/10.1007/s10601-026-09410-8)**   
+Jinzhao Li, Nan Jiang & Yexiang Xue   
 video in progress

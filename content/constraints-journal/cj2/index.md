@@ -20,5 +20,6 @@ information, etc. is included in the Springer website for the journal, which can
 
 * [30'th Anniversary Edition](/constraints-journal/con-anv)
 * [Online First Articles](/constraints-journal/cj-vol-in-prog)
+* [Volume 31, issues 1-2](/constraints-journal/vol31-12)
 * [Volume 30, issues 1-4](/constraints-journal/vol30-14)
 * [Volume 29, issues 3,4](/constraints-journal/cj-vol29-34)
