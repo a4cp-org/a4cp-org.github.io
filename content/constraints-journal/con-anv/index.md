@@ -9,7 +9,7 @@ This issue includes “Commentaries” on some of the most highly-cited papers p
 
 We are posting Commentaries as they become available. The issue is not yet complete.
 
-**[Introduction to the Constraints journal Thirtieth Anniversary special issue](https://link.springer.com/article/10.1007/s10601-026-09412-6)**   
+**[Introduction to the Constraints journal Thirtieth Anniversary special issue](https://rdcu.be/uPuGrn2sg9Ca)**   
 Eugene C. Freuder  
 video in progress
 
@@ -17,7 +17,7 @@ video in progress
 Bernhard Nebel  
 video in progress
 
-**[Constraint-based attribute and interval planning: a commentary](https://link.springer.com/article/10.1007/s10601-026-09389-2)**   
+**[Constraint-based attribute and interval planning: a commentary](https://rdcu.be/ZTZyK6zDaoqa)**   
 Jeremy Frank and Ari Jónsson  
 video in progress
 
@@ -65,19 +65,19 @@ video in progress
 Mark Wallace  
 video in progress
 
-**[Radio link frequency assignment revisited](https://link.springer.com/article/10.1007/s10601-026-09407-3)**   
+**[Radio link frequency assignment revisited](https://rdcu.be/HDEQR8zU9jsa)**   
 Simon de Givry and Thomas Schiex  
 video in progress
 
-**[Probe backtrack search, revisited](https://link.springer.com/article/10.1007/s10601-026-09406-4)**   
+**[Probe backtrack search, revisited](https://rdcu.be/uemCrj58CHta)**   
 Hani ElSakkout and Mark Wallace  
 video in progress
 
-**[Markov constraints revisited: commentary on “Markov constraints: steerable generation of Markov sequences”](https://link.springer.com/article/10.1007/s10601-026-09409-1)**   
+**[Markov constraints revisited: commentary on “Markov constraints: steerable generation of Markov sequences”](https://rdcu.be/RPUwqNkSXfia)**   
 François Pachet and Pierre Roy  
 video in progress
 
-**[Commentary on paper: ”Learning the travelling salesperson problem requires rethinking generalization”](https://link.springer.com/article/10.1007/s10601-026-09408-2)**   
+**[Commentary on paper: ”Learning the travelling salesperson problem requires rethinking generalization”](https://rdcu.be/fsdQx)**   
 Quentin Cappart, Chaitanya K. Joshi and Louis-Martin Rousseau  
 video in progress
 
@@ -85,6 +85,6 @@ video in progress
 Kimbal Marriott, Reza Rafeh, Peter J. Stuckey, Maria Garcia de la Banda and Mark Wallace  
 video in progress
 
-**[A cost-regular based hybrid column generation approach: a commentary](https://link.springer.com/article/10.1007/s10601-026-09411-7)**   
+**[A cost-regular based hybrid column generation approach: a commentary](https://rdcu.be/7gjRNvUYVBpa)**   
 Sophie Demassey, Gilles Pesant and Louis-Martin Rousseau  
 video in progress
