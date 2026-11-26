@@ -7,8 +7,6 @@ draft: false
 ![](/images/default_thumbnail.jpg)  
 This issue includes “Commentaries” on some of the most highly-cited papers published in the journal.
 
-We are posting Commentaries as they become available. The issue is not yet complete.
-
 **[Introduction to the Constraints journal Thirtieth Anniversary special issue](https://rdcu.be/uPuGrn2sg9Ca)**   
 Eugene C. Freuder  
 video in progress
